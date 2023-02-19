@@ -1,0 +1,4 @@
+sg8-srv01.co.uk
+sg8-srv02.co.uk
+sg8-srv03.co.uk
+sg8analytics.uk

@@ -1,0 +1,5 @@
+os7.ch
+os7.de
+os7.it
+os7.pl
+os7.ru

@@ -1,0 +1,11 @@
+xnu.be
+xnu.ch
+xnu.co
+xnu.de
+xnu.eu
+xnu.it
+xnu.nl
+xnu.pl
+xnu.ru
+xnu.su
+xnu.uk

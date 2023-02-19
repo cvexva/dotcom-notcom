@@ -1,0 +1,9 @@
+t-8.cn
+t-8.de
+t-8.dk
+t-8.fi
+t-8.jp
+t-8.no
+t-8.ru
+t-8.se
+t-8.uk

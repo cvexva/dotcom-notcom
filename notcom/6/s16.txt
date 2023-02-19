@@ -1,0 +1,9 @@
+s16.ch
+s16.co
+s16.de
+s16.io
+s16.it
+s16.jp
+s16.kr
+s16.pl
+s16.ru

@@ -1,0 +1,6 @@
+wxd.ch
+wxd.de
+wxd.it
+wxd.nl
+wxd.ru
+wxd.uk

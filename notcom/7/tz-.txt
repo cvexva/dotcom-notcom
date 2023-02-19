@@ -1,0 +1,13 @@
+tz-b.eu
+tz-c.de
+tz-c.pl
+tz-e.ch
+tz-f.de
+tz-g.de
+tz-k.de
+tz-p.de
+tz-p.ru
+tz-s.ch
+tz-s.de
+tz-x.cn
+tz-z.ru

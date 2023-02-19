@@ -1,0 +1,7 @@
+g07.app
+g07.dev
+g07.net
+g07.one
+g07.org
+g071.cn
+g079.cn

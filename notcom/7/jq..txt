@@ -1,0 +1,6 @@
+jq.chat
+jq.cool
+jq.life
+jq.link
+jq.live
+jq.yoga

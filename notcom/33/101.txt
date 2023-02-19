@@ -1,0 +1,2 @@
+101-lab-kubernetes.readthedocs.io
+101thingstodowhenyousurvive.co.uk

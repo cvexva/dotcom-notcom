@@ -1,0 +1,7 @@
+qx.chat
+qx.cool
+qx.link
+qx.live
+qx.work
+qx.yoga
+qx.zone

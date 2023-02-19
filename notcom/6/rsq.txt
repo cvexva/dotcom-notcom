@@ -1,0 +1,10 @@
+rsq.be
+rsq.ch
+rsq.cz
+rsq.es
+rsq.ir
+rsq.pl
+rsq.ru
+rsq.se
+rsq.uk
+rsq.ws

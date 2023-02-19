@@ -1,0 +1,6 @@
+gw1.ch
+gw1.de
+gw1.ru
+gw1.se
+gw1.uk
+gw1.us

@@ -1,0 +1,7 @@
+ba.consulting
+ba.creditcard
+ba.foundation
+ba.management
+ba.properties
+ba.sadio.name
+ba.technology

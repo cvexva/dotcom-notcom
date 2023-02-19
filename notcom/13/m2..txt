@@ -1,0 +1,7 @@
+m2.consulting
+m2.immobilien
+m2.industries
+m2.legnica.pl
+m2.properties
+m2.realestate
+m2.technology

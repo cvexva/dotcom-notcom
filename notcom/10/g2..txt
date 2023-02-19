@@ -1,0 +1,5 @@
+g2.capital
+g2.country
+g2.digital
+g2.domains
+g2.network

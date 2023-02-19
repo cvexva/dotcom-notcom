@@ -1,0 +1,10 @@
+jo.company
+jo.contact
+jo.cooking
+jo.country
+jo.fashion
+jo.fitness
+jo.gouv.sn
+jo.network
+jo.wedding
+jo.whoswho

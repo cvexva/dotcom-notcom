@@ -1,0 +1,16 @@
+xl.bet
+xl.biz
+xl.dev
+xl.dog
+xl.fit
+xl.fyi
+xl.ink
+xl.law
+xl.mba
+xl.net
+xl.ooo
+xl.org
+xl.pub
+xl.run
+xl.vip
+xl.wtf

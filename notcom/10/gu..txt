@@ -1,0 +1,7 @@
+gu.company
+gu.contact
+gu.cooking
+gu.country
+gu.fashion
+gu.wedding
+gu.whoswho

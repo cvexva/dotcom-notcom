@@ -1,0 +1,2 @@
+fiware-cosmos.readthedocs.io
+fiware-cygnus.readthedocs.io

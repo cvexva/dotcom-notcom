@@ -1,0 +1,6 @@
+4l.capital
+4l.charity
+4l.country
+4l.domains
+4l.finance
+4l.fishing

@@ -1,0 +1,9 @@
+lj.biz
+lj.dev
+lj.fit
+lj.fyi
+lj.law
+lj.net
+lj.org
+lj.vip
+lj.wtf

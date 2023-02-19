@@ -1,0 +1,17 @@
+al.baby
+al.beer
+al.city
+al.hair
+al.jobs
+al.land
+al.life
+al.link
+al.live
+al.luxe
+al.plus
+al.skin
+al.team
+al.wine
+al.work
+al.yoga
+al.zone

@@ -1,0 +1,11 @@
+do.barclays
+do.business
+do.delivery
+do.exchange
+do.graphics
+do.one.name
+do.partners
+do.services
+do.shopping
+do.training
+do.ventures

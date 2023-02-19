@@ -1,0 +1,15 @@
+qux.ch
+qux.co
+qux.cz
+qux.de
+qux.in
+qux.it
+qux.me
+qux.nl
+qux.pl
+qux.ru
+qux.se
+qux.su
+qux.tv
+qux.uk
+qux.us

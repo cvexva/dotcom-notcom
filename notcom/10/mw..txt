@@ -1,0 +1,13 @@
+mw.academy
+mw.auction
+mw.capital
+mw.company
+mw.contact
+mw.country
+mw.digital
+mw.fashion
+mw.finance
+mw.fitness
+mw.gallery
+mw.wedding
+mw.whoswho

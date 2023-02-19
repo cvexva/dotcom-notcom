@@ -1,0 +1,14 @@
+rt2.at
+rt2.cc
+rt2.ch
+rt2.de
+rt2.es
+rt2.fr
+rt2.hr
+rt2.ir
+rt2.me
+rt2.pl
+rt2.ru
+rt2.se
+rt2.uk
+rt2.us

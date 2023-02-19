@@ -1,0 +1,14 @@
+ta.academy
+ta.capital
+ta.company
+ta.contact
+ta.cooking
+ta.country
+ta.fashion
+ta.finance
+ta.gallery
+ta.reviews
+ta.suli.hu
+ta.support
+ta.systems
+ta.wedding

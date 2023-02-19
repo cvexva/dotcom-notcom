@@ -1,0 +1,7 @@
+k2.business
+k2.holdings
+k2.partners
+k2.services
+k2.software
+k2.training
+k2.ventures

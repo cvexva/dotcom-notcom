@@ -1,0 +1,12 @@
+dj.amsterdam
+dj.community
+dj.education
+dj.elblag.pl
+dj.equipment
+dj.financial
+dj.furniture
+dj.glogow.pl
+dj.institute
+dj.lebork.pl
+dj.pulawy.pl
+dj.solutions

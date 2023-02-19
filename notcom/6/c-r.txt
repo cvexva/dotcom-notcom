@@ -1,0 +1,11 @@
+c-r.cc
+c-r.ch
+c-r.cn
+c-r.de
+c-r.im
+c-r.io
+c-r.mx
+c-r.ru
+c-r.se
+c-r.si
+c-r.uk

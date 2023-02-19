@@ -1,0 +1,16 @@
+ls.cafe
+ls.camp
+ls.casa
+ls.chat
+ls.fund
+ls.gold
+ls.golf
+ls.life
+ls.link
+ls.luxe
+ls.show
+ls.team
+ls.tech
+ls.toys
+ls.wiki
+ls.yoga

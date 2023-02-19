@@ -1,0 +1,16 @@
+vp.app
+vp.biz
+vp.day
+vp.dev
+vp.fan
+vp.fit
+vp.fyi
+vp.ink
+vp.law
+vp.net
+vp.org
+vp.rip
+vp.sbs
+vp.vin
+vp.vip
+vp.wtf

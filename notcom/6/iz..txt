@@ -1,0 +1,11 @@
+iz.app
+iz.biz
+iz.fit
+iz.fun
+iz.fyi
+iz.law
+iz.net
+iz.org
+iz.run
+iz.vip
+iz.wtf

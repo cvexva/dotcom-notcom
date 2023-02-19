@@ -1,0 +1,6 @@
+2g.charity
+2g.country
+2g.digital
+2g.fishing
+2g.network
+2g.wedding

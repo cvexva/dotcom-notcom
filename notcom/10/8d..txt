@@ -1,0 +1,7 @@
+8d.charity
+8d.country
+8d.digital
+8d.fishing
+8d.network
+8d.systems
+8d.wedding

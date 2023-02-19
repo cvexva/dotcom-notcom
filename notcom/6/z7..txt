@@ -1,0 +1,14 @@
+z7.app
+z7.biz
+z7.fit
+z7.ink
+z7.lol
+z7.net
+z7.one
+z7.org
+z7.pub
+z7.tel
+z7.top
+z7.vin
+z7.vip
+z7.xyz

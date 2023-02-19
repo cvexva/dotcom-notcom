@@ -1,0 +1,12 @@
+b32.app
+b32.bar
+b32.biz
+b32.net
+b32.nyc
+b32.org
+b32.ovh
+b32.top
+b32.xyz
+b322.cn
+b327.de
+b32m.dk

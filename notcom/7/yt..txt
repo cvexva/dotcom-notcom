@@ -1,0 +1,11 @@
+yt.baby
+yt.beer
+yt.cafe
+yt.city
+yt.cyou
+yt.guru
+yt.life
+yt.live
+yt.luxe
+yt.work
+yt.yoga

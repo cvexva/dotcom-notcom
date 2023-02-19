@@ -1,0 +1,9 @@
+s2f.app
+s2f.biz
+s2f.dev
+s2f.llc
+s2f.net
+s2f.org
+s2fc.fr
+s2fi.fr
+s2fm.fr

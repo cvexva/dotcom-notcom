@@ -1,0 +1,9 @@
+go0.ch
+go0.co
+go0.de
+go0.fr
+go0.gl
+go0.in
+go0.it
+go0.ru
+go0.uk

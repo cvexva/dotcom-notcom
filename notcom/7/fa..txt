@@ -1,0 +1,17 @@
+fa.beer
+fa.bike
+fa.casa
+fa.cash
+fa.chat
+fa.cyou
+fa.gold
+fa.live
+fa.luxe
+fa.news
+fa.plus
+fa.show
+fa.tips
+fa.wiki
+fa.wine
+fa.work
+fa.yoga

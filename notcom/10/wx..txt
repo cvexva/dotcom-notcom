@@ -1,0 +1,7 @@
+wx.company
+wx.country
+wx.digital
+wx.fashion
+wx.finance
+wx.network
+wx.systems

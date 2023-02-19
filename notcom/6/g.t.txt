@@ -1,0 +1,2 @@
+g.team
+g.town

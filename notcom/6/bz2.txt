@@ -1,0 +1,5 @@
+bz2.bz
+bz2.ch
+bz2.de
+bz2.jp
+bz2.ru

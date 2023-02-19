@@ -1,0 +1,7 @@
+d8s.app
+d8s.dev
+d8s.fun
+d8s.net
+d8s.org
+d8s.run
+d8s.xyz

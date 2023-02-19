@@ -1,0 +1,12 @@
+fpy.app
+fpy.biz
+fpy.net
+fpy.org
+fpy.vip
+fpy.xyz
+fpyc.ca
+fpyc.ch
+fpyd.es
+fpyn.ca
+fpyp.cn
+fpys.ca

@@ -1,0 +1,12 @@
+hiw.be
+hiw.cc
+hiw.ch
+hiw.cn
+hiw.de
+hiw.eu
+hiw.fr
+hiw.it
+hiw.me
+hiw.pl
+hiw.ru
+hiw.us

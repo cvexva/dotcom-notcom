@@ -1,0 +1,4 @@
+g06.app
+g06.net
+g06.org
+g069.cn

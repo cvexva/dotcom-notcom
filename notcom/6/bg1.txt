@@ -1,0 +1,8 @@
+bg1.co
+bg1.de
+bg1.dk
+bg1.eu
+bg1.it
+bg1.nl
+bg1.ru
+bg1.se

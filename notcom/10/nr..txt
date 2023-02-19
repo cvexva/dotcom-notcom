@@ -1,0 +1,8 @@
+nr.capital
+nr.company
+nr.contact
+nr.country
+nr.digital
+nr.fashion
+nr.wedding
+nr.whoswho

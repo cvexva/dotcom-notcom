@@ -1,0 +1,15 @@
+ph.aco
+ph.app
+ph.biz
+ph.dev
+ph.fit
+ph.fyi
+ph.gov
+ph.ink
+ph.jcb
+ph.law
+ph.mba
+ph.net
+ph.org
+ph.vip
+ph.wtf

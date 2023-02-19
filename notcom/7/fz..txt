@@ -1,0 +1,8 @@
+fz.buzz
+fz.cash
+fz.chat
+fz.city
+fz.live
+fz.shop
+fz.yoga
+fz.zone

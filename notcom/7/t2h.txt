@@ -1,0 +1,7 @@
+t2h.app
+t2h.dev
+t2h.net
+t2h.org
+t2h.top
+t2h.xyz
+t2hd.ru

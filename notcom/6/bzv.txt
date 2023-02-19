@@ -1,0 +1,10 @@
+bzv.at
+bzv.be
+bzv.ch
+bzv.de
+bzv.fr
+bzv.it
+bzv.nl
+bzv.ro
+bzv.ru
+bzv.uk

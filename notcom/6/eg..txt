@@ -1,0 +1,15 @@
+eg.aco
+eg.app
+eg.biz
+eg.dev
+eg.dog
+eg.fit
+eg.inc
+eg.ink
+eg.law
+eg.net
+eg.org
+eg.pub
+eg.sbs
+eg.tax
+eg.vip

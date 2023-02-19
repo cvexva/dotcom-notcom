@@ -1,0 +1,8 @@
+mkq.ae
+mkq.ch
+mkq.cn
+mkq.de
+mkq.it
+mkq.pl
+mkq.ru
+mkq.uk

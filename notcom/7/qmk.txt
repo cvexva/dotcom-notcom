@@ -1,0 +1,13 @@
+qmk.biz
+qmk.dev
+qmk.net
+qmk.one
+qmk.org
+qmk.vip
+qmk.xyz
+qmkd.de
+qmkh.cn
+qmko.cn
+qmks.es
+qmkt.cn
+qmkx.ru

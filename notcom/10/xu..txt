@@ -1,0 +1,5 @@
+xu.capital
+xu.country
+xu.digital
+xu.fashion
+xu.network

@@ -1,0 +1,11 @@
+sp2.am
+sp2.ch
+sp2.cz
+sp2.de
+sp2.dk
+sp2.io
+sp2.it
+sp2.ro
+sp2.ru
+sp2.su
+sp2.uk

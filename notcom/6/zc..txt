@@ -1,0 +1,10 @@
+zc.biz
+zc.fit
+zc.fyi
+zc.law
+zc.net
+zc.org
+zc.tel
+zc.vip
+zc.win
+zc.wtf

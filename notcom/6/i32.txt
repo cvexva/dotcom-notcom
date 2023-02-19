@@ -1,0 +1,5 @@
+i32.ir
+i32.nl
+i32.ru
+i32.se
+i32.uk

@@ -1,0 +1,6 @@
+d2y.cc
+d2y.ch
+d2y.de
+d2y.ir
+d2y.ru
+d2y.se

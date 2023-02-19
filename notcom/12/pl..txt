@@ -1,0 +1,8 @@
+pl.amsterdam
+pl.community
+pl.directory
+pl.education
+pl.furniture
+pl.marketing
+pl.pulawy.pl
+pl.solutions

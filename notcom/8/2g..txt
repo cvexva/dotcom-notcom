@@ -1,0 +1,8 @@
+2g.actor
+2g.bingo
+2g.boats
+2g.co.uk
+2g.do.am
+2g.legal
+2g.movie
+2g.world

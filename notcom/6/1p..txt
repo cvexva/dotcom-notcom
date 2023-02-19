@@ -1,0 +1,11 @@
+1p.app
+1p.biz
+1p.dev
+1p.fit
+1p.ink
+1p.net
+1p.org
+1p.pub
+1p.tel
+1p.vip
+1p.wtf

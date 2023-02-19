@@ -1,0 +1,11 @@
+qir.cc
+qir.ch
+qir.co
+qir.fr
+qir.im
+qir.it
+qir.mx
+qir.nl
+qir.ru
+qir.se
+qir.uk

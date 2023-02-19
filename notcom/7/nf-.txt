@@ -1,0 +1,15 @@
+nf-1.de
+nf-a.ch
+nf-c.fr
+nf-d.de
+nf-e.de
+nf-e.it
+nf-h.ch
+nf-k.dk
+nf-m.de
+nf-p.fr
+nf-p.ru
+nf-s.ch
+nf-s.ru
+nf-t.jp
+nf-v.eu

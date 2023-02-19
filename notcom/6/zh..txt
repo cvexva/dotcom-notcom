@@ -1,0 +1,11 @@
+zh.biz
+zh.fit
+zh.fyi
+zh.ink
+zh.law
+zh.net
+zh.org
+zh.tax
+zh.tel
+zh.vip
+zh.wtf

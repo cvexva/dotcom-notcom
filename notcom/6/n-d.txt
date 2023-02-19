@@ -1,0 +1,9 @@
+n-d.be
+n-d.bz
+n-d.ch
+n-d.de
+n-d.jp
+n-d.nl
+n-d.pl
+n-d.ru
+n-d.uk

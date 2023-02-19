@@ -1,0 +1,4 @@
+qt8.ca
+qt8.cc
+qt8.it
+qt8.jp

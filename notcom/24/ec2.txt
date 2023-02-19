@@ -1,0 +1,4 @@
+ec2-3-70-208-0-no1.click
+ec2-3-70-208-0-no2.click
+ec2dedicatedinstance.net
+ec2persistentstorage.net

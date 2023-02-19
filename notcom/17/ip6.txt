@@ -1,0 +1,10 @@
+ip6-allhosts.host
+ip6-allnodes.host
+ip6-localhost.dev
+ip6-localhost.net
+ip6-localnet.host
+ip6-loopback.host
+ip6-solutions.net
+ip68connectors.uk
+ip6networking.net
+ip6translator.net

@@ -1,0 +1,15 @@
+af.beer
+af.care
+af.farm
+af.hair
+af.immo
+af.life
+af.link
+af.luxe
+af.news
+af.skin
+af.team
+af.wiki
+af.wine
+af.work
+af.yoga

@@ -1,0 +1,4 @@
+gp.exchange
+gp.partners
+gp.services
+gp.ventures

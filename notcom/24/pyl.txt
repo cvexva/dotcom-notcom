@@ -1,0 +1,8 @@
+pyladiesberlin.github.io
+pyladiesmanaus.github.io
+pylc-hmpy.readthedocs.io
+pylessons.readthedocs.io
+pylibftdi.readthedocs.io
+pylibsrtp.readthedocs.io
+pylightxl.readthedocs.io
+pylypenkoroman.github.io

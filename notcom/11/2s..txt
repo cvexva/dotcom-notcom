@@ -1,0 +1,6 @@
+2s.business
+2s.exchange
+2s.football
+2s.services
+2s.software
+2s.ventures

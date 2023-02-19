@@ -1,0 +1,15 @@
+obl.ac
+obl.at
+obl.be
+obl.ch
+obl.fi
+obl.ie
+obl.it
+obl.kz
+obl.me
+obl.ru
+obl.se
+obl.sk
+obl.su
+obl.uk
+obl.vn

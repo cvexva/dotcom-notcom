@@ -1,0 +1,2 @@
+gn.domain.name
+gn.xn--vuq861b

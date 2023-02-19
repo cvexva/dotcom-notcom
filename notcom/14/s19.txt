@@ -1,0 +1,4 @@
+s19-krasnik.pl
+s19-sokolow.pl
+s19project.org
+s19training.uk

@@ -1,0 +1,17 @@
+foj.be
+foj.cc
+foj.ch
+foj.cn
+foj.co
+foj.cz
+foj.dk
+foj.eu
+foj.fr
+foj.io
+foj.it
+foj.jp
+foj.nl
+foj.pl
+foj.ru
+foj.se
+foj.uk

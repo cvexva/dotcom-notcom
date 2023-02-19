@@ -1,0 +1,11 @@
+feq.be
+feq.ca
+feq.ch
+feq.co
+feq.de
+feq.it
+feq.me
+feq.pt
+feq.ru
+feq.uk
+feq.us

@@ -1,0 +1,3 @@
+gf.partners
+gf.services
+gf.software

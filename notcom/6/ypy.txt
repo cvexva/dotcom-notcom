@@ -1,0 +1,13 @@
+ypy.cc
+ypy.ch
+ypy.eu
+ypy.fi
+ypy.fr
+ypy.ir
+ypy.it
+ypy.me
+ypy.nl
+ypy.pl
+ypy.ru
+ypy.tw
+ypy.us

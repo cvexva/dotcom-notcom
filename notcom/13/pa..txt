@@ -1,0 +1,5 @@
+pa.foundation
+pa.healthcare
+pa.properties
+pa.republican
+pa.university

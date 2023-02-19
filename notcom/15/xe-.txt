@@ -1,0 +1,7 @@
+xe-dai.services
+xe-datafeed.net
+xe-datafeed.org
+xe-mobility.net
+xe-services.net
+xe-transfer.net
+xe-transfer.org

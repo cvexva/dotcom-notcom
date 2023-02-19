@@ -1,0 +1,4 @@
+qi.creditcard
+qi.foundation
+qi.healthcare
+qi.xn--czrs0t

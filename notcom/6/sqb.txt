@@ -1,0 +1,15 @@
+sqb.cc
+sqb.ch
+sqb.cn
+sqb.de
+sqb.fi
+sqb.fr
+sqb.it
+sqb.nl
+sqb.pk
+sqb.pl
+sqb.ro
+sqb.ru
+sqb.se
+sqb.uk
+sqb.uz

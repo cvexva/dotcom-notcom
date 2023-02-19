@@ -1,0 +1,15 @@
+tn.aco
+tn.app
+tn.biz
+tn.dev
+tn.fit
+tn.fyi
+tn.gay
+tn.gov
+tn.law
+tn.mba
+tn.net
+tn.org
+tn.run
+tn.sbs
+tn.vip

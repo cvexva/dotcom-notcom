@@ -1,0 +1,12 @@
+qx.app
+qx.biz
+qx.fit
+qx.fyi
+qx.law
+qx.mba
+qx.net
+qx.org
+qx.sbs
+qx.tel
+qx.vip
+qx.wtf

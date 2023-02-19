@@ -1,0 +1,10 @@
+so2.cc
+so2.ch
+so2.de
+so2.fr
+so2.it
+so2.no
+so2.pl
+so2.ru
+so2.se
+so2.uk

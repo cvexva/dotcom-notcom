@@ -1,0 +1,5 @@
+q2u.app
+q2u.biz
+q2u.net
+q2u.org
+q2u.xyz

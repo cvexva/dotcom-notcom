@@ -1,0 +1,11 @@
+v-8.cc
+v-8.ch
+v-8.co
+v-8.de
+v-8.dk
+v-8.hu
+v-8.ir
+v-8.it
+v-8.rs
+v-8.ru
+v-8.uk

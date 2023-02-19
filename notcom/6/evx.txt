@@ -1,0 +1,15 @@
+evx.be
+evx.ca
+evx.cc
+evx.ch
+evx.de
+evx.it
+evx.jp
+evx.me
+evx.nl
+evx.nu
+evx.pl
+evx.ro
+evx.ru
+evx.se
+evx.uk

@@ -1,0 +1,11 @@
+hwf.at
+hwf.ch
+hwf.cz
+hwf.de
+hwf.hu
+hwf.io
+hwf.it
+hwf.pl
+hwf.ru
+hwf.se
+hwf.uk

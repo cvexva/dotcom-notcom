@@ -1,0 +1,9 @@
+qnx.app
+qnx.biz
+qnx.ltd
+qnx.net
+qnx.org
+qnx.wtf
+qnx.xyz
+qnxl.nl
+qnxx.cn

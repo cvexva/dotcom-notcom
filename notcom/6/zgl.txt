@@ -1,0 +1,11 @@
+zgl.be
+zgl.cc
+zgl.ch
+zgl.de
+zgl.eu
+zgl.hk
+zgl.hr
+zgl.it
+zgl.pl
+zgl.ru
+zgl.uk

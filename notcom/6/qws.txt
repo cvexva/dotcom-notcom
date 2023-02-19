@@ -1,0 +1,13 @@
+qws.be
+qws.ch
+qws.cn
+qws.co
+qws.de
+qws.es
+qws.ie
+qws.it
+qws.me
+qws.pl
+qws.ru
+qws.se
+qws.uk

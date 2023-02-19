@@ -1,0 +1,12 @@
+npy.be
+npy.ch
+npy.cn
+npy.de
+npy.fi
+npy.fr
+npy.ir
+npy.it
+npy.me
+npy.ru
+npy.so
+npy.uk

@@ -1,0 +1,5 @@
+mp.consulting
+mp.foundation
+mp.management
+mp.technology
+mp.university

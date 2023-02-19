@@ -1,0 +1,2 @@
+codata-rda-advanced-bioinformatics-2018.readthedocs.io
+codata-rda-advanced-bioinformatics-2019.readthedocs.io

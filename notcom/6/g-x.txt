@@ -1,0 +1,7 @@
+g-x.cc
+g-x.ch
+g-x.jp
+g-x.nl
+g-x.ru
+g-x.uk
+g-x.uz

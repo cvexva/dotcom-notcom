@@ -1,0 +1,12 @@
+vql.at
+vql.be
+vql.ca
+vql.ch
+vql.co
+vql.eu
+vql.fr
+vql.it
+vql.pl
+vql.ru
+vql.uk
+vql.vn

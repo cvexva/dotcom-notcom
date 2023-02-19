@@ -1,0 +1,4 @@
+pkg-prueftechnik.de
+pkgeo-org.github.io
+pkgguru.blogspot.nl
+pkglobal.properties

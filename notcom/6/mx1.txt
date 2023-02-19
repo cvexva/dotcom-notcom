@@ -1,0 +1,11 @@
+mx1.ch
+mx1.fr
+mx1.hu
+mx1.in
+mx1.it
+mx1.lt
+mx1.nl
+mx1.ru
+mx1.se
+mx1.su
+mx1.uk

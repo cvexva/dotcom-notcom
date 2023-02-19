@@ -1,0 +1,10 @@
+qk.app
+qk.biz
+qk.fit
+qk.fyi
+qk.law
+qk.net
+qk.org
+qk.run
+qk.tax
+qk.vip

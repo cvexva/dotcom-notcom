@@ -1,0 +1,6 @@
+dg1.ch
+dg1.cn
+dg1.eu
+dg1.it
+dg1.ru
+dg1.uk

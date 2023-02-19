@@ -1,0 +1,13 @@
+ypm.af
+ypm.ca
+ypm.cn
+ypm.de
+ypm.fi
+ypm.fr
+ypm.ir
+ypm.it
+ypm.nl
+ypm.ru
+ypm.se
+ypm.uk
+ypm.vn

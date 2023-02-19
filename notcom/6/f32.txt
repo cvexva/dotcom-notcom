@@ -1,0 +1,12 @@
+f32.ca
+f32.cn
+f32.es
+f32.eu
+f32.io
+f32.it
+f32.jp
+f32.me
+f32.no
+f32.ru
+f32.se
+f32.uk

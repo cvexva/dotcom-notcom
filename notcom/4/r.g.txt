@@ -1,0 +1,6 @@
+r.gd
+r.gg
+r.gl
+r.gp
+r.gs
+r.gy

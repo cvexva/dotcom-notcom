@@ -1,0 +1,3 @@
+r7.news
+r7.wiki
+r7.work

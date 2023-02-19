@@ -1,0 +1,13 @@
+sy.chat
+sy.city
+sy.club
+sy.cool
+sy.cyou
+sy.immo
+sy.life
+sy.link
+sy.luxe
+sy.show
+sy.wiki
+sy.work
+sy.yoga

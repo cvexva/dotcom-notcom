@@ -1,0 +1,7 @@
+ft3.ca
+ft3.cc
+ft3.ch
+ft3.nl
+ft3.pl
+ft3.ru
+ft3.uk

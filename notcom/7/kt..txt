@@ -1,0 +1,8 @@
+kt.cern
+kt.chat
+kt.city
+kt.link
+kt.news
+kt.page
+kt.team
+kt.yoga

@@ -1,0 +1,6 @@
+yx.center
+yx.com.au
+yx.com.tw
+yx.com.ua
+yx.gov.cn
+yx.org.uk

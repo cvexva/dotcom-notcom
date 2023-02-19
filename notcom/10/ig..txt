@@ -1,0 +1,11 @@
+ig.academy
+ig.capital
+ig.company
+ig.contact
+ig.cooking
+ig.country
+ig.digital
+ig.fashion
+ig.markets
+ig.network
+ig.wedding

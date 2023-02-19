@@ -1,0 +1,17 @@
+m2.app
+m2.biz
+m2.dev
+m2.fit
+m2.fyi
+m2.gay
+m2.ink
+m2.ist
+m2.law
+m2.ltd
+m2.net
+m2.onl
+m2.org
+m2.tel
+m2.vip
+m2.wtf
+m2.xyz

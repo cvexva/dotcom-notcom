@@ -1,0 +1,12 @@
+sz.beer
+sz.chat
+sz.cool
+sz.gold
+sz.life
+sz.link
+sz.live
+sz.plus
+sz.team
+sz.wiki
+sz.work
+sz.yoga

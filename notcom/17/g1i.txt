@@ -1,0 +1,2 @@
+g1info-saude.site
+g1info-vital.site

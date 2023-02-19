@@ -1,0 +1,17 @@
+rx.app
+rx.biz
+rx.dev
+rx.dog
+rx.fit
+rx.fyi
+rx.icu
+rx.law
+rx.net
+rx.new
+rx.org
+rx.rip
+rx.run
+rx.tel
+rx.top
+rx.vet
+rx.vip

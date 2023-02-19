@@ -1,0 +1,9 @@
+hcx.cc
+hcx.ch
+hcx.cn
+hcx.co
+hcx.it
+hcx.nl
+hcx.ru
+hcx.se
+hcx.vn

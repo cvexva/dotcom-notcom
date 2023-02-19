@@ -1,0 +1,16 @@
+k2d.at
+k2d.cc
+k2d.ch
+k2d.cz
+k2d.de
+k2d.dk
+k2d.eu
+k2d.fr
+k2d.in
+k2d.it
+k2d.pl
+k2d.pt
+k2d.ru
+k2d.se
+k2d.sk
+k2d.us

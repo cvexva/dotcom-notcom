@@ -1,0 +1,6 @@
+i3.bank
+i3.chat
+i3.life
+i3.luxe
+i3.wiki
+i3.work

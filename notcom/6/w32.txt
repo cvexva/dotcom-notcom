@@ -1,0 +1,6 @@
+w32.de
+w32.eu
+w32.ir
+w32.mx
+w32.ru
+w32.us

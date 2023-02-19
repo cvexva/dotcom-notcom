@@ -1,0 +1,12 @@
+hez.al
+hez.az
+hez.ca
+hez.ch
+hez.co
+hez.it
+hez.ma
+hez.me
+hez.pl
+hez.ru
+hez.uk
+hez.us

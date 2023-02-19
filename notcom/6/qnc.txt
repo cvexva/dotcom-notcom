@@ -1,0 +1,16 @@
+qnc.cc
+qnc.ch
+qnc.cn
+qnc.cz
+qnc.de
+qnc.dk
+qnc.eu
+qnc.fi
+qnc.it
+qnc.me
+qnc.nl
+qnc.pl
+qnc.ru
+qnc.se
+qnc.uk
+qnc.us

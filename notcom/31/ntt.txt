@@ -1,0 +1,2 @@
+ntt-client-globaldatacenter.net
+nttcomware-deeplearning-api.net

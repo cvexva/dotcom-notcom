@@ -1,0 +1,3 @@
+python-packaging-user-guide.readthedocs.io
+pytorch-nlp-tutorial-ny2018.readthedocs.io
+pytorch-nlp-tutorial-sf2017.readthedocs.io

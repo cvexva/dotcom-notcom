@@ -1,0 +1,6 @@
+br.domain.name
+br.engineering
+br.enterprises
+br.szczecin.pl
+br.warszawa.pl
+br.xn--vuq861b

@@ -1,0 +1,11 @@
+1x.actor
+1x.bingo
+1x.boats
+1x.click
+1x.co.uk
+1x.games
+1x.gives
+1x.money
+1x.quest
+1x.rocks
+1x.world

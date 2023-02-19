@@ -1,0 +1,7 @@
+tp.domain.name
+tp.engineering
+tp.enterprises
+tp.investments
+tp.szczecin.pl
+tp.xn--czr694b
+tp.xn--vuq861b

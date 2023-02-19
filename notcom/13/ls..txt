@@ -1,0 +1,7 @@
+ls.associates
+ls.consulting
+ls.foundation
+ls.immobilien
+ls.industries
+ls.properties
+ls.university

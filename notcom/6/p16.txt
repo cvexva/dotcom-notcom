@@ -1,0 +1,7 @@
+p16.ch
+p16.cn
+p16.dk
+p16.jp
+p16.pl
+p16.ru
+p16.se

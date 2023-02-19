@@ -1,0 +1,11 @@
+sw.capital
+sw.company
+sw.contact
+sw.country
+sw.digital
+sw.domains
+sw.fashion
+sw.jewelry
+sw.network
+sw.systems
+sw.wedding

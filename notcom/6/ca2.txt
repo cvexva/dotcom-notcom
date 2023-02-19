@@ -1,0 +1,9 @@
+ca2.cc
+ca2.ch
+ca2.de
+ca2.dk
+ca2.io
+ca2.jp
+ca2.ru
+ca2.uk
+ca2.vn

@@ -1,0 +1,4 @@
+x.school
+x.schule
+x.studio
+x.supply

@@ -1,0 +1,2 @@
+eo-communications.net
+eo-listing.properties

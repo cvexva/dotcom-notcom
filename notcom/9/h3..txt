@@ -1,0 +1,10 @@
+h3.beauty
+h3.church
+h3.com.cn
+h3.com.mx
+h3.com.pl
+h3.com.tw
+h3.design
+h3.health
+h3.school
+h3.studio

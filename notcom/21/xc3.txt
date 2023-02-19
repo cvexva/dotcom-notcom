@@ -1,0 +1,8 @@
+xc3s1000-4fgg320c.top
+xc3s1000-4fgg320i.top
+xc3s100e-4vqg100c.top
+xc3s1200e-4ft256c.top
+xc3s250e-4tqg144c.top
+xc3s400a-4fgg320i.top
+xc3s400a-4ftg256c.top
+xc3s50an-4tqg144i.top

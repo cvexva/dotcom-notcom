@@ -1,0 +1,15 @@
+f4s.app
+f4s.biz
+f4s.dev
+f4s.fun
+f4s.net
+f4s.org
+f4s.pub
+f4s.run
+f4s.sbs
+f4s.xyz
+f4s3.eu
+f4sa.fr
+f4st.ch
+f4st.pl
+f4st.ru

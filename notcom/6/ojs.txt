@@ -1,0 +1,16 @@
+ojs.at
+ojs.be
+ojs.ch
+ojs.co
+ojs.de
+ojs.es
+ojs.fi
+ojs.fr
+ojs.io
+ojs.it
+ojs.no
+ojs.nu
+ojs.ru
+ojs.se
+ojs.sk
+ojs.uk

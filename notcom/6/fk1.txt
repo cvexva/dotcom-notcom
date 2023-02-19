@@ -1,0 +1,5 @@
+fk1.cc
+fk1.de
+fk1.kz
+fk1.ru
+fk1.uk

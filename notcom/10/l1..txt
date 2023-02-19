@@ -1,0 +1,4 @@
+l1.capital
+l1.country
+l1.digital
+l1.network

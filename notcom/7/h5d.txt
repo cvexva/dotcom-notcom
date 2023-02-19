@@ -1,0 +1,5 @@
+h5d.app
+h5d.dev
+h5d.net
+h5d.xyz
+h5ds.cn

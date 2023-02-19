@@ -1,0 +1,6 @@
+2j.capital
+2j.country
+2j.fishing
+2j.holiday
+2j.network
+2j.wedding

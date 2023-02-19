@@ -1,0 +1,2 @@
+cpp-design-patterns.readthedocs.io
+cpplt168testorder2017022103.online

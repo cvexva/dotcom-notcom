@@ -1,0 +1,10 @@
+bo2.be
+bo2.ch
+bo2.cn
+bo2.eu
+bo2.fr
+bo2.in
+bo2.nl
+bo2.pl
+bo2.ru
+bo2.se

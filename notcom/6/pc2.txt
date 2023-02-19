@@ -1,0 +1,14 @@
+pc2.cc
+pc2.ch
+pc2.de
+pc2.dk
+pc2.es
+pc2.eu
+pc2.in
+pc2.io
+pc2.ir
+pc2.it
+pc2.jp
+pc2.ro
+pc2.ru
+pc2.vn

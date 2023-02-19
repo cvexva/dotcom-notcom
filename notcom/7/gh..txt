@@ -1,0 +1,17 @@
+gh.baby
+gh.care
+gh.cyou
+gh.farm
+gh.immo
+gh.land
+gh.life
+gh.link
+gh.show
+gh.site
+gh.team
+gh.tech
+gh.town
+gh.wiki
+gh.wine
+gh.yoga
+gh.zone

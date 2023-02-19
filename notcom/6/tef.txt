@@ -1,0 +1,17 @@
+tef.ae
+tef.be
+tef.ch
+tef.de
+tef.dk
+tef.eu
+tef.fr
+tef.gr
+tef.hu
+tef.jp
+tef.nu
+tef.pl
+tef.pt
+tef.ro
+tef.ru
+tef.se
+tef.uk

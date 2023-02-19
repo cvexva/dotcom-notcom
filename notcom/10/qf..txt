@@ -1,0 +1,3 @@
+qf.country
+qf.fashion
+qf.network

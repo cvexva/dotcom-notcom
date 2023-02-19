@@ -1,0 +1,17 @@
+zsm.ae
+zsm.at
+zsm.ch
+zsm.cz
+zsm.de
+zsm.eu
+zsm.hu
+zsm.it
+zsm.kz
+zsm.lt
+zsm.mx
+zsm.nu
+zsm.pl
+zsm.ru
+zsm.sk
+zsm.su
+zsm.uk

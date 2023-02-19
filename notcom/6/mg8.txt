@@ -1,0 +1,5 @@
+mg8.cc
+mg8.fr
+mg8.pl
+mg8.ru
+mg8.se

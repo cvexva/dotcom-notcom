@@ -1,0 +1,12 @@
+xcm.cc
+xcm.ch
+xcm.cw
+xcm.de
+xcm.es
+xcm.it
+xcm.jp
+xcm.lv
+xcm.ru
+xcm.se
+xcm.sk
+xcm.uk

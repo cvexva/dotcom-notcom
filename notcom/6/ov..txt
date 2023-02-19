@@ -1,0 +1,12 @@
+ov.app
+ov.biz
+ov.dev
+ov.dog
+ov.fit
+ov.fyi
+ov.ink
+ov.law
+ov.net
+ov.org
+ov.vip
+ov.wtf

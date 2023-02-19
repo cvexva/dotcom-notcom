@@ -1,0 +1,16 @@
+ir.academy
+ir.capital
+ir.careers
+ir.contact
+ir.cooking
+ir.country
+ir.digital
+ir.fashion
+ir.finance
+ir.flights
+ir.network
+ir.neustar
+ir.singles
+ir.support
+ir.systems
+ir.whoswho

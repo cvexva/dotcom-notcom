@@ -1,0 +1,11 @@
+vfz.cc
+vfz.ch
+vfz.de
+vfz.it
+vfz.jp
+vfz.nl
+vfz.pl
+vfz.ru
+vfz.se
+vfz.su
+vfz.uk

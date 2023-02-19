@@ -1,0 +1,13 @@
+sk.aco
+sk.app
+sk.biz
+sk.cpa
+sk.dev
+sk.fit
+sk.fyi
+sk.law
+sk.mba
+sk.net
+sk.sbs
+sk.vip
+sk.wtf

@@ -1,0 +1,10 @@
+oxc.cc
+oxc.ch
+oxc.co
+oxc.de
+oxc.in
+oxc.it
+oxc.nl
+oxc.ru
+oxc.uk
+oxc.us

@@ -1,0 +1,10 @@
+sp.amsterdam
+sp.community
+sp.education
+sp.financial
+sp.institute
+sp.marketing
+sp.olkusz.pl
+sp.solutions
+sp.wegrow.pl
+sp.wielun.pl

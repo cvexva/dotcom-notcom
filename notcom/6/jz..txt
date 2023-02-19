@@ -1,0 +1,13 @@
+jz.app
+jz.biz
+jz.fit
+jz.fyi
+jz.ink
+jz.law
+jz.net
+jz.org
+jz.run
+jz.sbs
+jz.tel
+jz.vip
+jz.wtf

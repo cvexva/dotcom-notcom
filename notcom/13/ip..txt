@@ -1,0 +1,9 @@
+ip.associates
+ip.foundation
+ip.healthcare
+ip.management
+ip.olsztyn.pl
+ip.properties
+ip.technology
+ip.university
+ip.xn--czrs0t

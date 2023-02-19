@@ -1,0 +1,6 @@
+gr2.ch
+gr2.de
+gr2.fi
+gr2.jp
+gr2.pl
+gr2.ru

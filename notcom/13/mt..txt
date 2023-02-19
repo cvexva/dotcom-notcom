@@ -1,0 +1,7 @@
+mt.apartments
+mt.foundation
+mt.happy.name
+mt.kommune.no
+mt.properties
+mt.technology
+mt.university

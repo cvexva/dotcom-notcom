@@ -1,0 +1,9 @@
+46.app
+46.biz
+46.fit
+46.law
+46.net
+46.org
+46.tel
+46.vip
+46.wtf

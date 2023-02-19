@@ -1,0 +1,11 @@
+q0.au
+q0.de
+q0.fr
+q0.io
+q0.nu
+q0.ro
+q0.ru
+q0.se
+q0.sk
+q0.su
+q0.uk

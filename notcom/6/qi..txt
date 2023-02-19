@@ -1,0 +1,13 @@
+qi.app
+qi.biz
+qi.dev
+qi.fit
+qi.fyi
+qi.ink
+qi.law
+qi.net
+qi.org
+qi.run
+qi.tel
+qi.wtf
+qi.xxx

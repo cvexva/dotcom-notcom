@@ -1,0 +1,5 @@
+tt.domain.name
+tt.enterprises
+tt.productions
+tt.szczecin.pl
+tt.xn--vuq861b

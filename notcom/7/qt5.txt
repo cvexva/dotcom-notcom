@@ -1,0 +1,4 @@
+qt5.net
+qt5.org
+qt51.cn
+qt59.cn

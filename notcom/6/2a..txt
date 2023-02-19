@@ -1,0 +1,13 @@
+2a.app
+2a.biz
+2a.fit
+2a.fyi
+2a.law
+2a.ltd
+2a.net
+2a.org
+2a.pub
+2a.vet
+2a.vip
+2a.wtf
+2a.xyz

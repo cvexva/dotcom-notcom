@@ -1,0 +1,7 @@
+7s.charity
+7s.country
+7s.digital
+7s.fashion
+7s.fishing
+7s.network
+7s.wedding

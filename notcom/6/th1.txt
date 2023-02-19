@@ -1,0 +1,6 @@
+th1.ch
+th1.de
+th1.jp
+th1.nl
+th1.ru
+th1.uk

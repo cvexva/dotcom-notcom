@@ -1,0 +1,4 @@
+pc.healthcare
+pc.olsztyn.pl
+pc.technology
+pc.university

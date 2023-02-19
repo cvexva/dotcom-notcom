@@ -1,0 +1,10 @@
+nzk.cc
+nzk.ch
+nzk.de
+nzk.hu
+nzk.ir
+nzk.it
+nzk.pl
+nzk.rs
+nzk.ru
+nzk.uk

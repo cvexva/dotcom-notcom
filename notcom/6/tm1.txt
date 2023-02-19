@@ -1,0 +1,10 @@
+tm1.cc
+tm1.ch
+tm1.dk
+tm1.fr
+tm1.in
+tm1.it
+tm1.nl
+tm1.ru
+tm1.se
+tm1.uk

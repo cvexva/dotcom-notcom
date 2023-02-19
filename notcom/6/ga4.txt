@@ -1,0 +1,12 @@
+ga4.cc
+ga4.ch
+ga4.de
+ga4.es
+ga4.eu
+ga4.hu
+ga4.jp
+ga4.nu
+ga4.ru
+ga4.se
+ga4.tw
+ga4.uk

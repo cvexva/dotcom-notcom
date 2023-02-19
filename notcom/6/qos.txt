@@ -1,0 +1,10 @@
+qos.by
+qos.ch
+qos.co
+qos.dk
+qos.kz
+qos.ru
+qos.se
+qos.sk
+qos.su
+qos.vc

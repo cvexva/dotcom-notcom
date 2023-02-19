@@ -1,0 +1,6 @@
+3n.capital
+3n.charity
+3n.country
+3n.fishing
+3n.forsale
+3n.wedding

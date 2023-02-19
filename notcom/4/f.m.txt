@@ -1,0 +1,7 @@
+f.md
+f.mk
+f.mr
+f.mt
+f.mu
+f.mw
+f.my

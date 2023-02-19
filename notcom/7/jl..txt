@@ -1,0 +1,13 @@
+jl.baby
+jl.chat
+jl.club
+jl.life
+jl.link
+jl.live
+jl.luxe
+jl.moda
+jl.plus
+jl.taxi
+jl.tips
+jl.work
+jl.yoga

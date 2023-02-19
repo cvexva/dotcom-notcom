@@ -1,0 +1,15 @@
+pxs.as
+pxs.ch
+pxs.cn
+pxs.co
+pxs.de
+pxs.es
+pxs.eu
+pxs.jp
+pxs.no
+pxs.pl
+pxs.ru
+pxs.se
+pxs.tw
+pxs.uk
+pxs.vn

@@ -1,0 +1,12 @@
+txk.by
+txk.cc
+txk.ch
+txk.de
+txk.eu
+txk.it
+txk.jp
+txk.kz
+txk.nl
+txk.ru
+txk.se
+txk.uk

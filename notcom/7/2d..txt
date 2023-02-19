@@ -1,0 +1,11 @@
+2d.army
+2d.band
+2d.chat
+2d.city
+2d.kiwi
+2d.live
+2d.moda
+2d.pics
+2d.sale
+2d.town
+2d.wiki

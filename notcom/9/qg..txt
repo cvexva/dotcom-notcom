@@ -1,0 +1,5 @@
+qg.center
+qg.com.au
+qg.com.cn
+qg.gov.cn
+qg.org.uk

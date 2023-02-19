@@ -1,0 +1,5 @@
+qm.business
+qm.catering
+qm.clothing
+qm.exchange
+qm.services

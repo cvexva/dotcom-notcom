@@ -1,0 +1,2 @@
+aq.properties
+aq.technology

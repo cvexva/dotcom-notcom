@@ -1,0 +1,10 @@
+xsr.be
+xsr.ch
+xsr.de
+xsr.eu
+xsr.it
+xsr.me
+xsr.pl
+xsr.ru
+xsr.se
+xsr.uk

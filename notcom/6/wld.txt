@@ -1,0 +1,16 @@
+wld.cc
+wld.ch
+wld.cl
+wld.co
+wld.dk
+wld.eu
+wld.fr
+wld.ie
+wld.it
+wld.kz
+wld.mn
+wld.no
+wld.pl
+wld.ru
+wld.se
+wld.su

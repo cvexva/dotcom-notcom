@@ -1,0 +1,3 @@
+fq.country
+fq.fashion
+fq.systems

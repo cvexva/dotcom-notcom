@@ -1,0 +1,8 @@
+u14.at
+u14.cc
+u14.ch
+u14.de
+u14.pl
+u14.ru
+u14.se
+u14.tw

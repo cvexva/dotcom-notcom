@@ -1,0 +1,11 @@
+i2d.app
+i2d.biz
+i2d.dev
+i2d.net
+i2d.one
+i2d.org
+i2d.xyz
+i2dm.de
+i2dm.fr
+i2ds.cn
+i2dx.cn

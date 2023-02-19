@@ -1,0 +1,8 @@
+t20.ae
+t20.in
+t20.me
+t20.ru
+t20.se
+t20.su
+t20.uk
+t20.us

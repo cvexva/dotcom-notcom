@@ -1,0 +1,12 @@
+v-u.at
+v-u.be
+v-u.ch
+v-u.de
+v-u.dk
+v-u.fr
+v-u.it
+v-u.nl
+v-u.pl
+v-u.ru
+v-u.uk
+v-u.uz

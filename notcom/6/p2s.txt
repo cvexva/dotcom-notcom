@@ -1,0 +1,16 @@
+p2s.at
+p2s.be
+p2s.ch
+p2s.dk
+p2s.eu
+p2s.fr
+p2s.it
+p2s.ma
+p2s.me
+p2s.nl
+p2s.pl
+p2s.pt
+p2s.ru
+p2s.sk
+p2s.uk
+p2s.us

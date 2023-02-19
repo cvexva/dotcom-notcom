@@ -1,0 +1,4 @@
+tv.gniezno.pl
+tv.malbork.pl
+tv.rzeszow.pl
+tv.technology

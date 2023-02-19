@@ -1,0 +1,11 @@
+k3s.at
+k3s.be
+k3s.ch
+k3s.eu
+k3s.hu
+k3s.io
+k3s.jp
+k3s.nu
+k3s.pl
+k3s.ru
+k3s.se

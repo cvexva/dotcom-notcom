@@ -1,0 +1,6 @@
+s.fashion
+s.finance
+s.fishing
+s.flights
+s.florist
+s.free.fr

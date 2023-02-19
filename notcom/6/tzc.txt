@@ -1,0 +1,11 @@
+tzc.be
+tzc.ch
+tzc.dk
+tzc.fi
+tzc.fr
+tzc.ie
+tzc.it
+tzc.jp
+tzc.pt
+tzc.ru
+tzc.uk

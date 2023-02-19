@@ -1,0 +1,15 @@
+qct.be
+qct.ca
+qct.ch
+qct.cn
+qct.de
+qct.fr
+qct.ie
+qct.io
+qct.ir
+qct.it
+qct.nl
+qct.pl
+qct.ro
+qct.ru
+qct.uk

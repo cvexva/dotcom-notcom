@@ -1,0 +1,6 @@
+mq2.ch
+mq2.de
+mq2.eu
+mq2.it
+mq2.ru
+mq2.tw

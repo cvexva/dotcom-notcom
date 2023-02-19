@@ -1,0 +1,10 @@
+ws.bike
+ws.cafe
+ws.cash
+ws.guru
+ws.life
+ws.plus
+ws.team
+ws.wiki
+ws.work
+ws.zone

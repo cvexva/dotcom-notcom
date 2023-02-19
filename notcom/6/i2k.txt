@@ -1,0 +1,7 @@
+i2k.al
+i2k.ch
+i2k.hu
+i2k.in
+i2k.it
+i2k.jp
+i2k.ru

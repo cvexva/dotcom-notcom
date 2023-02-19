@@ -1,0 +1,6 @@
+ct.apartments
+ct.foundation
+ct.industries
+ct.properties
+ct.technology
+ct.university

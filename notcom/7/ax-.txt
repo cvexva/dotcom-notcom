@@ -1,0 +1,13 @@
+ax-b.de
+ax-d.fr
+ax-e.pl
+ax-e.ru
+ax-g.ru
+ax-l.de
+ax-s.dk
+ax-s.ru
+ax-t.de
+ax-t.ru
+ax-v.ru
+ax-x.ru
+ax-z.cn

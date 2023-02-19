@@ -1,0 +1,10 @@
+ix.auction
+ix.capital
+ix.company
+ix.contact
+ix.country
+ix.digital
+ix.fashion
+ix.limited
+ix.network
+ix.systems

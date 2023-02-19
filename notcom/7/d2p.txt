@@ -1,0 +1,16 @@
+d2p.app
+d2p.biz
+d2p.dev
+d2p.llc
+d2p.ltd
+d2p.net
+d2p.one
+d2p.org
+d2p.ovh
+d2p.top
+d2p.xyz
+d2pc.fr
+d2pc.ru
+d2pr.de
+d2pr.fr
+d2ps.ca

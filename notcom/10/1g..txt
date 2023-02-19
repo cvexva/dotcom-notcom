@@ -1,0 +1,5 @@
+1g.charity
+1g.country
+1g.fishing
+1g.network
+1g.wedding

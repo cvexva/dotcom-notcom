@@ -1,0 +1,9 @@
+tq.app
+tq.biz
+tq.fit
+tq.fyi
+tq.law
+tq.net
+tq.org
+tq.vip
+tq.wtf

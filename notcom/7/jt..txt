@@ -1,0 +1,8 @@
+jt.cafe
+jt.chat
+jt.city
+jt.cool
+jt.fail
+jt.life
+jt.yoga
+jt.zone

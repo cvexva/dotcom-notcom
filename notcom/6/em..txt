@@ -1,0 +1,16 @@
+em.app
+em.biz
+em.dev
+em.dog
+em.fit
+em.fyi
+em.law
+em.mba
+em.net
+em.ooo
+em.org
+em.pub
+em.run
+em.tel
+em.vip
+em.wtf

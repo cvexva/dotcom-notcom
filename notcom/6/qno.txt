@@ -1,0 +1,12 @@
+qno.be
+qno.ch
+qno.cn
+qno.de
+qno.fr
+qno.hu
+qno.it
+qno.jp
+qno.no
+qno.ru
+qno.tw
+qno.uk

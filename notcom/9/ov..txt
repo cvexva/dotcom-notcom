@@ -1,0 +1,11 @@
+ov.agency
+ov.center
+ov.church
+ov.com.do
+ov.com.pl
+ov.com.uy
+ov.energy
+ov.events
+ov.gov.mn
+ov.org.uk
+ov.studio

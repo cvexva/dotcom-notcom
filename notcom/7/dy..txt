@@ -1,0 +1,9 @@
+dy.baby
+dy.chat
+dy.city
+dy.life
+dy.link
+dy.shop
+dy.town
+dy.wiki
+dy.yoga

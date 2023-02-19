@@ -1,0 +1,14 @@
+rmq.app
+rmq.bar
+rmq.dev
+rmq.icu
+rmq.net
+rmq.org
+rmq.xyz
+rmq1.cn
+rmqd.cn
+rmqe.cn
+rmqf.cn
+rmqg.ca
+rmqq.ws
+rmqu.ch

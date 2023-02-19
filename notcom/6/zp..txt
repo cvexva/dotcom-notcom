@@ -1,0 +1,12 @@
+zp.app
+zp.biz
+zp.dev
+zp.fit
+zp.fyi
+zp.law
+zp.net
+zp.org
+zp.pub
+zp.vip
+zp.win
+zp.wtf

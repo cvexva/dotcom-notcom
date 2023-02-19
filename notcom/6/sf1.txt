@@ -1,0 +1,10 @@
+sf1.ch
+sf1.de
+sf1.eu
+sf1.fr
+sf1.it
+sf1.pl
+sf1.ru
+sf1.se
+sf1.tv
+sf1.uk

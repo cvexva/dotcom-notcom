@@ -1,0 +1,6 @@
+qxd.cc
+qxd.cn
+qxd.de
+qxd.it
+qxd.ru
+qxd.uk

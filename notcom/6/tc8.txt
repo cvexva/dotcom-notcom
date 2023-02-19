@@ -1,0 +1,4 @@
+tc8.cc
+tc8.de
+tc8.fr
+tc8.ru

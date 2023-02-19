@@ -1,0 +1,10 @@
+tzh.at
+tzh.cc
+tzh.ch
+tzh.de
+tzh.hr
+tzh.in
+tzh.it
+tzh.kz
+tzh.ru
+tzh.uk

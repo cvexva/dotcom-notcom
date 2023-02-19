@@ -1,0 +1,11 @@
+zf.biz
+zf.fit
+zf.fyi
+zf.law
+zf.net
+zf.ooo
+zf.org
+zf.tel
+zf.vip
+zf.win
+zf.wtf

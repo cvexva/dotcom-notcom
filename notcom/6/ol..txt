@@ -1,0 +1,14 @@
+ol.app
+ol.dog
+ol.fit
+ol.fyi
+ol.ink
+ol.law
+ol.net
+ol.ooo
+ol.org
+ol.tax
+ol.tel
+ol.vin
+ol.vip
+ol.wtf

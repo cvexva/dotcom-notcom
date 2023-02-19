@@ -1,0 +1,14 @@
+tk.beer
+tk.casa
+tk.city
+tk.cool
+tk.fund
+tk.guru
+tk.link
+tk.live
+tk.moda
+tk.plus
+tk.team
+tk.wiki
+tk.work
+tk.zone

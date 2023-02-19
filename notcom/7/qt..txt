@@ -1,0 +1,14 @@
+qt.auto
+qt.baby
+qt.chat
+qt.city
+qt.club
+qt.life
+qt.link
+qt.live
+qt.luxe
+qt.plus
+qt.wiki
+qt.work
+qt.yoga
+qt.zone

@@ -1,0 +1,11 @@
+ci2.ca
+ci2.ch
+ci2.co
+ci2.cz
+ci2.de
+ci2.es
+ci2.it
+ci2.pt
+ci2.ru
+ci2.sk
+ci2.us

@@ -1,0 +1,15 @@
+bw.aco
+bw.app
+bw.biz
+bw.fit
+bw.fyi
+bw.law
+bw.ltd
+bw.mba
+bw.men
+bw.net
+bw.org
+bw.run
+bw.sbs
+bw.vip
+bw.wtf

@@ -1,0 +1,4 @@
+wz1.cc
+wz1.de
+wz1.eu
+wz1.pl

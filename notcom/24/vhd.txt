@@ -1,0 +1,4 @@
+vhdl-book.readthedocs.io
+vhdlguide.readthedocs.io
+vhdltutorial.blogspot.ie
+vhdltutorial.blogspot.in

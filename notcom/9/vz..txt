@@ -1,0 +1,8 @@
+vz.coffee
+vz.com.ar
+vz.com.cn
+vz.com.ua
+vz.energy
+vz.garden
+vz.net.ua
+vz.org.uk

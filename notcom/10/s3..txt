@@ -1,0 +1,4 @@
+s3.capital
+s3.company
+s3.country
+s3.network

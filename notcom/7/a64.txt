@@ -1,0 +1,8 @@
+a64.app
+a64.dev
+a64.net
+a64.one
+a64.org
+a64.xyz
+a641.cc
+a643.de

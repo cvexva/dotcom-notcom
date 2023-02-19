@@ -1,0 +1,6 @@
+m8a.app
+m8a.dev
+m8a.net
+m8a.org
+m8a.xyz
+m8an.de

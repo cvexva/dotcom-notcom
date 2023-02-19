@@ -1,0 +1,15 @@
+prq.ae
+prq.ch
+prq.cl
+prq.co
+prq.de
+prq.fr
+prq.it
+prq.nl
+prq.nu
+prq.pl
+prq.ru
+prq.se
+prq.sk
+prq.to
+prq.uk

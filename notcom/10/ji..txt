@@ -1,0 +1,7 @@
+ji.capital
+ji.company
+ji.country
+ji.fashion
+ji.finance
+ji.network
+ji.wedding

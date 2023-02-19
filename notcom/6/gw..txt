@@ -1,0 +1,12 @@
+gw.aco
+gw.app
+gw.biz
+gw.cpa
+gw.fit
+gw.fyi
+gw.law
+gw.mba
+gw.net
+gw.org
+gw.run
+gw.vip

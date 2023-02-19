@@ -1,0 +1,11 @@
+qoc.be
+qoc.cc
+qoc.ch
+qoc.de
+qoc.eu
+qoc.it
+qoc.me
+qoc.nl
+qoc.pl
+qoc.ru
+qoc.uk

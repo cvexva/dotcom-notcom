@@ -1,0 +1,14 @@
+nc.academy
+nc.capital
+nc.careers
+nc.contact
+nc.country
+nc.dentist
+nc.digital
+nc.fashion
+nc.finance
+nc.fitness
+nc.rentals
+nc.singles
+nc.wedding
+nc.whoswho

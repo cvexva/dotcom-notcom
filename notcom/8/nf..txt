@@ -1,0 +1,14 @@
+nf.actor
+nf.co.kr
+nf.co.uk
+nf.codes
+nf.email
+nf.id.au
+nf.me.uk
+nf.media
+nf.mk.ua
+nf.place
+nf.tools
+nf.tours
+nf.video
+nf.world

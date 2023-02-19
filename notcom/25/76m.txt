@@ -1,0 +1,4 @@
+76mm-m1940-tankcannon.xyz
+76mm-m1941-tankcannon.xyz
+76mm-model27-howitzer.xyz
+76mm-model32-howitzer.xyz

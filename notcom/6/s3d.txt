@@ -1,0 +1,13 @@
+s3d.cc
+s3d.ch
+s3d.es
+s3d.eu
+s3d.fr
+s3d.io
+s3d.ir
+s3d.nl
+s3d.pl
+s3d.pt
+s3d.rs
+s3d.ru
+s3d.uk

@@ -1,0 +1,14 @@
+qb.bible
+qb.bingo
+qb.cheap
+qb.co.uk
+qb.co.zw
+qb.coach
+qb.email
+qb.legal
+qb.me.uk
+qb.money
+qb.study
+qb.sucks
+qb.tools
+qb.world

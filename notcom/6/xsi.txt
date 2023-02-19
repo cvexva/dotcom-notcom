@@ -1,0 +1,12 @@
+xsi.bz
+xsi.cz
+xsi.es
+xsi.fr
+xsi.in
+xsi.io
+xsi.jp
+xsi.me
+xsi.nl
+xsi.pt
+xsi.ru
+xsi.uk

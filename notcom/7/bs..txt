@@ -1,0 +1,16 @@
+bs.casa
+bs.chat
+bs.cool
+bs.fund
+bs.gmbh
+bs.haus
+bs.immo
+bs.jobs
+bs.life
+bs.live
+bs.plus
+bs.show
+bs.team
+bs.wiki
+bs.work
+bs.yoga

@@ -1,0 +1,11 @@
+v2.academy
+v2.capital
+v2.careers
+v2.company
+v2.country
+v2.digital
+v2.fashion
+v2.limited
+v2.monster
+v2.network
+v2.systems

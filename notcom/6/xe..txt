@@ -1,0 +1,11 @@
+xe.app
+xe.biz
+xe.fit
+xe.law
+xe.net
+xe.org
+xe.run
+xe.tel
+xe.vin
+xe.vip
+xe.wtf

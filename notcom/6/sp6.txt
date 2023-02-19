@@ -1,0 +1,9 @@
+sp6.ch
+sp6.de
+sp6.in
+sp6.io
+sp6.md
+sp6.pl
+sp6.ru
+sp6.su
+sp6.uk

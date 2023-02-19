@@ -1,0 +1,10 @@
+i2p.ca
+i2p.ch
+i2p.de
+i2p.dk
+i2p.eu
+i2p.hu
+i2p.re
+i2p.ru
+i2p.se
+i2p.to

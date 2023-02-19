@@ -1,0 +1,4 @@
+t.net.ar
+t.net.co
+t.net.pl
+t.nom.co

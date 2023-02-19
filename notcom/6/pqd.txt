@@ -1,0 +1,10 @@
+pqd.ch
+pqd.cn
+pqd.cz
+pqd.de
+pqd.in
+pqd.it
+pqd.mx
+pqd.pl
+pqd.ru
+pqd.uk

@@ -1,0 +1,14 @@
+roq.ad
+roq.be
+roq.ch
+roq.io
+roq.ir
+roq.nu
+roq.pl
+roq.ro
+roq.ru
+roq.se
+roq.su
+roq.to
+roq.uk
+roq.us

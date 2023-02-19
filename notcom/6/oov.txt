@@ -1,0 +1,12 @@
+oov.at
+oov.cc
+oov.ch
+oov.cn
+oov.in
+oov.it
+oov.me
+oov.no
+oov.pl
+oov.ru
+oov.se
+oov.uk

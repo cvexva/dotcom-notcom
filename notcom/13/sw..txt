@@ -1,0 +1,5 @@
+sw.consulting
+sw.foundation
+sw.properties
+sw.technology
+sw.university

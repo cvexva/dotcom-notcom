@@ -1,0 +1,16 @@
+ja.beer
+ja.bike
+ja.blog
+ja.chat
+ja.cool
+ja.guru
+ja.immo
+ja.land
+ja.live
+ja.luxe
+ja.plus
+ja.team
+ja.wiki
+ja.work
+ja.yoga
+ja.zone

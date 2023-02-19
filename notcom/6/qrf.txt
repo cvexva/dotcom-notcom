@@ -1,0 +1,13 @@
+qrf.be
+qrf.ch
+qrf.cn
+qrf.co
+qrf.eu
+qrf.fr
+qrf.in
+qrf.it
+qrf.me
+qrf.pl
+qrf.ru
+qrf.se
+qrf.uk

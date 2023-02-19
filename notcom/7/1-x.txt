@@ -1,0 +1,8 @@
+1-x.app
+1-x.dev
+1-x.net
+1-x.org
+1-x.top
+1-x.vip
+1-x.xyz
+1-xt.ru

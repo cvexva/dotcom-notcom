@@ -1,0 +1,13 @@
+zle.cc
+zle.ch
+zle.eu
+zle.hu
+zle.io
+zle.it
+zle.lc
+zle.me
+zle.ru
+zle.si
+zle.sk
+zle.uk
+zle.uz

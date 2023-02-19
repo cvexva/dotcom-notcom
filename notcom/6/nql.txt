@@ -1,0 +1,8 @@
+nql.ch
+nql.de
+nql.fr
+nql.it
+nql.no
+nql.pl
+nql.ru
+nql.uk

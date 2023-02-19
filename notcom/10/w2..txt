@@ -1,0 +1,5 @@
+w2.capital
+w2.country
+w2.digital
+w2.finance
+w2.rentals

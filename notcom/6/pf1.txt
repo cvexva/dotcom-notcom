@@ -1,0 +1,8 @@
+pf1.ca
+pf1.de
+pf1.eu
+pf1.it
+pf1.jp
+pf1.ru
+pf1.uk
+pf1.us

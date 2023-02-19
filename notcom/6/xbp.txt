@@ -1,0 +1,11 @@
+xbp.cc
+xbp.ch
+xbp.cz
+xbp.de
+xbp.eu
+xbp.io
+xbp.it
+xbp.pl
+xbp.ru
+xbp.uk
+xbp.ws

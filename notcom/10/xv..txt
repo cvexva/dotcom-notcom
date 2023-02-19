@@ -1,0 +1,6 @@
+xv.capital
+xv.country
+xv.digital
+xv.fashion
+xv.limited
+xv.network

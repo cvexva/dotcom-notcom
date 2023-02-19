@@ -1,0 +1,14 @@
+jw.capital
+jw.company
+jw.contact
+jw.country
+jw.cruises
+jw.digital
+jw.fashion
+jw.fitness
+jw.gallery
+jw.holiday
+jw.kitchen
+jw.network
+jw.rentals
+jw.support

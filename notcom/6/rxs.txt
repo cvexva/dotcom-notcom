@@ -1,0 +1,15 @@
+rxs.at
+rxs.be
+rxs.ch
+rxs.co
+rxs.cz
+rxs.fi
+rxs.fr
+rxs.it
+rxs.nl
+rxs.pl
+rxs.ro
+rxs.ru
+rxs.se
+rxs.to
+rxs.uk

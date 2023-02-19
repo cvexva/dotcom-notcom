@@ -1,0 +1,10 @@
+2j.actor
+2j.bingo
+2j.boats
+2j.co.th
+2j.co.uk
+2j.gives
+2j.irish
+2j.legal
+2j.movie
+2j.world

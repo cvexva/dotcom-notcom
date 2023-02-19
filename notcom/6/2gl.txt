@@ -1,0 +1,3 @@
+2gl.it
+2gl.rs
+2gl.ru

@@ -1,0 +1,14 @@
+ko.academy
+ko.careers
+ko.contact
+ko.cooking
+ko.country
+ko.digital
+ko.domains
+ko.fashion
+ko.finance
+ko.fitness
+ko.kitchen
+ko.network
+ko.support
+ko.wedding

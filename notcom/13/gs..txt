@@ -1,0 +1,6 @@
+gs.creditcard
+gs.foundation
+gs.healthcare
+gs.immobilien
+gs.ostroda.pl
+gs.technology

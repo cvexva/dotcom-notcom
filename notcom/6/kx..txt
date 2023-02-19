@@ -1,0 +1,14 @@
+kx.app
+kx.biz
+kx.fit
+kx.fyi
+kx.ink
+kx.law
+kx.mom
+kx.net
+kx.org
+kx.run
+kx.tel
+kx.vip
+kx.wtf
+kx.xyz

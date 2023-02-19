@@ -1,0 +1,15 @@
+pr.academy
+pr.company
+pr.contact
+pr.cooking
+pr.country
+pr.digital
+pr.express
+pr.fashion
+pr.finance
+pr.fitness
+pr.hamburg
+pr.network
+pr.reviews
+pr.systems
+pr.whoswho

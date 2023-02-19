@@ -1,0 +1,11 @@
+di0.app
+di0.cat
+di0.dev
+di0.net
+di0.org
+di0.run
+di0.top
+di0.xyz
+di01.ru
+di03.cn
+di09.be

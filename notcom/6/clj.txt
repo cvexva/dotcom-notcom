@@ -1,0 +1,13 @@
+clj.be
+clj.ch
+clj.cn
+clj.co
+clj.ee
+clj.fr
+clj.it
+clj.jp
+clj.mx
+clj.pl
+clj.ru
+clj.se
+clj.vn

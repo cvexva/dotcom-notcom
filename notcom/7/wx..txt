@@ -1,0 +1,13 @@
+wx.chat
+wx.city
+wx.club
+wx.cool
+wx.cyou
+wx.life
+wx.plus
+wx.show
+wx.surf
+wx.team
+wx.work
+wx.yoga
+wx.zone

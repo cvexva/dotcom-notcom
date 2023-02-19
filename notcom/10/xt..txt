@@ -1,0 +1,8 @@
+xt.abogado
+xt.capital
+xt.country
+xt.digital
+xt.fashion
+xt.lviv.ua
+xt.network
+xt.systems

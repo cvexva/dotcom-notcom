@@ -1,0 +1,13 @@
+mn.abogado
+mn.auction
+mn.careers
+mn.contact
+mn.country
+mn.coupons
+mn.digital
+mn.domains
+mn.fashion
+mn.kitchen
+mn.rentals
+mn.systems
+mn.whoswho

@@ -1,0 +1,7 @@
+d3x.biz
+d3x.dev
+d3x.llc
+d3x.net
+d3x.org
+d3x.xyz
+d3xs.pl

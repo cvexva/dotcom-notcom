@@ -1,0 +1,16 @@
+ps1.at
+ps1.ch
+ps1.dk
+ps1.fr
+ps1.in
+ps1.ir
+ps1.jp
+ps1.kr
+ps1.nl
+ps1.nz
+ps1.pl
+ps1.ru
+ps1.se
+ps1.su
+ps1.uk
+ps1.us

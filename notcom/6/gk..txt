@@ -1,0 +1,12 @@
+gk.biz
+gk.dev
+gk.fit
+gk.fyi
+gk.ink
+gk.law
+gk.lol
+gk.net
+gk.org
+gk.vip
+gk.win
+gk.wtf

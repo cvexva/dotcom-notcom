@@ -1,0 +1,5 @@
+ie6.de
+ie6.jp
+ie6.pl
+ie6.ru
+ie6.uk

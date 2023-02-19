@@ -1,0 +1,10 @@
+x-e.ch
+x-e.de
+x-e.dk
+x-e.is
+x-e.nl
+x-e.pl
+x-e.ro
+x-e.ru
+x-e.uk
+x-e.uz

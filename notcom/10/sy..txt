@@ -1,0 +1,6 @@
+sy.capital
+sy.contact
+sy.country
+sy.digital
+sy.fashion
+sy.whoswho

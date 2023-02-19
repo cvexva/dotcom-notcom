@@ -1,0 +1,8 @@
+b06.at
+b06.cc
+b06.cm
+b06.de
+b06.eu
+b06.fr
+b06.nl
+b06.ru

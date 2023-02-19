@@ -1,0 +1,15 @@
+sn.aco
+sn.app
+sn.bet
+sn.biz
+sn.cab
+sn.dev
+sn.fit
+sn.fyi
+sn.law
+sn.mba
+sn.net
+sn.org
+sn.pub
+sn.vip
+sn.wtf

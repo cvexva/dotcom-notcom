@@ -1,0 +1,11 @@
+x-d.ca
+x-d.ch
+x-d.cl
+x-d.eu
+x-d.in
+x-d.io
+x-d.it
+x-d.me
+x-d.nl
+x-d.ru
+x-d.uk

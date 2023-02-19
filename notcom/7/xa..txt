@@ -1,0 +1,11 @@
+xa.chat
+xa.city
+xa.fail
+xa.gold
+xa.kiwi
+xa.live
+xa.news
+xa.plus
+xa.team
+xa.work
+xa.zone

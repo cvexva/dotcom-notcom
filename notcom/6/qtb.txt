@@ -1,0 +1,9 @@
+qtb.ch
+qtb.de
+qtb.it
+qtb.nl
+qtb.pl
+qtb.ru
+qtb.se
+qtb.sk
+qtb.uk

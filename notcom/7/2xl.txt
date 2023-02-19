@@ -1,0 +1,6 @@
+2xl.dev
+2xl.fun
+2xl.net
+2xl.org
+2xl.top
+2xl.xyz

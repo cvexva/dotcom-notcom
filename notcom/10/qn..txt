@@ -1,0 +1,5 @@
+qn.academy
+qn.company
+qn.country
+qn.fashion
+qn.network

@@ -1,0 +1,12 @@
+r12.at
+r12.be
+r12.ch
+r12.cn
+r12.dk
+r12.fr
+r12.pl
+r12.ru
+r12.se
+r12.sk
+r12.uk
+r12.us

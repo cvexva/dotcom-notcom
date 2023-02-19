@@ -1,0 +1,6 @@
+ga1.ch
+ga1.cz
+ga1.eu
+ga1.pl
+ga1.ru
+ga1.se

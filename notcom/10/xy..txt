@@ -1,0 +1,11 @@
+xy.abogado
+xy.capital
+xy.company
+xy.contact
+xy.country
+xy.digital
+xy.fashion
+xy.finance
+xy.jewelry
+xy.limited
+xy.network

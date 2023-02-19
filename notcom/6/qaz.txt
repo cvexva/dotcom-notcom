@@ -1,0 +1,17 @@
+qaz.be
+qaz.ca
+qaz.dk
+qaz.es
+qaz.eu
+qaz.fi
+qaz.im
+qaz.in
+qaz.jp
+qaz.lt
+qaz.pl
+qaz.ro
+qaz.ru
+qaz.se
+qaz.su
+qaz.uk
+qaz.vn

@@ -1,0 +1,11 @@
+tzf.at
+tzf.ca
+tzf.cc
+tzf.ch
+tzf.de
+tzf.fr
+tzf.it
+tzf.jp
+tzf.pl
+tzf.ru
+tzf.uk

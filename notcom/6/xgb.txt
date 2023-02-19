@@ -1,0 +1,11 @@
+xgb.ch
+xgb.cn
+xgb.cv
+xgb.de
+xgb.eu
+xgb.hu
+xgb.it
+xgb.nl
+xgb.ru
+xgb.se
+xgb.uk

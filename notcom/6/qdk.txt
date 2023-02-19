@@ -1,0 +1,8 @@
+qdk.at
+qdk.ch
+qdk.cn
+qdk.de
+qdk.it
+qdk.nl
+qdk.pw
+qdk.ru

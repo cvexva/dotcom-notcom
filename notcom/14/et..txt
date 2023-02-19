@@ -1,0 +1,4 @@
+et.domain.name
+et.investments
+et.productions
+et.xn--vuq861b

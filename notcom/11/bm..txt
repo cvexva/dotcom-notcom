@@ -1,0 +1,7 @@
+bm.boutique
+bm.bytom.pl
+bm.cleaning
+bm.exchange
+bm.holdings
+bm.services
+bm.ventures

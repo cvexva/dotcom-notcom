@@ -1,0 +1,6 @@
+2pu.cc
+2pu.de
+2pu.in
+2pu.pl
+2pu.ru
+2pu.sh

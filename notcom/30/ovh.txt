@@ -1,0 +1,4 @@
+ovhcloud-partner-program.cloud
+ovhcloud-startup-program.cloud
+ovhdigitallaunchpadprogram.net
+ovhdigitallaunchpadprogram.org

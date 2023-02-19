@@ -1,0 +1,11 @@
+cfq.ch
+cfq.co
+cfq.de
+cfq.fr
+cfq.it
+cfq.nl
+cfq.pt
+cfq.ru
+cfq.se
+cfq.uk
+cfq.us

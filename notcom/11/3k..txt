@@ -1,0 +1,4 @@
+3k.business
+3k.football
+3k.radom.pl
+3k.software

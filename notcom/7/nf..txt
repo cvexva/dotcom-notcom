@@ -1,0 +1,16 @@
+nf.baby
+nf.bond
+nf.buzz
+nf.cafe
+nf.chat
+nf.club
+nf.fund
+nf.life
+nf.live
+nf.plus
+nf.team
+nf.town
+nf.toys
+nf.wiki
+nf.wine
+nf.yoga

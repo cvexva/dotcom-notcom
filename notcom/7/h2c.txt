@@ -1,0 +1,11 @@
+h2c.app
+h2c.dev
+h2c.fun
+h2c.net
+h2c.org
+h2ce.ru
+h2cl.de
+h2cm.nl
+h2co.eu
+h2cu.it
+h2cz.cz

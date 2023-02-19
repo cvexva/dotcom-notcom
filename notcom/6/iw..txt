@@ -1,0 +1,11 @@
+iw.app
+iw.biz
+iw.dev
+iw.fit
+iw.fyi
+iw.law
+iw.net
+iw.org
+iw.run
+iw.vip
+iw.wtf

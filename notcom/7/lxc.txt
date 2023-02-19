@@ -1,0 +1,16 @@
+lxc.app
+lxc.ink
+lxc.net
+lxc.org
+lxc.ovh
+lxc.pub
+lxc.ren
+lxc.vip
+lxc.xyz
+lxch.cn
+lxch.eu
+lxcl.gq
+lxcn.co
+lxco.de
+lxcr.ch
+lxcr.pt

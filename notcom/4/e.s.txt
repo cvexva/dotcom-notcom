@@ -1,0 +1,6 @@
+e.sb
+e.sc
+e.sh
+e.so
+e.st
+e.sy

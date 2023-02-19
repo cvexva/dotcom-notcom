@@ -1,0 +1,17 @@
+ypc.am
+ypc.be
+ypc.ch
+ypc.co
+ypc.dk
+ypc.fr
+ypc.io
+ypc.it
+ypc.jp
+ypc.kr
+ypc.nl
+ypc.pl
+ypc.ro
+ypc.ru
+ypc.se
+ypc.uk
+ypc.yt

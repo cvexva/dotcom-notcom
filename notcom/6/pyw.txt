@@ -1,0 +1,11 @@
+pyw.at
+pyw.cc
+pyw.cn
+pyw.de
+pyw.es
+pyw.eu
+pyw.it
+pyw.nl
+pyw.pl
+pyw.ru
+pyw.se

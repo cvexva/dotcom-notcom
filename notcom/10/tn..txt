@@ -1,0 +1,16 @@
+tn.academy
+tn.capital
+tn.company
+tn.contact
+tn.cooking
+tn.country
+tn.dentist
+tn.fashion
+tn.finance
+tn.fitness
+tn.forsale
+tn.network
+tn.rentals
+tn.support
+tn.wedding
+tn.whoswho

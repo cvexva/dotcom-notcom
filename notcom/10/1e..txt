@@ -1,0 +1,7 @@
+1e.charity
+1e.company
+1e.country
+1e.digital
+1e.fishing
+1e.monster
+1e.wedding

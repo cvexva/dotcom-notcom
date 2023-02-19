@@ -1,0 +1,10 @@
+qdt.ai
+qdt.ch
+qdt.cn
+qdt.eu
+qdt.jp
+qdt.pl
+qdt.ru
+qdt.uk
+qdt.us
+qdt.vn

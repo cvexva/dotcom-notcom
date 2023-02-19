@@ -1,0 +1,9 @@
+ou.academy
+ou.company
+ou.contact
+ou.cooking
+ou.country
+ou.domains
+ou.fashion
+ou.network
+ou.wedding

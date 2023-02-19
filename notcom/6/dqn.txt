@@ -1,0 +1,11 @@
+dqn.be
+dqn.cc
+dqn.ch
+dqn.de
+dqn.eu
+dqn.it
+dqn.me
+dqn.nl
+dqn.ru
+dqn.uk
+dqn.vn

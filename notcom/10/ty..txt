@@ -1,0 +1,8 @@
+ty.contact
+ty.cooking
+ty.country
+ty.digital
+ty.fashion
+ty.limited
+ty.network
+ty.wedding

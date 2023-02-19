@@ -1,0 +1,6 @@
+gt.domain.name
+gt.engineering
+gt.enterprises
+gt.investments
+gt.xn--czr694b
+gt.xn--vuq861b

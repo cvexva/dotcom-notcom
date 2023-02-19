@@ -1,0 +1,17 @@
+pcd.by
+pcd.ch
+pcd.co
+pcd.cz
+pcd.ir
+pcd.kr
+pcd.la
+pcd.lu
+pcd.no
+pcd.nu
+pcd.nz
+pcd.ps
+pcd.ru
+pcd.se
+pcd.sk
+pcd.so
+pcd.su

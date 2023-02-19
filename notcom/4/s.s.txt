@@ -1,0 +1,8 @@
+s.sb
+s.sc
+s.sg
+s.sh
+s.si
+s.st
+s.sv
+s.sx

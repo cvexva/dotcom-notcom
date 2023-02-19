@@ -1,0 +1,16 @@
+wh.cafe
+wh.care
+wh.cash
+wh.chat
+wh.city
+wh.club
+wh.farm
+wh.immo
+wh.life
+wh.page
+wh.plus
+wh.sale
+wh.show
+wh.team
+wh.work
+wh.yoga

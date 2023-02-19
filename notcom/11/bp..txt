@@ -1,0 +1,5 @@
+bp.business
+bp.clothing
+bp.partners
+bp.software
+bp.ventures

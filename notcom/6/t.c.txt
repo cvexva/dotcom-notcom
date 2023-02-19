@@ -1,0 +1,7 @@
+t.cafe
+t.camp
+t.care
+t.casa
+t.cash
+t.city
+t.cool

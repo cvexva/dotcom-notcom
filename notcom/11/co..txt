@@ -1,0 +1,6 @@
+co.business
+co.lundbeck
+co.seoul.kr
+co.shopping
+co.software
+co.ventures

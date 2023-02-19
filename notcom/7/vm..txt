@@ -1,0 +1,15 @@
+vm.cash
+vm.chat
+vm.city
+vm.club
+vm.cyou
+vm.farm
+vm.gold
+vm.guru
+vm.immo
+vm.link
+vm.team
+vm.tips
+vm.wiki
+vm.wine
+vm.work

@@ -1,0 +1,13 @@
+nk.biz
+nk.cab
+nk.cpa
+nk.dev
+nk.fit
+nk.fyi
+nk.law
+nk.net
+nk.org
+nk.run
+nk.tel
+nk.vip
+nk.wtf

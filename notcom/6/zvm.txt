@@ -1,0 +1,12 @@
+zvm.be
+zvm.ch
+zvm.de
+zvm.it
+zvm.lt
+zvm.nu
+zvm.pl
+zvm.ru
+zvm.se
+zvm.sk
+zvm.su
+zvm.uk

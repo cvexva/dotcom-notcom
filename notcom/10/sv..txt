@@ -1,0 +1,7 @@
+sv.academy
+sv.capital
+sv.contact
+sv.country
+sv.digital
+sv.fashion
+sv.whoswho

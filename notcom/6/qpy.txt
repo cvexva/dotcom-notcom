@@ -1,0 +1,9 @@
+qpy.ch
+qpy.de
+qpy.eu
+qpy.io
+qpy.it
+qpy.nl
+qpy.ru
+qpy.uk
+qpy.us

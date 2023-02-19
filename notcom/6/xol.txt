@@ -1,0 +1,11 @@
+xol.as
+xol.be
+xol.ch
+xol.es
+xol.fr
+xol.gr
+xol.io
+xol.it
+xol.pl
+xol.ru
+xol.uk

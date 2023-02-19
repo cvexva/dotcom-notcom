@@ -1,0 +1,15 @@
+df.app
+df.bet
+df.biz
+df.cpa
+df.dev
+df.fit
+df.fyi
+df.law
+df.net
+df.onl
+df.org
+df.tel
+df.vip
+df.wtf
+df.xyz

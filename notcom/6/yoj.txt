@@ -1,0 +1,6 @@
+yoj.de
+yoj.dk
+yoj.eu
+yoj.fr
+yoj.it
+yoj.ru

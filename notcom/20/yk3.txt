@@ -1,0 +1,2 @@
+yk3qspeechmaker.buzz
+yk3qspeechmaker.rest

@@ -1,0 +1,4 @@
+8o.bingo
+8o.boats
+8o.legal
+8o.world

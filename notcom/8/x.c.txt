@@ -1,0 +1,12 @@
+x.camera
+x.career
+x.casino
+x.center
+x.church
+x.coffee
+x.com.cn
+x.com.hr
+x.com.my
+x.com.pe
+x.com.pl
+x.com.vn

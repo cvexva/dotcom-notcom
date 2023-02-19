@@ -1,0 +1,2 @@
+e2e-check-amsterdam-v6.vlaanderen
+e2e-check-frankfurt-v6.vlaanderen

@@ -1,0 +1,9 @@
+hk.business
+hk.diamonds
+hk.discount
+hk.exchange
+hk.football
+hk.lighting
+hk.services
+hk.shopping
+hk.ventures

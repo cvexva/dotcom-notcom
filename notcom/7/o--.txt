@@ -1,0 +1,10 @@
+o--0.eu
+o--1.de
+o--c.de
+o--o.jp
+o--o.ru
+o--o.se
+o--o.su
+o--o.us
+o--s.de
+o--z.de

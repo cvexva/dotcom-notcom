@@ -1,0 +1,9 @@
+xr.apartments
+xr.consulting
+xr.creditcard
+xr.foundation
+xr.healthcare
+xr.management
+xr.properties
+xr.technology
+xr.university

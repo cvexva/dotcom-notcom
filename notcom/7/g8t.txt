@@ -1,0 +1,3 @@
+g8t.app
+g8t.net
+g8t.org

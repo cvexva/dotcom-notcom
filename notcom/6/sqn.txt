@@ -1,0 +1,17 @@
+sqn.ac
+sqn.ba
+sqn.be
+sqn.ch
+sqn.cn
+sqn.cr
+sqn.cz
+sqn.de
+sqn.eu
+sqn.in
+sqn.ir
+sqn.it
+sqn.nl
+sqn.nu
+sqn.pl
+sqn.ru
+sqn.uk

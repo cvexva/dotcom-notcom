@@ -1,0 +1,12 @@
+uwf.ao
+uwf.at
+uwf.ca
+uwf.ch
+uwf.de
+uwf.eu
+uwf.fi
+uwf.fr
+uwf.it
+uwf.ru
+uwf.uk
+uwf.uz

@@ -1,0 +1,6 @@
+sk.associates
+sk.kharkov.ua
+sk.restaurant
+sk.technology
+sk.university
+sk.wroclaw.pl

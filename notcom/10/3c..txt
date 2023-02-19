@@ -1,0 +1,8 @@
+3c.capital
+3c.company
+3c.country
+3c.digital
+3c.finance
+3c.fishing
+3c.monster
+3c.systems

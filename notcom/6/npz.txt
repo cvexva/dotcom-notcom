@@ -1,0 +1,12 @@
+npz.at
+npz.ch
+npz.co
+npz.de
+npz.fi
+npz.it
+npz.no
+npz.ru
+npz.se
+npz.sk
+npz.su
+npz.uk

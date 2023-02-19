@@ -1,0 +1,8 @@
+f0.fit
+f0.fyi
+f0.net
+f0.org
+f0.pub
+f0.tel
+f0.vip
+f0.wtf

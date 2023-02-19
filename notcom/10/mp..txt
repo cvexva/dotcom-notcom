@@ -1,0 +1,16 @@
+mp.academy
+mp.auto.pl
+mp.company
+mp.contact
+mp.cooking
+mp.country
+mp.dentist
+mp.digital
+mp.fashion
+mp.finance
+mp.network
+mp.shiksha
+mp.support
+mp.systems
+mp.wedding
+mp.whoswho

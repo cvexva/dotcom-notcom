@@ -1,0 +1,11 @@
+ms1.ae
+ms1.be
+ms1.ch
+ms1.co
+ms1.de
+ms1.es
+ms1.nl
+ms1.pl
+ms1.ru
+ms1.se
+ms1.su

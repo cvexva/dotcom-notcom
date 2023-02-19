@@ -1,0 +1,15 @@
+sxy.at
+sxy.bg
+sxy.ch
+sxy.cn
+sxy.co
+sxy.cz
+sxy.de
+sxy.eu
+sxy.it
+sxy.kr
+sxy.mx
+sxy.pl
+sxy.ru
+sxy.se
+sxy.tv

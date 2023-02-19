@@ -1,0 +1,10 @@
+km.capital
+km.company
+km.contact
+km.country
+km.digital
+km.fashion
+km.fitness
+km.trading
+km.wedding
+km.whoswho

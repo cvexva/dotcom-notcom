@@ -1,0 +1,6 @@
+cp.consulting
+cp.foundation
+cp.karpacz.pl
+cp.management
+cp.properties
+cp.technology

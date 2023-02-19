@@ -1,0 +1,13 @@
+td1.at
+td1.ch
+td1.de
+td1.eu
+td1.in
+td1.jp
+td1.pe
+td1.pt
+td1.ru
+td1.se
+td1.su
+td1.uk
+td1.us

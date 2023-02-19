@@ -1,0 +1,6 @@
+o.fashion
+o.finance
+o.fishing
+o.fitness
+o.flights
+o.florist

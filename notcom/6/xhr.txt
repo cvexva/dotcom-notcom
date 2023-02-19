@@ -1,0 +1,12 @@
+xhr.ch
+xhr.de
+xhr.eu
+xhr.it
+xhr.me
+xhr.nl
+xhr.pl
+xhr.ru
+xhr.se
+xhr.sh
+xhr.so
+xhr.uk

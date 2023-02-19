@@ -1,0 +1,11 @@
+pyu.be
+pyu.ca
+pyu.ch
+pyu.de
+pyu.eu
+pyu.fr
+pyu.it
+pyu.jp
+pyu.pl
+pyu.ru
+pyu.uk

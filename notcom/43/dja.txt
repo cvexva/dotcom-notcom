@@ -1,0 +1,8 @@
+django-admin-view-permission.readthedocs.io
+django-elasticsearch-dsl-drf.readthedocs.io
+django-notify-x2-luzfcb-fork.readthedocs.io
+django-rest-encrypted-lookup.readthedocs.io
+django-rest-framework-braces.readthedocs.io
+django-rest-framework-tricks.readthedocs.io
+django-shared-schema-tenants.readthedocs.io
+django-subscription-yourlabs.readthedocs.io

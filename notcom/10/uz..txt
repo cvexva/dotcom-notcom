@@ -1,0 +1,6 @@
+uz.academy
+uz.contact
+uz.country
+uz.express
+uz.fashion
+uz.whoswho

@@ -1,0 +1,7 @@
+jg.capital
+jg.company
+jg.country
+jg.digital
+jg.fashion
+jg.limited
+jg.wedding

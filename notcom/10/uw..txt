@@ -1,0 +1,7 @@
+uw.careers
+uw.country
+uw.digital
+uw.fashion
+uw.finance
+uw.network
+uw.systems

@@ -1,0 +1,16 @@
+42.app
+42.dev
+42.fit
+42.gay
+42.ink
+42.law
+42.net
+42.org
+42.pub
+42.rio
+42.run
+42.tel
+42.vin
+42.vip
+42.wtf
+42.xyz

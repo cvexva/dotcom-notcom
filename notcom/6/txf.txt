@@ -1,0 +1,10 @@
+txf.be
+txf.ch
+txf.de
+txf.it
+txf.nl
+txf.no
+txf.ro
+txf.ru
+txf.se
+txf.uk

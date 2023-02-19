@@ -1,0 +1,6 @@
+cf3.cl
+cf3.de
+cf3.mx
+cf3.nl
+cf3.ru
+cf3.uk

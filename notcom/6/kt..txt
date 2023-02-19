@@ -1,0 +1,14 @@
+kt.app
+kt.biz
+kt.dev
+kt.dog
+kt.fit
+kt.fyi
+kt.law
+kt.net
+kt.nrw
+kt.org
+kt.sbs
+kt.tel
+kt.vip
+kt.wtf

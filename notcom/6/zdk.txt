@@ -1,0 +1,16 @@
+zdk.at
+zdk.ba
+zdk.cc
+zdk.ch
+zdk.de
+zdk.dk
+zdk.fr
+zdk.gp
+zdk.it
+zdk.lt
+zdk.pl
+zdk.pt
+zdk.ru
+zdk.si
+zdk.su
+zdk.uk

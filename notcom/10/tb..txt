@@ -1,0 +1,12 @@
+tb.academy
+tb.auction
+tb.capital
+tb.contact
+tb.country
+tb.digital
+tb.express
+tb.fashion
+tb.kiev.ua
+tb.name.tr
+tb.network
+tb.priv.no

@@ -1,0 +1,4 @@
+7.fashion
+7.finance
+7.fitness
+7.flights

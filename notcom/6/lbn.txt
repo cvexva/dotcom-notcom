@@ -1,0 +1,16 @@
+lbn.at
+lbn.bz
+lbn.ch
+lbn.de
+lbn.fr
+lbn.hu
+lbn.is
+lbn.it
+lbn.jp
+lbn.lt
+lbn.nu
+lbn.pl
+lbn.ru
+lbn.se
+lbn.su
+lbn.uk

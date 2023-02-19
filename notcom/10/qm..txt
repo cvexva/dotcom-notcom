@@ -1,0 +1,7 @@
+qm.contact
+qm.country
+qm.digital
+qm.fashion
+qm.finance
+qm.network
+qm.systems

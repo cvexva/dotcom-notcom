@@ -1,0 +1,11 @@
+o2c.be
+o2c.ch
+o2c.de
+o2c.dk
+o2c.eu
+o2c.fi
+o2c.fr
+o2c.jp
+o2c.ru
+o2c.se
+o2c.us

@@ -1,0 +1,17 @@
+jdk.be
+jdk.ch
+jdk.cz
+jdk.de
+jdk.fr
+jdk.in
+jdk.io
+jdk.ir
+jdk.it
+jdk.no
+jdk.nu
+jdk.ru
+jdk.se
+jdk.sh
+jdk.sk
+jdk.su
+jdk.uk

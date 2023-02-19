@@ -1,0 +1,5 @@
+es5.ch
+es5.de
+es5.io
+es5.ru
+es5.su

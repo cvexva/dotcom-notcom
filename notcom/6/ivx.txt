@@ -1,0 +1,11 @@
+ivx.ag
+ivx.ch
+ivx.cn
+ivx.co
+ivx.de
+ivx.io
+ivx.it
+ivx.li
+ivx.pl
+ivx.ru
+ivx.uk

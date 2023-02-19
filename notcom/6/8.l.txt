@@ -1,0 +1,4 @@
+8.land
+8.life
+8.link
+8.luxe

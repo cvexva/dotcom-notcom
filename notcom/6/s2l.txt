@@ -1,0 +1,10 @@
+s2l.at
+s2l.ca
+s2l.ch
+s2l.de
+s2l.eu
+s2l.fr
+s2l.it
+s2l.nl
+s2l.pt
+s2l.ru

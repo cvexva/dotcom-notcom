@@ -1,0 +1,4 @@
+czujnik-temperatury.pl
+czujniki-indukcyjne.pl
+czujnikitemperatury.pl
+czulysexbarbarzynca.pl

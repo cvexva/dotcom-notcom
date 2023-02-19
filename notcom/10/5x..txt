@@ -1,0 +1,5 @@
+5x.charity
+5x.company
+5x.country
+5x.finance
+5x.fishing

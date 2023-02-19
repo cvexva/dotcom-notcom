@@ -1,0 +1,13 @@
+g0.dev
+g0.fit
+g0.fyi
+g0.ink
+g0.ist
+g0.net
+g0.org
+g0.pub
+g0.run
+g0.sbs
+g0.tel
+g0.vip
+g0.wtf

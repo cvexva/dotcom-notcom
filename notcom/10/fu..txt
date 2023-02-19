@@ -1,0 +1,9 @@
+fu.abogado
+fu.capital
+fu.country
+fu.fashion
+fu.finance
+fu.network
+fu.systems
+fu.unsa.ba
+fu.wedding

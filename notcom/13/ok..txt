@@ -1,0 +1,9 @@
+ok.creditcard
+ok.foundation
+ok.industries
+ok.management
+ok.properties
+ok.realestate
+ok.restaurant
+ok.technology
+ok.university

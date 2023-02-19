@@ -1,0 +1,17 @@
+qit.am
+qit.ch
+qit.cn
+qit.cz
+qit.de
+qit.dk
+qit.fi
+qit.kr
+qit.kz
+qit.nl
+qit.nu
+qit.qa
+qit.ru
+qit.se
+qit.sk
+qit.su
+qit.uk

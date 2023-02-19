@@ -1,0 +1,12 @@
+nf.academy
+nf.capital
+nf.company
+nf.contact
+nf.country
+nf.digital
+nf.domains
+nf.fashion
+nf.finance
+nf.gallery
+nf.systems
+nf.whoswho

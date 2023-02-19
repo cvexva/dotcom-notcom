@@ -1,0 +1,7 @@
+s1c.ch
+s1c.in
+s1c.la
+s1c.me
+s1c.ru
+s1c.se
+s1c.su

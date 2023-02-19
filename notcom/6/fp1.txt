@@ -1,0 +1,9 @@
+fp1.ch
+fp1.cn
+fp1.fr
+fp1.jp
+fp1.nl
+fp1.no
+fp1.pl
+fp1.ru
+fp1.su

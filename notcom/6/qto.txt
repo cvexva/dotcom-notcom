@@ -1,0 +1,10 @@
+qto.al
+qto.ch
+qto.de
+qto.fi
+qto.ir
+qto.it
+qto.ru
+qto.se
+qto.uk
+qto.vn

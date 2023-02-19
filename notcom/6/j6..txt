@@ -1,0 +1,8 @@
+j6.app
+j6.biz
+j6.fit
+j6.net
+j6.org
+j6.tel
+j6.vip
+j6.wtf

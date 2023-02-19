@@ -1,0 +1,17 @@
+wxl.app
+wxl.biz
+wxl.icu
+wxl.kim
+wxl.moe
+wxl.net
+wxl.one
+wxl.org
+wxl.pub
+wxl.vip
+wxla.cn
+wxlc.cn
+wxlm.de
+wxlm.fm
+wxlr.eu
+wxlr.mx
+wxly.cc

@@ -1,0 +1,16 @@
+vkg.at
+vkg.be
+vkg.ch
+vkg.co
+vkg.dk
+vkg.ee
+vkg.ir
+vkg.it
+vkg.lt
+vkg.nl
+vkg.nu
+vkg.ru
+vkg.se
+vkg.sk
+vkg.uk
+vkg.vn

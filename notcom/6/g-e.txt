@@ -1,0 +1,15 @@
+g-e.at
+g-e.be
+g-e.ch
+g-e.de
+g-e.dk
+g-e.eu
+g-e.fr
+g-e.jp
+g-e.me
+g-e.ru
+g-e.si
+g-e.sk
+g-e.su
+g-e.tw
+g-e.uz

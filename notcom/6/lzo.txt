@@ -1,0 +1,10 @@
+lzo.be
+lzo.cc
+lzo.ch
+lzo.cn
+lzo.co
+lzo.de
+lzo.it
+lzo.pl
+lzo.ru
+lzo.uk

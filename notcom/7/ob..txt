@@ -1,0 +1,12 @@
+ob.cafe
+ob.chat
+ob.city
+ob.coop
+ob.golf
+ob.guru
+ob.immo
+ob.live
+ob.plus
+ob.wiki
+ob.work
+ob.yoga

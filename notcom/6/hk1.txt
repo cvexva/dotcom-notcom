@@ -1,0 +1,6 @@
+hk1.cc
+hk1.de
+hk1.eu
+hk1.kr
+hk1.ru
+hk1.se

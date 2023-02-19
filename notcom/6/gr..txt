@@ -1,0 +1,17 @@
+gr.aco
+gr.app
+gr.biz
+gr.cpa
+gr.dev
+gr.fit
+gr.fyi
+gr.ink
+gr.law
+gr.mba
+gr.net
+gr.org
+gr.run
+gr.sbs
+gr.tax
+gr.vip
+gr.wtf

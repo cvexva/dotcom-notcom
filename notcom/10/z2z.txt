@@ -1,0 +1,3 @@
+z2z1b.bond
+z2z1t.bond
+z2zrzd.xyz

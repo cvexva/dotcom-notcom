@@ -1,0 +1,8 @@
+x-g.ch
+x-g.co
+x-g.de
+x-g.gr
+x-g.nl
+x-g.ru
+x-g.uk
+x-g.uz

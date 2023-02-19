@@ -1,0 +1,13 @@
+el.biz
+el.dog
+el.eco
+el.fit
+el.fyi
+el.law
+el.mba
+el.net
+el.org
+el.tax
+el.vin
+el.vip
+el.wtf

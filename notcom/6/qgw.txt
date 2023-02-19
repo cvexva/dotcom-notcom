@@ -1,0 +1,8 @@
+qgw.cc
+qgw.cn
+qgw.de
+qgw.eu
+qgw.it
+qgw.nl
+qgw.ru
+qgw.uk

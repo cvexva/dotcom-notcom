@@ -1,0 +1,2 @@
+vuejs-login-template-osbkgtvjwa.now.sh
+vuepress-tailwind-theme-starter.now.sh

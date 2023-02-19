@@ -1,0 +1,13 @@
+m-7.at
+m-7.cc
+m-7.ch
+m-7.co
+m-7.de
+m-7.eu
+m-7.ir
+m-7.it
+m-7.jp
+m-7.nl
+m-7.pl
+m-7.ru
+m-7.uk

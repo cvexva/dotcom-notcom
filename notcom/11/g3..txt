@@ -1,0 +1,6 @@
+g3.business
+g3.football
+g3.holdings
+g3.property
+g3.services
+g3.ventures

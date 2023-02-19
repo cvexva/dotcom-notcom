@@ -1,0 +1,10 @@
+tm3.ch
+tm3.cl
+tm3.co
+tm3.de
+tm3.it
+tm3.jp
+tm3.nl
+tm3.ru
+tm3.sk
+tm3.tv

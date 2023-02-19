@@ -1,0 +1,7 @@
+yf.capital
+yf.country
+yf.digital
+yf.fashion
+yf.finance
+yf.network
+yf.support

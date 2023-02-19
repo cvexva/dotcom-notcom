@@ -1,0 +1,2 @@
+d.photo
+d.place

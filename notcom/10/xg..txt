@@ -1,0 +1,4 @@
+xg.capital
+xg.country
+xg.fashion
+xg.network

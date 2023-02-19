@@ -1,0 +1,3 @@
+pyzamoprecelurodinu.sk
+pyzmail.readthedocs.io
+pyzwave.readthedocs.io

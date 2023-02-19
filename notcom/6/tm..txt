@@ -1,0 +1,15 @@
+tm.aco
+tm.app
+tm.bid
+tm.dev
+tm.fit
+tm.fyi
+tm.law
+tm.mba
+tm.net
+tm.org
+tm.rip
+tm.vin
+tm.vip
+tm.wtf
+tm.xyz

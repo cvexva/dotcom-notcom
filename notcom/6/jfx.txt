@@ -1,0 +1,14 @@
+jfx.ac
+jfx.cc
+jfx.ch
+jfx.cz
+jfx.de
+jfx.id
+jfx.io
+jfx.it
+jfx.me
+jfx.pl
+jfx.pt
+jfx.ru
+jfx.uk
+jfx.vn

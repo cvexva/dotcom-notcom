@@ -1,0 +1,8 @@
+s2r.app
+s2r.bar
+s2r.biz
+s2r.dev
+s2r.net
+s2r.org
+s2r.xyz
+s2rt.fr

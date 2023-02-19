@@ -1,0 +1,4 @@
+pykafka.readthedocs.io
+pykaldi.readthedocs.io
+pykemon.readthedocs.io
+pykrige.readthedocs.io

@@ -1,0 +1,6 @@
+vi.amsterdam
+vi.community
+vi.education
+vi.marketing
+vi.solutions
+vi.vacations

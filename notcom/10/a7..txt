@@ -1,0 +1,4 @@
+a7.capital
+a7.country
+a7.digital
+a7.kiev.ua

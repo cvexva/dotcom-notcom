@@ -1,0 +1,16 @@
+nm.baby
+nm.beer
+nm.care
+nm.casa
+nm.chat
+nm.fish
+nm.gold
+nm.jobs
+nm.land
+nm.life
+nm.link
+nm.live
+nm.news
+nm.wiki
+nm.work
+nm.yoga

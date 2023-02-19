@@ -1,0 +1,4 @@
+af.domain.name
+af.motorcycles
+af.photography
+af.xn--vuq861b

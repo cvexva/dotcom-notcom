@@ -1,0 +1,5 @@
+48.capital
+48.country
+48.digital
+48.fashion
+48.network

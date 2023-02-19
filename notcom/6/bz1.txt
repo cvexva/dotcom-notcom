@@ -1,0 +1,4 @@
+bz1.bz
+bz1.de
+bz1.nl
+bz1.ru

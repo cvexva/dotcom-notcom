@@ -1,0 +1,15 @@
+kk.abogado
+kk.academy
+kk.capital
+kk.company
+kk.contact
+kk.cooking
+kk.country
+kk.digital
+kk.fashion
+kk.finance
+kk.info.pl
+kk.limited
+kk.network
+kk.systems
+kk.wedding

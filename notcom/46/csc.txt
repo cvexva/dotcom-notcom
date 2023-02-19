@@ -1,0 +1,2 @@
+cscdbstest-regression-prodvip-feb25th-17.rocks
+cscdbstest-regression-prodvip-feb25th-20.vodka

@@ -1,0 +1,7 @@
+bc7.cc
+bc7.de
+bc7.eu
+bc7.it
+bc7.pl
+bc7.ru
+bc7.uk

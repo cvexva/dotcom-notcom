@@ -1,0 +1,12 @@
+ec2.cc
+ec2.ch
+ec2.de
+ec2.eu
+ec2.hk
+ec2.io
+ec2.it
+ec2.pl
+ec2.ru
+ec2.se
+ec2.sg
+ec2.uk

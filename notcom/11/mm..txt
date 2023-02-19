@@ -1,0 +1,15 @@
+mm.business
+mm.clothing
+mm.delivery
+mm.exchange
+mm.graphics
+mm.holdings
+mm.partners
+mm.pictures
+mm.plumbing
+mm.radom.pl
+mm.services
+mm.software
+mm.supplies
+mm.training
+mm.ventures

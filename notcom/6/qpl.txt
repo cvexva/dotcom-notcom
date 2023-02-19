@@ -1,0 +1,12 @@
+qpl.al
+qpl.at
+qpl.ch
+qpl.cz
+qpl.dk
+qpl.fr
+qpl.ie
+qpl.nl
+qpl.ru
+qpl.se
+qpl.su
+qpl.uk

@@ -1,0 +1,10 @@
+o10.be
+o10.cc
+o10.de
+o10.gr
+o10.no
+o10.pl
+o10.ru
+o10.se
+o10.tn
+o10.uk

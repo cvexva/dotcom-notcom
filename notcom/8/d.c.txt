@@ -1,0 +1,9 @@
+d.center
+d.coffee
+d.com.ar
+d.com.cn
+d.com.co
+d.com.mx
+d.com.pl
+d.condos
+d.credit

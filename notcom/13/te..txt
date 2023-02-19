@@ -1,0 +1,4 @@
+te.creditcard
+te.technology
+te.university
+te.yoshi.name

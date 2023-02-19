@@ -1,0 +1,12 @@
+gx.biz
+gx.dev
+gx.fit
+gx.fyi
+gx.ink
+gx.law
+gx.net
+gx.org
+gx.tel
+gx.vip
+gx.wtf
+gx.xyz

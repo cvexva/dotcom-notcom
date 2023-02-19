@@ -1,0 +1,5 @@
+g2d.be
+g2d.ch
+g2d.io
+g2d.ru
+g2d.us

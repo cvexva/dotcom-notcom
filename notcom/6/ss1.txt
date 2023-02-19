@@ -1,0 +1,12 @@
+ss1.ch
+ss1.de
+ss1.eu
+ss1.fi
+ss1.in
+ss1.it
+ss1.jp
+ss1.lv
+ss1.ru
+ss1.su
+ss1.uk
+ss1.us

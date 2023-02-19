@@ -1,0 +1,8 @@
+p6.app
+p6.fit
+p6.fyi
+p6.ink
+p6.net
+p6.org
+p6.tel
+p6.vip

@@ -1,0 +1,12 @@
+ox2.ax
+ox2.be
+ox2.ch
+ox2.co
+ox2.eu
+ox2.fi
+ox2.fr
+ox2.it
+ox2.nu
+ox2.ru
+ox2.se
+ox2.uk

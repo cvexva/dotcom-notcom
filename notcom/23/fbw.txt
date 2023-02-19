@@ -1,0 +1,9 @@
+fbwearables.blackfriday
+fbwearables.contractors
+fbwearables.engineering
+fbwearables.enterprises
+fbwearables.investments
+fbwearables.photography
+fbwearables.productions
+fbworkplaceprojects.net
+fbworkplaceprojects.org

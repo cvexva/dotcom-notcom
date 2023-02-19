@@ -1,0 +1,14 @@
+c2.army
+c2.bike
+c2.bond
+c2.care
+c2.chat
+c2.club
+c2.fund
+c2.kiwi
+c2.life
+c2.luxe
+c2.navy
+c2.team
+c2.tips
+c2.work

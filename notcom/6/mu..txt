@@ -1,0 +1,17 @@
+mu.aco
+mu.app
+mu.biz
+mu.dev
+mu.fan
+mu.fit
+mu.fyi
+mu.ink
+mu.law
+mu.mba
+mu.men
+mu.net
+mu.org
+mu.pub
+mu.sex
+mu.vin
+mu.xyz

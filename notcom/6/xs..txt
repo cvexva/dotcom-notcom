@@ -1,0 +1,13 @@
+xs.biz
+xs.dog
+xs.fit
+xs.fyi
+xs.ink
+xs.law
+xs.lol
+xs.net
+xs.ooo
+xs.org
+xs.pub
+xs.win
+xs.wtf

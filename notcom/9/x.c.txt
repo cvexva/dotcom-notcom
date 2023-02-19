@@ -1,0 +1,6 @@
+x.capital
+x.careers
+x.company
+x.cooking
+x.country
+x.cruises

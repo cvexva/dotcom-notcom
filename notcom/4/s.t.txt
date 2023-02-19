@@ -1,0 +1,8 @@
+s.tc
+s.th
+s.tk
+s.tm
+s.to
+s.tr
+s.tt
+s.tv

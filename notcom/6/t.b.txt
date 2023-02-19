@@ -1,0 +1,3 @@
+t.bank
+t.beer
+t.bike

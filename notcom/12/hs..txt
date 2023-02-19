@@ -1,0 +1,4 @@
+hs.amsterdam
+hs.community
+hs.education
+hs.marketing

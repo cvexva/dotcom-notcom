@@ -1,0 +1,12 @@
+rhq.be
+rhq.ca
+rhq.ch
+rhq.cz
+rhq.de
+rhq.fr
+rhq.it
+rhq.me
+rhq.nl
+rhq.pw
+rhq.ru
+rhq.uk

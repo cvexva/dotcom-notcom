@@ -1,0 +1,2 @@
+ll.creditcard
+ll.technology

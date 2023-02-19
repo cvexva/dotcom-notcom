@@ -1,0 +1,4 @@
+fichet-pointfort-annecy-place-des-romains.fr
+fichet-pointfort-marseille-6-centre-ville.fr
+fichet-pointfort-paris-19-laumiere-jaures.fr
+fichet-pointfort-saint-barthelemy-d-anjou.fr

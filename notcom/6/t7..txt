@@ -1,0 +1,11 @@
+t7.app
+t7.cfd
+t7.fan
+t7.fit
+t7.fyi
+t7.ink
+t7.net
+t7.org
+t7.sbs
+t7.tel
+t7.vip

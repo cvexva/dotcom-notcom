@@ -1,0 +1,14 @@
+txn.ch
+txn.cz
+txn.de
+txn.fr
+txn.io
+txn.me
+txn.my
+txn.nl
+txn.no
+txn.nu
+txn.ru
+txn.se
+txn.su
+txn.uk

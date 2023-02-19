@@ -1,0 +1,4 @@
+sg.domain.name
+sg.investments
+sg.photography
+sg.xn--czr694b

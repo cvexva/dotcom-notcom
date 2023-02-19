@@ -1,0 +1,10 @@
+ub.bank
+ub.bike
+ub.chat
+ub.city
+ub.immo
+ub.life
+ub.link
+ub.sale
+ub.wiki
+ub.yoga

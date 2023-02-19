@@ -1,0 +1,6 @@
+6n.actor
+6n.bingo
+6n.boats
+6n.homes
+6n.legal
+6n.world

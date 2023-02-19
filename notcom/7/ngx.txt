@@ -1,0 +1,16 @@
+ngx.app
+ngx.bet
+ngx.biz
+ngx.dev
+ngx.fyi
+ngx.icu
+ngx.net
+ngx.org
+ngx.pub
+ngx.vip
+ngx.xyz
+ngx3.be
+ngxe.de
+ngxl.cn
+ngxs.io
+ngxs.ru

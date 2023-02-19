@@ -1,0 +1,9 @@
+fg.biz
+fg.cpa
+fg.fit
+fg.fyi
+fg.law
+fg.net
+fg.org
+fg.vip
+fg.wtf

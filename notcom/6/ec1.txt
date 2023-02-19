@@ -1,0 +1,6 @@
+ec1.cc
+ec1.co
+ec1.fr
+ec1.ru
+ec1.se
+ec1.uk

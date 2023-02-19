@@ -1,0 +1,9 @@
+qo.app
+qo.biz
+qo.fit
+qo.fyi
+qo.law
+qo.net
+qo.org
+qo.vip
+qo.wtf

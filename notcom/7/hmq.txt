@@ -1,0 +1,16 @@
+hmq.app
+hmq.biz
+hmq.dev
+hmq.llc
+hmq.net
+hmq.one
+hmq.org
+hmq.xyz
+hmqb.cn
+hmqc.uk
+hmqr.de
+hmqr.se
+hmqs.ir
+hmqs.ru
+hmqw.cn
+hmqz.cc

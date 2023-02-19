@@ -1,0 +1,5 @@
+bp3.ch
+bp3.cn
+bp3.no
+bp3.ru
+bp3.sk

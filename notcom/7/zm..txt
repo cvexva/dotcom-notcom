@@ -1,0 +1,11 @@
+zm.care
+zm.city
+zm.cyou
+zm.life
+zm.live
+zm.page
+zm.team
+zm.wiki
+zm.work
+zm.yoga
+zm.zone

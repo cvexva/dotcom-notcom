@@ -1,0 +1,12 @@
+qd.agency
+qd.center
+qd.com.br
+qd.com.cn
+qd.com.co
+qd.com.tw
+qd.energy
+qd.expert
+qd.net.au
+qd.net.cn
+qd.org.uk
+qd.social

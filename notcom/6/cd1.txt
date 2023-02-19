@@ -1,0 +1,7 @@
+cd1.at
+cd1.ch
+cd1.dk
+cd1.jp
+cd1.kr
+cd1.ru
+cd1.uk

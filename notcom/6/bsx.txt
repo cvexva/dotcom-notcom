@@ -1,0 +1,17 @@
+bsx.at
+bsx.au
+bsx.be
+bsx.ch
+bsx.co
+bsx.de
+bsx.fi
+bsx.hu
+bsx.io
+bsx.ir
+bsx.it
+bsx.li
+bsx.me
+bsx.ru
+bsx.su
+bsx.tv
+bsx.uk

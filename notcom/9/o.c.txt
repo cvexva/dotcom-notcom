@@ -1,0 +1,5 @@
+o.capital
+o.careers
+o.company
+o.cooking
+o.country

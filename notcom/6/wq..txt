@@ -1,0 +1,9 @@
+wq.app
+wq.biz
+wq.fit
+wq.gay
+wq.law
+wq.net
+wq.org
+wq.vip
+wq.win

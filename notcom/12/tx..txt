@@ -1,0 +1,6 @@
+tx.amsterdam
+tx.community
+tx.institute
+tx.solutions
+tx.vacations
+tx.xn--vhquv

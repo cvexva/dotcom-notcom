@@ -1,0 +1,3 @@
+c8x.app
+c8x.net
+c8x.org

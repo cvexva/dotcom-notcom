@@ -1,0 +1,12 @@
+k1.band
+k1.casa
+k1.chat
+k1.club
+k1.fund
+k1.gmbh
+k1.life
+k1.live
+k1.luxe
+k1.surf
+k1.team
+k1.work

@@ -1,0 +1,4 @@
+x.fashion
+x.fishing
+x.fitness
+x.florist

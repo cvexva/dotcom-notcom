@@ -1,0 +1,11 @@
+mz.bike
+mz.care
+mz.gold
+mz.land
+mz.life
+mz.link
+mz.live
+mz.plus
+mz.wiki
+mz.work
+mz.yoga

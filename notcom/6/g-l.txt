@@ -1,0 +1,13 @@
+g-l.at
+g-l.be
+g-l.ch
+g-l.dk
+g-l.fr
+g-l.it
+g-l.jp
+g-l.nu
+g-l.ru
+g-l.se
+g-l.uk
+g-l.us
+g-l.uz

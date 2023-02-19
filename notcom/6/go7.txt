@@ -1,0 +1,16 @@
+go7.ag
+go7.at
+go7.ca
+go7.ch
+go7.cr
+go7.de
+go7.eu
+go7.fr
+go7.ir
+go7.is
+go7.lt
+go7.nl
+go7.pl
+go7.ru
+go7.uk
+go7.us

@@ -1,0 +1,11 @@
+a0.fit
+a0.fyi
+a0.ink
+a0.net
+a0.org
+a0.pub
+a0.sbs
+a0.tel
+a0.vip
+a0.wtf
+a0.xyz

@@ -1,0 +1,5 @@
+qx-cn.cn
+qx-j.net
+qx-sh.cn
+qx-sz.cn
+qx-w.xyz

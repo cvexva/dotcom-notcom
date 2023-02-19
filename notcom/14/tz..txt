@@ -1,0 +1,3 @@
+tz.domain.name
+tz.limanowa.pl
+tz.xn--vuq861b

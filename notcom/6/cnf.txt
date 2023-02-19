@@ -1,0 +1,15 @@
+cnf.be
+cnf.ca
+cnf.ch
+cnf.cz
+cnf.dk
+cnf.fi
+cnf.fr
+cnf.io
+cnf.ir
+cnf.it
+cnf.nu
+cnf.pl
+cnf.ru
+cnf.se
+cnf.uk

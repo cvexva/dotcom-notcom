@@ -1,0 +1,11 @@
+fs1.at
+fs1.ca
+fs1.ch
+fs1.de
+fs1.eu
+fs1.ir
+fs1.me
+fs1.ru
+fs1.se
+fs1.tv
+fs1.uk

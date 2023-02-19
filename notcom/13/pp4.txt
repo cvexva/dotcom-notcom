@@ -1,0 +1,4 @@
+pp4.solutions
+pp43.opole.pl
+pp44.opole.pl
+pp46.opole.pl

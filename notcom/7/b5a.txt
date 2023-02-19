@@ -1,0 +1,5 @@
+b5a.app
+b5a.biz
+b5a.net
+b5a.org
+b5ag.ch

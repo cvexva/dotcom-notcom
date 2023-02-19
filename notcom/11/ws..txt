@@ -1,0 +1,8 @@
+ws.business
+ws.computer
+ws.exchange
+ws.holdings
+ws.partners
+ws.services
+ws.sklep.pl
+ws.ventures

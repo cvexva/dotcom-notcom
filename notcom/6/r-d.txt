@@ -1,0 +1,14 @@
+r-d.be
+r-d.ca
+r-d.ch
+r-d.cz
+r-d.de
+r-d.fr
+r-d.it
+r-d.no
+r-d.pl
+r-d.ru
+r-d.tw
+r-d.uk
+r-d.us
+r-d.uz

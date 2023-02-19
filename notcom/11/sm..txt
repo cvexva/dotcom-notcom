@@ -1,0 +1,13 @@
+sm.computer
+sm.delivery
+sm.exchange
+sm.graphics
+sm.kepno.pl
+sm.opole.pl
+sm.partners
+sm.pictures
+sm.sejny.pl
+sm.sex.name
+sm.training
+sm.ventures
+sm.zagan.pl

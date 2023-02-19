@@ -1,0 +1,11 @@
+hi.business
+hi.computer
+hi.diamonds
+hi.discount
+hi.exchange
+hi.maori.nz
+hi.mortgage
+hi.services
+hi.shopping
+hi.training
+hi.ventures

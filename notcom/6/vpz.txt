@@ -1,0 +1,15 @@
+vpz.at
+vpz.ba
+vpz.be
+vpz.ch
+vpz.de
+vpz.dk
+vpz.hr
+vpz.it
+vpz.lt
+vpz.nl
+vpz.pl
+vpz.ro
+vpz.ru
+vpz.se
+vpz.uk

@@ -1,0 +1,2 @@
+sy.holdings
+sy.partners

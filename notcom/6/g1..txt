@@ -1,0 +1,11 @@
+g1.app
+g1.biz
+g1.fit
+g1.ink
+g1.ltd
+g1.net
+g1.org
+g1.pub
+g1.tel
+g1.vip
+g1.xyz

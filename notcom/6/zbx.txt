@@ -1,0 +1,11 @@
+zbx.bz
+zbx.ca
+zbx.ch
+zbx.co
+zbx.de
+zbx.it
+zbx.me
+zbx.pl
+zbx.ru
+zbx.su
+zbx.uk

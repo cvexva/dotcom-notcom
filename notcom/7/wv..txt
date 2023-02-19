@@ -1,0 +1,16 @@
+wv.army
+wv.baby
+wv.bike
+wv.camp
+wv.care
+wv.casa
+wv.chat
+wv.city
+wv.farm
+wv.golf
+wv.jobs
+wv.life
+wv.link
+wv.live
+wv.work
+wv.yoga

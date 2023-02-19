@@ -1,0 +1,7 @@
+v3.capital
+v3.country
+v3.digital
+v3.finance
+v3.monster
+v3.network
+v3.systems

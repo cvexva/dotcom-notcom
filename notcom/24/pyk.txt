@@ -1,0 +1,2 @@
+pykesmithandcutler.co.uk
+pykwalify.readthedocs.io

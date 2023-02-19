@@ -1,0 +1,14 @@
+sq.app
+sq.biz
+sq.dev
+sq.dog
+sq.fit
+sq.fyi
+sq.ink
+sq.law
+sq.net
+sq.one
+sq.org
+sq.run
+sq.tel
+sq.wtf

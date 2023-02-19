@@ -1,0 +1,10 @@
+pyq.de
+pyq.es
+pyq.eu
+pyq.io
+pyq.it
+pyq.jp
+pyq.pl
+pyq.ru
+pyq.se
+pyq.uk

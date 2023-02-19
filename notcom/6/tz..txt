@@ -1,0 +1,14 @@
+tz.aco
+tz.app
+tz.biz
+tz.cpa
+tz.fit
+tz.fyi
+tz.ink
+tz.law
+tz.mba
+tz.net
+tz.org
+tz.run
+tz.top
+tz.vip

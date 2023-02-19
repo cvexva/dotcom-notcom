@@ -1,0 +1,13 @@
+xdt.at
+xdt.ch
+xdt.cn
+xdt.de
+xdt.es
+xdt.fr
+xdt.hu
+xdt.it
+xdt.nl
+xdt.pl
+xdt.ru
+xdt.se
+xdt.uk

@@ -1,0 +1,14 @@
+wg.app
+wg.bet
+wg.biz
+wg.cpa
+wg.dog
+wg.fit
+wg.fyi
+wg.gay
+wg.law
+wg.net
+wg.org
+wg.tel
+wg.vin
+wg.wtf

@@ -1,0 +1,16 @@
+tl.aco
+tl.app
+tl.biz
+tl.cpa
+tl.fit
+tl.fyi
+tl.ink
+tl.law
+tl.mba
+tl.net
+tl.org
+tl.pub
+tl.tax
+tl.vin
+tl.vip
+tl.xyz

@@ -1,0 +1,16 @@
+wfd.am
+wfd.ch
+wfd.co
+wfd.cz
+wfd.de
+wfd.dk
+wfd.eu
+wfd.fr
+wfd.hu
+wfd.it
+wfd.ph
+wfd.pl
+wfd.pw
+wfd.ru
+wfd.se
+wfd.uk

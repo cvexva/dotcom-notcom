@@ -1,0 +1,4 @@
+6q.business
+6q.football
+6q.observer
+6q.software

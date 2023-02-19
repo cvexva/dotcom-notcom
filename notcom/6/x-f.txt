@@ -1,0 +1,10 @@
+x-f.cc
+x-f.cn
+x-f.fr
+x-f.it
+x-f.lv
+x-f.nl
+x-f.pl
+x-f.ru
+x-f.uk
+x-f.uz

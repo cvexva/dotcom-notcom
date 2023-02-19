@@ -1,0 +1,13 @@
+xu.app
+xu.biz
+xu.dog
+xu.fit
+xu.fyi
+xu.icu
+xu.ink
+xu.law
+xu.mba
+xu.net
+xu.org
+xu.tel
+xu.wtf

@@ -1,0 +1,3 @@
+i18cc6qs9m.shop
+i18n.foundation
+i18n.properties

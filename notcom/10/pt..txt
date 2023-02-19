@@ -1,0 +1,12 @@
+pt.abogado
+pt.academy
+pt.capital
+pt.contact
+pt.country
+pt.digital
+pt.express
+pt.fashion
+pt.fitness
+pt.markets
+pt.trading
+pt.whoswho

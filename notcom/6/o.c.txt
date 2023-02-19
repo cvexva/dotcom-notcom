@@ -1,0 +1,6 @@
+o.cafe
+o.casa
+o.cash
+o.city
+o.club
+o.cool

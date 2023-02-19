@@ -1,0 +1,7 @@
+v.center
+v.clinic
+v.com.cn
+v.com.co
+v.com.mx
+v.com.pl
+v.com.ua

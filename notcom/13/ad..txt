@@ -1,0 +1,6 @@
+ad.consulting
+ad.foundation
+ad.industries
+ad.management
+ad.technology
+ad.university

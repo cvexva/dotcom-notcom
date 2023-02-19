@@ -1,0 +1,15 @@
+jh.app
+jh.biz
+jh.dev
+jh.fit
+jh.fyi
+jh.ink
+jh.law
+jh.net
+jh.org
+jh.pub
+jh.run
+jh.tel
+jh.vip
+jh.wtf
+jh.xxx

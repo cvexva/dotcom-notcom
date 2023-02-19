@@ -1,0 +1,17 @@
+vcl.ch
+vcl.de
+vcl.dk
+vcl.ee
+vcl.fr
+vcl.ie
+vcl.it
+vcl.jp
+vcl.li
+vcl.lu
+vcl.lv
+vcl.me
+vcl.nl
+vcl.pl
+vcl.ru
+vcl.to
+vcl.uk

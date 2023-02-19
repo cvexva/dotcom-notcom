@@ -1,0 +1,15 @@
+qfc.cc
+qfc.ch
+qfc.cn
+qfc.de
+qfc.dk
+qfc.hu
+qfc.ie
+qfc.it
+qfc.nl
+qfc.nu
+qfc.pl
+qfc.qa
+qfc.ru
+qfc.se
+qfc.uk

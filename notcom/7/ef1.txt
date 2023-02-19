@@ -1,0 +1,13 @@
+ef1.bar
+ef1.one
+ef1.org
+ef1.xyz
+ef10.ru
+ef11.co
+ef11.ru
+ef16.at
+ef16.pl
+ef16.ru
+ef18.cn
+ef18.dk
+ef1t.ru

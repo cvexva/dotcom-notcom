@@ -1,0 +1,17 @@
+nrb.as
+nrb.be
+nrb.ch
+nrb.cz
+nrb.dk
+nrb.ie
+nrb.in
+nrb.lt
+nrb.no
+nrb.pt
+nrb.ru
+nrb.se
+nrb.sk
+nrb.su
+nrb.tv
+nrb.uk
+nrb.uy

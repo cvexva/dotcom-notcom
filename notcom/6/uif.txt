@@ -1,0 +1,17 @@
+uif.ad
+uif.ao
+uif.cc
+uif.ch
+uif.dk
+uif.fr
+uif.hu
+uif.ir
+uif.is
+uif.it
+uif.nu
+uif.pl
+uif.ru
+uif.se
+uif.uk
+uif.uz
+uif.vn

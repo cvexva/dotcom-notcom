@@ -1,0 +1,6 @@
+t.ac
+t.ai
+t.am
+t.ar
+t.at
+t.au

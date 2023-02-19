@@ -1,0 +1,16 @@
+pg.baby
+pg.cash
+pg.chat
+pg.city
+pg.club
+pg.cool
+pg.cyou
+pg.fund
+pg.gold
+pg.land
+pg.life
+pg.link
+pg.live
+pg.tips
+pg.wiki
+pg.yoga

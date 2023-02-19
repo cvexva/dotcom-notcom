@@ -1,0 +1,17 @@
+ueg.ae
+ueg.at
+ueg.br
+ueg.ch
+ueg.cn
+ueg.eu
+ueg.fr
+ueg.gg
+ueg.hu
+ueg.io
+ueg.it
+ueg.pl
+ueg.qa
+ueg.ru
+ueg.se
+ueg.uk
+ueg.uz

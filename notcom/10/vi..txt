@@ -1,0 +1,16 @@
+vi.capital
+vi.company
+vi.contact
+vi.cooking
+vi.country
+vi.digital
+vi.fashion
+vi.finance
+vi.fishing
+vi.fitness
+vi.gallery
+vi.kitchen
+vi.support
+vi.systems
+vi.wedding
+vi.whoswho

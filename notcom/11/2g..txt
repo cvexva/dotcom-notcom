@@ -1,0 +1,4 @@
+2g.business
+2g.delivery
+2g.football
+2g.software

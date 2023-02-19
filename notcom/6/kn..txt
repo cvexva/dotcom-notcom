@@ -1,0 +1,11 @@
+kn.aco
+kn.biz
+kn.dev
+kn.fit
+kn.fyi
+kn.law
+kn.net
+kn.org
+kn.run
+kn.vip
+kn.wtf

@@ -1,0 +1,14 @@
+b3.agency
+b3.beauty
+b3.berlin
+b3.com.au
+b3.com.br
+b3.com.pl
+b3.design
+b3.energy
+b3.london
+b3.makeup
+b3.net.au
+b3.net.nz
+b3.net.ua
+b3.social

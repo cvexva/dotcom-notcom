@@ -1,0 +1,14 @@
+a-2.as
+a-2.be
+a-2.cc
+a-2.ch
+a-2.cn
+a-2.de
+a-2.dk
+a-2.fr
+a-2.it
+a-2.no
+a-2.pl
+a-2.re
+a-2.ru
+a-2.se

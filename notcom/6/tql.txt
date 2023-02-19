@@ -1,0 +1,11 @@
+tql.es
+tql.eu
+tql.it
+tql.me
+tql.mx
+tql.nl
+tql.no
+tql.pl
+tql.ru
+tql.se
+tql.uk

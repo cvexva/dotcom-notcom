@@ -1,0 +1,8 @@
+x-r.ai
+x-r.ch
+x-r.dk
+x-r.fr
+x-r.nl
+x-r.ru
+x-r.se
+x-r.uk

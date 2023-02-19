@@ -1,0 +1,11 @@
+ft.academy
+ft.careers
+ft.company
+ft.contact
+ft.cooking
+ft.country
+ft.digital
+ft.fashion
+ft.finance
+ft.network
+ft.wedding

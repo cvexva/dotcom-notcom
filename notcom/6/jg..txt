@@ -1,0 +1,11 @@
+jg.app
+jg.biz
+jg.fit
+jg.fyi
+jg.ink
+jg.law
+jg.net
+jg.org
+jg.run
+jg.vip
+jg.wtf

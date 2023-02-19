@@ -1,0 +1,16 @@
+v2.cfd
+v2.dev
+v2.dog
+v2.fan
+v2.fit
+v2.fyi
+v2.ltd
+v2.net
+v2.org
+v2.pub
+v2.rip
+v2.run
+v2.tel
+v2.vip
+v2.wtf
+v2.xyz

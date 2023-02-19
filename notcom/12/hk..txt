@@ -1,0 +1,7 @@
+hk.amsterdam
+hk.community
+hk.education
+hk.financial
+hk.hisamitsu
+hk.marketing
+hk.statebank

@@ -1,0 +1,5 @@
+h5d.cc
+h5d.ch
+h5d.eu
+h5d.ru
+h5d.sk

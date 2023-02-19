@@ -1,0 +1,14 @@
+tc.audi
+tc.bike
+tc.chat
+tc.farm
+tc.guru
+tc.haus
+tc.help
+tc.life
+tc.link
+tc.live
+tc.news
+tc.team
+tc.wiki
+tc.yoga

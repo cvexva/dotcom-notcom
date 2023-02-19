@@ -1,0 +1,14 @@
+ts1.bg
+ts1.ch
+ts1.cn
+ts1.cz
+ts1.de
+ts1.ee
+ts1.eu
+ts1.in
+ts1.it
+ts1.kz
+ts1.pl
+ts1.ru
+ts1.uk
+ts1.us

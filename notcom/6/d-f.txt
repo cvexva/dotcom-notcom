@@ -1,0 +1,10 @@
+d-f.cc
+d-f.ch
+d-f.co
+d-f.de
+d-f.it
+d-f.jp
+d-f.pl
+d-f.ru
+d-f.su
+d-f.uk

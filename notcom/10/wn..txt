@@ -1,0 +1,5 @@
+wn.academy
+wn.capital
+wn.country
+wn.fashion
+wn.network

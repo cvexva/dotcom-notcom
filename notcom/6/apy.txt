@@ -1,0 +1,14 @@
+apy.am
+apy.be
+apy.ch
+apy.de
+apy.es
+apy.eu
+apy.fi
+apy.io
+apy.it
+apy.jp
+apy.pw
+apy.re
+apy.ru
+apy.uk

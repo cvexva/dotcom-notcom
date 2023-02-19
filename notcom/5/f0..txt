@@ -1,0 +1,16 @@
+f0.am
+f0.by
+f0.ca
+f0.cz
+f0.eu
+f0.gg
+f0.io
+f0.lt
+f0.nl
+f0.nu
+f0.ro
+f0.ru
+f0.se
+f0.sk
+f0.su
+f0.uk

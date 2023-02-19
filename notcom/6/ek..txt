@@ -1,0 +1,12 @@
+ek.app
+ek.biz
+ek.fit
+ek.fyi
+ek.ink
+ek.law
+ek.net
+ek.ooo
+ek.org
+ek.vin
+ek.vip
+ek.wtf

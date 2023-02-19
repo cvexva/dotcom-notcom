@@ -1,0 +1,1 @@
+rfc1035-besagt-dass-keine-domain-mehr-als-63-zeichen-haben-darf.de

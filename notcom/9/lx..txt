@@ -1,0 +1,13 @@
+lx.coffee
+lx.com.br
+lx.com.mx
+lx.com.pt
+lx.com.tw
+lx.design
+lx.energy
+lx.garden
+lx.idv.tw
+lx.luxury
+lx.market
+lx.org.uk
+lx.studio

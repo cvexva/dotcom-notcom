@@ -1,0 +1,8 @@
+zh1.app
+zh1.net
+zh1.one
+zh1.org
+zh1.top
+zh1.xyz
+zh10.ch
+zh11.ch

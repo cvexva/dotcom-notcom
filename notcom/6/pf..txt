@@ -1,0 +1,15 @@
+pf.aco
+pf.app
+pf.biz
+pf.cpa
+pf.dog
+pf.fit
+pf.fyi
+pf.ink
+pf.law
+pf.mba
+pf.net
+pf.org
+pf.vet
+pf.vin
+pf.vip

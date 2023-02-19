@@ -1,0 +1,17 @@
+dp.app
+dp.biz
+dp.cpa
+dp.dev
+dp.fit
+dp.fyi
+dp.ink
+dp.law
+dp.mba
+dp.net
+dp.org
+dp.run
+dp.tel
+dp.vet
+dp.vip
+dp.wtf
+dp.xyz

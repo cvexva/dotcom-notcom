@@ -1,0 +1,11 @@
+2tc.app
+2tc.biz
+2tc.dev
+2tc.ltd
+2tc.net
+2tc.org
+2tc.top
+2tc.xyz
+2tci.nl
+2tcs.uk
+2tcz.fr

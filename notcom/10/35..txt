@@ -1,0 +1,7 @@
+35.capital
+35.country
+35.digital
+35.domains
+35.fashion
+35.network
+35.systems

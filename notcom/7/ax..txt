@@ -1,0 +1,13 @@
+ax.bike
+ax.care
+ax.cash
+ax.club
+ax.fish
+ax.guru
+ax.immo
+ax.life
+ax.live
+ax.team
+ax.tech
+ax.wiki
+ax.work

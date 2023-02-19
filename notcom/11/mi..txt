@@ -1,0 +1,12 @@
+mi.boutique
+mi.builders
+mi.business
+mi.computer
+mi.exchange
+mi.ima.name
+mi.mortgage
+mi.opole.pl
+mi.services
+mi.shopping
+mi.software
+mi.training

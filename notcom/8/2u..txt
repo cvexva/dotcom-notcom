@@ -1,0 +1,15 @@
+2u.actor
+2u.bingo
+2u.boats
+2u.click
+2u.co.kr
+2u.co.th
+2u.co.uk
+2u.homes
+2u.in.th
+2u.legal
+2u.money
+2u.movie
+2u.or.kr
+2u.rodeo
+2u.world

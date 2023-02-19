@@ -1,0 +1,14 @@
+t1d.app
+t1d.biz
+t1d.dev
+t1d.fit
+t1d.fun
+t1d.fyi
+t1d.ltd
+t1d.net
+t1d.one
+t1d.org
+t1d.top
+t1d.wtf
+t1d.xyz
+t1dm.jp

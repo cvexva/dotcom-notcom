@@ -1,0 +1,12 @@
+tsv-derschlossgeister-muenster.de
+tsv-ergoldsbach-jugendfussball.de
+tsv-ergoldsbach-leichtathletik.de
+tsv-grosswaltersdorf-eppendorf.de
+tsv-kirchhain-schwimmen-online.de
+tsv-pfungstadt-paddelabteilung.de
+tsv-sondelfingenherrenfussball.de
+tsv-wasseralfingen-tischtennis.de
+tsvbadkissingen-leichtathletik.de
+tsvbadkoenigshofen-tischtennis.de
+tsvruppertshofenjugendfussball.de
+tsvwolfschlugen-frauenfussball.de

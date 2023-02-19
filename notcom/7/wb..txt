@@ -1,0 +1,13 @@
+wb.chat
+wb.city
+wb.cool
+wb.guru
+wb.immo
+wb.kiwi
+wb.link
+wb.live
+wb.news
+wb.team
+wb.wiki
+wb.work
+wb.yoga

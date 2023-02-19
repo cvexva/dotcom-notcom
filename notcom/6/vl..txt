@@ -1,0 +1,15 @@
+vl.app
+vl.biz
+vl.cpa
+vl.fit
+vl.fyi
+vl.ink
+vl.law
+vl.net
+vl.org
+vl.run
+vl.tel
+vl.vin
+vl.vip
+vl.wtf
+vl.xxx

@@ -1,0 +1,10 @@
+txq.cc
+txq.cn
+txq.eu
+txq.io
+txq.it
+txq.nl
+txq.pl
+txq.ru
+txq.se
+txq.uk

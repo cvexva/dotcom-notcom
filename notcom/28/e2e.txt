@@ -1,0 +1,4 @@
+e2e-check-amsterdam.brussels
+e2e-check-frankfurt.brussels
+e2e-check-london-v6.brussels
+e2e-whiteboard-jenkins.tokyo

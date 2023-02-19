@@ -1,0 +1,13 @@
+qb.academy
+qb.capital
+qb.company
+qb.country
+qb.courses
+qb.digital
+qb.express
+qb.fashion
+qb.finance
+qb.gallery
+qb.limited
+qb.network
+qb.support

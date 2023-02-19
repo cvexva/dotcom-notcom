@@ -1,0 +1,13 @@
+bi.abogado
+bi.bauhaus
+bi.capital
+bi.company
+bi.contact
+bi.country
+bi.digital
+bi.express
+bi.finance
+bi.name.tr
+bi.systems
+bi.wedding
+bi.whoswho

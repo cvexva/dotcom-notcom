@@ -1,0 +1,16 @@
+h2s.at
+h2s.ch
+h2s.cn
+h2s.de
+h2s.eu
+h2s.fr
+h2s.hu
+h2s.in
+h2s.it
+h2s.jp
+h2s.nl
+h2s.nu
+h2s.pt
+h2s.ru
+h2s.se
+h2s.su

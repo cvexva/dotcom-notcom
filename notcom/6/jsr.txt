@@ -1,0 +1,13 @@
+jsr.ae
+jsr.ch
+jsr.cl
+jsr.co
+jsr.dk
+jsr.kr
+jsr.nl
+jsr.ro
+jsr.ru
+jsr.se
+jsr.sk
+jsr.su
+jsr.uk

@@ -1,0 +1,7 @@
+rj.capital
+rj.contact
+rj.country
+rj.fashion
+rj.fitness
+rj.network
+rj.support

@@ -1,0 +1,8 @@
+hr.associates
+hr.consulting
+hr.foundation
+hr.healthcare
+hr.industries
+hr.management
+hr.technology
+hr.university

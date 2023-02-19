@@ -1,0 +1,14 @@
+po.beer
+po.care
+po.casa
+po.cash
+po.chat
+po.land
+po.life
+po.link
+po.live
+po.luxe
+po.sale
+po.work
+po.yoga
+po.zone

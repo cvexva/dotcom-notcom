@@ -1,0 +1,5 @@
+96.capital
+96.country
+96.digital
+96.fashion
+96.network

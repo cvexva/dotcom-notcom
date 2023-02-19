@@ -1,0 +1,12 @@
+rxp.at
+rxp.ch
+rxp.de
+rxp.fr
+rxp.io
+rxp.it
+rxp.nl
+rxp.ro
+rxp.ru
+rxp.se
+rxp.uk
+rxp.us

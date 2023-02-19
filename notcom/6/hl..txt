@@ -1,0 +1,12 @@
+hl.app
+hl.biz
+hl.fit
+hl.fyi
+hl.ink
+hl.law
+hl.net
+hl.org
+hl.run
+hl.tax
+hl.tel
+hl.vip

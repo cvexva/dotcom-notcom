@@ -1,0 +1,6 @@
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-augsburg.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-bayreuth.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-krumbach.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-kulmbach.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-landshut.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-miesbach.bayern

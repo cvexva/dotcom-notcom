@@ -1,0 +1,14 @@
+te.bio
+te.biz
+te.dog
+te.fit
+te.fyi
+te.law
+te.mba
+te.net
+te.org
+te.run
+te.tel
+te.vip
+te.wtf
+te.xyz

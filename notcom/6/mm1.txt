@@ -1,0 +1,11 @@
+mm1.at
+mm1.ch
+mm1.cn
+mm1.de
+mm1.ge
+mm1.in
+mm1.it
+mm1.jp
+mm1.nl
+mm1.ru
+mm1.uk

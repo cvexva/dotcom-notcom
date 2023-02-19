@@ -1,0 +1,15 @@
+qml.cc
+qml.cn
+qml.co
+qml.cz
+qml.de
+qml.es
+qml.io
+qml.it
+qml.nu
+qml.pt
+qml.ru
+qml.se
+qml.uk
+qml.us
+qml.uz

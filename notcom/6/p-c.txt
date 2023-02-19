@@ -1,0 +1,13 @@
+p-c.at
+p-c.by
+p-c.bz
+p-c.ch
+p-c.cz
+p-c.de
+p-c.fr
+p-c.jp
+p-c.nl
+p-c.ro
+p-c.ru
+p-c.uk
+p-c.uz

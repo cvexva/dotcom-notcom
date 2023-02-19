@@ -1,0 +1,4 @@
+j2a.app
+j2a.org
+j2a.xyz
+j2ab.se

@@ -1,0 +1,17 @@
+wg.bike
+wg.buzz
+wg.care
+wg.cash
+wg.chat
+wg.city
+wg.club
+wg.cool
+wg.immo
+wg.life
+wg.link
+wg.live
+wg.plus
+wg.sale
+wg.work
+wg.yoga
+wg.zone

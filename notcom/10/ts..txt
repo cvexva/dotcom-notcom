@@ -1,0 +1,14 @@
+ts.capital
+ts.company
+ts.contact
+ts.cooking
+ts.country
+ts.digital
+ts.express
+ts.fashion
+ts.holiday
+ts.kiev.ua
+ts.network
+ts.singles
+ts.support
+ts.systems

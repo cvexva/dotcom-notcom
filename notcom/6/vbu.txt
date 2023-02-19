@@ -1,0 +1,16 @@
+vbu.as
+vbu.at
+vbu.ch
+vbu.de
+vbu.fi
+vbu.hu
+vbu.it
+vbu.mk
+vbu.nl
+vbu.no
+vbu.nu
+vbu.pl
+vbu.ru
+vbu.se
+vbu.sk
+vbu.uk

@@ -1,0 +1,11 @@
+ub-2.de
+ub-a.de
+ub-d.de
+ub-e.de
+ub-f.de
+ub-i.jp
+ub-j.de
+ub-l.eu
+ub-s.de
+ub-s.ru
+ub-z.de

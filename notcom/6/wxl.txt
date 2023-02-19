@@ -1,0 +1,11 @@
+wxl.be
+wxl.cn
+wxl.de
+wxl.ir
+wxl.it
+wxl.jp
+wxl.nl
+wxl.pl
+wxl.ru
+wxl.se
+wxl.uk

@@ -1,0 +1,2 @@
+ringcentral-integration-for-hubspot.readthedocs.io
+ringcentral-sdk-for-c-documentation.readthedocs.io

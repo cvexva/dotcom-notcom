@@ -1,0 +1,16 @@
+pty.be
+pty.cc
+pty.ch
+pty.co
+pty.cz
+pty.de
+pty.ee
+pty.fi
+pty.io
+pty.it
+pty.pe
+pty.ru
+pty.se
+pty.sk
+pty.su
+pty.uk

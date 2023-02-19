@@ -1,0 +1,15 @@
+mx.abogado
+mx.capital
+mx.company
+mx.contact
+mx.country
+mx.digital
+mx.express
+mx.fashion
+mx.finance
+mx.home.pl
+mx.network
+mx.support
+mx.systems
+mx.wedding
+mx.whoswho

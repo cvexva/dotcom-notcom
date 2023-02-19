@@ -1,0 +1,10 @@
+xe.beer
+xe.bike
+xe.cash
+xe.chat
+xe.gold
+xe.jobs
+xe.life
+xe.live
+xe.work
+xe.yoga

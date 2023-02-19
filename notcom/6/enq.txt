@@ -1,0 +1,11 @@
+enq.bz
+enq.cz
+enq.de
+enq.eu
+enq.fr
+enq.io
+enq.it
+enq.no
+enq.nu
+enq.ru
+enq.se

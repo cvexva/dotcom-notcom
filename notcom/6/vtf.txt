@@ -1,0 +1,15 @@
+vtf.at
+vtf.ch
+vtf.de
+vtf.dk
+vtf.eu
+vtf.fr
+vtf.gr
+vtf.lt
+vtf.nl
+vtf.no
+vtf.pl
+vtf.ru
+vtf.se
+vtf.uk
+vtf.vn

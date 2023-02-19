@@ -1,0 +1,16 @@
+ll.app
+ll.biz
+ll.dev
+ll.fit
+ll.fyi
+ll.icu
+ll.ink
+ll.law
+ll.net
+ll.org
+ll.rip
+ll.run
+ll.vip
+ll.win
+ll.wtf
+ll.xyz

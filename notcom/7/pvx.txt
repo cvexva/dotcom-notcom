@@ -1,0 +1,8 @@
+pvx.app
+pvx.net
+pvx.one
+pvx.org
+pvx.ovh
+pvx.vip
+pvxa.ru
+pvxw.cn

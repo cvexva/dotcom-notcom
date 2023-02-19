@@ -1,0 +1,15 @@
+wz.app
+wz.biz
+wz.cab
+wz.fit
+wz.fyi
+wz.gay
+wz.ink
+wz.law
+wz.mba
+wz.net
+wz.org
+wz.run
+wz.top
+wz.vip
+wz.wtf

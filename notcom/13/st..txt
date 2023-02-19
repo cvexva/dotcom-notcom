@@ -1,0 +1,5 @@
+st.foundation
+st.industries
+st.management
+st.technology
+st.xn--czru2d

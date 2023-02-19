@@ -1,0 +1,10 @@
+8f.actor
+8f.bingo
+8f.boats
+8f.co.uk
+8f.homes
+8f.irish
+8f.legal
+8f.miami
+8f.movie
+8f.world

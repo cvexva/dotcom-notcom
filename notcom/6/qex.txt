@@ -1,0 +1,11 @@
+qex.be
+qex.ch
+qex.co
+qex.cz
+qex.de
+qex.it
+qex.pl
+qex.ru
+qex.se
+qex.sk
+qex.uk

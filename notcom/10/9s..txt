@@ -1,0 +1,5 @@
+9s.charity
+9s.country
+9s.fishing
+9s.monster
+9s.wedding

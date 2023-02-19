@@ -1,0 +1,14 @@
+zib.al
+zib.at
+zib.ch
+zib.de
+zib.fr
+zib.ir
+zib.lv
+zib.nu
+zib.pl
+zib.ru
+zib.se
+zib.si
+zib.su
+zib.uk

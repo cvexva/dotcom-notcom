@@ -1,0 +1,17 @@
+zdb.al
+zdb.at
+zdb.be
+zdb.ca
+zdb.cc
+zdb.ch
+zdb.cn
+zdb.cz
+zdb.de
+zdb.im
+zdb.it
+zdb.nl
+zdb.pl
+zdb.ru
+zdb.se
+zdb.uk
+zdb.us

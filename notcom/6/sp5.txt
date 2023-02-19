@@ -1,0 +1,8 @@
+sp5.ch
+sp5.ir
+sp5.it
+sp5.jp
+sp5.md
+sp5.pl
+sp5.ru
+sp5.uk

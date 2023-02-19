@@ -1,0 +1,14 @@
+ap3.at
+ap3.be
+ap3.by
+ap3.ch
+ap3.cn
+ap3.ee
+ap3.eu
+ap3.fr
+ap3.nl
+ap3.pl
+ap3.ro
+ap3.ru
+ap3.se
+ap3.tv

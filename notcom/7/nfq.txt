@@ -1,0 +1,11 @@
+nfq.app
+nfq.dev
+nfq.net
+nfq.one
+nfq.org
+nfq.vip
+nfq.xyz
+nfq8.cn
+nfqe.cn
+nfqt.cn
+nfqu.cn

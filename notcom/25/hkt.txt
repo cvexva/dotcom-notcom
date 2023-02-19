@@ -1,0 +1,5 @@
+hkt-cloudoffice.community
+hkt-cloudoffice.education
+hkt-commercial.technology
+hkt-skyexchange.community
+hkt-skyexchange.education

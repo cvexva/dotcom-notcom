@@ -1,0 +1,13 @@
+um.kepno.pl
+um.kutno.pl
+um.lomza.pl
+um.lubin.pl
+um.lukow.pl
+um.olawa.pl
+um.opole.pl
+um.radom.pl
+um.sejny.pl
+um.services
+um.torun.pl
+um.turek.pl
+um.zarow.pl

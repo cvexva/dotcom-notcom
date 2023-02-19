@@ -1,0 +1,12 @@
+lf.biz
+lf.dev
+lf.fit
+lf.fyi
+lf.icu
+lf.law
+lf.net
+lf.org
+lf.run
+lf.sbs
+lf.vip
+lf.wtf

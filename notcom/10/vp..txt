@@ -1,0 +1,12 @@
+vp.academy
+vp.capital
+vp.company
+vp.contact
+vp.country
+vp.coupons
+vp.express
+vp.fashion
+vp.gallery
+vp.jewelry
+vp.lviv.ua
+vp.network

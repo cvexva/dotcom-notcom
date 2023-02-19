@@ -1,0 +1,11 @@
+d5.app
+d5.biz
+d5.fit
+d5.fyi
+d5.ink
+d5.net
+d5.org
+d5.tel
+d5.vip
+d5.wtf
+d5.xyz

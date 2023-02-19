@@ -1,0 +1,4 @@
+yk.country
+yk.fashion
+yk.network
+yk.wedding

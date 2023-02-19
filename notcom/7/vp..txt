@@ -1,0 +1,13 @@
+vp.camp
+vp.care
+vp.chat
+vp.city
+vp.club
+vp.fund
+vp.immo
+vp.jobs
+vp.sale
+vp.team
+vp.town
+vp.wine
+vp.work

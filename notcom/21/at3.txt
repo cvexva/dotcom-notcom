@@ -1,0 +1,2 @@
+at32uc3a0512-alut.top
+at32uc3c264c-a2ut.top

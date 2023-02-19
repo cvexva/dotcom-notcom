@@ -1,0 +1,2 @@
+ttkprotectivedevices.info
+ttkwidgets.readthedocs.io

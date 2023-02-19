@@ -1,0 +1,5 @@
+pl.delivery
+pl.exchange
+pl.opole.pl
+pl.slask.pl
+pl.ventures

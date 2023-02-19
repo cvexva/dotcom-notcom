@@ -1,0 +1,8 @@
+ar1.ch
+ar1.de
+ar1.fr
+ar1.pl
+ar1.ru
+ar1.se
+ar1.uk
+ar1.us

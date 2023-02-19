@@ -1,0 +1,15 @@
+qsc-business-launch.info
+qsc-business-partner.biz
+qsc-business-partner.net
+qsc-business-partner.org
+qsc-exklusiv-partner.biz
+qsc-exklusiv-partner.net
+qsc-exklusiv-partner.org
+qsc-express-service.info
+qsc-managed-services.biz
+qsc-managed-services.net
+qsc-managed-services.org
+qsc-partnerprogramm.info
+qscommunications-dsl.biz
+qscommunications-dsl.net
+qscommunications-dsl.org

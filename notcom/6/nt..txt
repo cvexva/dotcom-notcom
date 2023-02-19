@@ -1,0 +1,16 @@
+nt.app
+nt.biz
+nt.cpa
+nt.dev
+nt.fit
+nt.fyi
+nt.ink
+nt.law
+nt.net
+nt.org
+nt.rip
+nt.run
+nt.tel
+nt.vip
+nt.wtf
+nt.xyz

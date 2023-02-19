@@ -1,0 +1,10 @@
+qbk.app
+qbk.biz
+qbk.net
+qbk.org
+qbk.vip
+qbk.xyz
+qbki.pl
+qbko.it
+qbko.ru
+qbkv.cn

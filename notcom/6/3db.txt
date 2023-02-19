@@ -1,0 +1,13 @@
+3db.be
+3db.ch
+3db.de
+3db.eu
+3db.fr
+3db.in
+3db.it
+3db.kz
+3db.no
+3db.pl
+3db.ru
+3db.se
+3db.uk

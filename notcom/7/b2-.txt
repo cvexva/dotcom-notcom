@@ -1,0 +1,6 @@
+b2-a.fr
+b2-b.ru
+b2-c.de
+b2-c.ru
+b2-g.de
+b2-k.de

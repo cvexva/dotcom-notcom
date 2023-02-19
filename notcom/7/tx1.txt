@@ -1,0 +1,14 @@
+tx1.biz
+tx1.fun
+tx1.mom
+tx1.net
+tx1.one
+tx1.org
+tx1.ovh
+tx1.top
+tx1.vin
+tx1.wtf
+tx1.xyz
+tx11.dk
+tx11.tv
+tx19.cn

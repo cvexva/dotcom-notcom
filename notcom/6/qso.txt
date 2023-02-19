@@ -1,0 +1,11 @@
+qso.by
+qso.ch
+qso.cl
+qso.hu
+qso.jp
+qso.nl
+qso.pl
+qso.ru
+qso.sa
+qso.se
+qso.uk

@@ -1,0 +1,8 @@
+g4u.app
+g4u.dev
+g4u.fun
+g4u.net
+g4u.one
+g4u.org
+g4u.top
+g4u.xyz

@@ -1,0 +1,13 @@
+pkz.be
+pkz.ch
+pkz.co
+pkz.eu
+pkz.fr
+pkz.jp
+pkz.kz
+pkz.nl
+pkz.pl
+pkz.ru
+pkz.sk
+pkz.su
+pkz.uk

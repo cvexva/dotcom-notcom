@@ -1,0 +1,6 @@
+n0.capital
+n0.company
+n0.country
+n0.fashion
+n0.monster
+n0.network

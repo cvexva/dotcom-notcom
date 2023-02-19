@@ -1,0 +1,8 @@
+d6.app
+d6.fit
+d6.fyi
+d6.ink
+d6.net
+d6.org
+d6.pub
+d6.vip

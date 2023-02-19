@@ -1,0 +1,11 @@
+up.associates
+up.consulting
+up.foundation
+up.healthcare
+up.industries
+up.ketrzyn.pl
+up.management
+up.properties
+up.technology
+up.university
+up.wroclaw.pl

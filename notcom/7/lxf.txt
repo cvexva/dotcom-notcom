@@ -1,0 +1,11 @@
+lxf.app
+lxf.biz
+lxf.dev
+lxf.net
+lxf.org
+lxf.vin
+lxf.vip
+lxf.xyz
+lxfc.cn
+lxfp.cn
+lxfx.de

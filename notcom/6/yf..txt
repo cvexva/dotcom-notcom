@@ -1,0 +1,10 @@
+yf.app
+yf.biz
+yf.fit
+yf.fyi
+yf.law
+yf.net
+yf.org
+yf.run
+yf.vip
+yf.wtf

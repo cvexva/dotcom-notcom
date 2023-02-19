@@ -1,0 +1,16 @@
+eq.app
+eq.biz
+eq.dev
+eq.eco
+eq.fit
+eq.fyi
+eq.law
+eq.net
+eq.ooo
+eq.org
+eq.run
+eq.vet
+eq.vin
+eq.vip
+eq.wtf
+eq.xyz

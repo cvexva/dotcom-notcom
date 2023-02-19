@@ -1,0 +1,9 @@
+myv.at
+myv.ch
+myv.cl
+myv.fr
+myv.it
+myv.pl
+myv.ru
+myv.se
+myv.uk

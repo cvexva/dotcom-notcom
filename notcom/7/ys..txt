@@ -1,0 +1,12 @@
+ys.chat
+ys.city
+ys.club
+ys.cool
+ys.gold
+ys.immo
+ys.life
+ys.link
+ys.live
+ys.plus
+ys.town
+ys.yoga

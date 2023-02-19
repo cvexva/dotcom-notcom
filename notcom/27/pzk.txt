@@ -1,0 +1,8 @@
+pzkpfw1-ausf-a-sdkfz101.xyz
+pzkpfw1-ausf-b-sdkfz101.xyz
+pzkpfw3-ausf-a-sdkfz141.xyz
+pzkpfw3-ausf-b-sdkfz141.xyz
+pzkpfw3-ausf-c-sdkfz141.xyz
+pzkpfw3-ausf-d-sdkfz141.xyz
+pzkpfw3-ausf-e-sdkfz141.xyz
+pzkpfw4-hydrostatischem.xyz

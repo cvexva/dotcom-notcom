@@ -1,0 +1,9 @@
+ig.business
+ig.computer
+ig.graphics
+ig.holdings
+ig.partners
+ig.pictures
+ig.services
+ig.shopping
+ig.software

@@ -1,0 +1,4 @@
+g5.asso.fr
+g5.capital
+g5.country
+g5.network

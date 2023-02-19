@@ -1,0 +1,2 @@
+ansible-tips-and-tricks.readthedocs.io
+answerstoallyourrealestaequestions.org

@@ -1,0 +1,15 @@
+us1.app
+us1.bet
+us1.biz
+us1.dev
+us1.net
+us1.one
+us1.org
+us1.tel
+us1.top
+us1.xyz
+us10.cn
+us11.pt
+us15.cn
+us16.cn
+us1s.ru

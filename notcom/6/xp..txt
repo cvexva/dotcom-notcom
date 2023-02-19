@@ -1,0 +1,16 @@
+xp.app
+xp.biz
+xp.dev
+xp.fit
+xp.fyi
+xp.inc
+xp.ink
+xp.law
+xp.net
+xp.onl
+xp.run
+xp.sbs
+xp.tax
+xp.tel
+xp.vip
+xp.wtf

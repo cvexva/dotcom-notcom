@@ -1,0 +1,16 @@
+zsh.be
+zsh.ca
+zsh.ch
+zsh.co
+zsh.de
+zsh.eu
+zsh.hu
+zsh.io
+zsh.ir
+zsh.it
+zsh.li
+zsh.ru
+zsh.se
+zsh.sh
+zsh.su
+zsh.uk

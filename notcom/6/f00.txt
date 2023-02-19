@@ -1,0 +1,8 @@
+f00.ch
+f00.fr
+f00.in
+f00.jp
+f00.nl
+f00.ru
+f00.se
+f00.uk

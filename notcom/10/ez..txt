@@ -1,0 +1,16 @@
+ez.abogado
+ez.academy
+ez.capital
+ez.club.tw
+ez.company
+ez.contact
+ez.country
+ez.digital
+ez.fashion
+ez.fitness
+ez.flights
+ez.gallery
+ez.kitchen
+ez.recipes
+ez.rentals
+ez.wedding

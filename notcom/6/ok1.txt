@@ -1,0 +1,10 @@
+ok1.ch
+ok1.cz
+ok1.de
+ok1.lt
+ok1.lv
+ok1.me
+ok1.pl
+ok1.ru
+ok1.se
+ok1.uk

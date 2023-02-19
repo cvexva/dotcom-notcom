@@ -1,0 +1,7 @@
+h2.consulting
+h2.foundation
+h2.healthcare
+h2.immobilien
+h2.industries
+h2.properties
+h2.technology

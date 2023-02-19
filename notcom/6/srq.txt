@@ -1,0 +1,10 @@
+srq.be
+srq.ch
+srq.de
+srq.it
+srq.jp
+srq.nu
+srq.re
+srq.ru
+srq.se
+srq.uk

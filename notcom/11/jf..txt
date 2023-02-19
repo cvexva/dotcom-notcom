@@ -1,0 +1,3 @@
+jf.business
+jf.exchange
+jf.ventures

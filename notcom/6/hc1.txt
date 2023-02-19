@@ -1,0 +1,5 @@
+hc1.ch
+hc1.cz
+hc1.it
+hc1.jp
+hc1.ru

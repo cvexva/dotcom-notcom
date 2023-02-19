@@ -1,0 +1,12 @@
+tz.beer
+tz.cash
+tz.club
+tz.link
+tz.live
+tz.luxe
+tz.team
+tz.wang
+tz.wiki
+tz.work
+tz.yoga
+tz.zone

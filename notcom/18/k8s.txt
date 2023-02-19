@@ -1,0 +1,10 @@
+k8s-adapter.online
+k8s-conversica.org
+k8s-demo-9999.link
+k8s-majasi-tfg.xyz
+k8s-operator.cloud
+k8s.readthedocs.io
+k8sclusteradmin.uk
+k8sengineers.co.uk
+k8sforvadmins.info
+k8slots.foundation

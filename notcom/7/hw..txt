@@ -1,0 +1,12 @@
+hw.care
+hw.chat
+hw.life
+hw.link
+hw.live
+hw.luxe
+hw.news
+hw.shop
+hw.show
+hw.site
+hw.work
+hw.zone

@@ -1,0 +1,16 @@
+c99.at
+c99.cc
+c99.ch
+c99.co
+c99.de
+c99.eu
+c99.in
+c99.it
+c99.me
+c99.mn
+c99.nl
+c99.ru
+c99.se
+c99.sh
+c99.uk
+c99.vn

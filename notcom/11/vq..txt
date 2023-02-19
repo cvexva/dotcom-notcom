@@ -1,0 +1,2 @@
+vq.delivery
+vq.software

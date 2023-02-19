@@ -1,0 +1,9 @@
+bqn.at
+bqn.be
+bqn.ch
+bqn.eu
+bqn.fr
+bqn.it
+bqn.ru
+bqn.se
+bqn.uk

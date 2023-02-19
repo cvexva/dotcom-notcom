@@ -1,0 +1,11 @@
+ic2.at
+ic2.be
+ic2.cn
+ic2.co
+ic2.de
+ic2.dk
+ic2.fr
+ic2.it
+ic2.me
+ic2.ru
+ic2.se

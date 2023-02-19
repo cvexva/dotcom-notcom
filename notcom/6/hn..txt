@@ -1,0 +1,15 @@
+hn.aco
+hn.app
+hn.biz
+hn.cpa
+hn.dev
+hn.fit
+hn.fyi
+hn.law
+hn.mba
+hn.net
+hn.new
+hn.org
+hn.vin
+hn.vip
+hn.win

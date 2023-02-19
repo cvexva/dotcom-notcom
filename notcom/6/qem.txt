@@ -1,0 +1,15 @@
+qem.az
+qem.ch
+qem.es
+qem.eu
+qem.fi
+qem.fr
+qem.io
+qem.it
+qem.me
+qem.nl
+qem.nu
+qem.ru
+qem.se
+qem.sk
+qem.uk

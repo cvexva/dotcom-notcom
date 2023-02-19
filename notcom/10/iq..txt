@@ -1,0 +1,14 @@
+iq.academy
+iq.capital
+iq.company
+iq.contact
+iq.country
+iq.digital
+iq.domains
+iq.fashion
+iq.finance
+iq.fitness
+iq.forsale
+iq.network
+iq.systems
+iq.whoswho

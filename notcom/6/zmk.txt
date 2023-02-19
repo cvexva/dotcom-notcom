@@ -1,0 +1,15 @@
+zmk.be
+zmk.by
+zmk.ch
+zmk.cn
+zmk.de
+zmk.ge
+zmk.in
+zmk.it
+zmk.pl
+zmk.pw
+zmk.ro
+zmk.ru
+zmk.sk
+zmk.su
+zmk.uk

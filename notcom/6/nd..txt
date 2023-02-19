@@ -1,0 +1,12 @@
+nd.app
+nd.biz
+nd.cpa
+nd.dev
+nd.fit
+nd.fyi
+nd.gov
+nd.law
+nd.net
+nd.org
+nd.sbs
+nd.vip

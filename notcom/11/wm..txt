@@ -1,0 +1,6 @@
+wm.exchange
+wm.football
+wm.holdings
+wm.partners
+wm.services
+wm.training

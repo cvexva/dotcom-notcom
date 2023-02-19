@@ -1,0 +1,16 @@
+ogn.at
+ogn.by
+ogn.ca
+ogn.ch
+ogn.eu
+ogn.fo
+ogn.hu
+ogn.jp
+ogn.mx
+ogn.nl
+ogn.nu
+ogn.pl
+ogn.ru
+ogn.se
+ogn.su
+ogn.uk

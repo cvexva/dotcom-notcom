@@ -1,0 +1,8 @@
+we.associates
+we.creditcard
+we.foundation
+we.healthcare
+we.industries
+we.management
+we.technology
+we.university

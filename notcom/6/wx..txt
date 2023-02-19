@@ -1,0 +1,13 @@
+wx.app
+wx.biz
+wx.fit
+wx.fyi
+wx.gay
+wx.ink
+wx.law
+wx.net
+wx.org
+wx.tel
+wx.vip
+wx.win
+wx.wtf

@@ -1,0 +1,4 @@
+qa-migrationnew-privacybk01.info
+qa-migrationnew-privacybk04.info
+qa-runkit-notebook-download.care
+qa-testing-domains-cnic2.website

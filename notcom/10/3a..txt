@@ -1,0 +1,9 @@
+3a.capital
+3a.charity
+3a.cologne
+3a.country
+3a.digital
+3a.fishing
+3a.holiday
+3a.network
+3a.wedding

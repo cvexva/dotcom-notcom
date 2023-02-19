@@ -1,0 +1,8 @@
+j2.capital
+j2.contact
+j2.country
+j2.digital
+j2.forsale
+j2.gallery
+j2.limited
+j2.support

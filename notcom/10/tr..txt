@@ -1,0 +1,16 @@
+tr.academy
+tr.capital
+tr.careers
+tr.company
+tr.contact
+tr.cooking
+tr.country
+tr.express
+tr.fashion
+tr.finance
+tr.limited
+tr.network
+tr.support
+tr.systems
+tr.wedding
+tr.whoswho

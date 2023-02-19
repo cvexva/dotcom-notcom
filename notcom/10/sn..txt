@@ -1,0 +1,10 @@
+sn.academy
+sn.company
+sn.contact
+sn.cooking
+sn.country
+sn.digital
+sn.fashion
+sn.sumy.ua
+sn.wedding
+sn.whoswho

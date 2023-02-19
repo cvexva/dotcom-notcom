@@ -1,0 +1,9 @@
+cpy.ch
+cpy.de
+cpy.eu
+cpy.it
+cpy.pt
+cpy.re
+cpy.ru
+cpy.se
+cpy.uk

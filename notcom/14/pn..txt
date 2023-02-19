@@ -1,0 +1,2 @@
+pn.domain.name
+pn.xn--vuq861b

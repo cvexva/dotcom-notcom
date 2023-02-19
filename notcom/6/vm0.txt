@@ -1,0 +1,4 @@
+vm0.co
+vm0.de
+vm0.eu
+vm0.ru

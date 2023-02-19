@@ -1,0 +1,12 @@
+og.capital
+og.company
+og.contact
+og.country
+og.digital
+og.domains
+og.fashion
+og.finance
+og.fitness
+og.gallery
+og.limited
+og.systems

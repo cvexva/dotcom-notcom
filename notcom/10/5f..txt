@@ -1,0 +1,4 @@
+5f.country
+5f.fishing
+5f.monster
+5f.wedding

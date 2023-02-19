@@ -1,0 +1,8 @@
+otq.de
+otq.es
+otq.eu
+otq.it
+otq.nl
+otq.pl
+otq.ru
+otq.uk

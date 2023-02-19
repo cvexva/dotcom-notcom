@@ -1,0 +1,17 @@
+ps3.at
+ps3.bg
+ps3.co
+ps3.de
+ps3.dk
+ps3.es
+ps3.fr
+ps3.ir
+ps3.it
+ps3.kz
+ps3.nu
+ps3.pl
+ps3.ro
+ps3.ru
+ps3.se
+ps3.sk
+ps3.uk

@@ -1,0 +1,13 @@
+lk.aco
+lk.app
+lk.biz
+lk.cpa
+lk.fit
+lk.fyi
+lk.ink
+lk.law
+lk.mba
+lk.net
+lk.org
+lk.run
+lk.vip

@@ -1,0 +1,9 @@
+yy.abogado
+yy.company
+yy.contact
+yy.country
+yy.fashion
+yy.finance
+yy.limited
+yy.network
+yy.wedding

@@ -1,0 +1,17 @@
+qmr.app
+qmr.cat
+qmr.net
+qmr.org
+qmr.pub
+qmr.xyz
+qmra.eu
+qmra.se
+qmrh.de
+qmrk.cn
+qmrt.be
+qmrt.de
+qmrt.ir
+qmrt.ru
+qmrw.de
+qmrw.ir
+qmrx.cn

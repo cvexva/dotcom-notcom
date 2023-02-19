@@ -1,0 +1,7 @@
+tq.chat
+tq.kiwi
+tq.life
+tq.live
+tq.wiki
+tq.work
+tq.yoga

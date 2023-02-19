@@ -1,0 +1,17 @@
+uu.app
+uu.biz
+uu.fit
+uu.fyi
+uu.icu
+uu.ink
+uu.law
+uu.net
+uu.org
+uu.ren
+uu.rip
+uu.run
+uu.tel
+uu.vip
+uu.win
+uu.wtf
+uu.xyz

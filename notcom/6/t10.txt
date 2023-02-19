@@ -1,0 +1,16 @@
+t10.be
+t10.ch
+t10.cn
+t10.cz
+t10.de
+t10.ee
+t10.es
+t10.fi
+t10.fr
+t10.ir
+t10.me
+t10.ro
+t10.ru
+t10.tw
+t10.uk
+t10.us

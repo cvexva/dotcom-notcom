@@ -1,0 +1,6 @@
+ps.healthcare
+ps.industries
+ps.management
+ps.properties
+ps.restaurant
+ps.university

@@ -1,0 +1,9 @@
+grq.be
+grq.ch
+grq.cn
+grq.co
+grq.de
+grq.it
+grq.nl
+grq.ru
+grq.uk

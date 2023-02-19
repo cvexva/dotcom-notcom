@@ -1,0 +1,15 @@
+nzz.as
+nzz.at
+nzz.be
+nzz.ch
+nzz.co
+nzz.de
+nzz.fr
+nzz.hr
+nzz.it
+nzz.nu
+nzz.pl
+nzz.ru
+nzz.sk
+nzz.to
+nzz.uk

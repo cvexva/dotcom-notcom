@@ -1,0 +1,12 @@
+la1.be
+la1.ch
+la1.de
+la1.es
+la1.eu
+la1.it
+la1.jp
+la1.ma
+la1.nl
+la1.ru
+la1.tv
+la1.uk

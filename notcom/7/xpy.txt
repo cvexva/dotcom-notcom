@@ -1,0 +1,15 @@
+xpy.app
+xpy.fit
+xpy.icu
+xpy.ink
+xpy.net
+xpy.one
+xpy.org
+xpy.pub
+xpy.vip
+xpya.cn
+xpyb.ru
+xpyc.ru
+xpyd.cn
+xpyj.cn
+xpyt.cn

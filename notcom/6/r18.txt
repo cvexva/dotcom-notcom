@@ -1,0 +1,7 @@
+r18.cc
+r18.cm
+r18.de
+r18.pl
+r18.ru
+r18.su
+r18.tw

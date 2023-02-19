@@ -1,0 +1,13 @@
+wr.app
+wr.biz
+wr.cpa
+wr.fit
+wr.fyi
+wr.ink
+wr.law
+wr.net
+wr.org
+wr.sbs
+wr.tax
+wr.vip
+wr.wtf

@@ -1,0 +1,6 @@
+rx2.ch
+rx2.de
+rx2.eu
+rx2.nl
+rx2.ru
+rx2.se

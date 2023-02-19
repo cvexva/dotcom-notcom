@@ -1,0 +1,10 @@
+l0.app
+l0.biz
+l0.fit
+l0.ink
+l0.net
+l0.org
+l0.pub
+l0.vip
+l0.wtf
+l0.xyz

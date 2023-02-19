@@ -1,0 +1,9 @@
+1g.actor
+1g.bingo
+1g.boats
+1g.co.uk
+1g.co.za
+1g.gives
+1g.legal
+1g.quest
+1g.world

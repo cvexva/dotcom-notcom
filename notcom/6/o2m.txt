@@ -1,0 +1,11 @@
+o2m.au
+o2m.cc
+o2m.de
+o2m.dk
+o2m.es
+o2m.eu
+o2m.fr
+o2m.in
+o2m.it
+o2m.ma
+o2m.ru

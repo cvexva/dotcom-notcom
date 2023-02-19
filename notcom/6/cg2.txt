@@ -1,0 +1,7 @@
+cg2.cc
+cg2.cn
+cg2.eu
+cg2.fr
+cg2.it
+cg2.pl
+cg2.ru

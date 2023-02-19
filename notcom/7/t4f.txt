@@ -1,0 +1,10 @@
+t4f.app
+t4f.biz
+t4f.dev
+t4f.fun
+t4f.net
+t4f.nrw
+t4f.org
+t4f.sbs
+t4f.xyz
+t4fr.uk

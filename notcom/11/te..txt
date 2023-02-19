@@ -1,0 +1,5 @@
+te.business
+te.clothing
+te.delivery
+te.services
+te.training

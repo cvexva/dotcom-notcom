@@ -1,0 +1,11 @@
+ydb.be
+ydb.ch
+ydb.co
+ydb.fr
+ydb.it
+ydb.jp
+ydb.me
+ydb.nl
+ydb.pl
+ydb.ru
+ydb.se

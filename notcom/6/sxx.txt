@@ -1,0 +1,14 @@
+sxx.at
+sxx.be
+sxx.ch
+sxx.cn
+sxx.de
+sxx.fi
+sxx.fr
+sxx.in
+sxx.it
+sxx.pl
+sxx.ru
+sxx.se
+sxx.su
+sxx.uk

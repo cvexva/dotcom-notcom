@@ -1,0 +1,11 @@
+qxt.app
+qxt.dev
+qxt.net
+qxt.one
+qxt.org
+qxt.vip
+qxt.xyz
+qxtb.cn
+qxtp.cn
+qxtt.cn
+qxtv.cc

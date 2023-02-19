@@ -1,0 +1,8 @@
+nfy.be
+nfy.de
+nfy.fr
+nfy.it
+nfy.nl
+nfy.ru
+nfy.se
+nfy.uk

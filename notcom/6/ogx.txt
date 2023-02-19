@@ -1,0 +1,11 @@
+ogx.be
+ogx.cc
+ogx.ch
+ogx.co
+ogx.gg
+ogx.ie
+ogx.ir
+ogx.it
+ogx.ro
+ogx.ru
+ogx.uk

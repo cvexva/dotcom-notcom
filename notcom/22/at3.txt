@@ -1,0 +1,3 @@
+at32uc3c0512c-alur.top
+at32uc3c0512c-alut.top
+at32uc3c0512c-alzr.top

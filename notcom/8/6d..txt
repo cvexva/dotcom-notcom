@@ -1,0 +1,11 @@
+6d.actor
+6d.bingo
+6d.boats
+6d.cards
+6d.co.nz
+6d.co.uk
+6d.games
+6d.homes
+6d.legal
+6d.movie
+6d.world

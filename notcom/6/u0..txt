@@ -1,0 +1,5 @@
+u0.fit
+u0.ink
+u0.net
+u0.org
+u0.vip

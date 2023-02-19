@@ -1,0 +1,9 @@
+fw.capital
+fw.careers
+fw.company
+fw.contact
+fw.country
+fw.digital
+fw.fashion
+fw.gallery
+fw.zuerich

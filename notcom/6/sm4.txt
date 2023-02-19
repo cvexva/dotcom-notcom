@@ -1,0 +1,10 @@
+sm4.ca
+sm4.ch
+sm4.de
+sm4.es
+sm4.fr
+sm4.jp
+sm4.ru
+sm4.se
+sm4.uk
+sm4.us

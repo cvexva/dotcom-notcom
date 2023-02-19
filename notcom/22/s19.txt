@@ -1,0 +1,3 @@
+s19-lublin-lubartow.pl
+s19-miedzyrzec-kock.pl
+s19-podgorze-kamien.pl

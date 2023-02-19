@@ -1,0 +1,3 @@
+1p.charity
+1p.country
+1p.fishing

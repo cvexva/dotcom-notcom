@@ -1,0 +1,6 @@
+x.gd
+x.gg
+x.gl
+x.gp
+x.gs
+x.gt

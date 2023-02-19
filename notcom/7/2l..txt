@@ -1,0 +1,4 @@
+2l.gold
+2l.immo
+2l.sale
+2l.work

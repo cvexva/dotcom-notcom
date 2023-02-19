@@ -1,0 +1,4 @@
+t7e.app
+t7e.dev
+t7e.net
+t7e.org

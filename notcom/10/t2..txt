@@ -1,0 +1,5 @@
+t2.capital
+t2.compare
+t2.country
+t2.fashion
+t2.network

@@ -1,0 +1,16 @@
+gp.academy
+gp.capital
+gp.careers
+gp.contact
+gp.cooking
+gp.country
+gp.digital
+gp.fashion
+gp.finance
+gp.limited
+gp.network
+gp.support
+gp.surgery
+gp.systems
+gp.wedding
+gp.whoswho

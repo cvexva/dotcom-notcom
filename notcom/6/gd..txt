@@ -1,0 +1,17 @@
+gd.aco
+gd.app
+gd.bid
+gd.biz
+gd.fit
+gd.fyi
+gd.ink
+gd.law
+gd.lol
+gd.mba
+gd.net
+gd.ooo
+gd.org
+gd.run
+gd.sbs
+gd.tax
+gd.win

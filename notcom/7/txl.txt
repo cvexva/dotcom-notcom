@@ -1,0 +1,14 @@
+txl.app
+txl.fit
+txl.icu
+txl.ink
+txl.net
+txl.one
+txl.org
+txl.pub
+txl.vip
+txl.xyz
+txll.ru
+txlv.ir
+txly.cn
+txly.co

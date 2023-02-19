@@ -1,0 +1,10 @@
+xd.beer
+xd.chat
+xd.fail
+xd.guru
+xd.life
+xd.luxe
+xd.team
+xd.work
+xd.yoga
+xd.zone

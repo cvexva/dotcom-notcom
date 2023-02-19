@@ -1,0 +1,13 @@
+vk.capital
+vk.company
+vk.contact
+vk.country
+vk.digital
+vk.domains
+vk.express
+vk.fashion
+vk.finance
+vk.gallery
+vk.network
+vk.support
+vk.systems

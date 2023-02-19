@@ -1,0 +1,11 @@
+qmu.cc
+qmu.cz
+qmu.de
+qmu.eu
+qmu.io
+qmu.it
+qmu.jp
+qmu.kz
+qmu.nl
+qmu.ru
+qmu.uk

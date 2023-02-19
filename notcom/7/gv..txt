@@ -1,0 +1,12 @@
+gv.bond
+gv.care
+gv.chat
+gv.city
+gv.gift
+gv.gold
+gv.help
+gv.life
+gv.meet
+gv.plus
+gv.taxi
+gv.wiki

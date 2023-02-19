@@ -1,0 +1,15 @@
+fe.beer
+fe.bike
+fe.chat
+fe.city
+fe.cool
+fe.cyou
+fe.live
+fe.luxe
+fe.news
+fe.show
+fe.team
+fe.wiki
+fe.wine
+fe.work
+fe.yoga

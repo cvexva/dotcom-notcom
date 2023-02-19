@@ -1,0 +1,11 @@
+p-f.at
+p-f.ch
+p-f.dk
+p-f.fr
+p-f.it
+p-f.ru
+p-f.se
+p-f.tv
+p-f.uk
+p-f.us
+p-f.uz

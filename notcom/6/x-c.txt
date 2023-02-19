@@ -1,0 +1,10 @@
+x-c.ch
+x-c.cx
+x-c.eu
+x-c.nl
+x-c.pl
+x-c.ru
+x-c.su
+x-c.uk
+x-c.us
+x-c.uz

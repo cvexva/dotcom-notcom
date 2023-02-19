@@ -1,0 +1,12 @@
+t2b.app
+t2b.biz
+t2b.dev
+t2b.lol
+t2b.net
+t2b.org
+t2b.pub
+t2b.run
+t2b.ski
+t2b.xyz
+t2b6.cn
+t2ba.de

@@ -1,0 +1,5 @@
+1rx.app
+1rx.biz
+1rx.net
+1rx.org
+1rx.xyz

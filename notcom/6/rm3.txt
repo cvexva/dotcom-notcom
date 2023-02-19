@@ -1,0 +1,7 @@
+rm3.ca
+rm3.de
+rm3.jp
+rm3.ru
+rm3.se
+rm3.uk
+rm3.us

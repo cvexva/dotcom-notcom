@@ -1,0 +1,11 @@
+qvb.at
+qvb.be
+qvb.ch
+qvb.cn
+qvb.co
+qvb.de
+qvb.eu
+qvb.me
+qvb.pl
+qvb.ru
+qvb.uk

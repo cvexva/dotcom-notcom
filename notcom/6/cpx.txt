@@ -1,0 +1,14 @@
+cpx.ae
+cpx.ca
+cpx.ch
+cpx.cz
+cpx.de
+cpx.fr
+cpx.it
+cpx.nl
+cpx.om
+cpx.pl
+cpx.ru
+cpx.sk
+cpx.to
+cpx.uk

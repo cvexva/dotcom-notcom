@@ -1,0 +1,5 @@
+6g.business
+6g.engineer
+6g.football
+6g.observer
+6g.software

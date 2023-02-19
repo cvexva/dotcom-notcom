@@ -1,0 +1,14 @@
+jy.app
+jy.biz
+jy.fit
+jy.fyi
+jy.ink
+jy.law
+jy.mba
+jy.net
+jy.org
+jy.run
+jy.vin
+jy.vip
+jy.win
+jy.wtf

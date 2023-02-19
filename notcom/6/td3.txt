@@ -1,0 +1,6 @@
+td3.cc
+td3.ch
+td3.eu
+td3.nl
+td3.ru
+td3.uk

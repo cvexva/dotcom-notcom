@@ -1,0 +1,10 @@
+i2f.at
+i2f.be
+i2f.ch
+i2f.de
+i2f.eu
+i2f.fr
+i2f.it
+i2f.nc
+i2f.pf
+i2f.sk

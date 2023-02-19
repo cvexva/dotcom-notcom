@@ -1,0 +1,7 @@
+2k.capital
+2k.charity
+2k.company
+2k.country
+2k.express
+2k.fishing
+2k.network

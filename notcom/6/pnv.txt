@@ -1,0 +1,15 @@
+pnv.be
+pnv.ch
+pnv.de
+pnv.dk
+pnv.es
+pnv.fi
+pnv.kz
+pnv.lt
+pnv.mk
+pnv.pl
+pnv.ru
+pnv.se
+pnv.si
+pnv.su
+pnv.uk

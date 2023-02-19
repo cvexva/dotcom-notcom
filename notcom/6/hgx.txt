@@ -1,0 +1,11 @@
+hgx.at
+hgx.be
+hgx.ch
+hgx.de
+hgx.it
+hgx.jp
+hgx.pl
+hgx.ru
+hgx.se
+hgx.uk
+hgx.us

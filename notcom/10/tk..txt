@@ -1,0 +1,12 @@
+tk.capital
+tk.company
+tk.contact
+tk.country
+tk.digital
+tk.fashion
+tk.gallery
+tk.jewelry
+tk.lviv.ua
+tk.network
+tk.wedding
+tk.whoswho

@@ -1,0 +1,12 @@
+sr.aco
+sr.biz
+sr.dev
+sr.fit
+sr.fyi
+sr.law
+sr.mba
+sr.net
+sr.ooo
+sr.org
+sr.rip
+sr.vip

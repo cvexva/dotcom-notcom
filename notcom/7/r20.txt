@@ -1,0 +1,12 @@
+r20.app
+r20.dev
+r20.fun
+r20.net
+r20.org
+r20.top
+r200.es
+r200.pl
+r200.ru
+r201.ru
+r203.ru
+r204.cn

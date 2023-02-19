@@ -1,0 +1,9 @@
+c2.capital
+c2.company
+c2.country
+c2.digital
+c2.exposed
+c2.finance
+c2.network
+c2.support
+c2.systems

@@ -1,0 +1,1 @@
+pyga-python-google-analytics-data-collection-api.readthedocs.io

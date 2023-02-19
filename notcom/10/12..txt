@@ -1,0 +1,6 @@
+12.company
+12.contact
+12.country
+12.digital
+12.fashion
+12.network

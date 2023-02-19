@@ -1,0 +1,15 @@
+ucd.at
+ucd.ch
+ucd.cz
+ucd.eu
+ucd.fr
+ucd.ie
+ucd.io
+ucd.it
+ucd.la
+ucd.mn
+ucd.mx
+ucd.ru
+ucd.se
+ucd.uk
+ucd.uz

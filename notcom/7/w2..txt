@@ -1,0 +1,12 @@
+w2.band
+w2.beer
+w2.care
+w2.casa
+w2.cash
+w2.city
+w2.immo
+w2.plus
+w2.rent
+w2.sale
+w2.tips
+w2.work

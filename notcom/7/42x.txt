@@ -1,0 +1,7 @@
+42x.app
+42x.dev
+42x.net
+42x.one
+42x.org
+42x.xyz
+42xu.cn

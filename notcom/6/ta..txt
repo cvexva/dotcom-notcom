@@ -1,0 +1,17 @@
+ta.app
+ta.biz
+ta.boo
+ta.fit
+ta.fyi
+ta.law
+ta.mba
+ta.net
+ta.ooo
+ta.org
+ta.rio
+ta.run
+ta.sbs
+ta.tel
+ta.vin
+ta.vip
+ta.wtf

@@ -1,0 +1,10 @@
+aq.academy
+aq.capital
+aq.country
+aq.digital
+aq.fashion
+aq.finance
+aq.kitchen
+aq.network
+aq.systems
+aq.whoswho

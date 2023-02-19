@@ -1,0 +1,15 @@
+fbq.be
+fbq.ch
+fbq.de
+fbq.es
+fbq.eu
+fbq.fr
+fbq.hu
+fbq.ir
+fbq.it
+fbq.nl
+fbq.nu
+fbq.pl
+fbq.ru
+fbq.se
+fbq.uk

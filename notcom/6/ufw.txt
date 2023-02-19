@@ -1,0 +1,10 @@
+ufw.be
+ufw.ch
+ufw.de
+ufw.eu
+ufw.io
+ufw.it
+ufw.ru
+ufw.se
+ufw.sh
+ufw.uk

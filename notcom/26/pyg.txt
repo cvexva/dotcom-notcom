@@ -1,0 +1,9 @@
+pygame-menu.readthedocs.io
+pygame-sdl2.readthedocs.io
+pygame-zero.readthedocs.io
+pygetwindow.readthedocs.io
+pygmalioncommunication.net
+pygmalioneducation.free.fr
+pygmalioninternational.org
+pygmalionsspectacles.video
+pyguitarpro.readthedocs.io

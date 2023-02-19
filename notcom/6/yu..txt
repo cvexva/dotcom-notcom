@@ -1,0 +1,14 @@
+yu.app
+yu.biz
+yu.dev
+yu.fan
+yu.fit
+yu.fyi
+yu.ink
+yu.law
+yu.mba
+yu.net
+yu.org
+yu.run
+yu.win
+yu.wtf

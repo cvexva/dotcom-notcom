@@ -1,0 +1,13 @@
+p12.ch
+p12.cl
+p12.de
+p12.dk
+p12.fr
+p12.it
+p12.lt
+p12.nl
+p12.pl
+p12.ru
+p12.se
+p12.su
+p12.uk

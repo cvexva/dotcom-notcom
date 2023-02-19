@@ -1,0 +1,14 @@
+hs.care
+hs.chat
+hs.coop
+hs.fish
+hs.fund
+hs.immo
+hs.life
+hs.news
+hs.plus
+hs.team
+hs.toys
+hs.work
+hs.yoga
+hs.zone

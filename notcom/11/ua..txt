@@ -1,0 +1,10 @@
+ua.business
+ua.clothing
+ua.delivery
+ua.football
+ua.graphics
+ua.lighting
+ua.observer
+ua.partners
+ua.services
+ua.software

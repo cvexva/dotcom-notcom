@@ -1,0 +1,16 @@
+hb.app
+hb.biz
+hb.cpa
+hb.eco
+hb.fit
+hb.fyi
+hb.ink
+hb.law
+hb.net
+hb.org
+hb.tel
+hb.top
+hb.vip
+hb.win
+hb.wtf
+hb.xyz

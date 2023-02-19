@@ -1,0 +1,5 @@
+a--a.info
+a--g.tech
+a--s.info
+a--yo.net
+a--z.info

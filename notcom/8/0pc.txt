@@ -1,0 +1,4 @@
+0pc.shop
+0pc2.cfd
+0pc4.ovh
+0pcb.icu

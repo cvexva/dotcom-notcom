@@ -1,0 +1,8 @@
+wd.company
+wd.contact
+wd.country
+wd.digital
+wd.fashion
+wd.network
+wd.sumy.ua
+wd.support

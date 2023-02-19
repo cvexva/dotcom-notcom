@@ -1,0 +1,11 @@
+r13.at
+r13.by
+r13.ch
+r13.de
+r13.is
+r13.jp
+r13.ru
+r13.se
+r13.su
+r13.uk
+r13.vc

@@ -1,0 +1,10 @@
+g3.app
+g3.dog
+g3.fit
+g3.ink
+g3.law
+g3.net
+g3.org
+g3.tel
+g3.vip
+g3.xyz

@@ -1,0 +1,2 @@
+ws.domain.name
+ws.xn--vuq861b

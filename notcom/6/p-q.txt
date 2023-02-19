@@ -1,0 +1,10 @@
+p-q.be
+p-q.ch
+p-q.cz
+p-q.de
+p-q.fi
+p-q.it
+p-q.nl
+p-q.ro
+p-q.ru
+p-q.uk

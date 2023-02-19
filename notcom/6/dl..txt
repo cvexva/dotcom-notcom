@@ -1,0 +1,14 @@
+dl.app
+dl.biz
+dl.cpa
+dl.fit
+dl.fyi
+dl.inc
+dl.ink
+dl.law
+dl.net
+dl.org
+dl.tax
+dl.tel
+dl.vip
+dl.wtf

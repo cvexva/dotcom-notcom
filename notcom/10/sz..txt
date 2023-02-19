@@ -1,0 +1,9 @@
+sz.contact
+sz.cooking
+sz.country
+sz.fashion
+sz.gallery
+sz.lviv.ua
+sz.network
+sz.wedding
+sz.whoswho

@@ -1,0 +1,5 @@
+lq.chat
+lq.gold
+lq.life
+lq.team
+lq.yoga

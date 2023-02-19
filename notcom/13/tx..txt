@@ -1,0 +1,5 @@
+tx.creditcard
+tx.healthcare
+tx.management
+tx.properties
+tx.technology

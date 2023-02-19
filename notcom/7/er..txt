@@ -1,0 +1,16 @@
+er.baby
+er.beer
+er.bond
+er.cafe
+er.casa
+er.city
+er.farm
+er.land
+er.life
+er.link
+er.luxe
+er.team
+er.wiki
+er.wine
+er.work
+er.yoga

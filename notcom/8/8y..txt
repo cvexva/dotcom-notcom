@@ -1,0 +1,9 @@
+8y.actor
+8y.bingo
+8y.boats
+8y.homes
+8y.irish
+8y.legal
+8y.miami
+8y.quest
+8y.world

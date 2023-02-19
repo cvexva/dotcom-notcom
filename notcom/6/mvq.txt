@@ -1,0 +1,9 @@
+mvq.cc
+mvq.ch
+mvq.cl
+mvq.dk
+mvq.it
+mvq.nl
+mvq.pl
+mvq.ru
+mvq.uk

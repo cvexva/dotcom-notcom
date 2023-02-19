@@ -1,0 +1,10 @@
+fa3.cc
+fa3.gr
+fa3.in
+fa3.ir
+fa3.it
+fa3.jp
+fa3.no
+fa3.se
+fa3.sk
+fa3.uk

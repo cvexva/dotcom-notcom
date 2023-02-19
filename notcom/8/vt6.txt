@@ -1,0 +1,8 @@
+vt6.fail
+vt6.info
+vt600.de
+vt601.de
+vt610.de
+vt628.de
+vt65.net
+vt66.net

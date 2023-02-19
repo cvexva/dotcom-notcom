@@ -1,0 +1,7 @@
+mo1.cc
+mo1.ch
+mo1.de
+mo1.it
+mo1.no
+mo1.ru
+mo1.uk

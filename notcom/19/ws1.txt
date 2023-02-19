@@ -1,0 +1,2 @@
+ws1peoplesearch.app
+ws1workspaceone.app

@@ -1,0 +1,10 @@
+qtx.be
+qtx.ch
+qtx.co
+qtx.de
+qtx.it
+qtx.nl
+qtx.ru
+qtx.se
+qtx.su
+qtx.uk

@@ -1,0 +1,4 @@
+f0o.bar
+f0o.dev
+f0o.net
+f0o.org

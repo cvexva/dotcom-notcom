@@ -1,0 +1,11 @@
+b4a.cc
+b4a.ch
+b4a.fr
+b4a.io
+b4a.jp
+b4a.nl
+b4a.pl
+b4a.pt
+b4a.ru
+b4a.se
+b4a.us

@@ -1,0 +1,16 @@
+2a.beer
+2a.chat
+2a.city
+2a.club
+2a.fund
+2a.guru
+2a.immo
+2a.land
+2a.life
+2a.link
+2a.live
+2a.moda
+2a.news
+2a.show
+2a.wiki
+2a.work

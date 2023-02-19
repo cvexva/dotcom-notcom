@@ -1,0 +1,11 @@
+xmv.at
+xmv.cc
+xmv.ch
+xmv.de
+xmv.eu
+xmv.it
+xmv.me
+xmv.pl
+xmv.ru
+xmv.uk
+xmv.us

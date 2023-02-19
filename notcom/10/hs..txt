@@ -1,0 +1,12 @@
+hs.academy
+hs.careers
+hs.company
+hs.contact
+hs.country
+hs.digital
+hs.domains
+hs.express
+hs.fashion
+hs.fitness
+hs.network
+hs.recipes

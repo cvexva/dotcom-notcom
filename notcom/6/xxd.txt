@@ -1,0 +1,12 @@
+xxd.cc
+xxd.ch
+xxd.de
+xxd.es
+xxd.eu
+xxd.fr
+xxd.it
+xxd.jp
+xxd.nl
+xxd.ru
+xxd.se
+xxd.uk

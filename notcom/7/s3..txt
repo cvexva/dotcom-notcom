@@ -1,0 +1,12 @@
+s3.asia
+s3.band
+s3.bond
+s3.club
+s3.fail
+s3.guru
+s3.life
+s3.live
+s3.sale
+s3.team
+s3.wiki
+s3.work

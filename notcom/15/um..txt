@@ -1,0 +1,7 @@
+um.bialystok.pl
+um.bydgoszcz.pl
+um.kolobrzeg.pl
+um.ostroleka.pl
+um.ostrowiec.pl
+um.sosnowiec.pl
+um.walbrzych.pl

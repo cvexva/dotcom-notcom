@@ -1,0 +1,15 @@
+g-t.by
+g-t.cc
+g-t.ch
+g-t.de
+g-t.eu
+g-t.hu
+g-t.it
+g-t.jp
+g-t.kz
+g-t.me
+g-t.no
+g-t.pl
+g-t.ru
+g-t.uk
+g-t.uz

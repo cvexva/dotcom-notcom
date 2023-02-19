@@ -1,0 +1,5 @@
+e.gives
+e.glass
+e.gripe
+e.group
+e.guide

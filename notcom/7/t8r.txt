@@ -1,0 +1,3 @@
+t8r.app
+t8r.dev
+t8r.net

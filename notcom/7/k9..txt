@@ -1,0 +1,13 @@
+k9.army
+k9.camp
+k9.care
+k9.chat
+k9.guru
+k9.help
+k9.life
+k9.luxe
+k9.moda
+k9.skin
+k9.team
+k9.tips
+k9.work

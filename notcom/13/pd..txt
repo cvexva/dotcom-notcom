@@ -1,0 +1,6 @@
+pd.foundation
+pd.gorizia.it
+pd.technology
+pd.trieste.it
+pd.university
+pd.wroclaw.pl

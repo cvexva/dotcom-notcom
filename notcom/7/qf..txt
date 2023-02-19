@@ -1,0 +1,5 @@
+qf.chat
+qf.city
+qf.news
+qf.team
+qf.yoga

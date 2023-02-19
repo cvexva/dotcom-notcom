@@ -1,0 +1,10 @@
+pyz.be
+pyz.ch
+pyz.de
+pyz.it
+pyz.jp
+pyz.nl
+pyz.pl
+pyz.pw
+pyz.ru
+pyz.uk

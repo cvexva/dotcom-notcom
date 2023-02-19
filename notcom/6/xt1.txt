@@ -1,0 +1,7 @@
+xt1.at
+xt1.ca
+xt1.ch
+xt1.eu
+xt1.nl
+xt1.ru
+xt1.tw

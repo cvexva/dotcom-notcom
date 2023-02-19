@@ -1,0 +1,13 @@
+ng.academy
+ng.capital
+ng.company
+ng.contact
+ng.country
+ng.digital
+ng.fashion
+ng.finance
+ng.limited
+ng.network
+ng.support
+ng.website
+ng.whoswho

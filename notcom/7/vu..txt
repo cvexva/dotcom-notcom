@@ -1,0 +1,7 @@
+vu.chat
+vu.city
+vu.life
+vu.live
+vu.wiki
+vu.work
+vu.yoga

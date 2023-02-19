@@ -1,0 +1,6 @@
+n.cards
+n.co.at
+n.co.il
+n.co.kr
+n.co.uk
+n.cymru

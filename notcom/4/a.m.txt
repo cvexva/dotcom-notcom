@@ -1,0 +1,6 @@
+a.me
+a.mk
+a.ml
+a.mr
+a.ms
+a.my

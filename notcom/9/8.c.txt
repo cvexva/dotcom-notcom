@@ -1,0 +1,5 @@
+8.capital
+8.careers
+8.company
+8.cooking
+8.country

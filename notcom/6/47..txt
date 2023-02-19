@@ -1,0 +1,9 @@
+47.app
+47.biz
+47.fit
+47.law
+47.net
+47.org
+47.tel
+47.vip
+47.wtf

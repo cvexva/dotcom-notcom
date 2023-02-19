@@ -1,0 +1,11 @@
+qd.app
+qd.fit
+qd.fyi
+qd.ink
+qd.law
+qd.net
+qd.org
+qd.run
+qd.tel
+qd.vip
+qd.wtf

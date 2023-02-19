@@ -1,0 +1,7 @@
+gm.domain.name
+gm.investments
+gm.katowice.pl
+gm.photography
+gm.szczecin.pl
+gm.wwwvri.name
+gm.xn--vuq861b

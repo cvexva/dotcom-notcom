@@ -1,0 +1,12 @@
+nt.beer
+nt.cafe
+nt.chat
+nt.cool
+nt.life
+nt.link
+nt.live
+nt.luxe
+nt.news
+nt.work
+nt.yoga
+nt.zone

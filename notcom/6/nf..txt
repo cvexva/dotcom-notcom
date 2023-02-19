@@ -1,0 +1,14 @@
+nf.aco
+nf.app
+nf.biz
+nf.fit
+nf.fyi
+nf.ink
+nf.law
+nf.net
+nf.org
+nf.run
+nf.tax
+nf.vip
+nf.wtf
+nf.xyz

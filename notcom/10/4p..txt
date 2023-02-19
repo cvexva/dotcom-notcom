@@ -1,0 +1,8 @@
+4p.capital
+4p.charity
+4p.country
+4p.fishing
+4p.forsale
+4p.info.pl
+4p.pisz.pl
+4p.wedding

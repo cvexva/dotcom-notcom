@@ -1,0 +1,11 @@
+f16.ch
+f16.de
+f16.eu
+f16.in
+f16.it
+f16.jp
+f16.me
+f16.pl
+f16.ru
+f16.se
+f16.uk

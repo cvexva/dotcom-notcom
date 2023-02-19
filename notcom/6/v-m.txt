@@ -1,0 +1,11 @@
+v-m.be
+v-m.ch
+v-m.dk
+v-m.es
+v-m.fr
+v-m.hu
+v-m.in
+v-m.nl
+v-m.ru
+v-m.su
+v-m.uk

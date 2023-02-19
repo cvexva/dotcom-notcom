@@ -1,0 +1,11 @@
+bpy.app
+bpy.icu
+bpy.net
+bpy.org
+bpy.vip
+bpy.xyz
+bpyb.uk
+bpyc.cn
+bpyc.ru
+bpyd.fr
+bpyt.me

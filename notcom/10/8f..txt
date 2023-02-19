@@ -1,0 +1,4 @@
+8f.charity
+8f.country
+8f.fishing
+8f.wedding

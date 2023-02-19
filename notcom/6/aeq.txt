@@ -1,0 +1,14 @@
+aeq.ae
+aeq.be
+aeq.ca
+aeq.ch
+aeq.es
+aeq.eu
+aeq.ir
+aeq.it
+aeq.pl
+aeq.ru
+aeq.si
+aeq.sk
+aeq.su
+aeq.uk

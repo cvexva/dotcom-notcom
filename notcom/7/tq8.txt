@@ -1,0 +1,5 @@
+tq8.app
+tq8.mba
+tq8.net
+tq8.org
+tq8.xyz

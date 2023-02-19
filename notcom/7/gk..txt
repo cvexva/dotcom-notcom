@@ -1,0 +1,16 @@
+gk.cafe
+gk.chat
+gk.city
+gk.cool
+gk.guru
+gk.immo
+gk.life
+gk.link
+gk.live
+gk.news
+gk.plus
+gk.team
+gk.tips
+gk.wiki
+gk.work
+gk.yoga

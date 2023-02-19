@@ -1,0 +1,17 @@
+st.aco
+st.app
+st.art
+st.biz
+st.dev
+st.fit
+st.fyi
+st.icu
+st.inc
+st.law
+st.mba
+st.net
+st.org
+st.run
+st.tax
+st.vip
+st.wtf

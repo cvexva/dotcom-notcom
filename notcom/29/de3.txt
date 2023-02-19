@@ -1,0 +1,2 @@
+de3-panda-wall.readthedocs.io
+de3-rob1-chess.readthedocs.io

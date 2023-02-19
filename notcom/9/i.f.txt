@@ -1,0 +1,7 @@
+i.fashion
+i.finance
+i.fishing
+i.fitness
+i.flights
+i.florist
+i.flowers

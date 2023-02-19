@@ -1,0 +1,9 @@
+qty.ch
+qty.in
+qty.it
+qty.jp
+qty.kr
+qty.me
+qty.ru
+qty.se
+qty.uk

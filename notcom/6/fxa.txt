@@ -1,0 +1,10 @@
+fxa.ch
+fxa.de
+fxa.dk
+fxa.it
+fxa.jp
+fxa.pl
+fxa.ru
+fxa.se
+fxa.uk
+fxa.us

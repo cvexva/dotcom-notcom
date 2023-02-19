@@ -1,0 +1,3 @@
+vb.consulting
+vb.foundation
+vb.properties

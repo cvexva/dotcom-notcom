@@ -1,0 +1,10 @@
+gl.beer
+gl.cafe
+gl.club
+gl.life
+gl.plus
+gl.show
+gl.taxi
+gl.team
+gl.wiki
+gl.yoga

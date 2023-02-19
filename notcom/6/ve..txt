@@ -1,0 +1,16 @@
+ve.aco
+ve.app
+ve.bet
+ve.biz
+ve.fit
+ve.fyi
+ve.int
+ve.law
+ve.mba
+ve.net
+ve.org
+ve.run
+ve.vin
+ve.vip
+ve.wtf
+ve.xyz

@@ -1,0 +1,7 @@
+6d.capital
+6d.charity
+6d.country
+6d.fishing
+6d.fitness
+6d.reviews
+6d.wedding

@@ -1,0 +1,8 @@
+cuq.cc
+cuq.ch
+cuq.cl
+cuq.de
+cuq.fr
+cuq.nl
+cuq.ru
+cuq.uk

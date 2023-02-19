@@ -1,0 +1,15 @@
+jd.abogado
+jd.capital
+jd.charity
+jd.company
+jd.contact
+jd.cooking
+jd.country
+jd.coupons
+jd.express
+jd.fashion
+jd.finance
+jd.holiday
+jd.jewelry
+jd.network
+jd.systems

@@ -1,0 +1,8 @@
+xst.be
+xst.ca
+xst.ch
+xst.de
+xst.it
+xst.ru
+xst.tw
+xst.uk

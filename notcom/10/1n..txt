@@ -1,0 +1,5 @@
+1n.country
+1n.fashion
+1n.fishing
+1n.monster
+1n.wedding

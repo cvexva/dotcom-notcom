@@ -1,0 +1,4 @@
+ty2.cc
+ty2.cn
+ty2.in
+ty2.pl

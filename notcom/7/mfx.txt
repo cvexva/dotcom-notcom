@@ -1,0 +1,12 @@
+mfx.app
+mfx.bio
+mfx.biz
+mfx.dev
+mfx.ink
+mfx.net
+mfx.org
+mfx.ovh
+mfx.vip
+mfx.xyz
+mfxs.me
+mfxs.ml

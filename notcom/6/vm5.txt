@@ -1,0 +1,3 @@
+vm5.cc
+vm5.eu
+vm5.ru

@@ -1,0 +1,6 @@
+tr7.at
+tr7.ch
+tr7.de
+tr7.fr
+tr7.pl
+tr7.ru

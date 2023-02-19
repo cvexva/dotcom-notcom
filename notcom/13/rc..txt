@@ -1,0 +1,5 @@
+rc.healthcare
+rc.management
+rc.rzeszow.pl
+rc.technology
+rc.university

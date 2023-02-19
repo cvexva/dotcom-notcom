@@ -1,0 +1,6 @@
+ex2.ch
+ex2.fr
+ex2.in
+ex2.me
+ex2.ru
+ex2.uk

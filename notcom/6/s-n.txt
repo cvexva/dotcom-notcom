@@ -1,0 +1,15 @@
+s-n.as
+s-n.be
+s-n.ch
+s-n.es
+s-n.eu
+s-n.fr
+s-n.me
+s-n.no
+s-n.pl
+s-n.ru
+s-n.se
+s-n.sk
+s-n.su
+s-n.tw
+s-n.uk

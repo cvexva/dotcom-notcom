@@ -1,0 +1,11 @@
+pwq.app
+pwq.icu
+pwq.moe
+pwq.net
+pwq.one
+pwq.org
+pwq.pub
+pwq.xyz
+pwq9.cn
+pwqs.de
+pwqw.cn

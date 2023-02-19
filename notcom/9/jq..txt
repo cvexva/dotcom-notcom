@@ -1,0 +1,7 @@
+jq.com.ar
+jq.com.cn
+jq.com.pl
+jq.com.tw
+jq.design
+jq.energy
+jq.org.uk

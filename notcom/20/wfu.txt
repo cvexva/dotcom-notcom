@@ -1,0 +1,2 @@
+wfu-oberveischede.de
+wfuzz.readthedocs.io

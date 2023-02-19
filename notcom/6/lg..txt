@@ -1,0 +1,15 @@
+lg.app
+lg.biz
+lg.cpa
+lg.dev
+lg.eco
+lg.fit
+lg.fyi
+lg.law
+lg.net
+lg.ooo
+lg.org
+lg.run
+lg.tel
+lg.vip
+lg.wtf

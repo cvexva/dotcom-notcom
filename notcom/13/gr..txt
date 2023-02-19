@@ -1,0 +1,3 @@
+gr.foundation
+gr.properties
+gr.university

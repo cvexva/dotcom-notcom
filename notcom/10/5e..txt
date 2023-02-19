@@ -1,0 +1,5 @@
+5e.charity
+5e.country
+5e.fishing
+5e.monster
+5e.wedding

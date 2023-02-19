@@ -1,0 +1,6 @@
+yyn.cn
+yyn.ir
+yyn.it
+yyn.nl
+yyn.ru
+yyn.us

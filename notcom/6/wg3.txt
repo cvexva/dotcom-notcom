@@ -1,0 +1,6 @@
+wg3.at
+wg3.ch
+wg3.de
+wg3.it
+wg3.nl
+wg3.ru

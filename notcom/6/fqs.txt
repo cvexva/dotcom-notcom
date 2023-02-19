@@ -1,0 +1,14 @@
+fqs.al
+fqs.at
+fqs.ch
+fqs.cz
+fqs.de
+fqs.hu
+fqs.ie
+fqs.it
+fqs.nl
+fqs.pl
+fqs.ro
+fqs.ru
+fqs.uk
+fqs.vn

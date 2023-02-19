@@ -1,0 +1,16 @@
+aw.aco
+aw.app
+aw.biz
+aw.dog
+aw.fit
+aw.fyi
+aw.ink
+aw.law
+aw.mba
+aw.net
+aw.nyc
+aw.org
+aw.run
+aw.tax
+aw.vip
+aw.wtf

@@ -1,0 +1,13 @@
+jg.chat
+jg.city
+jg.cool
+jg.immo
+jg.land
+jg.life
+jg.link
+jg.live
+jg.luxe
+jg.page
+jg.team
+jg.work
+jg.yoga

@@ -1,0 +1,16 @@
+ubf.ae
+ubf.be
+ubf.cc
+ubf.ch
+ubf.de
+ubf.in
+ubf.io
+ubf.kr
+ubf.lk
+ubf.nl
+ubf.no
+ubf.nu
+ubf.ru
+ubf.se
+ubf.su
+ubf.uk

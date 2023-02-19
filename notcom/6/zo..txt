@@ -1,0 +1,13 @@
+zo.biz
+zo.dev
+zo.fit
+zo.fyi
+zo.law
+zo.net
+zo.org
+zo.run
+zo.tel
+zo.vin
+zo.vip
+zo.win
+zo.xyz

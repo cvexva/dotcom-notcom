@@ -1,0 +1,15 @@
+gc.academy
+gc.blog.br
+gc.contact
+gc.country
+gc.digital
+gc.fashion
+gc.finance
+gc.genting
+gc.i234.me
+gc.jewelry
+gc.limited
+gc.network
+gc.rentals
+gc.wedding
+gc.zuerich

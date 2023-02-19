@@ -1,0 +1,3 @@
+db-privat-und-firmenkundenbank.net
+db-privat-und-firmenkundenbank.org
+db-telepin-verifikation-server.biz

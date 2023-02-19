@@ -1,0 +1,12 @@
+py3.tech
+py30.xyz
+py33.net
+py33.xyz
+py34.xyz
+py35.net
+py37.xyz
+py39.xyz
+py3d.org
+py3g.net
+py3m.xyz
+py3u.bio

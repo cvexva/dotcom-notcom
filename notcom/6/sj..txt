@@ -1,0 +1,14 @@
+sj.app
+sj.biz
+sj.fit
+sj.fyi
+sj.icu
+sj.ink
+sj.law
+sj.mba
+sj.net
+sj.org
+sj.run
+sj.vip
+sj.win
+sj.wtf

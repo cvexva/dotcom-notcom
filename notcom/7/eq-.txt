@@ -1,0 +1,9 @@
+eq-3.ch
+eq-3.de
+eq-6.de
+eq-i.nl
+eq-r.nl
+eq-r.ru
+eq-s.ru
+eq-t.ru
+eq-u.jp

@@ -1,0 +1,16 @@
+jc-a.ch
+jc-a.jp
+jc-b.ch
+jc-b.de
+jc-b.mx
+jc-d.eu
+jc-e.cn
+jc-e.eu
+jc-f.de
+jc-g.ru
+jc-i.jp
+jc-j.in
+jc-p.dk
+jc-r.de
+jc-s.pl
+jc-v.de

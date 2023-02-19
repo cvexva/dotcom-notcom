@@ -1,0 +1,8 @@
+sh3.ch
+sh3.de
+sh3.ir
+sh3.jp
+sh3.kr
+sh3.ru
+sh3.se
+sh3.uk

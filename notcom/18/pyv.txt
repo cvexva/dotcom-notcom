@@ -1,0 +1,2 @@
+pyvot-connect.info
+pyvot-explore.info

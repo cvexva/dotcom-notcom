@@ -1,0 +1,9 @@
+nx-01.be
+nx-01.de
+nx-01.ru
+nx-cn.cn
+nx-fx.be
+nx-it.ru
+nx-jj.cn
+nx-t.dev
+nx-xs.cn

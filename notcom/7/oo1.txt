@@ -1,0 +1,17 @@
+oo1.app
+oo1.bar
+oo1.fun
+oo1.ltd
+oo1.net
+oo1.one
+oo1.ooo
+oo1.org
+oo1.ren
+oo1.top
+oo1.win
+oo1.xyz
+oo11.ch
+oo13.ru
+oo17.cn
+oo18.de
+oo18.eu

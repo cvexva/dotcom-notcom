@@ -1,0 +1,11 @@
+p4g.app
+p4g.biz
+p4g.frl
+p4g.net
+p4g.org
+p4g.ovh
+p4g.tel
+p4g.xyz
+p4ga.jp
+p4ge.de
+p4ge.me

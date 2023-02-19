@@ -1,0 +1,10 @@
+yql.app
+yql.fun
+yql.icu
+yql.ink
+yql.net
+yql.org
+yql.pub
+yql.vip
+yql.xyz
+yqlj.cc

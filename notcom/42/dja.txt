@@ -1,0 +1,10 @@
+django-composite-foreignkey.readthedocs.io
+django-ecommerce-project-v2.readthedocs.io
+django-improved-permissions.readthedocs.io
+django-queryable-properties.readthedocs.io
+django-rest-multiple-models.readthedocs.io
+django-simple-elasticsearch.readthedocs.io
+django-simple-notifications.readthedocs.io
+django-slackchat-serializer.readthedocs.io
+django-tastypie-mongoengine.readthedocs.io
+djangochannelsrestframework.readthedocs.io

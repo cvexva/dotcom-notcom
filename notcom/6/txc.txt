@@ -1,0 +1,12 @@
+txc.at
+txc.de
+txc.dk
+txc.in
+txc.it
+txc.nl
+txc.pl
+txc.ru
+txc.se
+txc.su
+txc.tw
+txc.uk

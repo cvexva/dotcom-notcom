@@ -1,0 +1,10 @@
+jyb.be
+jyb.cn
+jyb.dk
+jyb.fr
+jyb.it
+jyb.jp
+jyb.nl
+jyb.no
+jyb.ru
+jyb.se

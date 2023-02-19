@@ -1,0 +1,14 @@
+n1.app
+n1.bet
+n1.biz
+n1.fit
+n1.fyi
+n1.gay
+n1.ink
+n1.net
+n1.org
+n1.pub
+n1.rip
+n1.tel
+n1.vip
+n1.wtf

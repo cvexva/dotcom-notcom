@@ -1,0 +1,6 @@
+6f.charity
+6f.country
+6f.digital
+6f.fishing
+6f.monster
+6f.wedding

@@ -1,0 +1,14 @@
+hu.aco
+hu.biz
+hu.fit
+hu.fyi
+hu.law
+hu.mba
+hu.net
+hu.org
+hu.run
+hu.sbs
+hu.ski
+hu.vip
+hu.win
+hu.xyz

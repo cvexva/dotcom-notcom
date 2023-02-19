@@ -1,0 +1,3 @@
+pywavelets.readthedocs.io
+pywxclient.readthedocs.io
+pywygsbusfntdubgmuz.click

@@ -1,0 +1,9 @@
+bi1.de
+bi1.fr
+bi1.jp
+bi1.nl
+bi1.pl
+bi1.ru
+bi1.se
+bi1.uk
+bi1.uz

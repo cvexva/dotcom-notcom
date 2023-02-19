@@ -1,0 +1,2 @@
+s3-etl-crm-loyalty.schwarz
+s3-persistent-storage.info

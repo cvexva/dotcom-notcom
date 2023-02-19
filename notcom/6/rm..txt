@@ -1,0 +1,13 @@
+rm.biz
+rm.cab
+rm.cpa
+rm.dev
+rm.fit
+rm.fyi
+rm.law
+rm.net
+rm.org
+rm.run
+rm.tax
+rm.vip
+rm.wtf

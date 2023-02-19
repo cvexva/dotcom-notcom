@@ -1,0 +1,13 @@
+fo.aco
+fo.biz
+fo.dev
+fo.fit
+fo.fyi
+fo.law
+fo.mba
+fo.net
+fo.org
+fo.run
+fo.vin
+fo.vip
+fo.xyz

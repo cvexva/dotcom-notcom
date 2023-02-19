@@ -1,0 +1,4 @@
+qa-runkit-output-buffer.care
+qa-runkit-rendered-html.care
+qa-testing-dns-changes.co.uk
+qa-widget-kptargetclinic.org

@@ -1,0 +1,13 @@
+cr.capital
+cr.company
+cr.contact
+cr.cooking
+cr.country
+cr.digital
+cr.express
+cr.fashion
+cr.fitness
+cr.network
+cr.schwarz
+cr.wedding
+cr.whoswho

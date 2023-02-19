@@ -1,0 +1,16 @@
+tc1.app
+tc1.dev
+tc1.ltd
+tc1.net
+tc1.one
+tc1.org
+tc1.top
+tc1.xyz
+tc10.cn
+tc10.fr
+tc12.es
+tc13.fr
+tc16.fr
+tc17.de
+tc18.cc
+tc18.ru

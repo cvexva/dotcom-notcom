@@ -1,0 +1,7 @@
+g2c.be
+g2c.ch
+g2c.fr
+g2c.nl
+g2c.pe
+g2c.pl
+g2c.ru

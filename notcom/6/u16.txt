@@ -1,0 +1,7 @@
+u16.at
+u16.ch
+u16.co
+u16.dk
+u16.ru
+u16.ua
+u16.uk

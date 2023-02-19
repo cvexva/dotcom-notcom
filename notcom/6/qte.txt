@@ -1,0 +1,15 @@
+qte.bg
+qte.ch
+qte.co
+qte.de
+qte.eu
+qte.fr
+qte.hu
+qte.it
+qte.me
+qte.nu
+qte.pl
+qte.ru
+qte.se
+qte.uk
+qte.vn

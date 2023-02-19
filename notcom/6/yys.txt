@@ -1,0 +1,15 @@
+yys.am
+yys.cc
+yys.co
+yys.cz
+yys.eu
+yys.fr
+yys.in
+yys.it
+yys.jp
+yys.mx
+yys.nl
+yys.pl
+yys.ru
+yys.su
+yys.tw

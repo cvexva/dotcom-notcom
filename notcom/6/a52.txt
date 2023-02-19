@@ -1,0 +1,8 @@
+a52.at
+a52.ca
+a52.de
+a52.it
+a52.no
+a52.pl
+a52.ru
+a52.uk

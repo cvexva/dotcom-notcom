@@ -1,0 +1,8 @@
+j2.app
+j2.biz
+j2.fit
+j2.law
+j2.net
+j2.org
+j2.rip
+j2.vip

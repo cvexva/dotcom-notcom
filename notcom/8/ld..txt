@@ -1,0 +1,15 @@
+ld.click
+ld.co.cr
+ld.co.id
+ld.co.th
+ld.co.uk
+ld.coach
+ld.deals
+ld.email
+ld.house
+ld.me.uk
+ld.money
+ld.today
+ld.tools
+ld.video
+ld.world

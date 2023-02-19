@@ -1,0 +1,9 @@
+qag.cc
+qag.ch
+qag.io
+qag.it
+qag.kr
+qag.nl
+qag.ru
+qag.uk
+qag.vn

@@ -1,0 +1,10 @@
+pl3.be
+pl3.ca
+pl3.ch
+pl3.de
+pl3.eu
+pl3.hu
+pl3.ru
+pl3.se
+pl3.su
+pl3.uk

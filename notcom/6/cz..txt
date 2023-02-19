@@ -1,0 +1,14 @@
+cz.aco
+cz.biz
+cz.fit
+cz.fyi
+cz.ink
+cz.law
+cz.mba
+cz.net
+cz.org
+cz.run
+cz.sbs
+cz.vip
+cz.win
+cz.xyz

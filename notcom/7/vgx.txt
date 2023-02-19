@@ -1,0 +1,9 @@
+vgx.app
+vgx.dev
+vgx.net
+vgx.one
+vgx.org
+vgx.pub
+vgx.vip
+vgx.xyz
+vgxb.cn

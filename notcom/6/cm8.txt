@@ -1,0 +1,7 @@
+cm8.cc
+cm8.ch
+cm8.cl
+cm8.de
+cm8.it
+cm8.ru
+cm8.uk

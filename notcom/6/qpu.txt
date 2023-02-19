@@ -1,0 +1,9 @@
+qpu.ch
+qpu.de
+qpu.eu
+qpu.it
+qpu.jp
+qpu.nl
+qpu.ru
+qpu.uk
+qpu.us

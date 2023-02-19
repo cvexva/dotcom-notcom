@@ -1,0 +1,12 @@
+qca.am
+qca.ca
+qca.ch
+qca.de
+qca.es
+qca.fr
+qca.hu
+qca.it
+qca.me
+qca.ru
+qca.st
+qca.uk

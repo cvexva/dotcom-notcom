@@ -1,0 +1,9 @@
+b2x.app
+b2x.biz
+b2x.dev
+b2x.net
+b2x.one
+b2x.org
+b2x.top
+b2x.wtf
+b2x4.cn

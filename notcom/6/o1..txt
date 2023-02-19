@@ -1,0 +1,10 @@
+o1.biz
+o1.fit
+o1.ink
+o1.law
+o1.net
+o1.org
+o1.pub
+o1.tel
+o1.vip
+o1.wtf

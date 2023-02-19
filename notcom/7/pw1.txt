@@ -1,0 +1,12 @@
+pw1.app
+pw1.biz
+pw1.net
+pw1.one
+pw1.org
+pw1.xyz
+pw10.dk
+pw11.cn
+pw12.nu
+pw16.nl
+pw17.de
+pw18.cn

@@ -1,0 +1,7 @@
+2d4definite.shop
+2d4describe.shop
+2d4elephant.shop
+2d4mushroom.shop
+2d4password.shop
+2d4practice.best
+2d4training.shop

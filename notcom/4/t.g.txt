@@ -1,0 +1,6 @@
+t.gd
+t.ge
+t.gg
+t.gl
+t.gp
+t.gs

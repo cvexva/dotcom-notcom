@@ -1,0 +1,11 @@
+dm2.at
+dm2.cc
+dm2.ch
+dm2.cz
+dm2.de
+dm2.it
+dm2.jp
+dm2.pl
+dm2.ru
+dm2.se
+dm2.uk

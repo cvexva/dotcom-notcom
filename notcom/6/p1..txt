@@ -1,0 +1,15 @@
+p1.app
+p1.eco
+p1.fit
+p1.fyi
+p1.gay
+p1.ink
+p1.law
+p1.ltd
+p1.net
+p1.org
+p1.pub
+p1.run
+p1.tax
+p1.vip
+p1.xyz

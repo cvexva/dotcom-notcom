@@ -1,0 +1,11 @@
+qtl.at
+qtl.ch
+qtl.de
+qtl.it
+qtl.nl
+qtl.pl
+qtl.ru
+qtl.se
+qtl.uk
+qtl.us
+qtl.vn

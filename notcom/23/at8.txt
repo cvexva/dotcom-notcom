@@ -1,0 +1,8 @@
+at89c51cc01ca-slsum.top
+at89c51cc01ua-rltum.top
+at89c51cc02ca-tisum.top
+at89c51cc03ca-rdtum.top
+at89c51cc03ca-rltum.top
+at89c51cc03ca-slsum.top
+at89c51cc03ua-rdtum.top
+at89c51cc03ua-slsum.top

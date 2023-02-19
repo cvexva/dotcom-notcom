@@ -1,0 +1,10 @@
+cp.business
+cp.clothing
+cp.delivery
+cp.exchange
+cp.football
+cp.mortgage
+cp.partners
+cp.services
+cp.training
+cp.ventures

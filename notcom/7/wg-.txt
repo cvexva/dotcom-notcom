@@ -1,0 +1,12 @@
+wg-3.de
+wg-5.ru
+wg-8.de
+wg-a.at
+wg-c.de
+wg-d.de
+wg-e.de
+wg-g.ru
+wg-j.de
+wg-n.de
+wg-s.de
+wg-x.ru

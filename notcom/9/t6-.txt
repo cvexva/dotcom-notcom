@@ -1,0 +1,3 @@
+t6-box.ch
+t6-cam.de
+t6-pt.net

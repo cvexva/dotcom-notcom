@@ -1,0 +1,1 @@
+mozilla-version-control-tools.readthedocs.io

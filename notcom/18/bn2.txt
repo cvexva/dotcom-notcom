@@ -1,0 +1,2 @@
+bn2kd-privacy.info
+bn2kd-privdir.info

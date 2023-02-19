@@ -1,0 +1,17 @@
+5d.actor
+5d.bingo
+5d.boats
+5d.co.tz
+5d.co.uk
+5d.co.za
+5d.coach
+5d.email
+5d.games
+5d.group
+5d.legal
+5d.media
+5d.movie
+5d.ninja
+5d.or.kr
+5d.quest
+5d.world

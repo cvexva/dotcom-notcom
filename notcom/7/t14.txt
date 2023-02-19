@@ -1,0 +1,11 @@
+t14.dev
+t14.fit
+t14.net
+t14.org
+t14.ovh
+t140.uk
+t141.cn
+t142.ru
+t143.cn
+t14g.de
+t14r.de

@@ -1,0 +1,11 @@
+sh1.ch
+sh1.dk
+sh1.fr
+sh1.ir
+sh1.jp
+sh1.kr
+sh1.pl
+sh1.pw
+sh1.ru
+sh1.se
+sh1.uk

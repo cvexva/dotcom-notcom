@@ -1,0 +1,10 @@
+xbf.app
+xbf.cat
+xbf.dev
+xbf.net
+xbf.org
+xbf.vip
+xbf.xyz
+xbfm.cc
+xbfs.cn
+xbfw.tv

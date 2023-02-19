@@ -1,0 +1,10 @@
+u8.app
+u8.biz
+u8.fit
+u8.fyi
+u8.ink
+u8.net
+u8.org
+u8.pub
+u8.sbs
+u8.vip

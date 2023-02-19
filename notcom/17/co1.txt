@@ -1,0 +1,4 @@
+co19cert-moph.xyz
+co19oracle.clinic
+co19oracle.doctor
+co19oracle.health

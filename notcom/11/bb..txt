@@ -1,0 +1,7 @@
+bb.computer
+bb.delivery
+bb.exchange
+bb.partners
+bb.services
+bb.training
+bb.ventures

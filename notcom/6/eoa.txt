@@ -1,0 +1,14 @@
+eoa.as
+eoa.be
+eoa.ch
+eoa.cn
+eoa.de
+eoa.dk
+eoa.ee
+eoa.ir
+eoa.ke
+eoa.ru
+eoa.se
+eoa.su
+eoa.tv
+eoa.uk

@@ -1,0 +1,15 @@
+bj.aco
+bj.app
+bj.biz
+bj.dog
+bj.fit
+bj.icu
+bj.law
+bj.mba
+bj.net
+bj.org
+bj.run
+bj.sbs
+bj.vip
+bj.win
+bj.xyz

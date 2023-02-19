@@ -1,0 +1,3 @@
+django-bootstrap-datepicker-plus.readthedocs.io
+django-inspectional-registration.readthedocs.io
+django-rest-framework-datatables.readthedocs.io

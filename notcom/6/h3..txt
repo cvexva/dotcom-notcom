@@ -1,0 +1,10 @@
+h3.biz
+h3.fit
+h3.fyi
+h3.net
+h3.nrw
+h3.org
+h3.run
+h3.vip
+h3.wtf
+h3.xyz

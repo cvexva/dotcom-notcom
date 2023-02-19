@@ -1,0 +1,5 @@
+x2g.cc
+x2g.ch
+x2g.de
+x2g.ru
+x2g.us

@@ -1,0 +1,3 @@
+l.game
+l.gold
+l.guru

@@ -1,0 +1,12 @@
+ogw.at
+ogw.be
+ogw.cc
+ogw.ch
+ogw.cl
+ogw.co
+ogw.cz
+ogw.de
+ogw.it
+ogw.pl
+ogw.ru
+ogw.uk

@@ -1,0 +1,16 @@
+mb.academy
+mb.capital
+mb.careers
+mb.company
+mb.contact
+mb.country
+mb.domains
+mb.fashion
+mb.finance
+mb.fitness
+mb.holiday
+mb.network
+mb.rentals
+mb.support
+mb.systems
+mb.wedding

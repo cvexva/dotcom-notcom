@@ -1,0 +1,6 @@
+ja1.de
+ja1.eu
+ja1.me
+ja1.pl
+ja1.ru
+ja1.uk

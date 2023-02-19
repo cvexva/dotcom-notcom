@@ -1,0 +1,7 @@
+z8.app
+z8.biz
+z8.fit
+z8.net
+z8.org
+z8.pub
+z8.vip

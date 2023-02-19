@@ -1,0 +1,11 @@
+vm1.at
+vm1.ch
+vm1.co
+vm1.de
+vm1.dk
+vm1.fr
+vm1.kz
+vm1.nl
+vm1.no
+vm1.ru
+vm1.tv

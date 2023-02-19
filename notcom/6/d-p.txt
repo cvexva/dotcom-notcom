@@ -1,0 +1,15 @@
+d-p.by
+d-p.cc
+d-p.ch
+d-p.de
+d-p.eu
+d-p.io
+d-p.ir
+d-p.jp
+d-p.lt
+d-p.me
+d-p.no
+d-p.ru
+d-p.si
+d-p.su
+d-p.uk

@@ -1,0 +1,11 @@
+mqd.ar
+mqd.at
+mqd.ca
+mqd.co
+mqd.de
+mqd.es
+mqd.ir
+mqd.it
+mqd.ru
+mqd.sk
+mqd.uk

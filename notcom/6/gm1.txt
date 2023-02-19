@@ -1,0 +1,9 @@
+gm1.at
+gm1.ca
+gm1.ch
+gm1.de
+gm1.jp
+gm1.kr
+gm1.no
+gm1.ru
+gm1.uk

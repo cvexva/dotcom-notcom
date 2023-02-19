@@ -1,0 +1,15 @@
+qa.aco
+qa.app
+qa.biz
+qa.cab
+qa.dev
+qa.fit
+qa.fyi
+qa.law
+qa.mba
+qa.net
+qa.nrw
+qa.org
+qa.vin
+qa.vip
+qa.wtf

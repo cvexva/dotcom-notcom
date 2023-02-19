@@ -1,0 +1,17 @@
+zns.ae
+zns.be
+zns.bg
+zns.ch
+zns.de
+zns.dk
+zns.gr
+zns.hr
+zns.ir
+zns.it
+zns.nl
+zns.nu
+zns.pl
+zns.ru
+zns.se
+zns.su
+zns.uk

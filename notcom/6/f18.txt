@@ -1,0 +1,17 @@
+f18.cc
+f18.ch
+f18.de
+f18.es
+f18.fi
+f18.fr
+f18.in
+f18.it
+f18.lt
+f18.nl
+f18.no
+f18.nu
+f18.pl
+f18.ru
+f18.se
+f18.uk
+f18.vn

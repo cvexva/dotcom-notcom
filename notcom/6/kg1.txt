@@ -1,0 +1,5 @@
+kg1.ba
+kg1.eu
+kg1.jp
+kg1.ru
+kg1.us

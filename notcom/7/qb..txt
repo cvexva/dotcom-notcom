@@ -1,0 +1,17 @@
+qb.beer
+qb.cafe
+qb.care
+qb.cash
+qb.chat
+qb.city
+qb.club
+qb.cool
+qb.gold
+qb.guru
+qb.life
+qb.live
+qb.page
+qb.plus
+qb.team
+qb.wiki
+qb.yoga

@@ -1,0 +1,2 @@
+aws-and-infra-masashi-yoshida-asuma-777.tech
+awsiot-handson-dojo-basic-ble.readthedocs.io

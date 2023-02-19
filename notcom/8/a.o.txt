@@ -1,0 +1,5 @@
+a.org.nz
+a.org.pk
+a.org.pl
+a.org.ua
+a.org.uk

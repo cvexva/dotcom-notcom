@@ -1,0 +1,16 @@
+vk.app
+vk.biz
+vk.dev
+vk.dog
+vk.fit
+vk.fyi
+vk.ink
+vk.law
+vk.net
+vk.org
+vk.sbs
+vk.tel
+vk.vin
+vk.vip
+vk.wtf
+vk.xyz

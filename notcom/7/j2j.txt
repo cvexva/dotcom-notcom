@@ -1,0 +1,10 @@
+j2j.app
+j2j.biz
+j2j.dev
+j2j.ltd
+j2j.net
+j2j.org
+j2j.xyz
+j2j2.cc
+j2j3.cn
+j2jj.ru

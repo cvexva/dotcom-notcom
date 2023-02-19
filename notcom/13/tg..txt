@@ -1,0 +1,8 @@
+tg.consulting
+tg.foundation
+tg.immobilien
+tg.industries
+tg.management
+tg.properties
+tg.technology
+tg.wroclaw.pl

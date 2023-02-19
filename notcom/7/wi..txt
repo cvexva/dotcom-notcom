@@ -1,0 +1,17 @@
+wi.baby
+wi.beer
+wi.bike
+wi.care
+wi.casa
+wi.chat
+wi.city
+wi.fund
+wi.golf
+wi.immo
+wi.jobs
+wi.life
+wi.live
+wi.team
+wi.work
+wi.yoga
+wi.zone

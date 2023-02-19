@@ -1,0 +1,9 @@
+tc2.be
+tc2.ca
+tc2.eu
+tc2.hu
+tc2.it
+tc2.ru
+tc2.tn
+tc2.uk
+tc2.us

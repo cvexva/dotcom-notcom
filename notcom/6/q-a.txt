@@ -1,0 +1,12 @@
+q-a.cc
+q-a.ch
+q-a.de
+q-a.dk
+q-a.fr
+q-a.in
+q-a.it
+q-a.nl
+q-a.ru
+q-a.uk
+q-a.uz
+q-a.vg

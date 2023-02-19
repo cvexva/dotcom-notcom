@@ -1,0 +1,9 @@
+fg2.at
+fg2.ca
+fg2.cz
+fg2.de
+fg2.it
+fg2.jp
+fg2.ru
+fg2.se
+fg2.us

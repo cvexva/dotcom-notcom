@@ -1,0 +1,8 @@
+jk.business
+jk.engineer
+jk.partners
+jk.pictures
+jk.services
+jk.shopping
+jk.software
+jk.ventures

@@ -1,0 +1,4 @@
+t21duplications.co.uk
+t21smtp-sign001.email
+t21smtp-sign002.email
+t21smtp-sign003.email

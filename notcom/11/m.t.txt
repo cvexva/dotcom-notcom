@@ -1,0 +1,3 @@
+m.taka.name
+m.tora.name
+m.tsuo.name

@@ -1,0 +1,2 @@
+qt4a.readthedocs.io
+qt4i.readthedocs.io

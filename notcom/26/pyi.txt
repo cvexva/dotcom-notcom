@@ -1,0 +1,2 @@
+pyinputplus.readthedocs.io
+pyinstaller.readthedocs.io

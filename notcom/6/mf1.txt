@@ -1,0 +1,9 @@
+mf1.at
+mf1.ca
+mf1.ch
+mf1.de
+mf1.fr
+mf1.ie
+mf1.it
+mf1.jp
+mf1.ru

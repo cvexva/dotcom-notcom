@@ -1,0 +1,8 @@
+ws1.at
+ws1.ca
+ws1.eu
+ws1.nl
+ws1.pl
+ws1.ru
+ws1.se
+ws1.uk

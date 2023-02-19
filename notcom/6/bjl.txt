@@ -1,0 +1,14 @@
+bjl.am
+bjl.be
+bjl.ch
+bjl.de
+bjl.dk
+bjl.eu
+bjl.it
+bjl.nl
+bjl.pl
+bjl.ro
+bjl.ru
+bjl.se
+bjl.sk
+bjl.uk

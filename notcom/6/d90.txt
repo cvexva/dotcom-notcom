@@ -1,0 +1,8 @@
+d90.cc
+d90.de
+d90.ir
+d90.kr
+d90.nl
+d90.ru
+d90.se
+d90.us

@@ -1,0 +1,9 @@
+dcq.be
+dcq.ch
+dcq.cn
+dcq.de
+dcq.it
+dcq.nl
+dcq.ru
+dcq.se
+dcq.uk

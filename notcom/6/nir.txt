@@ -1,0 +1,17 @@
+nir.ae
+nir.by
+nir.ca
+nir.cz
+nir.de
+nir.fi
+nir.fr
+nir.hu
+nir.ma
+nir.ms
+nir.nu
+nir.pt
+nir.ru
+nir.se
+nir.sk
+nir.su
+nir.uk

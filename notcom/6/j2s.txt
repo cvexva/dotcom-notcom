@@ -1,0 +1,9 @@
+j2s.ch
+j2s.cl
+j2s.de
+j2s.eu
+j2s.re
+j2s.ru
+j2s.se
+j2s.sk
+j2s.uk

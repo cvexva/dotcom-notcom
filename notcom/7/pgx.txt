@@ -1,0 +1,13 @@
+pgx.app
+pgx.bar
+pgx.dev
+pgx.net
+pgx.org
+pgx.vip
+pgx.xyz
+pgxc.pl
+pgxk.cn
+pgxn.co
+pgxs.cc
+pgxx.de
+pgxx.me

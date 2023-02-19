@@ -1,0 +1,8 @@
+gd1.cc
+gd1.ch
+gd1.cz
+gd1.de
+gd1.ir
+gd1.ru
+gd1.se
+gd1.vc

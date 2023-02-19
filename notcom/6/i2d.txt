@@ -1,0 +1,11 @@
+i2d.ca
+i2d.ch
+i2d.cl
+i2d.cn
+i2d.de
+i2d.fr
+i2d.mx
+i2d.nl
+i2d.pl
+i2d.ru
+i2d.uk

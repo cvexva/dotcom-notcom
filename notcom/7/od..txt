@@ -1,0 +1,11 @@
+od.beer
+od.cafe
+od.chat
+od.city
+od.life
+od.link
+od.live
+od.team
+od.wine
+od.work
+od.yoga

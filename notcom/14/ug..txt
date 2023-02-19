@@ -1,0 +1,4 @@
+ug.domain.name
+ug.limanowa.pl
+ug.szczytno.pl
+ug.xn--vuq861b

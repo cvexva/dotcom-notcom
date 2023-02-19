@@ -1,0 +1,12 @@
+owb.at
+owb.cc
+owb.ch
+owb.cn
+owb.co
+owb.de
+owb.fr
+owb.it
+owb.jp
+owb.ru
+owb.se
+owb.uk

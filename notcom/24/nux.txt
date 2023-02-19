@@ -1,0 +1,3 @@
+nuxhallmiracleleague.org
+nuxt-i18n-example.now.sh
+nuxtjs-five-wheat.now.sh

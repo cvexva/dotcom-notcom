@@ -1,0 +1,6 @@
+f3m.app
+f3m.biz
+f3m.net
+f3m.org
+f3m.top
+f3m.xyz

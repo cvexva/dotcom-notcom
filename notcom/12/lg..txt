@@ -1,0 +1,4 @@
+lg.amsterdam
+lg.chem.name
+lg.k12.ok.us
+lg.solutions

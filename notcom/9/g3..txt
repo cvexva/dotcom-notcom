@@ -1,0 +1,17 @@
+g3.agency
+g3.beauty
+g3.com.au
+g3.com.br
+g3.com.cn
+g3.com.co
+g3.com.mt
+g3.com.pe
+g3.com.pl
+g3.com.tr
+g3.design
+g3.imb.br
+g3.ltd.uk
+g3.net.pl
+g3.org.uk
+g3.school
+g3.studio

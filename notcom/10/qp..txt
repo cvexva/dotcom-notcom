@@ -1,0 +1,6 @@
+qp.abogado
+qp.country
+qp.digital
+qp.fashion
+qp.network
+qp.systems

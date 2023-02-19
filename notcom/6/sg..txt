@@ -1,0 +1,17 @@
+sg.aco
+sg.app
+sg.biz
+sg.dev
+sg.fit
+sg.ink
+sg.int
+sg.law
+sg.mom
+sg.net
+sg.nrw
+sg.org
+sg.run
+sg.sbs
+sg.tax
+sg.vet
+sg.vip

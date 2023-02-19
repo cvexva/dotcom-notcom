@@ -1,0 +1,6 @@
+oy.country
+oy.domains
+oy.fashion
+oy.limited
+oy.network
+oy.wedding

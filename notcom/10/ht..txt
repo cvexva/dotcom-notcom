@@ -1,0 +1,12 @@
+ht.academy
+ht.capital
+ht.company
+ht.contact
+ht.cooking
+ht.country
+ht.fashion
+ht.finance
+ht.gallery
+ht.systems
+ht.wedding
+ht.whoswho

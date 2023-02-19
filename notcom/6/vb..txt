@@ -1,0 +1,13 @@
+vb.app
+vb.biz
+vb.dev
+vb.fit
+vb.fyi
+vb.law
+vb.net
+vb.org
+vb.pub
+vb.tel
+vb.vip
+vb.wtf
+vb.xyz

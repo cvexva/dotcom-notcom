@@ -1,0 +1,14 @@
+hu.audi
+hu.beer
+hu.care
+hu.chat
+hu.cool
+hu.life
+hu.link
+hu.luxe
+hu.plus
+hu.team
+hu.wiki
+hu.work
+hu.yoga
+hu.zone

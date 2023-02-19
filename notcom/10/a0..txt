@@ -1,0 +1,4 @@
+a0.capital
+a0.country
+a0.domains
+a0.network

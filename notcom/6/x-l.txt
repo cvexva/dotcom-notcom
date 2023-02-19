@@ -1,0 +1,12 @@
+x-l.be
+x-l.ch
+x-l.cn
+x-l.co
+x-l.de
+x-l.dk
+x-l.fr
+x-l.it
+x-l.jp
+x-l.ru
+x-l.se
+x-l.uk

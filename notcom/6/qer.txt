@@ -1,0 +1,12 @@
+qer.ae
+qer.be
+qer.ca
+qer.ch
+qer.co
+qer.de
+qer.fr
+qer.it
+qer.me
+qer.ru
+qer.uk
+qer.us

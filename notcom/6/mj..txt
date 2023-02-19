@@ -1,0 +1,16 @@
+mj.app
+mj.biz
+mj.cpa
+mj.dog
+mj.fit
+mj.fyi
+mj.ink
+mj.law
+mj.mom
+mj.net
+mj.org
+mj.pub
+mj.run
+mj.tel
+mj.vip
+mj.wtf

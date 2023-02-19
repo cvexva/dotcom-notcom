@@ -1,0 +1,3 @@
+qt1.de
+qt1.ru
+qt1.se

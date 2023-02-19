@@ -1,0 +1,1 @@
+zammad-admin-documentation.readthedocs.io

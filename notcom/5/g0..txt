@@ -1,0 +1,15 @@
+g0.cc
+g0.co
+g0.de
+g0.fr
+g0.io
+g0.nl
+g0.nu
+g0.ro
+g0.ru
+g0.se
+g0.si
+g0.sk
+g0.su
+g0.to
+g0.uk

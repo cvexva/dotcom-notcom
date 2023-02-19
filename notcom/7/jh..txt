@@ -1,0 +1,13 @@
+jh.beer
+jh.bike
+jh.chat
+jh.city
+jh.club
+jh.gold
+jh.immo
+jh.land
+jh.life
+jh.live
+jh.team
+jh.work
+jh.yoga

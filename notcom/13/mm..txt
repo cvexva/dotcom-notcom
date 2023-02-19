@@ -1,0 +1,6 @@
+mm.cad-p.name
+mm.consulting
+mm.foundation
+mm.healthcare
+mm.industries
+mm.university

@@ -1,0 +1,14 @@
+p2s.app
+p2s.biz
+p2s.dev
+p2s.fun
+p2s.net
+p2s.org
+p2s.top
+p2s.xyz
+p2sg.de
+p2sg.nl
+p2sh.co
+p2sh.ru
+p2sk.ca
+p2st.fr

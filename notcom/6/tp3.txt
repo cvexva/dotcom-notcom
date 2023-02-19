@@ -1,0 +1,9 @@
+tp3.at
+tp3.ch
+tp3.cl
+tp3.cz
+tp3.de
+tp3.eu
+tp3.nl
+tp3.pl
+tp3.ru

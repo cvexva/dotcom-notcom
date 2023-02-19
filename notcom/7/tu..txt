@@ -1,0 +1,16 @@
+tu.auto
+tu.baby
+tu.beer
+tu.casa
+tu.cash
+tu.chat
+tu.cool
+tu.fail
+tu.haus
+tu.life
+tu.link
+tu.luxe
+tu.show
+tu.wien
+tu.work
+tu.yoga

@@ -1,0 +1,8 @@
+qa1-gtpaysecure.net
+qa10apollocloud.net
+qa11apollocloud.net
+qa123nteorgtest.org
+qa12apollocloud.net
+qa13apollocloud.net
+qa14apollocloud.net
+qa15apollocloud.net

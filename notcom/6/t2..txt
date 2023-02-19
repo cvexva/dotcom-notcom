@@ -1,0 +1,15 @@
+t2.app
+t2.biz
+t2.dev
+t2.fan
+t2.fyi
+t2.inc
+t2.ink
+t2.law
+t2.llc
+t2.net
+t2.org
+t2.tax
+t2.tel
+t2.vip
+t2.xyz

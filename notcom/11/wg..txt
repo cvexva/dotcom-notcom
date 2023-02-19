@@ -1,0 +1,6 @@
+wg.delivery
+wg.exchange
+wg.football
+wg.partners
+wg.services
+wg.ventures

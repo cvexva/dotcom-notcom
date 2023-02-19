@@ -1,0 +1,10 @@
+pr1.be
+pr1.ch
+pr1.cn
+pr1.cz
+pr1.dk
+pr1.ie
+pr1.jp
+pr1.me
+pr1.ru
+pr1.uk

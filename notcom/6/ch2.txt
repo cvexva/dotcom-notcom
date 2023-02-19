@@ -1,0 +1,13 @@
+ch2.at
+ch2.cc
+ch2.ch
+ch2.eu
+ch2.fm
+ch2.fr
+ch2.hu
+ch2.it
+ch2.mx
+ch2.nl
+ch2.ru
+ch2.tw
+ch2.uk

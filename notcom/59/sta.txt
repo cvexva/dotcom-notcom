@@ -1,0 +1,5 @@
+staatliche-schulberatungsstelle-fuer-oberbayern-west.bayern
+staatliches-bauamt-ansbach-strassenmeisterei-ansbach.bayern
+staatliches-bauamt-bamberg-strassenmeisterei-bamberg.bayern
+staatliches-bauamt-kempten-strassenmeisterei-kempten.bayern
+staatliches-bauamt-passau-servicestelle-pfarrkirchen.bayern

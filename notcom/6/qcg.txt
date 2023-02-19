@@ -1,0 +1,11 @@
+qcg.be
+qcg.cc
+qcg.ch
+qcg.hu
+qcg.it
+qcg.nl
+qcg.nz
+qcg.pl
+qcg.ru
+qcg.se
+qcg.uk

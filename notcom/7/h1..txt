@@ -1,0 +1,8 @@
+h1.blog
+h1.chat
+h1.club
+h1.gmbh
+h1.life
+h1.luxe
+h1.wiki
+h1.work

@@ -1,0 +1,9 @@
+dq.biz
+dq.dev
+dq.fit
+dq.fyi
+dq.net
+dq.ooo
+dq.org
+dq.tel
+dq.wtf

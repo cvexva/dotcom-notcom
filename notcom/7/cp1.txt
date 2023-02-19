@@ -1,0 +1,16 @@
+cp1.app
+cp1.biz
+cp1.net
+cp1.one
+cp1.ooo
+cp1.org
+cp1.vip
+cp1.xyz
+cp11.at
+cp12.ru
+cp13.dk
+cp13.fr
+cp16.at
+cp16.jp
+cp18.ru
+cp1a.de

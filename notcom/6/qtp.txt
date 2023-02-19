@@ -1,0 +1,17 @@
+qtp.ae
+qtp.cc
+qtp.ch
+qtp.de
+qtp.es
+qtp.hu
+qtp.in
+qtp.it
+qtp.jp
+qtp.me
+qtp.nl
+qtp.no
+qtp.nu
+qtp.pk
+qtp.ru
+qtp.uk
+qtp.uz

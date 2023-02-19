@@ -1,0 +1,10 @@
+v-1.at
+v-1.cc
+v-1.ch
+v-1.cl
+v-1.co
+v-1.de
+v-1.eu
+v-1.pl
+v-1.ru
+v-1.uk

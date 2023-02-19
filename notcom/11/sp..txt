@@ -1,0 +1,6 @@
+sp.business
+sp.exchange
+sp.holdings
+sp.sejny.pl
+sp.services
+sp.software

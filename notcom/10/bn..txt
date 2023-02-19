@@ -1,0 +1,12 @@
+bn.capital
+bn.contact
+bn.cooking
+bn.country
+bn.dentist
+bn.digital
+bn.fashion
+bn.kitchen
+bn.network
+bn.systems
+bn.wedding
+bn.whoswho

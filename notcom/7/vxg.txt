@@ -1,0 +1,15 @@
+vxg.app
+vxg.dev
+vxg.net
+vxg.org
+vxg.pub
+vxg.vip
+vxg.xyz
+vxgd.cn
+vxge.de
+vxgg.cn
+vxgi.cn
+vxgj.cn
+vxgr.cn
+vxgu.cn
+vxgx.cn

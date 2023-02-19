@@ -1,0 +1,16 @@
+qpa.be
+qpa.ca
+qpa.ch
+qpa.de
+qpa.eu
+qpa.it
+qpa.jp
+qpa.my
+qpa.pl
+qpa.pt
+qpa.qa
+qpa.ro
+qpa.ru
+qpa.sg
+qpa.tw
+qpa.uk

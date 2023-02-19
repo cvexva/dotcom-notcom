@@ -1,0 +1,6 @@
+t.capital
+t.careers
+t.company
+t.cooking
+t.country
+t.cruises

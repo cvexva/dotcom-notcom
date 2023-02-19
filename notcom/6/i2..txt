@@ -1,0 +1,11 @@
+i2.app
+i2.biz
+i2.fit
+i2.fyi
+i2.law
+i2.ltd
+i2.net
+i2.org
+i2.pub
+i2.vip
+i2.xyz

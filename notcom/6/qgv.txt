@@ -1,0 +1,7 @@
+qgv.at
+qgv.cc
+qgv.de
+qgv.eu
+qgv.it
+qgv.ru
+qgv.uk

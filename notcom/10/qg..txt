@@ -1,0 +1,4 @@
+qg.country
+qg.digital
+qg.fashion
+qg.network

@@ -1,0 +1,7 @@
+ko2.cl
+ko2.in
+ko2.it
+ko2.pl
+ko2.ru
+ko2.uk
+ko2.us

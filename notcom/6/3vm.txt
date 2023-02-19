@@ -1,0 +1,6 @@
+3vm.cl
+3vm.eu
+3vm.fr
+3vm.it
+3vm.ru
+3vm.se

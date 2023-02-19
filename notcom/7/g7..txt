@@ -1,0 +1,9 @@
+g7.band
+g7.city
+g7.club
+g7.help
+g7.life
+g7.luxe
+g7.news
+g7.sale
+g7.taxi

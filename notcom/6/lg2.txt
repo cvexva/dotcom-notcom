@@ -1,0 +1,11 @@
+lg2.be
+lg2.ca
+lg2.ch
+lg2.cn
+lg2.de
+lg2.es
+lg2.eu
+lg2.fr
+lg2.it
+lg2.nl
+lg2.ru

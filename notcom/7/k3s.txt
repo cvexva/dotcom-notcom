@@ -1,0 +1,16 @@
+k3s.app
+k3s.dev
+k3s.fun
+k3s.icu
+k3s.lol
+k3s.ltd
+k3s.net
+k3s.one
+k3s.org
+k3s.ovh
+k3s.run
+k3s.top
+k3s.xyz
+k3s4.sk
+k3s4.uk
+k3se.hu

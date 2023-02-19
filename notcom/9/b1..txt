@@ -1,0 +1,17 @@
+b1.africa
+b1.bayern
+b1.beauty
+b1.boston
+b1.church
+b1.coffee
+b1.com.cn
+b1.com.my
+b1.com.pl
+b1.com.sa
+b1.com.tr
+b1.design
+b1.events
+b1.expert
+b1.market
+b1.org.uk
+b1.studio

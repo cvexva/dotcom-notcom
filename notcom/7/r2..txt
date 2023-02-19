@@ -1,0 +1,15 @@
+r2.bike
+r2.chat
+r2.club
+r2.cool
+r2.farm
+r2.fund
+r2.guru
+r2.immo
+r2.life
+r2.live
+r2.rent
+r2.site
+r2.team
+r2.wiki
+r2.work

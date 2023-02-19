@@ -1,0 +1,16 @@
+lut.at
+lut.be
+lut.ch
+lut.cn
+lut.de
+lut.eu
+lut.fi
+lut.fr
+lut.im
+lut.lu
+lut.pl
+lut.ro
+lut.ru
+lut.se
+lut.su
+lut.uk

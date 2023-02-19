@@ -1,0 +1,14 @@
+zls.be
+zls.ch
+zls.co
+zls.cz
+zls.de
+zls.fr
+zls.gr
+zls.it
+zls.lu
+zls.ro
+zls.ru
+zls.si
+zls.su
+zls.uk

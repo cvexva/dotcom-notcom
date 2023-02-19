@@ -1,0 +1,9 @@
+x25.at
+x25.ch
+x25.de
+x25.pl
+x25.rs
+x25.ru
+x25.se
+x25.su
+x25.uk

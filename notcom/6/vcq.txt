@@ -1,0 +1,7 @@
+vcq.cc
+vcq.ch
+vcq.de
+vcq.in
+vcq.nl
+vcq.ru
+vcq.uk

@@ -1,0 +1,17 @@
+qov.au
+qov.cn
+qov.co
+qov.de
+qov.eu
+qov.fr
+qov.gr
+qov.it
+qov.mk
+qov.nl
+qov.pl
+qov.ru
+qov.si
+qov.sk
+qov.tw
+qov.uk
+qov.vn

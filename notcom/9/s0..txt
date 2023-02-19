@@ -1,0 +1,4 @@
+s0.clinic
+s0.com.cn
+s0.org.cn
+s0.org.uk

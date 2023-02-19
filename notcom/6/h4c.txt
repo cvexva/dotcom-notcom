@@ -1,0 +1,8 @@
+h4c.cc
+h4c.ch
+h4c.fr
+h4c.nl
+h4c.pt
+h4c.ru
+h4c.uk
+h4c.us

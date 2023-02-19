@@ -1,0 +1,14 @@
+pd.biz
+pd.dev
+pd.fit
+pd.fyi
+pd.law
+pd.net
+pd.onl
+pd.org
+pd.pub
+pd.run
+pd.tel
+pd.top
+pd.vip
+pd.wtf

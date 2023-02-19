@@ -1,0 +1,10 @@
+t0.app
+t0.fit
+t0.gay
+t0.ink
+t0.net
+t0.org
+t0.pub
+t0.vip
+t0.wtf
+t0.xyz

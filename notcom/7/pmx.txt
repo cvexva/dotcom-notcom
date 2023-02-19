@@ -1,0 +1,16 @@
+pmx.app
+pmx.bar
+pmx.biz
+pmx.dev
+pmx.fit
+pmx.net
+pmx.one
+pmx.org
+pmx.vip
+pmx.xyz
+pmxc.ru
+pmxm.ru
+pmxo.cn
+pmxv.hu
+pmxx.cn
+pmxx.de

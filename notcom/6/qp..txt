@@ -1,0 +1,16 @@
+qp.app
+qp.bet
+qp.biz
+qp.dev
+qp.fit
+qp.fyi
+qp.ink
+qp.law
+qp.net
+qp.org
+qp.run
+qp.tel
+qp.vip
+qp.wtf
+qp.xin
+qp.xxx

@@ -1,0 +1,17 @@
+nfx.app
+nfx.art
+nfx.bio
+nfx.biz
+nfx.dev
+nfx.net
+nfx.one
+nfx.org
+nfx.vip
+nfx.xyz
+nfxc.cn
+nfxd.cc
+nfxh.cn
+nfxi.uk
+nfxt.gg
+nfxt.io
+nfxx.cn

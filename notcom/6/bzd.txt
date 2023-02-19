@@ -1,0 +1,11 @@
+bzd.at
+bzd.be
+bzd.bg
+bzd.ch
+bzd.de
+bzd.it
+bzd.pl
+bzd.ru
+bzd.se
+bzd.sk
+bzd.uk

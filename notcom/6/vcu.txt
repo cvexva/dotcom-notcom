@@ -1,0 +1,12 @@
+vcu.be
+vcu.ch
+vcu.de
+vcu.fi
+vcu.it
+vcu.lv
+vcu.nl
+vcu.nu
+vcu.ru
+vcu.se
+vcu.uk
+vcu.vn

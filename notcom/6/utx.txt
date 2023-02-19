@@ -1,0 +1,15 @@
+utx.as
+utx.be
+utx.ca
+utx.ch
+utx.cn
+utx.co
+utx.de
+utx.dk
+utx.in
+utx.it
+utx.pl
+utx.ru
+utx.se
+utx.uk
+utx.us

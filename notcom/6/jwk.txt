@@ -1,0 +1,10 @@
+jwk.ch
+jwk.co
+jwk.de
+jwk.fr
+jwk.it
+jwk.jp
+jwk.me
+jwk.ru
+jwk.se
+jwk.uk

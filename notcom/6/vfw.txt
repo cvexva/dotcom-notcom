@@ -1,0 +1,10 @@
+vfw.at
+vfw.be
+vfw.ca
+vfw.ch
+vfw.de
+vfw.es
+vfw.jp
+vfw.nl
+vfw.ru
+vfw.uk

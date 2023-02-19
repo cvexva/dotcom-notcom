@@ -1,0 +1,3 @@
+o.services
+o.shopping
+o.supplies

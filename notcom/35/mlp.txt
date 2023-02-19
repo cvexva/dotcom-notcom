@@ -1,0 +1,2 @@
+mlp-image-classifier.readthedocs.io
+mlprussia-leningradskiy-terminal.ru

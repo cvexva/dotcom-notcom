@@ -1,0 +1,15 @@
+rp.app
+rp.biz
+rp.cpa
+rp.dev
+rp.fit
+rp.fyi
+rp.ink
+rp.law
+rp.net
+rp.org
+rp.sbs
+rp.tax
+rp.vip
+rp.win
+rp.wtf

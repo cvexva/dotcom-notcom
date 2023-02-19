@@ -1,0 +1,4 @@
+bp6.ch
+bp6.de
+bp6.pl
+bp6.us

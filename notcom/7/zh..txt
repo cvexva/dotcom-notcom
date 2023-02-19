@@ -1,0 +1,12 @@
+zh.cash
+zh.chat
+zh.city
+zh.club
+zh.cyou
+zh.fail
+zh.fund
+zh.immo
+zh.luxe
+zh.wiki
+zh.work
+zh.yoga

@@ -1,0 +1,15 @@
+rf.baby
+rf.beer
+rf.chat
+rf.city
+rf.club
+rf.cool
+rf.guru
+rf.life
+rf.link
+rf.live
+rf.news
+rf.show
+rf.team
+rf.work
+rf.yoga

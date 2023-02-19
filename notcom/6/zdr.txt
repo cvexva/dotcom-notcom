@@ -1,0 +1,13 @@
+zdr.ba
+zdr.be
+zdr.cc
+zdr.ch
+zdr.de
+zdr.eu
+zdr.fr
+zdr.ir
+zdr.it
+zdr.pl
+zdr.ru
+zdr.su
+zdr.uk

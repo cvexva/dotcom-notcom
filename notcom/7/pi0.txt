@@ -1,0 +1,8 @@
+pi0.dev
+pi0.net
+pi0.org
+pi0.xyz
+pi03.cn
+pi05.de
+pi09.cn
+pi0g.cc

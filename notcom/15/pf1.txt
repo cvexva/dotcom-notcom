@@ -1,0 +1,4 @@
+pf10team.online
+pf11team.online
+pf12team.online
+pf14team.online

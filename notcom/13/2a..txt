@@ -1,0 +1,4 @@
+2a.consulting
+2a.healthcare
+2a.management
+2a.technology

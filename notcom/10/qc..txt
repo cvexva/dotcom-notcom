@@ -1,0 +1,5 @@
+qc.country
+qc.digital
+qc.fashion
+qc.finance
+qc.network

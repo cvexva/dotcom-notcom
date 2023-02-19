@@ -1,0 +1,17 @@
+wu.coffee
+wu.com.au
+wu.com.br
+wu.com.cn
+wu.com.ua
+wu.design
+wu.edu.af
+wu.edu.az
+wu.edu.et
+wu.edu.pl
+wu.estate
+wu.family
+wu.luxury
+wu.net.au
+wu.org.uk
+wu.school
+wu.studio

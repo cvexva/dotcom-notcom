@@ -1,0 +1,8 @@
+x-t.ai
+x-t.ch
+x-t.de
+x-t.gr
+x-t.nl
+x-t.ru
+x-t.su
+x-t.uk

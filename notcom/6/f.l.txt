@@ -1,0 +1,3 @@
+f.land
+f.life
+f.luxe

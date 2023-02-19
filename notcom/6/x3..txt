@@ -1,0 +1,14 @@
+x3.app
+x3.cat
+x3.fit
+x3.fyi
+x3.gay
+x3.lol
+x3.net
+x3.org
+x3.pub
+x3.tel
+x3.vin
+x3.vip
+x3.wtf
+x3.xyz

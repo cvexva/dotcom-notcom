@@ -1,0 +1,17 @@
+qmm.al
+qmm.at
+qmm.be
+qmm.ch
+qmm.co
+qmm.de
+qmm.es
+qmm.eu
+qmm.hu
+qmm.is
+qmm.it
+qmm.nl
+qmm.pl
+qmm.ru
+qmm.se
+qmm.uk
+qmm.us

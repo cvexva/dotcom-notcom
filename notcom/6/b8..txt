@@ -1,0 +1,10 @@
+b8.app
+b8.biz
+b8.fit
+b8.fyi
+b8.gay
+b8.ink
+b8.net
+b8.org
+b8.pub
+b8.vip

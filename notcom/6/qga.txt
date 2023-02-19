@@ -1,0 +1,11 @@
+qga.at
+qga.be
+qga.ch
+qga.co
+qga.de
+qga.eu
+qga.fr
+qga.it
+qga.me
+qga.ru
+qga.uk

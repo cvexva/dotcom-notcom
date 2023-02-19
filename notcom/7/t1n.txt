@@ -1,0 +1,9 @@
+t1n.app
+t1n.dev
+t1n.net
+t1n.org
+t1n.top
+t1ny.co
+t1ny.in
+t1ny.uk
+t1ny.us

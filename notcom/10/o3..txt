@@ -1,0 +1,5 @@
+o3.academy
+o3.capital
+o3.country
+o3.finance
+o3.network

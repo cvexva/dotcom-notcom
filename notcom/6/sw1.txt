@@ -1,0 +1,9 @@
+sw1.ch
+sw1.cn
+sw1.co
+sw1.de
+sw1.eu
+sw1.kr
+sw1.pl
+sw1.ru
+sw1.uk

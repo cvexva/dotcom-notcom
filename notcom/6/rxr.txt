@@ -1,0 +1,11 @@
+rxr.be
+rxr.ch
+rxr.co
+rxr.de
+rxr.fr
+rxr.hk
+rxr.it
+rxr.no
+rxr.ru
+rxr.sk
+rxr.uk

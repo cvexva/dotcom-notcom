@@ -1,0 +1,3 @@
+x.catering
+x.clothing
+x.computer

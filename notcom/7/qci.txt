@@ -1,0 +1,17 @@
+qci.app
+qci.biz
+qci.cat
+qci.llc
+qci.net
+qci.org
+qci.red
+qci.vip
+qci.xyz
+qcib.ca
+qcic.ee
+qcic.jp
+qcic.ru
+qcid.cn
+qcip.cn
+qcis.de
+qcit.cc

@@ -1,0 +1,17 @@
+ndv.at
+ndv.be
+ndv.bz
+ndv.ch
+ndv.cz
+ndv.fr
+ndv.hu
+ndv.ie
+ndv.it
+ndv.lv
+ndv.me
+ndv.pl
+ndv.ru
+ndv.se
+ndv.su
+ndv.uk
+ndv.vn

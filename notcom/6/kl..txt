@@ -1,0 +1,15 @@
+kl.app
+kl.biz
+kl.cpa
+kl.fit
+kl.fyi
+kl.ink
+kl.law
+kl.net
+kl.org
+kl.run
+kl.tax
+kl.vin
+kl.vip
+kl.wtf
+kl.xyz

@@ -1,0 +1,6 @@
+xl.business
+xl.clothing
+xl.delivery
+xl.services
+xl.training
+xl.ventures

@@ -1,0 +1,3 @@
+a.salon
+a.shoes
+a.solar

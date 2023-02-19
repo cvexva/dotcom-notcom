@@ -1,0 +1,9 @@
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-abensberg.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-ebersberg.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-karlstadt.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-kitzingen.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-rosenheim.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-straubing.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-uffenheim.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-wertingen.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-wuerzburg.bayern

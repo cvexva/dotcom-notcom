@@ -1,0 +1,14 @@
+mq.aco
+mq.app
+mq.biz
+mq.cam
+mq.dev
+mq.fit
+mq.fyi
+mq.ink
+mq.law
+mq.mba
+mq.net
+mq.org
+mq.run
+mq.vip

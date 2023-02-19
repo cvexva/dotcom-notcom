@@ -1,0 +1,15 @@
+wl.app
+wl.biz
+wl.day
+wl.eco
+wl.fit
+wl.fyi
+wl.law
+wl.net
+wl.org
+wl.tel
+wl.top
+wl.vip
+wl.win
+wl.wtf
+wl.xyz

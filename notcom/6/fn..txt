@@ -1,0 +1,17 @@
+fn.app
+fn.biz
+fn.cpa
+fn.dev
+fn.dog
+fn.fit
+fn.fyi
+fn.ink
+fn.law
+fn.net
+fn.onl
+fn.org
+fn.pub
+fn.run
+fn.tel
+fn.vip
+fn.wtf

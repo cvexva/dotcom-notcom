@@ -1,0 +1,4 @@
+uz.domain.name
+uz.investments
+uz.xn--czr694b
+uz.xn--vuq861b

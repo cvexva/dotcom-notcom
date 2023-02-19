@@ -1,0 +1,5 @@
+k0s.dev
+k0s.net
+k0s.org
+k0s.xyz
+k0ss.me

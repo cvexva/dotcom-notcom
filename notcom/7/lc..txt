@@ -1,0 +1,15 @@
+lc.army
+lc.care
+lc.chat
+lc.cool
+lc.gold
+lc.immo
+lc.life
+lc.link
+lc.moda
+lc.plus
+lc.show
+lc.team
+lc.wiki
+lc.work
+lc.yoga

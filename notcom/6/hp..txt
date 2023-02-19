@@ -1,0 +1,15 @@
+hp.app
+hp.biz
+hp.dev
+hp.dog
+hp.fit
+hp.fyi
+hp.gov
+hp.inc
+hp.law
+hp.net
+hp.org
+hp.tel
+hp.vet
+hp.vip
+hp.wtf

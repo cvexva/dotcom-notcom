@@ -1,0 +1,13 @@
+znc.bg
+znc.bz
+znc.ch
+znc.cn
+znc.cz
+znc.de
+znc.in
+znc.iq
+znc.pl
+znc.ru
+znc.si
+znc.uk
+znc.us

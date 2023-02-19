@@ -1,0 +1,14 @@
+wn-auto.at
+wn-auto.cn
+wn-immo.de
+wn-jane.de
+wn-jobs.de
+wn-navi.de
+wn-news.ch
+wn-slam.at
+wn-sys.net
+wn-taxi.de
+wn-tec.net
+wn-tec.org
+wn-tgu.net
+wn-zaim.ru

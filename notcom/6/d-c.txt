@@ -1,0 +1,14 @@
+d-c.at
+d-c.cc
+d-c.ch
+d-c.cn
+d-c.de
+d-c.fr
+d-c.it
+d-c.kr
+d-c.kz
+d-c.nl
+d-c.ru
+d-c.se
+d-c.uk
+d-c.us

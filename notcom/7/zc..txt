@@ -1,0 +1,9 @@
+zc.cash
+zc.chat
+zc.club
+zc.cyou
+zc.guru
+zc.plus
+zc.team
+zc.work
+zc.yoga

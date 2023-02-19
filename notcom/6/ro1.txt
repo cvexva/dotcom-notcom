@@ -1,0 +1,6 @@
+ro1.de
+ro1.eu
+ro1.nl
+ro1.ru
+ro1.su
+ro1.uk

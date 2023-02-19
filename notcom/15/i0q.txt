@@ -1,0 +1,10 @@
+i0qabsence.shop
+i0qalcohol.shop
+i0qcontent.shop
+i0qdignity.shop
+i0qmanager.shop
+i0qreceipt.shop
+i0qserious.shop
+i0qservice.shop
+i0qsession.shop
+i0qthought.shop

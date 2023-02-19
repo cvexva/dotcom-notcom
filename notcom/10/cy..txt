@@ -1,0 +1,12 @@
+cy.capital
+cy.charity
+cy.company
+cy.contact
+cy.coop.py
+cy.country
+cy.digital
+cy.express
+cy.fashion
+cy.flights
+cy.network
+cy.whoswho

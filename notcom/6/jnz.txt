@@ -1,0 +1,11 @@
+jnz.be
+jnz.ch
+jnz.de
+jnz.dk
+jnz.eu
+jnz.it
+jnz.mx
+jnz.pl
+jnz.ru
+jnz.se
+jnz.uk

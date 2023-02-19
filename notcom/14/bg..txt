@@ -1,0 +1,3 @@
+bg.domain.name
+bg.szczecin.pl
+bg.xn--vuq861b

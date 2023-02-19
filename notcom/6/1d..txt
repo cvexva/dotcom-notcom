@@ -1,0 +1,11 @@
+1d.app
+1d.biz
+1d.cfd
+1d.fit
+1d.ink
+1d.net
+1d.org
+1d.pub
+1d.tel
+1d.vip
+1d.xyz

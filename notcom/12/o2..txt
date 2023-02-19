@@ -1,0 +1,4 @@
+o2.community
+o2.education
+o2.elblag.pl
+o2.solutions

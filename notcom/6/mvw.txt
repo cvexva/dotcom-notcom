@@ -1,0 +1,17 @@
+mvw.at
+mvw.be
+mvw.by
+mvw.ch
+mvw.cz
+mvw.de
+mvw.eu
+mvw.fi
+mvw.fr
+mvw.im
+mvw.it
+mvw.nl
+mvw.nu
+mvw.ru
+mvw.sd
+mvw.se
+mvw.uk

@@ -1,0 +1,15 @@
+ty.app
+ty.biz
+ty.cfd
+ty.dog
+ty.fit
+ty.fyi
+ty.ink
+ty.law
+ty.net
+ty.org
+ty.run
+ty.tel
+ty.vip
+ty.win
+ty.wtf

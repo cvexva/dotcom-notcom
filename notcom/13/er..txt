@@ -1,0 +1,5 @@
+er.foundation
+er.healthcare
+er.immobilien
+er.management
+er.properties

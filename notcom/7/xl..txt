@@ -1,0 +1,16 @@
+xl.baby
+xl.chat
+xl.club
+xl.cool
+xl.cyou
+xl.gmbh
+xl.guru
+xl.immo
+xl.kiwi
+xl.life
+xl.show
+xl.team
+xl.tips
+xl.toys
+xl.work
+xl.yoga

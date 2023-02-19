@@ -1,0 +1,17 @@
+tcx.be
+tcx.ca
+tcx.cc
+tcx.ch
+tcx.cn
+tcx.fr
+tcx.ie
+tcx.io
+tcx.it
+tcx.pt
+tcx.ru
+tcx.se
+tcx.sk
+tcx.su
+tcx.uk
+tcx.us
+tcx.vn

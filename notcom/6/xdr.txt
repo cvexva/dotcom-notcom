@@ -1,0 +1,11 @@
+xdr.be
+xdr.cc
+xdr.de
+xdr.dk
+xdr.nu
+xdr.pl
+xdr.pw
+xdr.ru
+xdr.se
+xdr.su
+xdr.uk

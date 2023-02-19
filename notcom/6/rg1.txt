@@ -1,0 +1,10 @@
+rg1.ca
+rg1.ch
+rg1.de
+rg1.io
+rg1.ir
+rg1.pl
+rg1.ru
+rg1.se
+rg1.uk
+rg1.us

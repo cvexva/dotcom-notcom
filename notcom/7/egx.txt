@@ -1,0 +1,10 @@
+egx.app
+egx.icu
+egx.net
+egx.one
+egx.org
+egx.vip
+egx.xyz
+egxs.cn
+egxt.ch
+egxu.cn

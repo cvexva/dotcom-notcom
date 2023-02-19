@@ -1,0 +1,15 @@
+cm.aco
+cm.app
+cm.biz
+cm.cpa
+cm.dev
+cm.fit
+cm.fyi
+cm.law
+cm.lol
+cm.mba
+cm.net
+cm.org
+cm.run
+cm.vip
+cm.wtf

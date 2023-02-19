@@ -1,0 +1,13 @@
+x1.army
+x1.beer
+x1.chat
+x1.city
+x1.club
+x1.live
+x1.news
+x1.rent
+x1.sale
+x1.team
+x1.wiki
+x1.work
+x1.yoga

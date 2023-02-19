@@ -1,0 +1,11 @@
+qmb.ae
+qmb.ca
+qmb.ch
+qmb.cz
+qmb.eu
+qmb.in
+qmb.it
+qmb.nl
+qmb.ru
+qmb.se
+qmb.uk

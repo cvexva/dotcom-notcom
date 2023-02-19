@@ -1,0 +1,12 @@
+g11.at
+g11.be
+g11.ch
+g11.es
+g11.eu
+g11.in
+g11.it
+g11.me
+g11.pl
+g11.ru
+g11.se
+g11.uk

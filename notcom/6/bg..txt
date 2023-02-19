@@ -1,0 +1,16 @@
+bg.aco
+bg.biz
+bg.cpa
+bg.fit
+bg.fyi
+bg.ink
+bg.law
+bg.mba
+bg.net
+bg.ooo
+bg.org
+bg.sbs
+bg.top
+bg.vip
+bg.win
+bg.wtf

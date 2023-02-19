@@ -1,0 +1,17 @@
+p3.agency
+p3.art.br
+p3.beauty
+p3.church
+p3.clinic
+p3.com.au
+p3.com.pl
+p3.com.pt
+p3.com.tw
+p3.energy
+p3.estate
+p3.gov.np
+p3.gov.pr
+p3.health
+p3.org.uk
+p3.school
+p3.studio

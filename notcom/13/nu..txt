@@ -1,0 +1,5 @@
+nu.foundation
+nu.healthcare
+nu.management
+nu.technology
+nu.university

@@ -1,0 +1,12 @@
+vx.biz
+vx.dev
+vx.fit
+vx.fyi
+vx.law
+vx.net
+vx.org
+vx.rip
+vx.run
+vx.tel
+vx.vip
+vx.wtf

@@ -1,0 +1,3 @@
+a.fail
+a.farm
+a.fish

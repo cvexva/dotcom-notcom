@@ -1,0 +1,16 @@
+af.academy
+af.capital
+af.company
+af.contact
+af.cooking
+af.country
+af.digital
+af.exposed
+af.fashion
+af.finance
+af.flights
+af.gallery
+af.network
+af.unsa.ba
+af.wedding
+af.whoswho

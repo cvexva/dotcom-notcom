@@ -1,0 +1,17 @@
+pr.aco
+pr.biz
+pr.dev
+pr.fit
+pr.fyi
+pr.gov
+pr.inc
+pr.law
+pr.mba
+pr.net
+pr.new
+pr.org
+pr.pru
+pr.run
+pr.vet
+pr.vip
+pr.wtf

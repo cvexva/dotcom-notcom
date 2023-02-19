@@ -1,0 +1,8 @@
+lc1.ch
+lc1.de
+lc1.it
+lc1.pl
+lc1.ro
+lc1.ru
+lc1.se
+lc1.uk

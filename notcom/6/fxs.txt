@@ -1,0 +1,14 @@
+fxs.be
+fxs.cc
+fxs.ch
+fxs.de
+fxs.ee
+fxs.it
+fxs.jp
+fxs.mx
+fxs.pt
+fxs.ru
+fxs.se
+fxs.su
+fxs.uk
+fxs.us

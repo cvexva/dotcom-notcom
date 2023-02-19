@@ -1,0 +1,15 @@
+qsm.ag
+qsm.be
+qsm.ca
+qsm.ch
+qsm.de
+qsm.hu
+qsm.it
+qsm.jp
+qsm.kz
+qsm.nl
+qsm.nu
+qsm.pl
+qsm.ro
+qsm.ru
+qsm.uk

@@ -1,0 +1,10 @@
+pu.beer
+pu.casa
+pu.chat
+pu.city
+pu.life
+pu.link
+pu.plus
+pu.wiki
+pu.work
+pu.yoga

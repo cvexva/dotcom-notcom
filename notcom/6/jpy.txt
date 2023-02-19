@@ -1,0 +1,8 @@
+jpy.be
+jpy.ch
+jpy.de
+jpy.fi
+jpy.it
+jpy.ru
+jpy.se
+jpy.uk

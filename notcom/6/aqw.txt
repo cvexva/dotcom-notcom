@@ -1,0 +1,12 @@
+aqw.as
+aqw.cc
+aqw.ch
+aqw.co
+aqw.de
+aqw.dk
+aqw.eu
+aqw.ir
+aqw.it
+aqw.pl
+aqw.ru
+aqw.uk

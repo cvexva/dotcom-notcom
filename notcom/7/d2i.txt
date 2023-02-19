@@ -1,0 +1,8 @@
+d2i.app
+d2i.biz
+d2i.dev
+d2i.net
+d2i.org
+d2i.xyz
+d2ic.co
+d2im.co

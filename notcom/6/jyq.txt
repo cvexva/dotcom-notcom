@@ -1,0 +1,6 @@
+jyq.cn
+jyq.de
+jyq.it
+jyq.nl
+jyq.ru
+jyq.uk

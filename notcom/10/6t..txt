@@ -1,0 +1,4 @@
+6t.charity
+6t.country
+6t.fishing
+6t.wedding

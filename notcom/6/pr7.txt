@@ -1,0 +1,10 @@
+pr7.at
+pr7.ch
+pr7.de
+pr7.it
+pr7.jp
+pr7.ke
+pr7.nl
+pr7.pl
+pr7.ru
+pr7.uk

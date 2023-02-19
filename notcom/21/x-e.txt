@@ -1,0 +1,2 @@
+x-edutainment.monster
+x-edutainment.website

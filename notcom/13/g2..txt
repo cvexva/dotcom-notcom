@@ -1,0 +1,3 @@
+g2.cieszyn.pl
+g2.foundation
+g2.technology

@@ -1,0 +1,4 @@
+qx3.cc
+qx3.ch
+qx3.de
+qx3.ru

@@ -1,0 +1,17 @@
+lyx.ai
+lyx.at
+lyx.bz
+lyx.ch
+lyx.de
+lyx.dk
+lyx.ee
+lyx.es
+lyx.fr
+lyx.it
+lyx.no
+lyx.nu
+lyx.pl
+lyx.ro
+lyx.ru
+lyx.se
+lyx.uk

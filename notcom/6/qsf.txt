@@ -1,0 +1,13 @@
+qsf.cc
+qsf.ch
+qsf.de
+qsf.es
+qsf.fr
+qsf.ir
+qsf.it
+qsf.kz
+qsf.nl
+qsf.ru
+qsf.sa
+qsf.tw
+qsf.uk

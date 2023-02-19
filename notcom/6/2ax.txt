@@ -1,0 +1,7 @@
+2ax.cc
+2ax.cn
+2ax.de
+2ax.eu
+2ax.in
+2ax.ir
+2ax.ru

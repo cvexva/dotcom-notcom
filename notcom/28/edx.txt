@@ -1,0 +1,2 @@
+edx-discovery.readthedocs.io
+edx-ecommerce.readthedocs.io

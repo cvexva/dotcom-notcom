@@ -1,0 +1,13 @@
+dmq.app
+dmq.biz
+dmq.net
+dmq.one
+dmq.org
+dmq.vip
+dmq.xyz
+dmqb.ru
+dmqc.it
+dmqe.fr
+dmqg.nl
+dmqr.ru
+dmqz.co

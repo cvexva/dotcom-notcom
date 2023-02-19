@@ -1,0 +1,17 @@
+fx.abogado
+fx.academy
+fx.capital
+fx.careers
+fx.company
+fx.contact
+fx.country
+fx.digital
+fx.fashion
+fx.finance
+fx.gallery
+fx.limited
+fx.network
+fx.reviews
+fx.systems
+fx.trading
+fx.wedding

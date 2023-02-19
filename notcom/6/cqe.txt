@@ -1,0 +1,12 @@
+cqe.cc
+cqe.ch
+cqe.cn
+cqe.co
+cqe.cz
+cqe.de
+cqe.hu
+cqe.it
+cqe.pl
+cqe.ru
+cqe.sk
+cqe.uk

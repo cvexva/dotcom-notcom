@@ -1,0 +1,4 @@
+84.chat
+84.gold
+84.life
+84.tech

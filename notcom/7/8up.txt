@@ -1,0 +1,5 @@
+8up.app
+8up.biz
+8up.net
+8up.org
+8up.xyz

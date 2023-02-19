@@ -1,0 +1,14 @@
+ugf.ba
+ugf.cc
+ugf.ch
+ugf.co
+ugf.cz
+ugf.de
+ugf.dk
+ugf.kr
+ugf.kz
+ugf.me
+ugf.pl
+ugf.ru
+ugf.se
+ugf.uk

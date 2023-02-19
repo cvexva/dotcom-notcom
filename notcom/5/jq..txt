@@ -1,0 +1,16 @@
+jq.be
+jq.cx
+jq.de
+jq.fr
+jq.io
+jq.lv
+jq.nu
+jq.pl
+jq.ro
+jq.rs
+jq.ru
+jq.se
+jq.sg
+jq.sk
+jq.su
+jq.uk

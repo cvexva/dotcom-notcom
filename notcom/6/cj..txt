@@ -1,0 +1,15 @@
+cj.app
+cj.biz
+cj.cpa
+cj.dev
+cj.fit
+cj.fyi
+cj.ink
+cj.law
+cj.lol
+cj.mba
+cj.net
+cj.org
+cj.tel
+cj.vip
+cj.wtf

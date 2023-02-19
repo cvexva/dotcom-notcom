@@ -1,0 +1,6 @@
+dt.consulting
+dt.foundation
+dt.iwate.name
+dt.management
+dt.technology
+dt.wroclaw.pl

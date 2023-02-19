@@ -1,0 +1,9 @@
+b7.app
+b7.biz
+b7.fit
+b7.fyi
+b7.ink
+b7.law
+b7.net
+b7.pub
+b7.vip

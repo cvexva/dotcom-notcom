@@ -1,0 +1,4 @@
+gt.business
+gt.exchange
+gt.partners
+gt.ventures

@@ -1,0 +1,14 @@
+npx.be
+npx.cc
+npx.ch
+npx.cz
+npx.de
+npx.io
+npx.it
+npx.jp
+npx.me
+npx.ph
+npx.pl
+npx.pw
+npx.ru
+npx.uk

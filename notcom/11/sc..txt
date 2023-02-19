@@ -1,0 +1,8 @@
+sc.builders
+sc.democrat
+sc.holdings
+sc.partners
+sc.pictures
+sc.services
+sc.software
+sc.ventures

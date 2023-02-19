@@ -1,0 +1,13 @@
+su.aco
+su.app
+su.biz
+su.fit
+su.fyi
+su.law
+su.net
+su.nrw
+su.org
+su.sbs
+su.vip
+su.wtf
+su.xyz

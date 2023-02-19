@@ -1,0 +1,8 @@
+ff8.cc
+ff8.de
+ff8.fr
+ff8.in
+ff8.it
+ff8.me
+ff8.nl
+ff8.ru

@@ -1,0 +1,16 @@
+jj.app
+jj.biz
+jj.cpa
+jj.fit
+jj.fyi
+jj.icu
+jj.ink
+jj.law
+jj.mba
+jj.net
+jj.org
+jj.tel
+jj.vip
+jj.win
+jj.wtf
+jj.xyz

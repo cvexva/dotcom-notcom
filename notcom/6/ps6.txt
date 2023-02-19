@@ -1,0 +1,9 @@
+ps6.ch
+ps6.dk
+ps6.fr
+ps6.it
+ps6.pl
+ps6.ru
+ps6.se
+ps6.sk
+ps6.uk

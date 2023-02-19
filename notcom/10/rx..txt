@@ -1,0 +1,14 @@
+rx.academy
+rx.capital
+rx.company
+rx.contact
+rx.country
+rx.coupons
+rx.digital
+rx.domains
+rx.express
+rx.fashion
+rx.finance
+rx.network
+rx.support
+rx.wedding

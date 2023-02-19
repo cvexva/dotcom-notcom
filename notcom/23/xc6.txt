@@ -1,0 +1,6 @@
+xc6slx100t-3csg484i.top
+xc6slx100t-3fgg484i.top
+xc6slx150t-2fgg484i.top
+xc6slx150t-2fgg900c.top
+xc6slx150t-3fgg484c.top
+xc6slx150t-3fgg900i.top

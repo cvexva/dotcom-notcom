@@ -1,0 +1,17 @@
+c2.app
+c2.art
+c2.biz
+c2.gay
+c2.ink
+c2.law
+c2.lol
+c2.ltd
+c2.net
+c2.org
+c2.pub
+c2.rip
+c2.run
+c2.tel
+c2.vip
+c2.wtf
+c2.xyz

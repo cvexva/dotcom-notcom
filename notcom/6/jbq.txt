@@ -1,0 +1,13 @@
+jbq.ae
+jbq.be
+jbq.ch
+jbq.de
+jbq.dk
+jbq.eu
+jbq.fr
+jbq.io
+jbq.it
+jbq.jp
+jbq.ru
+jbq.se
+jbq.uk

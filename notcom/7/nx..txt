@@ -1,0 +1,9 @@
+nx.asia
+nx.care
+nx.chat
+nx.life
+nx.plus
+nx.team
+nx.work
+nx.yoga
+nx.zone

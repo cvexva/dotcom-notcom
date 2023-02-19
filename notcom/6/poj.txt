@@ -1,0 +1,16 @@
+poj.be
+poj.ch
+poj.co
+poj.de
+poj.fi
+poj.fm
+poj.it
+poj.jp
+poj.no
+poj.nu
+poj.ro
+poj.ru
+poj.se
+poj.sk
+poj.tw
+poj.uk

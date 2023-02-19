@@ -1,0 +1,12 @@
+rgh.at
+rgh.cc
+rgh.ch
+rgh.cz
+rgh.de
+rgh.dk
+rgh.es
+rgh.eu
+rgh.jp
+rgh.ru
+rgh.se
+rgh.uk

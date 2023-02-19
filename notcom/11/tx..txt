@@ -1,0 +1,7 @@
+tx.business
+tx.delivery
+tx.football
+tx.memorial
+tx.partners
+tx.services
+tx.ventures

@@ -1,0 +1,9 @@
+geq.at
+geq.be
+geq.ca
+geq.ch
+geq.de
+geq.it
+geq.nl
+geq.ru
+geq.uk

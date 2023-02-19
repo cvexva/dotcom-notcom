@@ -1,0 +1,10 @@
+j2p.be
+j2p.ch
+j2p.de
+j2p.eu
+j2p.fr
+j2p.jp
+j2p.kr
+j2p.pl
+j2p.ru
+j2p.uk

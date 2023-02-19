@@ -1,0 +1,11 @@
+txo.bz
+txo.ca
+txo.ch
+txo.co
+txo.fi
+txo.gg
+txo.it
+txo.pl
+txo.ru
+txo.se
+txo.uk

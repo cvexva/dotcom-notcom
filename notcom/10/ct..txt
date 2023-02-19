@@ -1,0 +1,16 @@
+ct.abogado
+ct.capital
+ct.channel
+ct.company
+ct.contact
+ct.country
+ct.dentist
+ct.express
+ct.fashion
+ct.limited
+ct.network
+ct.rentals
+ct.support
+ct.surgery
+ct.systems
+ct.wedding

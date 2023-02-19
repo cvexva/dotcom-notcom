@@ -1,0 +1,8 @@
+de.amsterdam
+de.community
+de.education
+de.financial
+de.institute
+de.jong.name
+de.marketing
+de.statebank

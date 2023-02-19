@@ -1,0 +1,6 @@
+ja2.cc
+ja2.de
+ja2.pl
+ja2.ru
+ja2.sk
+ja2.su

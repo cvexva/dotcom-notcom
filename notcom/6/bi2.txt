@@ -1,0 +1,8 @@
+bi2.at
+bi2.be
+bi2.de
+bi2.ir
+bi2.it
+bi2.jp
+bi2.pl
+bi2.ru

@@ -1,0 +1,13 @@
+djb.am
+djb.az
+djb.ch
+djb.co
+djb.de
+djb.in
+djb.it
+djb.no
+djb.pl
+djb.ru
+djb.se
+djb.uk
+djb.us

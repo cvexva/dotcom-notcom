@@ -1,0 +1,10 @@
+django-adminlte2-templates.readthedocs.io
+django-dynamic-preferences.readthedocs.io
+django-googledrive-storage.readthedocs.io
+django-internationalflavor.readthedocs.io
+django-module-crash-course.readthedocs.io
+django-password-validation.readthedocs.io
+django-permissions-auditor.readthedocs.io
+django-planout-experiments.readthedocs.io
+django-postgres-extensions.readthedocs.io
+django-versatileimagefield.readthedocs.io

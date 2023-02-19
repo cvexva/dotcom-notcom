@@ -1,0 +1,9 @@
+mjx.by
+mjx.ch
+mjx.dk
+mjx.hu
+mjx.it
+mjx.jp
+mjx.ru
+mjx.su
+mjx.uk

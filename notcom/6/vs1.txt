@@ -1,0 +1,7 @@
+vs1.at
+vs1.cc
+vs1.ch
+vs1.de
+vs1.nl
+vs1.ru
+vs1.se

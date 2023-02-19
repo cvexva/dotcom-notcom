@@ -1,0 +1,12 @@
+40.app
+40.biz
+40.dog
+40.fit
+40.law
+40.net
+40.org
+40.run
+40.tel
+40.uno
+40.vip
+40.wtf

@@ -1,0 +1,8 @@
+am.domain.name
+am.engineering
+am.investments
+am.katowice.pl
+am.photography
+am.productions
+am.szczecin.pl
+am.xn--vuq861b

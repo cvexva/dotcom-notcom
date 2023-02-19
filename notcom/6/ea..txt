@@ -1,0 +1,17 @@
+ea.app
+ea.biz
+ea.cab
+ea.eus
+ea.fit
+ea.fyi
+ea.law
+ea.mba
+ea.net
+ea.nrw
+ea.ooo
+ea.org
+ea.run
+ea.tax
+ea.tel
+ea.vip
+ea.wtf

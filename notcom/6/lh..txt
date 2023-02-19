@@ -1,0 +1,13 @@
+lh.app
+lh.biz
+lh.cpa
+lh.eus
+lh.fit
+lh.fyi
+lh.ink
+lh.law
+lh.net
+lh.org
+lh.tel
+lh.vip
+lh.wtf

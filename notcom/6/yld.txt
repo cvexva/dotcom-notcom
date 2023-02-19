@@ -1,0 +1,13 @@
+yld.be
+yld.cc
+yld.ch
+yld.co
+yld.de
+yld.fr
+yld.io
+yld.it
+yld.me
+yld.ru
+yld.se
+yld.sk
+yld.uk

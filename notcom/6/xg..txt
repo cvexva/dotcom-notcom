@@ -1,0 +1,12 @@
+xg.app
+xg.biz
+xg.fit
+xg.fyi
+xg.gay
+xg.ink
+xg.law
+xg.net
+xg.org
+xg.tel
+xg.vip
+xg.wtf

@@ -1,0 +1,14 @@
+ln.app
+ln.biz
+ln.dev
+ln.fit
+ln.fyi
+ln.ink
+ln.law
+ln.net
+ln.onl
+ln.org
+ln.tel
+ln.vip
+ln.wtf
+ln.xyz

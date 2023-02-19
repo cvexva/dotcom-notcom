@@ -1,0 +1,11 @@
+gzf.at
+gzf.ca
+gzf.ch
+gzf.de
+gzf.eu
+gzf.it
+gzf.lt
+gzf.me
+gzf.pl
+gzf.ru
+gzf.uk

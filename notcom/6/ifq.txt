@@ -1,0 +1,10 @@
+ifq.ch
+ifq.cn
+ifq.co
+ifq.de
+ifq.it
+ifq.me
+ifq.nl
+ifq.pl
+ifq.ru
+ifq.uk

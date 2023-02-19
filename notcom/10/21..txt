@@ -1,0 +1,9 @@
+21.capital
+21.company
+21.contact
+21.country
+21.digital
+21.fashion
+21.finance
+21.markets
+21.network

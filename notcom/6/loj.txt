@@ -1,0 +1,15 @@
+loj.ac
+loj.as
+loj.be
+loj.ch
+loj.cn
+loj.cz
+loj.de
+loj.dk
+loj.es
+loj.it
+loj.nl
+loj.ru
+loj.se
+loj.sk
+loj.us

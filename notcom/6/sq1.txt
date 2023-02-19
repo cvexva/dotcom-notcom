@@ -1,0 +1,13 @@
+sq1.au
+sq1.be
+sq1.ch
+sq1.de
+sq1.dk
+sq1.fr
+sq1.io
+sq1.nu
+sq1.nz
+sq1.ru
+sq1.se
+sq1.tv
+sq1.us

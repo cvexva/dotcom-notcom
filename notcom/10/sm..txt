@@ -1,0 +1,11 @@
+sm.bauhaus
+sm.capital
+sm.contact
+sm.cooking
+sm.country
+sm.digital
+sm.fashion
+sm.finance
+sm.jewelry
+sm.systems
+sm.whoswho

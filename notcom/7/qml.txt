@@ -1,0 +1,13 @@
+qml.app
+qml.ink
+qml.net
+qml.org
+qml.ovh
+qml.pub
+qml.top
+qml.vip
+qml.xyz
+qmld.nl
+qmlq.cn
+qmlr.ru
+qmlw.ga

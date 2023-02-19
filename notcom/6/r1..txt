@@ -1,0 +1,8 @@
+r1.biz
+r1.fit
+r1.ink
+r1.net
+r1.org
+r1.pub
+r1.run
+r1.vip

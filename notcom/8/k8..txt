@@ -1,0 +1,16 @@
+k8.autos
+k8.bingo
+k8.boats
+k8.co.kr
+k8.co.nz
+k8.co.uk
+k8.games
+k8.gives
+k8.homes
+k8.legal
+k8.money
+k8.place
+k8.quest
+k8.rocks
+k8.tools
+k8.world

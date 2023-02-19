@@ -1,0 +1,3 @@
+py-googletrans.readthedocs.io
+py-trabajos-en-linea-ace.info
+py-tutorial-de.readthedocs.io

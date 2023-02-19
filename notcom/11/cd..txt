@@ -1,0 +1,7 @@
+cd.delivery
+cd.discover
+cd.exchange
+cd.partners
+cd.rom.name
+cd.services
+cd.training

@@ -1,0 +1,11 @@
+cxf.ch
+cxf.cn
+cxf.de
+cxf.eu
+cxf.fr
+cxf.nl
+cxf.pl
+cxf.ru
+cxf.se
+cxf.uk
+cxf.ws

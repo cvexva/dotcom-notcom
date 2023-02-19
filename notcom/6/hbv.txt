@@ -1,0 +1,17 @@
+hbv.as
+hbv.at
+hbv.ch
+hbv.cn
+hbv.de
+hbv.fi
+hbv.fr
+hbv.ir
+hbv.is
+hbv.it
+hbv.no
+hbv.pl
+hbv.pt
+hbv.ru
+hbv.se
+hbv.uk
+hbv.vn

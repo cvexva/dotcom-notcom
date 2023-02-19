@@ -1,0 +1,9 @@
+wxm.be
+wxm.de
+wxm.dk
+wxm.es
+wxm.it
+wxm.me
+wxm.pl
+wxm.ru
+wxm.uk

@@ -1,0 +1,12 @@
+qve.am
+qve.ca
+qve.cc
+qve.ch
+qve.de
+qve.fr
+qve.it
+qve.jp
+qve.nl
+qve.pt
+qve.ru
+qve.uk

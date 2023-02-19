@@ -1,0 +1,4 @@
+vrcdeploymentservices.cruises
+vrcfashionsonthefield.digital
+vrcfashionsonthefield.fashion
+vrcfashionsonthefield.website

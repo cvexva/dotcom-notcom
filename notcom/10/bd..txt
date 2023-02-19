@@ -1,0 +1,12 @@
+bd.academy
+bd.auction
+bd.capital
+bd.company
+bd.contact
+bd.country
+bd.digital
+bd.fashion
+bd.finance
+bd.gallery
+bd.limited
+bd.whoswho

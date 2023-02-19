@@ -1,0 +1,7 @@
+ex.business
+ex.computer
+ex.daa.name
+ex.delivery
+ex.exchange
+ex.partners
+ex.ventures

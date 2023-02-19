@@ -1,0 +1,17 @@
+vmz.at
+vmz.be
+vmz.bg
+vmz.by
+vmz.ch
+vmz.cz
+vmz.eu
+vmz.fr
+vmz.hr
+vmz.jp
+vmz.kz
+vmz.ru
+vmz.se
+vmz.su
+vmz.uk
+vmz.uz
+vmz.vn

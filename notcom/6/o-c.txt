@@ -1,0 +1,15 @@
+o-c.cc
+o-c.ch
+o-c.de
+o-c.dk
+o-c.fr
+o-c.io
+o-c.it
+o-c.nl
+o-c.nu
+o-c.pl
+o-c.pw
+o-c.ru
+o-c.sk
+o-c.uk
+o-c.uz

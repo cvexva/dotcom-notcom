@@ -1,0 +1,6 @@
+io.akita.name
+io.gliwice.pl
+io.healthcare
+io.kommune.no
+io.management
+io.technology

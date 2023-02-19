@@ -1,0 +1,3 @@
+t6g.app
+t6g.net
+t6g.org

@@ -1,0 +1,2 @@
+bgp-managementberatung.de
+bgpartemis.readthedocs.io

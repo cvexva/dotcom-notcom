@@ -1,0 +1,5 @@
+5t.business
+5t.football
+5t.observer
+5t.software
+5t.ventures

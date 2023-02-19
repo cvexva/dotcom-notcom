@@ -1,0 +1,5 @@
+z1.capital
+z1.country
+z1.digital
+z1.finance
+z1.monster

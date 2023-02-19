@@ -1,0 +1,8 @@
+iu.app
+iu.biz
+iu.fit
+iu.fyi
+iu.law
+iu.net
+iu.org
+iu.vip

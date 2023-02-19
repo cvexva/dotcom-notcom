@@ -1,0 +1,5 @@
+f3r.app
+f3r.dev
+f3r.net
+f3r.org
+f3r.xyz

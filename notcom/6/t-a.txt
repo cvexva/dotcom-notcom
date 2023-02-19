@@ -1,0 +1,16 @@
+t-a.be
+t-a.by
+t-a.ca
+t-a.cc
+t-a.ch
+t-a.cz
+t-a.de
+t-a.eu
+t-a.fr
+t-a.gr
+t-a.hu
+t-a.it
+t-a.no
+t-a.pl
+t-a.ru
+t-a.uk

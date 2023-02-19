@@ -1,0 +1,11 @@
+g6.app
+g6.biz
+g6.fit
+g6.ink
+g6.law
+g6.ltd
+g6.net
+g6.org
+g6.pub
+g6.tel
+g6.vip

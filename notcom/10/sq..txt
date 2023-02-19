@@ -1,0 +1,7 @@
+sq.academy
+sq.capital
+sq.country
+sq.digital
+sq.fashion
+sq.finance
+sq.network

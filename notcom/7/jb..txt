@@ -1,0 +1,17 @@
+jb.baby
+jb.camp
+jb.cash
+jb.chat
+jb.city
+jb.club
+jb.fail
+jb.immo
+jb.kiwi
+jb.land
+jb.life
+jb.live
+jb.team
+jb.wiki
+jb.wine
+jb.work
+jb.yoga

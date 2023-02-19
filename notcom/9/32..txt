@@ -1,0 +1,15 @@
+32.agency
+32.clinic
+32.com.au
+32.com.es
+32.com.hk
+32.com.tr
+32.com.ua
+32.com.vn
+32.dental
+32.health
+32.idv.tw
+32.insure
+32.net.ua
+32.org.uk
+32.studio

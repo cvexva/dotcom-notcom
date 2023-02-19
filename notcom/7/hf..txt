@@ -1,0 +1,15 @@
+hf.army
+hf.camp
+hf.care
+hf.chat
+hf.cool
+hf.cyou
+hf.gift
+hf.gold
+hf.guru
+hf.immo
+hf.life
+hf.plus
+hf.team
+hf.work
+hf.yoga

@@ -1,0 +1,15 @@
+sh.aco
+sh.app
+sh.biz
+sh.dev
+sh.dog
+sh.fit
+sh.ink
+sh.law
+sh.net
+sh.org
+sh.run
+sh.tax
+sh.vip
+sh.win
+sh.wtf

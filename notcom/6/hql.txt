@@ -1,0 +1,12 @@
+hql.be
+hql.ch
+hql.co
+hql.cz
+hql.eu
+hql.fr
+hql.jp
+hql.nl
+hql.pl
+hql.ru
+hql.se
+hql.uk

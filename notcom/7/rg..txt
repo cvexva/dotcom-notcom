@@ -1,0 +1,12 @@
+rg.care
+rg.chat
+rg.gold
+rg.golf
+rg.haus
+rg.immo
+rg.land
+rg.life
+rg.link
+rg.team
+rg.work
+rg.yoga

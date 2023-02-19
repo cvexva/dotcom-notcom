@@ -1,0 +1,12 @@
+g30.be
+g30.ca
+g30.ch
+g30.de
+g30.fi
+g30.it
+g30.nl
+g30.pl
+g30.ru
+g30.se
+g30.us
+g30.vn

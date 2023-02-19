@@ -1,0 +1,4 @@
+o2.consulting
+o2.properties
+o2.realestate
+o2.vlaanderen

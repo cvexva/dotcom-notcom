@@ -1,0 +1,17 @@
+tf1.app
+tf1.biz
+tf1.dev
+tf1.fun
+tf1.lol
+tf1.net
+tf1.one
+tf1.org
+tf1.pro
+tf1.pub
+tf1.tel
+tf1.xyz
+tf10.ru
+tf11.uk
+tf12.ru
+tf12.uk
+tf13.uk

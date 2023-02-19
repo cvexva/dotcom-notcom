@@ -1,0 +1,17 @@
+ps.academy
+ps.capital
+ps.company
+ps.contact
+ps.cooking
+ps.country
+ps.coupons
+ps.digital
+ps.domains
+ps.exposed
+ps.fashion
+ps.finance
+ps.limited
+ps.network
+ps.rentals
+ps.systems
+ps.whoswho

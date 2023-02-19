@@ -1,0 +1,8 @@
+sc1.ch
+sc1.de
+sc1.dk
+sc1.gg
+sc1.it
+sc1.me
+sc1.ru
+sc1.sc

@@ -1,0 +1,8 @@
+d0.biz
+d0.fit
+d0.ink
+d0.net
+d0.org
+d0.pub
+d0.vip
+d0.xyz

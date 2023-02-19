@@ -1,0 +1,16 @@
+vfe.be
+vfe.cc
+vfe.ch
+vfe.cn
+vfe.de
+vfe.dk
+vfe.eu
+vfe.fr
+vfe.it
+vfe.no
+vfe.pl
+vfe.ro
+vfe.ru
+vfe.se
+vfe.uk
+vfe.vc

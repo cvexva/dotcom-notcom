@@ -1,0 +1,8 @@
+md.business
+md.engineer
+md.holdings
+md.med.name
+md.partners
+md.services
+md.shopping
+md.ventures

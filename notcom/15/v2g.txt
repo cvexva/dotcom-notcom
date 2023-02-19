@@ -1,0 +1,5 @@
+v2g-charger.net
+v2g-clarity.net
+v2g-wallbox.net
+v2gservices.net
+v2gservices.org

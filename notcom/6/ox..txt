@@ -1,0 +1,15 @@
+ox.app
+ox.biz
+ox.dog
+ox.fit
+ox.fyi
+ox.law
+ox.mba
+ox.net
+ox.ooo
+ox.org
+ox.run
+ox.tel
+ox.vip
+ox.wtf
+ox.xxx

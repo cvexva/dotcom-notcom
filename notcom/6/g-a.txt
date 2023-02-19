@@ -1,0 +1,16 @@
+g-a.am
+g-a.be
+g-a.by
+g-a.ch
+g-a.de
+g-a.dk
+g-a.fr
+g-a.gr
+g-a.it
+g-a.jp
+g-a.nl
+g-a.pl
+g-a.ru
+g-a.se
+g-a.sk
+g-a.uk

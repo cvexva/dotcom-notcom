@@ -1,0 +1,5 @@
+om7.cc
+om7.ch
+om7.de
+om7.pl
+om7.ru

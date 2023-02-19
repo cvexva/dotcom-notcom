@@ -1,0 +1,6 @@
+bc.foundation
+bc.industries
+bc.management
+bc.properties
+bc.technology
+bc.university

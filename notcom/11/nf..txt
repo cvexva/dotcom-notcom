@@ -1,0 +1,3 @@
+nf.diamonds
+nf.exchange
+nf.services

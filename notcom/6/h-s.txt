@@ -1,0 +1,15 @@
+h-s.be
+h-s.ch
+h-s.cl
+h-s.de
+h-s.eu
+h-s.hu
+h-s.it
+h-s.jp
+h-s.me
+h-s.nl
+h-s.pe
+h-s.pl
+h-s.ru
+h-s.se
+h-s.uk

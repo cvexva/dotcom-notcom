@@ -1,0 +1,10 @@
+j2c.be
+j2c.cc
+j2c.ch
+j2c.de
+j2c.dk
+j2c.eu
+j2c.fr
+j2c.me
+j2c.pt
+j2c.se

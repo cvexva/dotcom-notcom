@@ -1,0 +1,6 @@
+5q.business
+5q.football
+5q.observer
+5q.partners
+5q.services
+5q.software

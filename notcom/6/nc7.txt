@@ -1,0 +1,4 @@
+nc7.in
+nc7.nl
+nc7.pl
+nc7.ru

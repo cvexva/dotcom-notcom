@@ -1,0 +1,7 @@
+tx2.be
+tx2.ca
+tx2.de
+tx2.fi
+tx2.fr
+tx2.ru
+tx2.uk

@@ -1,0 +1,3 @@
+sd.properties
+sd.technology
+sd.xn--czrs0t

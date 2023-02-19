@@ -1,0 +1,13 @@
+qcl.be
+qcl.ch
+qcl.cn
+qcl.eu
+qcl.fr
+qcl.it
+qcl.kz
+qcl.me
+qcl.nz
+qcl.pl
+qcl.ru
+qcl.tw
+qcl.uk

@@ -1,0 +1,15 @@
+ex.abogado
+ex.academy
+ex.capital
+ex.company
+ex.contact
+ex.cooking
+ex.country
+ex.digital
+ex.fashion
+ex.finance
+ex.hamburg
+ex.network
+ex.rentals
+ex.systems
+ex.wedding

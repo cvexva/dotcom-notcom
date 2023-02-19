@@ -1,0 +1,16 @@
+gpw.at
+gpw.be
+gpw.by
+gpw.ca
+gpw.ch
+gpw.fr
+gpw.in
+gpw.ir
+gpw.la
+gpw.pl
+gpw.ru
+gpw.se
+gpw.sk
+gpw.su
+gpw.uk
+gpw.us

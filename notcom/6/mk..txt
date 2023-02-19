@@ -1,0 +1,16 @@
+mk.aco
+mk.app
+mk.biz
+mk.cpa
+mk.dev
+mk.fit
+mk.fyi
+mk.law
+mk.net
+mk.nrw
+mk.nyc
+mk.org
+mk.run
+mk.sbs
+mk.tax
+mk.vip

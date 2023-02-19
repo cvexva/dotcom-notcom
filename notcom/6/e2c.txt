@@ -1,0 +1,14 @@
+e2c.cg
+e2c.ch
+e2c.cn
+e2c.de
+e2c.es
+e2c.eu
+e2c.fr
+e2c.it
+e2c.lu
+e2c.nu
+e2c.ru
+e2c.se
+e2c.uk
+e2c.us

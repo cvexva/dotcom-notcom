@@ -1,0 +1,16 @@
+tpx.app
+tpx.biz
+tpx.dev
+tpx.net
+tpx.org
+tpx.vip
+tpx.xyz
+tpx2.uk
+tpxb.cn
+tpxl.cn
+tpxl.io
+tpxq.cn
+tpxt.cn
+tpxt.de
+tpxw.cn
+tpxx.cn

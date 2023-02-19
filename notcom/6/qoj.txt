@@ -1,0 +1,6 @@
+qoj.ac
+qoj.de
+qoj.eu
+qoj.it
+qoj.ru
+qoj.uk

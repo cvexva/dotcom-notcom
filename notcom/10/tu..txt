@@ -1,0 +1,13 @@
+tu.abogado
+tu.capital
+tu.company
+tu.contact
+tu.cooking
+tu.country
+tu.digital
+tu.fashion
+tu.hamburg
+tu.info.pl
+tu.network
+tu.pila.pl
+tu.wedding

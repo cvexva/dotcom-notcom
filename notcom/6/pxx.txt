@@ -1,0 +1,15 @@
+pxx.ca
+pxx.ch
+pxx.cn
+pxx.de
+pxx.fi
+pxx.fr
+pxx.in
+pxx.io
+pxx.it
+pxx.jp
+pxx.me
+pxx.pl
+pxx.ru
+pxx.se
+pxx.uk

@@ -1,0 +1,1 @@
+yii2-cookbook-by-wokster.readthedocs.io

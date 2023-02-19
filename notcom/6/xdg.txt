@@ -1,0 +1,11 @@
+xdg.be
+xdg.ch
+xdg.cn
+xdg.co
+xdg.de
+xdg.eu
+xdg.it
+xdg.me
+xdg.ru
+xdg.se
+xdg.uk

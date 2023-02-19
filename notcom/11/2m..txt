@@ -1,0 +1,7 @@
+2m.business
+2m.football
+2m.holdings
+2m.services
+2m.software
+2m.torun.pl
+2m.ventures

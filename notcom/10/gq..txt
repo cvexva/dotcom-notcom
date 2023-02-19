@@ -1,0 +1,5 @@
+gq.contact
+gq.country
+gq.fashion
+gq.wedding
+gq.whoswho

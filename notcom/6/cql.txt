@@ -1,0 +1,12 @@
+cql.ca
+cql.ch
+cql.cn
+cql.de
+cql.fr
+cql.it
+cql.jp
+cql.nl
+cql.pl
+cql.ru
+cql.uk
+cql.us

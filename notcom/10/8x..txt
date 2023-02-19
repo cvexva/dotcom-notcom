@@ -1,0 +1,4 @@
+8x.charity
+8x.country
+8x.fishing
+8x.network

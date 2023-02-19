@@ -1,0 +1,10 @@
+yu.abogado
+yu.capital
+yu.contact
+yu.cooking
+yu.country
+yu.digital
+yu.fashion
+yu.finance
+yu.limited
+yu.wedding

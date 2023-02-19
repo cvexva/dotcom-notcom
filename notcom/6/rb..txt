@@ -1,0 +1,12 @@
+rb.app
+rb.biz
+rb.dev
+rb.fit
+rb.fyi
+rb.law
+rb.net
+rb.org
+rb.run
+rb.tel
+rb.vip
+rb.wtf

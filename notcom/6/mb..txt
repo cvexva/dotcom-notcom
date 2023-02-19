@@ -1,0 +1,17 @@
+mb.biz
+mb.cpa
+mb.dev
+mb.fit
+mb.fyi
+mb.ink
+mb.law
+mb.mba
+mb.net
+mb.nrw
+mb.ooo
+mb.org
+mb.tax
+mb.tel
+mb.vin
+mb.vip
+mb.wtf

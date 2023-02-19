@@ -1,0 +1,15 @@
+b10.at
+b10.ch
+b10.dk
+b10.es
+b10.fi
+b10.ge
+b10.hr
+b10.it
+b10.me
+b10.pl
+b10.ru
+b10.se
+b10.sk
+b10.uk
+b10.vc

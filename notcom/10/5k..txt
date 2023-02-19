@@ -1,0 +1,5 @@
+5k.charity
+5k.country
+5k.digital
+5k.fishing
+5k.fitness

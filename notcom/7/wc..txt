@@ -1,0 +1,13 @@
+wc.bond
+wc.care
+wc.cash
+wc.chat
+wc.fund
+wc.gift
+wc.guru
+wc.life
+wc.live
+wc.plus
+wc.rsvp
+wc.work
+wc.yoga

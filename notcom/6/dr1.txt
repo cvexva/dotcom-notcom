@@ -1,0 +1,14 @@
+dr1.by
+dr1.ch
+dr1.co
+dr1.de
+dr1.dk
+dr1.eu
+dr1.fi
+dr1.ir
+dr1.it
+dr1.me
+dr1.pl
+dr1.ru
+dr1.se
+dr1.uk

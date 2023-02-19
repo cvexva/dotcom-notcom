@@ -1,0 +1,7 @@
+2r.charity
+2r.company
+2r.country
+2r.digital
+2r.fishing
+2r.network
+2r.wedding

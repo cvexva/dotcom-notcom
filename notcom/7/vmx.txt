@@ -1,0 +1,17 @@
+vmx.app
+vmx.llc
+vmx.net
+vmx.one
+vmx.org
+vmx.ovh
+vmx.vet
+vmx.vip
+vmx.xyz
+vmxe.cn
+vmxe.ru
+vmxf.cn
+vmxi.cn
+vmxr.ru
+vmxt.cn
+vmxt.de
+vmxx.de

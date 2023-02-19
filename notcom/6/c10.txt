@@ -1,0 +1,14 @@
+c10.ch
+c10.cn
+c10.cz
+c10.de
+c10.dk
+c10.fr
+c10.in
+c10.ir
+c10.nl
+c10.pl
+c10.ru
+c10.tv
+c10.tw
+c10.uk

@@ -1,0 +1,16 @@
+gh.agency
+gh.church
+gh.coffee
+gh.com.au
+gh.com.mx
+gh.com.my
+gh.com.py
+gh.com.tr
+gh.energy
+gh.expert
+gh.insure
+gh.med.ly
+gh.org.ua
+gh.org.uk
+gh.school
+gh.supply

@@ -1,0 +1,16 @@
+wga.at
+wga.cc
+wga.ch
+wga.co
+wga.de
+wga.fr
+wga.hu
+wga.ir
+wga.nu
+wga.pl
+wga.pt
+wga.ro
+wga.ru
+wga.se
+wga.sk
+wga.uk

@@ -1,0 +1,3 @@
+g7.business
+g7.holdings
+g7.ventures

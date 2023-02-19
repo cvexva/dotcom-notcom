@@ -1,0 +1,8 @@
+jk.company
+jk.contact
+jk.country
+jk.digital
+jk.fashion
+jk.finance
+jk.network
+jk.wedding

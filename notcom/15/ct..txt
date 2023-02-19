@@ -1,0 +1,2 @@
+ct.construction
+ct.diamond.name

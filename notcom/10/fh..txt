@@ -1,0 +1,10 @@
+fh.academy
+fh.cologne
+fh.country
+fh.digital
+fh.express
+fh.fashion
+fh.finance
+fh.network
+fh.systems
+fh.wedding

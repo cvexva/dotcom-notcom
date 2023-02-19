@@ -1,0 +1,4 @@
+ip6-allrouters.host
+ip6-mcastprefix.dev
+ip6-mcastprefix.net
+ip6networking.co.uk

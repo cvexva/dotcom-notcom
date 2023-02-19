@@ -1,0 +1,14 @@
+wcf.at
+wcf.be
+wcf.ch
+wcf.co
+wcf.de
+wcf.dk
+wcf.eu
+wcf.fi
+wcf.fr
+wcf.nu
+wcf.ru
+wcf.se
+wcf.uk
+wcf.vn

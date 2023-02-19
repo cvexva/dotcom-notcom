@@ -1,0 +1,12 @@
+ka.academy
+ka.capital
+ka.company
+ka.contact
+ka.country
+ka.digital
+ka.fashion
+ka.flights
+ka.jewelry
+ka.network
+ka.surgery
+ka.systems

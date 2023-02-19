@@ -1,0 +1,14 @@
+vpu.bg
+vpu.ca
+vpu.cl
+vpu.co
+vpu.de
+vpu.fi
+vpu.fr
+vpu.lt
+vpu.me
+vpu.ru
+vpu.se
+vpu.si
+vpu.su
+vpu.uk

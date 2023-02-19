@@ -1,0 +1,14 @@
+mj.company
+mj.contact
+mj.country
+mj.cruises
+mj.digital
+mj.domains
+mj.fashion
+mj.finance
+mj.gallery
+mj.kitchen
+mj.network
+mj.recipes
+mj.reviews
+mj.wedding

@@ -1,0 +1,5 @@
+b2j.app
+b2j.fyi
+b2j.net
+b2j.org
+b2j.xyz

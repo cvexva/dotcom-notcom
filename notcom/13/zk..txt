@@ -1,0 +1,8 @@
+zk.consulting
+zk.creditcard
+zk.foundation
+zk.industries
+zk.management
+zk.properties
+zk.technology
+zk.university

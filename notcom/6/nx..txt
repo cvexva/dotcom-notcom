@@ -1,0 +1,13 @@
+nx.app
+nx.biz
+nx.dev
+nx.fit
+nx.fyi
+nx.law
+nx.net
+nx.org
+nx.pub
+nx.run
+nx.tel
+nx.vip
+nx.wtf

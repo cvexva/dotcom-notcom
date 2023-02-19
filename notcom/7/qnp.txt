@@ -1,0 +1,14 @@
+qnp.app
+qnp.biz
+qnp.net
+qnp.org
+qnp.pub
+qnp.xyz
+qnp1.cn
+qnp2.cc
+qnpd.ru
+qnpl.in
+qnpn.cn
+qnpn.ru
+qnpo.de
+qnpq.cn

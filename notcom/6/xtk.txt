@@ -1,0 +1,11 @@
+xtk.cc
+xtk.ch
+xtk.de
+xtk.es
+xtk.eu
+xtk.in
+xtk.it
+xtk.nl
+xtk.ru
+xtk.se
+xtk.uk

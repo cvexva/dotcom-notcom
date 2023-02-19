@@ -1,0 +1,8 @@
+js1.at
+js1.ch
+js1.cn
+js1.in
+js1.kr
+js1.ru
+js1.uk
+js1.vc

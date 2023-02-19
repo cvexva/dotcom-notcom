@@ -1,0 +1,4 @@
+k.capital
+k.company
+k.cooking
+k.country

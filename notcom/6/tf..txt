@@ -1,0 +1,13 @@
+tf.aco
+tf.biz
+tf.fit
+tf.fyi
+tf.icu
+tf.inc
+tf.ink
+tf.law
+tf.net
+tf.org
+tf.pub
+tf.vip
+tf.wtf

@@ -1,0 +1,2 @@
+z2k.fail
+z2k.info

@@ -1,0 +1,2 @@
+mq.domain.name
+mq.xn--vuq861b

@@ -1,0 +1,7 @@
+40.chat
+40.gold
+40.immo
+40.life
+40.luxe
+40.plus
+40.work

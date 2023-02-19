@@ -1,0 +1,14 @@
+bm.aco
+bm.app
+bm.biz
+bm.dog
+bm.eus
+bm.fit
+bm.ink
+bm.law
+bm.net
+bm.ooo
+bm.org
+bm.run
+bm.top
+bm.vip

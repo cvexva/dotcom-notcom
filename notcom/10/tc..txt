@@ -1,0 +1,14 @@
+tc.abogado
+tc.academy
+tc.company
+tc.contact
+tc.country
+tc.digital
+tc.fashion
+tc.fitness
+tc.info.tr
+tc.lviv.ua
+tc.markets
+tc.network
+tc.trading
+tc.whoswho

@@ -1,0 +1,13 @@
+fxc.am
+fxc.be
+fxc.ch
+fxc.hu
+fxc.in
+fxc.it
+fxc.jp
+fxc.kr
+fxc.nl
+fxc.no
+fxc.ru
+fxc.se
+fxc.uk

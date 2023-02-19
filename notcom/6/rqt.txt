@@ -1,0 +1,12 @@
+rqt.cc
+rqt.ch
+rqt.cz
+rqt.de
+rqt.io
+rqt.it
+rqt.kr
+rqt.nl
+rqt.nu
+rqt.ru
+rqt.se
+rqt.uk

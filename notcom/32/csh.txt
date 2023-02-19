@@ -1,0 +1,2 @@
+csharp-functional.readthedocs.io
+csharpreactivepatterns.github.io

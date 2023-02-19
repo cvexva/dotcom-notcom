@@ -1,0 +1,14 @@
+lz.app
+lz.biz
+lz.cpa
+lz.dev
+lz.fit
+lz.fyi
+lz.law
+lz.net
+lz.org
+lz.run
+lz.tel
+lz.vin
+lz.vip
+lz.wtf

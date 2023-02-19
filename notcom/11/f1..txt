@@ -1,0 +1,10 @@
+f1.bargains
+f1.boutique
+f1.business
+f1.clothing
+f1.computer
+f1.graphics
+f1.konin.pl
+f1.services
+f1.software
+f1.ventures

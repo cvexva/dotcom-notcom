@@ -1,0 +1,14 @@
+88.capital
+88.company
+88.contact
+88.cooking
+88.country
+88.digital
+88.domains
+88.fashion
+88.finance
+88.limited
+88.markets
+88.network
+88.rentals
+88.wedding

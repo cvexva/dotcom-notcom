@@ -1,0 +1,17 @@
+gf.aco
+gf.app
+gf.biz
+gf.cam
+gf.dev
+gf.fan
+gf.fit
+gf.fyi
+gf.icu
+gf.law
+gf.mba
+gf.net
+gf.org
+gf.run
+gf.vet
+gf.vip
+gf.wtf

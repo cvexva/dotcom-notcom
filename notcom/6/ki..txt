@@ -1,0 +1,14 @@
+ki.aco
+ki.app
+ki.biz
+ki.dev
+ki.fit
+ki.fyi
+ki.ink
+ki.law
+ki.mba
+ki.net
+ki.nrw
+ki.org
+ki.run
+ki.vip

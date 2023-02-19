@@ -1,0 +1,3 @@
+i.partners
+i.pictures
+i.property

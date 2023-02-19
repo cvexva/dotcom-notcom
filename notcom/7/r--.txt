@@ -1,0 +1,11 @@
+r--1.de
+r--2.jp
+r--b.eu
+r--e.de
+r--f.ru
+r--j.ca
+r--j.uk
+r--m.ch
+r--r.de
+r--s.ru
+r--u.ru

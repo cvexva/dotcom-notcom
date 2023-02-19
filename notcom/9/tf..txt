@@ -1,0 +1,17 @@
+tf.arq.br
+tf.center
+tf.church
+tf.coffee
+tf.com.br
+tf.com.cn
+tf.com.pk
+tf.com.pl
+tf.com.vn
+tf.design
+tf.edu.pk
+tf.edu.tw
+tf.net.pk
+tf.org.ua
+tf.org.uk
+tf.studio
+tf.vision

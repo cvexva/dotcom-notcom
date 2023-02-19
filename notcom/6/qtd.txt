@@ -1,0 +1,14 @@
+qtd.be
+qtd.cn
+qtd.co
+qtd.cz
+qtd.de
+qtd.es
+qtd.io
+qtd.jp
+qtd.nl
+qtd.nu
+qtd.pl
+qtd.ru
+qtd.se
+qtd.uk

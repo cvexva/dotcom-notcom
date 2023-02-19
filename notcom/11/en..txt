@@ -1,0 +1,6 @@
+en.business
+en.delivery
+en.lighting
+en.roros.no
+en.services
+en.training

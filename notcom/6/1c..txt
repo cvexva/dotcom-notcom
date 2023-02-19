@@ -1,0 +1,13 @@
+1c.app
+1c.biz
+1c.cfd
+1c.dev
+1c.fit
+1c.ink
+1c.net
+1c.org
+1c.pub
+1c.tel
+1c.vip
+1c.wtf
+1c.xyz

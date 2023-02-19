@@ -1,0 +1,15 @@
+gl.aco
+gl.app
+gl.biz
+gl.fit
+gl.fyi
+gl.ink
+gl.law
+gl.mba
+gl.net
+gl.org
+gl.run
+gl.tax
+gl.vin
+gl.vip
+gl.wtf

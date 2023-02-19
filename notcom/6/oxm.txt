@@ -1,0 +1,9 @@
+oxm.bg
+oxm.ch
+oxm.dk
+oxm.mx
+oxm.nl
+oxm.pl
+oxm.ru
+oxm.se
+oxm.uk

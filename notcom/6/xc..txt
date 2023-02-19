@@ -1,0 +1,14 @@
+xc.app
+xc.biz
+xc.fit
+xc.fyi
+xc.gay
+xc.ink
+xc.law
+xc.net
+xc.one
+xc.org
+xc.pub
+xc.run
+xc.tel
+xc.wtf

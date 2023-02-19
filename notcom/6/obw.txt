@@ -1,0 +1,14 @@
+obw.cc
+obw.ch
+obw.de
+obw.dk
+obw.eu
+obw.fr
+obw.ie
+obw.it
+obw.nl
+obw.nu
+obw.pl
+obw.ru
+obw.se
+obw.uk

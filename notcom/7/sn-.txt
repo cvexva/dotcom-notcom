@@ -1,0 +1,16 @@
+sn-a.de
+sn-b.ru
+sn-c.jp
+sn-d.de
+sn-g.jp
+sn-g.ru
+sn-i.ch
+sn-i.de
+sn-i.eu
+sn-i.fr
+sn-m.ch
+sn-m.ru
+sn-s.de
+sn-s.ru
+sn-v.de
+sn-w.de

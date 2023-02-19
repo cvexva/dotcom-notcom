@@ -1,0 +1,10 @@
+v18.app
+v18.biz
+v18.dev
+v18.fun
+v18.net
+v18.org
+v18.top
+v18.vip
+v18.win
+v18v.ru

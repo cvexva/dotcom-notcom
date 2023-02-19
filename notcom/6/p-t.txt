@@ -1,0 +1,15 @@
+p-t.be
+p-t.by
+p-t.ch
+p-t.de
+p-t.eu
+p-t.fr
+p-t.gr
+p-t.it
+p-t.nl
+p-t.pl
+p-t.ru
+p-t.se
+p-t.su
+p-t.uk
+p-t.uz

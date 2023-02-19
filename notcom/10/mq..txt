@@ -1,0 +1,6 @@
+mq.contact
+mq.country
+mq.fashion
+mq.finance
+mq.wedding
+mq.whoswho

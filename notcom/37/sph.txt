@@ -1,0 +1,7 @@
+sphere-physics-research-institute.org
+sphinx-markdown-sample.readthedocs.io
+sphinx-version-warning.readthedocs.io
+sphinxcontrib-napoleon.readthedocs.io
+sphinxcontrib-spelling.readthedocs.io
+sphinxql-query-builder.readthedocs.io
+sphinxtechnicalwriting.readthedocs.io

@@ -1,0 +1,16 @@
+v1.app
+v1.biz
+v1.cfd
+v1.fan
+v1.fit
+v1.fyi
+v1.ink
+v1.law
+v1.lol
+v1.net
+v1.org
+v1.pub
+v1.rip
+v1.vip
+v1.wtf
+v1.xyz

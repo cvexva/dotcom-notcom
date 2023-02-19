@@ -1,0 +1,16 @@
+lt.aco
+lt.app
+lt.biz
+lt.dev
+lt.eco
+lt.fan
+lt.fit
+lt.fyi
+lt.law
+lt.mba
+lt.net
+lt.nrw
+lt.org
+lt.sbs
+lt.vip
+lt.wtf

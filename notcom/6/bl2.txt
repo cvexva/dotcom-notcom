@@ -1,0 +1,7 @@
+bl2.co
+bl2.eu
+bl2.it
+bl2.me
+bl2.ru
+bl2.se
+bl2.uk

@@ -1,0 +1,15 @@
+wy.app
+wy.biz
+wy.cpa
+wy.fit
+wy.fyi
+wy.gov
+wy.law
+wy.net
+wy.org
+wy.run
+wy.sbs
+wy.vip
+wy.win
+wy.wtf
+wy.xxx

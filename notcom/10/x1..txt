@@ -1,0 +1,6 @@
+x1.capital
+x1.country
+x1.digital
+x1.fashion
+x1.monster
+x1.network

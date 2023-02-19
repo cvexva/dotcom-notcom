@@ -1,0 +1,15 @@
+sh.audi
+sh.beer
+sh.care
+sh.city
+sh.cool
+sh.cyou
+sh.gmbh
+sh.life
+sh.luxe
+sh.plus
+sh.team
+sh.wiki
+sh.work
+sh.yoga
+sh.zone

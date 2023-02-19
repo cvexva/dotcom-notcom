@@ -1,0 +1,16 @@
+fzn.af
+fzn.be
+fzn.by
+fzn.ca
+fzn.cc
+fzn.ch
+fzn.cz
+fzn.fr
+fzn.io
+fzn.ir
+fzn.jp
+fzn.me
+fzn.pl
+fzn.ro
+fzn.ru
+fzn.uk

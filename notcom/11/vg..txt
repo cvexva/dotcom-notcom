@@ -1,0 +1,3 @@
+vg.holdings
+vg.software
+vg.ventures

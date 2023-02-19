@@ -1,0 +1,12 @@
+ri.baby
+ri.beer
+ri.bike
+ri.casa
+ri.chat
+ri.film
+ri.fish
+ri.jobs
+ri.life
+ri.live
+ri.show
+ri.wine

@@ -1,0 +1,8 @@
+g2.business
+g2.holdings
+g2.mortgage
+g2.partners
+g2.radom.pl
+g2.sanok.pl
+g2.ventures
+g2.zagan.pl

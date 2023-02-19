@@ -1,0 +1,7 @@
+pb8.ch
+pb8.de
+pb8.lt
+pb8.nl
+pb8.pl
+pb8.ru
+pb8.si

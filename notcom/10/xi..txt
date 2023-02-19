@@ -1,0 +1,10 @@
+xi.capital
+xi.company
+xi.contact
+xi.country
+xi.digital
+xi.express
+xi.fashion
+xi.finance
+xi.network
+xi.systems

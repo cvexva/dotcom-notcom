@@ -1,0 +1,4 @@
+p.fashion
+p.finance
+p.fishing
+p.fitness

@@ -1,0 +1,7 @@
+pythagorasinvestmenttimingindex.com.au
+python-deploy-framework.readthedocs.io
+python-project-skeleton.readthedocs.io
+python-semantic-release.readthedocs.io
+python-wordpress-xmlrpc.readthedocs.io
+pythonextensionpatterns.readthedocs.io
+pytorch-lightning-bolts.readthedocs.io

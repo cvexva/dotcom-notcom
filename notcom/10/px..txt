@@ -1,0 +1,9 @@
+px.capital
+px.company
+px.country
+px.digital
+px.fashion
+px.finance
+px.network
+px.reviews
+px.support

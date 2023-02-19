@@ -1,0 +1,8 @@
+jn1.cc
+jn1.de
+jn1.jp
+jn1.me
+jn1.ru
+jn1.tv
+jn1.uk
+jn1.us

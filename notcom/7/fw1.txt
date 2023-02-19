@@ -1,0 +1,11 @@
+fw1.biz
+fw1.ltd
+fw1.net
+fw1.one
+fw1.org
+fw1.xyz
+fw10.no
+fw11.ch
+fw12.de
+fw14.cn
+fw17.cn

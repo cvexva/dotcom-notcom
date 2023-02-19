@@ -1,0 +1,13 @@
+wpy.app
+wpy.fit
+wpy.icu
+wpy.net
+wpy.one
+wpy.org
+wpy.pub
+wpy.vip
+wpy.xyz
+wpya.cn
+wpyh.cn
+wpyp.cn
+wpyr.de

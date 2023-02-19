@@ -1,0 +1,9 @@
+tgs-enterprise.domains
+tgs-niederrodenbach.de
+tgs-shop-france.online
+tgschristiancenter.org
+tgsei-gem-flexorgs.dev
+tgsei-geminfo-prod.dev
+tgsinthenetherlands.nl
+tgsmith61591.github.io
+tgsteelprojects.africa

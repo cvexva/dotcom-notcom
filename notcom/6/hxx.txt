@@ -1,0 +1,14 @@
+hxx.by
+hxx.cc
+hxx.ch
+hxx.cn
+hxx.cz
+hxx.es
+hxx.it
+hxx.kr
+hxx.nl
+hxx.pl
+hxx.ru
+hxx.se
+hxx.tw
+hxx.uk

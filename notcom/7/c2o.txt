@@ -1,0 +1,9 @@
+c2o.app
+c2o.biz
+c2o.dev
+c2o.net
+c2o.org
+c2o.xyz
+c2o2.be
+c2o2.ru
+c2oo.ir

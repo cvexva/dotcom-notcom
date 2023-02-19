@@ -1,0 +1,15 @@
+ayl.am
+ayl.ca
+ayl.ch
+ayl.de
+ayl.eu
+ayl.fi
+ayl.fr
+ayl.io
+ayl.it
+ayl.nl
+ayl.pe
+ayl.pl
+ayl.ru
+ayl.tv
+ayl.uk

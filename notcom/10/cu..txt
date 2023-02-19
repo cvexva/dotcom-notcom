@@ -1,0 +1,10 @@
+cu.abogado
+cu.careers
+cu.contact
+cu.coop.py
+cu.country
+cu.digital
+cu.fashion
+cu.support
+cu.systems
+cu.whoswho

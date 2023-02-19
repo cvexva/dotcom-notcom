@@ -1,0 +1,10 @@
+uf.app
+uf.biz
+uf.fit
+uf.fyi
+uf.icu
+uf.law
+uf.net
+uf.org
+uf.vip
+uf.wtf

@@ -1,0 +1,5 @@
+7d.capital
+7d.charity
+7d.country
+7d.fishing
+7d.wedding

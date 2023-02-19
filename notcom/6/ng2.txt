@@ -1,0 +1,5 @@
+ng2.ch
+ng2.eu
+ng2.fr
+ng2.it
+ng2.uk

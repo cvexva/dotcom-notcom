@@ -1,0 +1,11 @@
+nw.app
+nw.biz
+nw.fit
+nw.fyi
+nw.ink
+nw.law
+nw.net
+nw.org
+nw.run
+nw.tax
+nw.vip

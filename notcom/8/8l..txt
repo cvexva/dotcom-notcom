@@ -1,0 +1,6 @@
+8l.actor
+8l.bingo
+8l.boats
+8l.homes
+8l.legal
+8l.world

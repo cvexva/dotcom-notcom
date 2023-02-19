@@ -1,0 +1,14 @@
+qdi.be
+qdi.ca
+qdi.ch
+qdi.de
+qdi.dk
+qdi.eu
+qdi.fi
+qdi.fr
+qdi.it
+qdi.nl
+qdi.pl
+qdi.ru
+qdi.sk
+qdi.uk

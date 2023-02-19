@@ -1,0 +1,14 @@
+fjs.at
+fjs.cc
+fjs.ch
+fjs.de
+fjs.ge
+fjs.ie
+fjs.is
+fjs.it
+fjs.jp
+fjs.mv
+fjs.pt
+fjs.ru
+fjs.se
+fjs.uk

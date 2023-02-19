@@ -1,0 +1,15 @@
+oaf.at
+oaf.cc
+oaf.ch
+oaf.co
+oaf.de
+oaf.dk
+oaf.fi
+oaf.ie
+oaf.it
+oaf.nu
+oaf.pt
+oaf.ru
+oaf.se
+oaf.su
+oaf.uk

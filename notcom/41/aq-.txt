@@ -1,0 +1,1 @@
+aq-miniapp-core-js-library.readthedocs.io

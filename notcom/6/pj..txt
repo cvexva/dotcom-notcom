@@ -1,0 +1,13 @@
+pj.app
+pj.biz
+pj.dog
+pj.fit
+pj.fyi
+pj.law
+pj.net
+pj.org
+pj.pub
+pj.tax
+pj.tel
+pj.vip
+pj.wtf

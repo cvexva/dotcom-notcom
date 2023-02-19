@@ -1,0 +1,10 @@
+t3d.be
+t3d.cc
+t3d.ch
+t3d.de
+t3d.dk
+t3d.eu
+t3d.it
+t3d.pl
+t3d.ru
+t3d.us

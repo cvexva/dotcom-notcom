@@ -1,0 +1,7 @@
+qig.cc
+qig.de
+qig.in
+qig.it
+qig.nl
+qig.ru
+qig.uk

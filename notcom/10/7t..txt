@@ -1,0 +1,6 @@
+7t.charity
+7t.country
+7t.fishing
+7t.forsale
+7t.monster
+7t.wedding

@@ -1,0 +1,10 @@
+g2d.app
+g2d.biz
+g2d.net
+g2d.org
+g2d.xyz
+g2d2.fr
+g2dc.se
+g2de.uk
+g2dg.se
+g2dt.ai

@@ -1,0 +1,7 @@
+bqu.ch
+bqu.cn
+bqu.de
+bqu.eu
+bqu.it
+bqu.ru
+bqu.uk

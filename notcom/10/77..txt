@@ -1,0 +1,11 @@
+77.capital
+77.company
+77.country
+77.digital
+77.domains
+77.fashion
+77.finance
+77.markets
+77.network
+77.trading
+77.wedding

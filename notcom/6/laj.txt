@@ -1,0 +1,15 @@
+laj.as
+laj.be
+laj.ch
+laj.de
+laj.dk
+laj.fr
+laj.it
+laj.me
+laj.nl
+laj.nu
+laj.pl
+laj.ru
+laj.sa
+laj.se
+laj.uk

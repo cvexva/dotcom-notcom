@@ -1,0 +1,6 @@
+qy.chat
+qy.city
+qy.club
+qy.live
+qy.yoga
+qy.zone

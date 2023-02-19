@@ -1,0 +1,11 @@
+3t.app
+3t.dev
+3t.eco
+3t.fit
+3t.fyi
+3t.ink
+3t.law
+3t.org
+3t.pub
+3t.vip
+3t.xyz

@@ -1,0 +1,8 @@
+nl0.name
+nl0.site
+nl00.net
+nl01.net
+nl02.net
+nl03.net
+nl04.net
+nl070.nl

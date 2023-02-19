@@ -1,0 +1,9 @@
+hd.builders
+hd.diamonds
+hd.graphics
+hd.lighting
+hd.pictures
+hd.radio.br
+hd.services
+hd.training
+hd.ventures

@@ -1,0 +1,3 @@
+pyboolnet.readthedocs.io
+pybrowser.readthedocs.io
+pybufrkit.readthedocs.io

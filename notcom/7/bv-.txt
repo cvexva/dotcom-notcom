@@ -1,0 +1,16 @@
+bv-1.de
+bv-4.de
+bv-c.nl
+bv-c.ru
+bv-e.nl
+bv-g.de
+bv-i.de
+bv-m.de
+bv-m.nl
+bv-n.de
+bv-n.dk
+bv-r.de
+bv-s.ch
+bv-s.no
+bv-w.de
+bv-z.nl

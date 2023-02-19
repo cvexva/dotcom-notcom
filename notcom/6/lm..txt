@@ -1,0 +1,15 @@
+lm.app
+lm.biz
+lm.cpa
+lm.dev
+lm.dog
+lm.fit
+lm.fyi
+lm.ink
+lm.law
+lm.net
+lm.new
+lm.org
+lm.run
+lm.vip
+lm.wtf

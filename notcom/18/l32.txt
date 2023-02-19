@@ -1,0 +1,4 @@
+l32conclusion.shop
+l32provincial.shop
+l32regulation.shop
+l32wilderness.shop

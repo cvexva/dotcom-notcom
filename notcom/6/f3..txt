@@ -1,0 +1,11 @@
+f3.app
+f3.biz
+f3.eco
+f3.fit
+f3.fyi
+f3.ink
+f3.law
+f3.net
+f3.org
+f3.vip
+f3.xyz

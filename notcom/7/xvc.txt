@@ -1,0 +1,11 @@
+xvc.app
+xvc.bid
+xvc.cat
+xvc.dev
+xvc.men
+xvc.net
+xvc.one
+xvc.org
+xvc.vin
+xvc.vip
+xvcg.cn

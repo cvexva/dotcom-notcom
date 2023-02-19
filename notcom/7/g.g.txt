@@ -1,0 +1,7 @@
+g.games
+g.gifts
+g.glass
+g.globo
+g.gripe
+g.group
+g.guide

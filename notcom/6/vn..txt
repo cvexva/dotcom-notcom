@@ -1,0 +1,14 @@
+vn.aco
+vn.biz
+vn.fit
+vn.fyi
+vn.ink
+vn.jcb
+vn.law
+vn.net
+vn.org
+vn.pub
+vn.sbs
+vn.sex
+vn.vin
+vn.vip

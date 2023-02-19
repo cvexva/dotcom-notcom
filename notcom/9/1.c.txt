@@ -1,0 +1,6 @@
+1.capital
+1.careers
+1.company
+1.cooking
+1.country
+1.cruises

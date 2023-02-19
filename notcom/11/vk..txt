@@ -1,0 +1,10 @@
+vk.business
+vk.clothing
+vk.delivery
+vk.exchange
+vk.partners
+vk.pictures
+vk.services
+vk.software
+vk.training
+vk.ventures

@@ -1,0 +1,13 @@
+qhp.ca
+qhp.cc
+qhp.ch
+qhp.dk
+qhp.eu
+qhp.ir
+qhp.it
+qhp.jp
+qhp.kz
+qhp.nl
+qhp.ru
+qhp.uk
+qhp.us

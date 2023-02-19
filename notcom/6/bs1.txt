@@ -1,0 +1,9 @@
+bs1.be
+bs1.ch
+bs1.eu
+bs1.it
+bs1.kz
+bs1.nl
+bs1.ru
+bs1.su
+bs1.uk

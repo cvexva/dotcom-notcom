@@ -1,0 +1,13 @@
+kd.chat
+kd.club
+kd.farm
+kd.gmbh
+kd.gold
+kd.guru
+kd.haus
+kd.immo
+kd.news
+kd.shop
+kd.team
+kd.yoga
+kd.zone

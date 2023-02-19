@@ -1,0 +1,14 @@
+eqp.cc
+eqp.ch
+eqp.cl
+eqp.de
+eqp.it
+eqp.jp
+eqp.nl
+eqp.nu
+eqp.pt
+eqp.ro
+eqp.ru
+eqp.se
+eqp.to
+eqp.uk

@@ -1,0 +1,14 @@
+zs.app
+zs.biz
+zs.fit
+zs.fyi
+zs.ink
+zs.law
+zs.mba
+zs.net
+zs.org
+zs.pub
+zs.tel
+zs.vip
+zs.win
+zs.wtf

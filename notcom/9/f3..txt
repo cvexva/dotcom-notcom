@@ -1,0 +1,15 @@
+f3.africa
+f3.agency
+f3.art.br
+f3.beauty
+f3.berlin
+f3.church
+f3.com.my
+f3.com.sg
+f3.com.tw
+f3.design
+f3.london
+f3.net.cn
+f3.org.uk
+f3.racing
+f3.studio

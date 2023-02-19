@@ -1,0 +1,5 @@
+b.capital
+b.company
+b.cooking
+b.country
+b.cruises

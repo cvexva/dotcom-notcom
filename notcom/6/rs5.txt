@@ -1,0 +1,8 @@
+rs5.ch
+rs5.de
+rs5.it
+rs5.jp
+rs5.nl
+rs5.ru
+rs5.se
+rs5.us

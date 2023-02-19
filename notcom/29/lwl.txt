@@ -1,0 +1,10 @@
+lwl-forensik-schlosshaldem.de
+lwl-jugendheim-tecklenburg.de
+lwl-jugendpsychiatrie-hamm.de
+lwl-jugendpsychiatrie-marl.de
+lwl-pflegezentrum-dortmund.de
+lwl-pflegezentrum-marsberg.de
+lwl-pflegezentrum-muenster.de
+lwl-pflegezentrum-warstein.de
+lwl-tagesklinik-guetersloh.de
+lwl-wohnverbund-guetersloh.de

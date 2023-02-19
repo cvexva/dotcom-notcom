@@ -1,0 +1,14 @@
+um.app
+um.biz
+um.dev
+um.dog
+um.fit
+um.fyi
+um.law
+um.mba
+um.net
+um.org
+um.run
+um.vip
+um.wtf
+um.xyz

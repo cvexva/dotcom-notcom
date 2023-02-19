@@ -1,0 +1,16 @@
+h-f.at
+h-f.be
+h-f.cc
+h-f.ch
+h-f.cn
+h-f.co
+h-f.cz
+h-f.fr
+h-f.hr
+h-f.it
+h-f.kr
+h-f.me
+h-f.nl
+h-f.pl
+h-f.ru
+h-f.uk

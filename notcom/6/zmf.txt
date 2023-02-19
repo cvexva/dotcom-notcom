@@ -1,0 +1,10 @@
+zmf.by
+zmf.cc
+zmf.ch
+zmf.de
+zmf.hu
+zmf.it
+zmf.nl
+zmf.ru
+zmf.uk
+zmf.us

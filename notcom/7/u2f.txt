@@ -1,0 +1,6 @@
+u2f.app
+u2f.dev
+u2f.net
+u2f.org
+u2f.xyz
+u2ft.dk

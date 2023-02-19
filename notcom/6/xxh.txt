@@ -1,0 +1,9 @@
+xxh.cc
+xxh.ch
+xxh.cn
+xxh.co
+xxh.eu
+xxh.it
+xxh.me
+xxh.ru
+xxh.uk

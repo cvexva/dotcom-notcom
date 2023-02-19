@@ -1,0 +1,8 @@
+at90can128-16aur.top
+at91sam7s256c-mu.top
+at91sam7s256d-au.top
+at91sam7s256d-mu.top
+at91sam7s512b-au.top
+at91sam7x256c-au.top
+at9q5eqofvecrho.kred
+at9yp7qbz6tngcx.kred

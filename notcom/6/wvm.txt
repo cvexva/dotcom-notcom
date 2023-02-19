@@ -1,0 +1,14 @@
+wvm.ae
+wvm.ag
+wvm.at
+wvm.ch
+wvm.cn
+wvm.de
+wvm.dk
+wvm.it
+wvm.nl
+wvm.nu
+wvm.pl
+wvm.ru
+wvm.su
+wvm.uk

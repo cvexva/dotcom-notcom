@@ -1,0 +1,10 @@
+d1.academy
+d1.capital
+d1.company
+d1.country
+d1.digital
+d1.finance
+d1.fitness
+d1.monster
+d1.network
+d1.systems

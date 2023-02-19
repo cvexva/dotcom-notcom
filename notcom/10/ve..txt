@@ -1,0 +1,9 @@
+ve.capital
+ve.contact
+ve.country
+ve.digital
+ve.fashion
+ve.finance
+ve.kitchen
+ve.network
+ve.whoswho

@@ -1,0 +1,5 @@
+z3.cash
+z3.guru
+z3.skin
+z3.team
+z3.work

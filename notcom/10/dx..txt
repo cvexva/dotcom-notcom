@@ -1,0 +1,16 @@
+dx.academy
+dx.capital
+dx.company
+dx.contact
+dx.cooking
+dx.country
+dx.digital
+dx.fashion
+dx.finance
+dx.fitness
+dx.gallery
+dx.jewelry
+dx.network
+dx.support
+dx.systems
+dx.wedding

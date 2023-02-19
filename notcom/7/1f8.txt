@@ -1,0 +1,5 @@
+1f8.app
+1f8.dev
+1f8.net
+1f8.org
+1f8.xyz

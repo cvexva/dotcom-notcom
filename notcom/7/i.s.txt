@@ -1,0 +1,6 @@
+i.salon
+i.shoes
+i.solar
+i.space
+i.sport
+i.style

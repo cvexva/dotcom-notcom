@@ -1,0 +1,6 @@
+ux.consulting
+ux.creditcard
+ux.foundation
+ux.healthcare
+ux.management
+ux.university

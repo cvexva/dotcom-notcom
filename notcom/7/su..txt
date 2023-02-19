@@ -1,0 +1,16 @@
+su.audi
+su.beer
+su.bike
+su.casa
+su.chat
+su.cool
+su.guru
+su.life
+su.link
+su.live
+su.luxe
+su.plus
+su.wiki
+su.work
+su.yoga
+su.zone

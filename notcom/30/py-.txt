@@ -1,0 +1,2 @@
+py-algorand-sdk.readthedocs.io
+py-constructionmanagement.life

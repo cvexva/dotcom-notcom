@@ -1,0 +1,12 @@
+sv2.ch
+sv2.cn
+sv2.co
+sv2.de
+sv2.dk
+sv2.it
+sv2.lt
+sv2.me
+sv2.nl
+sv2.pl
+sv2.ru
+sv2.se

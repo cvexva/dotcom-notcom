@@ -1,0 +1,13 @@
+sh.abogado
+sh.capital
+sh.contact
+sh.country
+sh.digital
+sh.domains
+sh.fashion
+sh.markets
+sh.network
+sh.systems
+sh.trading
+sh.wedding
+sh.whoswho

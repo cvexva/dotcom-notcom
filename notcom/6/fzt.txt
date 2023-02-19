@@ -1,0 +1,8 @@
+fzt.at
+fzt.cc
+fzt.ch
+fzt.de
+fzt.eu
+fzt.it
+fzt.ru
+fzt.uk

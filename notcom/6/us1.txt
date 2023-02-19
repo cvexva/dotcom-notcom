@@ -1,0 +1,10 @@
+us1.cc
+us1.de
+us1.dk
+us1.eu
+us1.in
+us1.ir
+us1.me
+us1.pl
+us1.ru
+us1.uk

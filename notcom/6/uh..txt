@@ -1,0 +1,11 @@
+uh.app
+uh.biz
+uh.dog
+uh.fit
+uh.fyi
+uh.law
+uh.net
+uh.org
+uh.pub
+uh.vip
+uh.wtf

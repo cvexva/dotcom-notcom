@@ -1,0 +1,16 @@
+r10.az
+r10.ch
+r10.fr
+r10.io
+r10.it
+r10.kz
+r10.me
+r10.nl
+r10.nu
+r10.pl
+r10.ru
+r10.sk
+r10.su
+r10.to
+r10.uk
+r10.us

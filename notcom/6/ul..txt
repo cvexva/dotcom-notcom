@@ -1,0 +1,11 @@
+ul.biz
+ul.dev
+ul.fit
+ul.fyi
+ul.ink
+ul.law
+ul.net
+ul.org
+ul.tel
+ul.vip
+ul.wtf

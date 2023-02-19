@@ -1,0 +1,7 @@
+jf.company
+jf.contact
+jf.country
+jf.digital
+jf.fashion
+jf.kitchen
+jf.network

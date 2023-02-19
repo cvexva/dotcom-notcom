@@ -1,0 +1,15 @@
+ds2.ai
+ds2.at
+ds2.be
+ds2.ch
+ds2.de
+ds2.es
+ds2.eu
+ds2.in
+ds2.io
+ds2.pl
+ds2.ru
+ds2.se
+ds2.si
+ds2.tv
+ds2.tw

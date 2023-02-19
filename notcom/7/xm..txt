@@ -1,0 +1,10 @@
+xm.bond
+xm.chat
+xm.city
+xm.cool
+xm.life
+xm.live
+xm.plus
+xm.work
+xm.yoga
+xm.zone

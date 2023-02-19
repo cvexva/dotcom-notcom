@@ -1,0 +1,16 @@
+wh.app
+wh.bet
+wh.biz
+wh.cpa
+wh.dev
+wh.dog
+wh.fit
+wh.fyi
+wh.gov
+wh.law
+wh.net
+wh.org
+wh.run
+wh.tel
+wh.vip
+wh.wtf

@@ -1,0 +1,9 @@
+lx.academy
+lx.capital
+lx.company
+lx.country
+lx.digital
+lx.fashion
+lx.finance
+lx.jewelry
+lx.network

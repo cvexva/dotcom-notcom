@@ -1,0 +1,15 @@
+fw.bank
+fw.cafe
+fw.chat
+fw.city
+fw.fail
+fw.gold
+fw.immo
+fw.life
+fw.link
+fw.live
+fw.shop
+fw.team
+fw.toys
+fw.yoga
+fw.zone

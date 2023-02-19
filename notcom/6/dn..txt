@@ -1,0 +1,17 @@
+dn.biz
+dn.cfd
+dn.dev
+dn.dog
+dn.fit
+dn.fyi
+dn.ink
+dn.law
+dn.lol
+dn.net
+dn.org
+dn.sbs
+dn.tel
+dn.vet
+dn.vip
+dn.wtf
+dn.xyz

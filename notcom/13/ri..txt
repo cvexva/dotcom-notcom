@@ -1,0 +1,2 @@
+ri.apartments
+ri.technology

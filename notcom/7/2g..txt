@@ -1,0 +1,8 @@
+2g.chat
+2g.gold
+2g.immo
+2g.life
+2g.live
+2g.sale
+2g.wiki
+2g.work

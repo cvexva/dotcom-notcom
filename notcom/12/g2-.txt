@@ -1,0 +1,13 @@
+g2-bio.click
+g2-design.pl
+g2-events.be
+g2-events.de
+g2-host.host
+g2-nk3.earth
+g2-online.de
+g2-osaka.net
+g2-reizen.nl
+g2-sat.space
+g2-sucks.net
+g2-travel.it
+g2-video.xyz

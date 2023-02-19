@@ -1,0 +1,2 @@
+at91sam7x512b-aur.top
+at91sam9xe512b-qu.top

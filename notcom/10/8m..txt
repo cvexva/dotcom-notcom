@@ -1,0 +1,5 @@
+8m.capital
+8m.charity
+8m.country
+8m.fishing
+8m.wedding

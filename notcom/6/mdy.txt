@@ -1,0 +1,15 @@
+mdy.at
+mdy.be
+mdy.ch
+mdy.co
+mdy.hu
+mdy.in
+mdy.it
+mdy.jp
+mdy.nl
+mdy.pl
+mdy.ro
+mdy.ru
+mdy.se
+mdy.uk
+mdy.vn

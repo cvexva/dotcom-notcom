@@ -1,0 +1,4 @@
+8.fashion
+8.finance
+8.fishing
+8.fitness

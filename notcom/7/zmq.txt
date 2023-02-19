@@ -1,0 +1,11 @@
+zmq.app
+zmq.ltd
+zmq.net
+zmq.org
+zmq.vip
+zmq.win
+zmq.xxx
+zmq.xyz
+zmqd.cn
+zmqm.cn
+zmqt.cn

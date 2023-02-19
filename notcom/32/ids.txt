@@ -1,0 +1,2 @@
+ids-certification-award-2022.org
+idsp-task-manager.readthedocs.io

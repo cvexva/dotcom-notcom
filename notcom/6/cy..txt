@@ -1,0 +1,14 @@
+cy.aco
+cy.app
+cy.biz
+cy.fit
+cy.fyi
+cy.ink
+cy.law
+cy.mba
+cy.net
+cy.org
+cy.run
+cy.sbs
+cy.tax
+cy.wtf

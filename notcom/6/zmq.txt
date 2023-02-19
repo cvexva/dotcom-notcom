@@ -1,0 +1,5 @@
+zmq.de
+zmq.in
+zmq.it
+zmq.ru
+zmq.uk

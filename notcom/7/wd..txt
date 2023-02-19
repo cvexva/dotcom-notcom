@@ -1,0 +1,14 @@
+wd.asia
+wd.baby
+wd.beer
+wd.chat
+wd.city
+wd.fail
+wd.game
+wd.land
+wd.life
+wd.live
+wd.news
+wd.plus
+wd.work
+wd.yoga

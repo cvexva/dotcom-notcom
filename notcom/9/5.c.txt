@@ -1,0 +1,5 @@
+5.capital
+5.company
+5.cooking
+5.country
+5.coupons

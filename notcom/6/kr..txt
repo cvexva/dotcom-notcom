@@ -1,0 +1,15 @@
+kr.aco
+kr.biz
+kr.cpa
+kr.dev
+kr.eco
+kr.fit
+kr.ink
+kr.jcb
+kr.law
+kr.net
+kr.nyc
+kr.org
+kr.run
+kr.sbs
+kr.vip

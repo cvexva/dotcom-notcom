@@ -1,0 +1,14 @@
+hl.cafe
+hl.camp
+hl.care
+hl.chat
+hl.cool
+hl.farm
+hl.gold
+hl.plus
+hl.sale
+hl.team
+hl.wine
+hl.work
+hl.yoga
+hl.zone

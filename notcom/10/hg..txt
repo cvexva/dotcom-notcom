@@ -1,0 +1,12 @@
+hg.academy
+hg.capital
+hg.careers
+hg.company
+hg.contact
+hg.cooking
+hg.country
+hg.digital
+hg.fashion
+hg.finance
+hg.network
+hg.wedding

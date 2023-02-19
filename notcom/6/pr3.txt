@@ -1,0 +1,16 @@
+pr3.ae
+pr3.ch
+pr3.cn
+pr3.de
+pr3.dk
+pr3.es
+pr3.eu
+pr3.fr
+pr3.gr
+pr3.in
+pr3.it
+pr3.nl
+pr3.nu
+pr3.ru
+pr3.uk
+pr3.us

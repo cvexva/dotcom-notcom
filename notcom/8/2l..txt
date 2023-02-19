@@ -1,0 +1,7 @@
+2l.bingo
+2l.boats
+2l.homes
+2l.legal
+2l.media
+2l.works
+2l.world

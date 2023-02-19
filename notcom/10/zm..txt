@@ -1,0 +1,7 @@
+zm.company
+zm.contact
+zm.country
+zm.digital
+zm.fashion
+zm.kitchen
+zm.whoswho

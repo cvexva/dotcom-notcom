@@ -1,0 +1,16 @@
+pxr.app
+pxr.dev
+pxr.icu
+pxr.ink
+pxr.law
+pxr.net
+pxr.org
+pxr.xyz
+pxr5.uk
+pxrd.de
+pxrg.uk
+pxri.cn
+pxri.ru
+pxrl.de
+pxrw.cn
+pxrx.cn

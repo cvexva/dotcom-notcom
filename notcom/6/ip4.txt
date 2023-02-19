@@ -1,0 +1,14 @@
+ip4.ch
+ip4.de
+ip4.eu
+ip4.fr
+ip4.gr
+ip4.in
+ip4.io
+ip4.me
+ip4.ro
+ip4.ru
+ip4.su
+ip4.tv
+ip4.tw
+ip4.uk

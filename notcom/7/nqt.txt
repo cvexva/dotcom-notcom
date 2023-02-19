@@ -1,0 +1,11 @@
+nqt.app
+nqt.icu
+nqt.net
+nqt.org
+nqt.ovh
+nqt.xyz
+nqti.cn
+nqtm.vn
+nqtt.fr
+nqtu.cn
+nqtv.de

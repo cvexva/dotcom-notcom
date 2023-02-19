@@ -1,0 +1,6 @@
+ry.capital
+ry.country
+ry.digital
+ry.fashion
+ry.limited
+ry.wedding

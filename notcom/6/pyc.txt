@@ -1,0 +1,16 @@
+pyc.cc
+pyc.ch
+pyc.cl
+pyc.de
+pyc.fr
+pyc.gr
+pyc.hu
+pyc.in
+pyc.it
+pyc.nl
+pyc.no
+pyc.pe
+pyc.pl
+pyc.ru
+pyc.se
+pyc.uk

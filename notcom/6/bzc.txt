@@ -1,0 +1,15 @@
+bzc.at
+bzc.be
+bzc.ca
+bzc.ch
+bzc.cn
+bzc.co
+bzc.de
+bzc.fr
+bzc.io
+bzc.it
+bzc.nl
+bzc.ro
+bzc.rs
+bzc.ru
+bzc.uk

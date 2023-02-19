@@ -1,0 +1,15 @@
+psq.at
+psq.be
+psq.ch
+psq.co
+psq.cz
+psq.dk
+psq.fr
+psq.it
+psq.nl
+psq.pl
+psq.ru
+psq.se
+psq.uk
+psq.us
+psq.vn

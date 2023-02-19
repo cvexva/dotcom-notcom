@@ -1,0 +1,5 @@
+h08.app
+h08.dev
+h08.net
+h08.xyz
+h087.de

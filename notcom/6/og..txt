@@ -1,0 +1,17 @@
+og.app
+og.art
+og.biz
+og.cpa
+og.dev
+og.dog
+og.fan
+og.fit
+og.fyi
+og.law
+og.net
+og.org
+og.rip
+og.vin
+og.vip
+og.wtf
+og.xyz

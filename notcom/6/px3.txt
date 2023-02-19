@@ -1,0 +1,9 @@
+px3.at
+px3.cc
+px3.de
+px3.dk
+px3.eu
+px3.fr
+px3.pl
+px3.ru
+px3.se

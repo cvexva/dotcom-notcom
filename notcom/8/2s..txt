@@ -1,0 +1,12 @@
+2s.actor
+2s.bingo
+2s.boats
+2s.co.uk
+2s.co.za
+2s.email
+2s.games
+2s.homes
+2s.legal
+2s.media
+2s.re.kr
+2s.world

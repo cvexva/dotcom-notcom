@@ -1,0 +1,16 @@
+bd.baby
+bd.care
+bd.chat
+bd.city
+bd.golf
+bd.guru
+bd.immo
+bd.jobs
+bd.life
+bd.luxe
+bd.plus
+bd.team
+bd.wine
+bd.work
+bd.yoga
+bd.zone

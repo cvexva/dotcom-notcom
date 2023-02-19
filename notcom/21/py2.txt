@@ -1,0 +1,2 @@
+py2app.readthedocs.io
+py2deb.readthedocs.io

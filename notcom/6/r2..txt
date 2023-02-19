@@ -1,0 +1,15 @@
+r2.app
+r2.biz
+r2.cfd
+r2.dev
+r2.fyi
+r2.law
+r2.net
+r2.org
+r2.pub
+r2.rip
+r2.run
+r2.tel
+r2.vin
+r2.vip
+r2.xyz

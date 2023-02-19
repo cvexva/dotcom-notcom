@@ -1,0 +1,6 @@
+lt2.de
+lt2.fr
+lt2.kr
+lt2.pl
+lt2.ru
+lt2.se

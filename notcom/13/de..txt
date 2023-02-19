@@ -1,0 +1,13 @@
+de.apartments
+de.beers.name
+de.bolivia.bo
+de.consulting
+de.foundation
+de.graaf.name
+de.immobilien
+de.industries
+de.jongh.name
+de.management
+de.restaurant
+de.technology
+de.university

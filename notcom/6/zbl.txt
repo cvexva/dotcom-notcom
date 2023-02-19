@@ -1,0 +1,11 @@
+zbl.cc
+zbl.ch
+zbl.cn
+zbl.eu
+zbl.im
+zbl.in
+zbl.it
+zbl.ro
+zbl.ru
+zbl.sk
+zbl.uk

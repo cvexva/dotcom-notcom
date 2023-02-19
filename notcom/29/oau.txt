@@ -1,0 +1,2 @@
+oauth-login-myaccount-mail.ru
+oauthenticator.readthedocs.io

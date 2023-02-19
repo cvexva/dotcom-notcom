@@ -1,0 +1,17 @@
+tk.aco
+tk.app
+tk.biz
+tk.cpa
+tk.dev
+tk.fan
+tk.fit
+tk.ink
+tk.law
+tk.mba
+tk.net
+tk.org
+tk.run
+tk.sbs
+tk.tax
+tk.vip
+tk.wtf

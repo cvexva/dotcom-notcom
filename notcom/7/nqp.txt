@@ -1,0 +1,8 @@
+nqp.app
+nqp.net
+nqp.org
+nqp.xyz
+nqpc.ir
+nqpk.de
+nqpl.in
+nqpm.cn

@@ -1,0 +1,17 @@
+vo.app
+vo.biz
+vo.cab
+vo.dev
+vo.eco
+vo.fan
+vo.fit
+vo.fyi
+vo.icu
+vo.ink
+vo.law
+vo.net
+vo.org
+vo.run
+vo.tel
+vo.vet
+vo.vip

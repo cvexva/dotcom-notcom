@@ -1,0 +1,17 @@
+h8.am
+h8.be
+h8.cm
+h8.dk
+h8.eu
+h8.fr
+h8.lv
+h8.nl
+h8.nu
+h8.ro
+h8.ru
+h8.se
+h8.sk
+h8.su
+h8.to
+h8.uk
+h8.vc

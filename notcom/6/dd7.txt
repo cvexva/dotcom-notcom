@@ -1,0 +1,7 @@
+dd7.cc
+dd7.de
+dd7.in
+dd7.ir
+dd7.jp
+dd7.ru
+dd7.uk

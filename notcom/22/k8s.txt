@@ -1,0 +1,3 @@
+k8s-test-cluster.space
+k8sadhikarisathwik.xyz
+k8stesting-eemh732.ovh

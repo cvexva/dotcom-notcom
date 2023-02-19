@@ -1,0 +1,15 @@
+rmx.as
+rmx.ch
+rmx.cz
+rmx.de
+rmx.eu
+rmx.fi
+rmx.fr
+rmx.pl
+rmx.pt
+rmx.ro
+rmx.ru
+rmx.se
+rmx.sk
+rmx.su
+rmx.vn

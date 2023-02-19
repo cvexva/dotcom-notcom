@@ -1,0 +1,13 @@
+bn.aco
+bn.app
+bn.biz
+bn.fit
+bn.fyi
+bn.law
+bn.mba
+bn.net
+bn.org
+bn.run
+bn.vin
+bn.vip
+bn.wtf

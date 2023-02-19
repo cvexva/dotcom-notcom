@@ -1,0 +1,4 @@
+jc.consulting
+jc.management
+jc.properties
+jc.technology

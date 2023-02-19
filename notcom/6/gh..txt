@@ -1,0 +1,14 @@
+gh.aco
+gh.biz
+gh.cpa
+gh.dev
+gh.fit
+gh.fyi
+gh.ink
+gh.law
+gh.mba
+gh.net
+gh.org
+gh.run
+gh.vip
+gh.wtf

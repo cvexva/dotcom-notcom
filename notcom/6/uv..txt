@@ -1,0 +1,16 @@
+uv.app
+uv.biz
+uv.dev
+uv.fit
+uv.fyi
+uv.ink
+uv.law
+uv.net
+uv.org
+uv.pub
+uv.run
+uv.tel
+uv.uno
+uv.vip
+uv.wtf
+uv.xyz

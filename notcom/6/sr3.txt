@@ -1,0 +1,11 @@
+sr3.cc
+sr3.ch
+sr3.cl
+sr3.co
+sr3.de
+sr3.dk
+sr3.es
+sr3.it
+sr3.nl
+sr3.ru
+sr3.uk

@@ -1,0 +1,16 @@
+tj.baby
+tj.city
+tj.club
+tj.cool
+tj.cyou
+tj.life
+tj.limo
+tj.link
+tj.live
+tj.news
+tj.taxi
+tj.wang
+tj.wiki
+tj.work
+tj.yoga
+tj.zone

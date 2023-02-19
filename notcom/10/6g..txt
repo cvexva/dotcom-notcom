@@ -1,0 +1,11 @@
+6g.charity
+6g.company
+6g.contact
+6g.country
+6g.digital
+6g.fashion
+6g.fishing
+6g.monster
+6g.network
+6g.systems
+6g.wedding

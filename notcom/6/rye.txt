@@ -1,0 +1,17 @@
+rye.at
+rye.ch
+rye.co
+rye.de
+rye.dk
+rye.fi
+rye.fr
+rye.it
+rye.me
+rye.mx
+rye.nu
+rye.ru
+rye.se
+rye.tw
+rye.uk
+rye.vc
+rye.vg

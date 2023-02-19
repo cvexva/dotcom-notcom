@@ -1,0 +1,6 @@
+b2l.app
+b2l.eco
+b2l.net
+b2l.org
+b2l.xyz
+b2ls.ru

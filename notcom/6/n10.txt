@@ -1,0 +1,16 @@
+n10.as
+n10.cc
+n10.ch
+n10.de
+n10.fi
+n10.hu
+n10.in
+n10.is
+n10.jp
+n10.me
+n10.mx
+n10.nl
+n10.pl
+n10.pt
+n10.ru
+n10.uk

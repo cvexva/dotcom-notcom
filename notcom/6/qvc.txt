@@ -1,0 +1,14 @@
+qvc.at
+qvc.ch
+qvc.co
+qvc.de
+qvc.eu
+qvc.fr
+qvc.it
+qvc.jp
+qvc.nl
+qvc.ru
+qvc.se
+qvc.uk
+qvc.us
+qvc.vn

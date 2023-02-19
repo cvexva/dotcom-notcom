@@ -1,0 +1,12 @@
+whl.ae
+whl.ai
+whl.be
+whl.ca
+whl.ch
+whl.fr
+whl.no
+whl.nu
+whl.pl
+whl.ru
+whl.se
+whl.uk

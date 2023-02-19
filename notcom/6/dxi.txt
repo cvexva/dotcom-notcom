@@ -1,0 +1,13 @@
+dxi.au
+dxi.bz
+dxi.ca
+dxi.cc
+dxi.ch
+dxi.dk
+dxi.id
+dxi.io
+dxi.it
+dxi.jp
+dxi.ru
+dxi.se
+dxi.uk

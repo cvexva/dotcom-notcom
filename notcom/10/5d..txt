@@ -1,0 +1,9 @@
+5d.capital
+5d.charity
+5d.country
+5d.digital
+5d.fishing
+5d.fitness
+5d.network
+5d.singles
+5d.wedding

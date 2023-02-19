@@ -1,0 +1,9 @@
+kr.audi
+kr.baby
+kr.care
+kr.club
+kr.land
+kr.site
+kr.wiki
+kr.work
+kr.yoga

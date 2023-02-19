@@ -1,0 +1,2 @@
+aws-dynamodb-encryption-python.readthedocs.io
+aws-serverless-web-application.readthedocs.io

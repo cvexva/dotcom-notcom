@@ -1,0 +1,16 @@
+c3.beer
+c3.cafe
+c3.care
+c3.chat
+c3.club
+c3.farm
+c3.fund
+c3.golf
+c3.immo
+c3.land
+c3.live
+c3.luxe
+c3.team
+c3.toys
+c3.work
+c3.zone

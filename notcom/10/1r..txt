@@ -1,0 +1,6 @@
+1r.charity
+1r.country
+1r.fishing
+1r.holiday
+1r.monster
+1r.wedding

@@ -1,0 +1,12 @@
+s7.app
+s7.biz
+s7.eco
+s7.fan
+s7.fit
+s7.fyi
+s7.gay
+s7.ink
+s7.law
+s7.net
+s7.org
+s7.vip

@@ -1,0 +1,14 @@
+op.app
+op.biz
+op.dev
+op.fit
+op.fyi
+op.law
+op.lol
+op.net
+op.org
+op.run
+op.tax
+op.vip
+op.wtf
+op.xyz

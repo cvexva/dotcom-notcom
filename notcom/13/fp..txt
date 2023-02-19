@@ -1,0 +1,6 @@
+fp.consulting
+fp.industries
+fp.management
+fp.technology
+fp.university
+fp.wroclaw.pl

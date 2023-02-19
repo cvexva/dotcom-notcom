@@ -1,0 +1,16 @@
+pkd.at
+pkd.by
+pkd.ca
+pkd.ch
+pkd.co
+pkd.cz
+pkd.de
+pkd.eu
+pkd.gr
+pkd.jp
+pkd.pl
+pkd.ru
+pkd.se
+pkd.sk
+pkd.su
+pkd.uk

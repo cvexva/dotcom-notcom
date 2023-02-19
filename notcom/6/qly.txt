@@ -1,0 +1,7 @@
+qly.cc
+qly.de
+qly.it
+qly.no
+qly.pl
+qly.ru
+qly.uk

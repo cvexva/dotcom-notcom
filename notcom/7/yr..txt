@@ -1,0 +1,9 @@
+yr.beer
+yr.chat
+yr.farm
+yr.golf
+yr.life
+yr.luxe
+yr.work
+yr.yoga
+yr.zone

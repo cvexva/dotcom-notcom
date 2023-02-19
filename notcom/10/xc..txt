@@ -1,0 +1,13 @@
+xc.academy
+xc.capital
+xc.company
+xc.contact
+xc.country
+xc.digital
+xc.fashion
+xc.finance
+xc.fitness
+xc.flights
+xc.limited
+xc.network
+xc.support

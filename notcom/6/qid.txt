@@ -1,0 +1,15 @@
+qid.be
+qid.ch
+qid.ci
+qid.dk
+qid.eu
+qid.fr
+qid.io
+qid.it
+qid.kr
+qid.kz
+qid.no
+qid.ru
+qid.sk
+qid.tw
+qid.uk

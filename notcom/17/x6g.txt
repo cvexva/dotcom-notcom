@@ -1,0 +1,3 @@
+x6gagreement.shop
+x6gcathedral.shop
+x6gtreasurer.shop

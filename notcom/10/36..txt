@@ -1,0 +1,5 @@
+36.capital
+36.country
+36.digital
+36.fashion
+36.network

@@ -1,0 +1,9 @@
+tzk.at
+tzk.ch
+tzk.cn
+tzk.de
+tzk.es
+tzk.it
+tzk.ru
+tzk.su
+tzk.uk

@@ -1,0 +1,7 @@
+t5g.app
+t5g.dev
+t5g.net
+t5g.org
+t5g.top
+t5g.xyz
+t5gu.ch

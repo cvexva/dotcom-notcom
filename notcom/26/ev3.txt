@@ -1,0 +1,2 @@
+ev3-scratch.readthedocs.io
+ev3dev-lang.readthedocs.io

@@ -1,0 +1,16 @@
+gdx.ch
+gdx.cn
+gdx.cz
+gdx.dk
+gdx.es
+gdx.fr
+gdx.in
+gdx.io
+gdx.it
+gdx.nl
+gdx.no
+gdx.nu
+gdx.pl
+gdx.ru
+gdx.se
+gdx.uk

@@ -1,0 +1,9 @@
+s2i.ch
+s2i.cn
+s2i.es
+s2i.eu
+s2i.fr
+s2i.it
+s2i.pl
+s2i.ru
+s2i.uk

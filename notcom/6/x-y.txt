@@ -1,0 +1,15 @@
+x-y.cc
+x-y.ch
+x-y.co
+x-y.cz
+x-y.de
+x-y.es
+x-y.fr
+x-y.in
+x-y.is
+x-y.it
+x-y.pl
+x-y.ro
+x-y.ru
+x-y.se
+x-y.uk

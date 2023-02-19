@@ -1,0 +1,3 @@
+8b.business
+8b.football
+8b.software

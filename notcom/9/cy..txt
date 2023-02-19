@@ -1,0 +1,14 @@
+cy.agency
+cy.center
+cy.com.au
+cy.com.br
+cy.dating
+cy.edu.tw
+cy.energy
+cy.events
+cy.gen.tr
+cy.gov.tw
+cy.org.cn
+cy.org.uk
+cy.studio
+cy.vision

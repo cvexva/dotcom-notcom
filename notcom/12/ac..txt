@@ -1,0 +1,6 @@
+ac.amsterdam
+ac.directory
+ac.education
+ac.kalisz.pl
+ac.poznan.pl
+ac.solutions

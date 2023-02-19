@@ -1,0 +1,9 @@
+lx0barrier.shop
+lx0command.shop
+lx0costume.shop
+lx0current.shop
+lx0illness.shop
+lx0pattern.shop
+lx0terrify.shop
+lx0trivial.best
+lx0wrestle.best

@@ -1,0 +1,8 @@
+8r.actor
+8r.bingo
+8r.boats
+8r.irish
+8r.legal
+8r.quest
+8r.style
+8r.world

@@ -1,0 +1,8 @@
+1c.cash
+1c.city
+1c.link
+1c.moda
+1c.sale
+1c.team
+1c.wiki
+1c.work

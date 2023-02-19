@@ -1,0 +1,11 @@
+wm.cash
+wm.chat
+wm.gold
+wm.immo
+wm.life
+wm.link
+wm.plus
+wm.team
+wm.tips
+wm.work
+wm.zone

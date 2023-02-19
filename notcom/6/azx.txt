@@ -1,0 +1,14 @@
+azx.az
+azx.ca
+azx.ch
+azx.cz
+azx.fr
+azx.hu
+azx.ir
+azx.it
+azx.me
+azx.ro
+azx.ru
+azx.se
+azx.su
+azx.uk

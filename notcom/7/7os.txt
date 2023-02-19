@@ -1,0 +1,5 @@
+7os.app
+7os.net
+7os.org
+7os.sbs
+7os.top

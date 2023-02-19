@@ -1,0 +1,12 @@
+jm.auto
+jm.baby
+jm.city
+jm.club
+jm.farm
+jm.fund
+jm.life
+jm.link
+jm.tech
+jm.wiki
+jm.work
+jm.yoga

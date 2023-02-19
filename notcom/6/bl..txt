@@ -1,0 +1,17 @@
+bl.app
+bl.biz
+bl.cpa
+bl.dev
+bl.dog
+bl.fit
+bl.fyi
+bl.icu
+bl.ink
+bl.law
+bl.net
+bl.ooo
+bl.org
+bl.tax
+bl.top
+bl.vip
+bl.wtf

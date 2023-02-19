@@ -1,0 +1,6 @@
+db7.am
+db7.ch
+db7.it
+db7.jp
+db7.ru
+db7.uk

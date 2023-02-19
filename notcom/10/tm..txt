@@ -1,0 +1,13 @@
+tm.capital
+tm.company
+tm.contact
+tm.country
+tm.digital
+tm.fashion
+tm.gallery
+tm.limited
+tm.network
+tm.reviews
+tm.surgery
+tm.systems
+tm.whoswho

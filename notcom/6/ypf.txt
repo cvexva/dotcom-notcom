@@ -1,0 +1,10 @@
+ypf.cl
+ypf.de
+ypf.fr
+ypf.in
+ypf.it
+ypf.jp
+ypf.nl
+ypf.pl
+ypf.ru
+ypf.uk

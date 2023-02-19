@@ -1,0 +1,6 @@
+k2.community
+k2.equipment
+k2.marketing
+k2.pulawy.pl
+k2.slupsk.pl
+k2.solutions

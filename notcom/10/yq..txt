@@ -1,0 +1,5 @@
+yq.company
+yq.country
+yq.digital
+yq.fashion
+yq.network

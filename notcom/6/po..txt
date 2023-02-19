@@ -1,0 +1,15 @@
+po.app
+po.biz
+po.dog
+po.fit
+po.fyi
+po.icu
+po.law
+po.mba
+po.net
+po.ooo
+po.org
+po.run
+po.tel
+po.vip
+po.wtf

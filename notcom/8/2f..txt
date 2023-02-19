@@ -1,0 +1,8 @@
+2f.actor
+2f.bingo
+2f.boats
+2f.co.uk
+2f.homes
+2f.hs.kr
+2f.legal
+2f.world

@@ -1,0 +1,11 @@
+aoj.cc
+aoj.ch
+aoj.co
+aoj.de
+aoj.fr
+aoj.it
+aoj.no
+aoj.pl
+aoj.ru
+aoj.se
+aoj.uk

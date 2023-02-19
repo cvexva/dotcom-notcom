@@ -1,0 +1,10 @@
+ny.attorney
+ny.builders
+ny.business
+ny.catering
+ny.computer
+ny.exchange
+ny.football
+ny.holdings
+ny.partners
+ny.ventures

@@ -1,0 +1,14 @@
+hm.careers
+hm.company
+hm.contact
+hm.country
+hm.digital
+hm.fashion
+hm.fitness
+hm.gallery
+hm.holiday
+hm.rentals
+hm.reviews
+hm.support
+hm.systems
+hm.whoswho

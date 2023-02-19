@@ -1,0 +1,11 @@
+bqa.be
+bqa.ch
+bqa.de
+bqa.dk
+bqa.fr
+bqa.it
+bqa.la
+bqa.nl
+bqa.pl
+bqa.ru
+bqa.uk

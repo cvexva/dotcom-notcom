@@ -1,0 +1,12 @@
+ix.biz
+ix.dev
+ix.fit
+ix.frl
+ix.fyi
+ix.law
+ix.net
+ix.org
+ix.run
+ix.tel
+ix.vip
+ix.wtf

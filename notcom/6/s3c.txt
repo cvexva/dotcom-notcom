@@ -1,0 +1,16 @@
+s3c.bg
+s3c.ch
+s3c.cz
+s3c.es
+s3c.fr
+s3c.hr
+s3c.ir
+s3c.it
+s3c.me
+s3c.nl
+s3c.pl
+s3c.pt
+s3c.rs
+s3c.ru
+s3c.se
+s3c.si

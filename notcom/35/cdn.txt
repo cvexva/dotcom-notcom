@@ -1,0 +1,2 @@
+cdn-static-pool-78-webtelemetry.net
+cdngoprotectionprocessing.equipment

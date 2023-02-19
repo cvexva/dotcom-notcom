@@ -1,0 +1,8 @@
+nx1.cc
+nx1.ch
+nx1.cz
+nx1.de
+nx1.eu
+nx1.jp
+nx1.ru
+nx1.uk

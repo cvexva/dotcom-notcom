@@ -1,0 +1,13 @@
+2cy.app
+2cy.dev
+2cy.icu
+2cy.ink
+2cy.ltd
+2cy.moe
+2cy.net
+2cy.org
+2cy.pub
+2cy.top
+2cy.win
+2cy.xyz
+2cyy.cn

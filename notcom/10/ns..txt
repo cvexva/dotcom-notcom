@@ -1,0 +1,13 @@
+ns.academy
+ns.capital
+ns.company
+ns.contact
+ns.cooking
+ns.country
+ns.digital
+ns.domains
+ns.fashion
+ns.finance
+ns.gallery
+ns.jewelry
+ns.network

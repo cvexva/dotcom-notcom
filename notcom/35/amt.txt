@@ -1,0 +1,14 @@
+amt-fuer-oeffentliche-ordnung.koeln
+amtliche-sozialberichterstattung.de
+amtsgericht-gemuenden-a-main.bayern
+amtsgericht-hamburg-barmbek.hamburg
+amtsgericht-hamburg-harburg.hamburg
+amtsgericht-hamburg-stgeorg.hamburg
+amtsgericht-muehldorf-am-inn.bayern
+amtsgericht-neumarkt-i-d-opf.bayern
+amtsgericht-norden-niedersachsen.de
+amtsgericht-obernburg-a-main.bayern
+amtsgericht-osterholz-scharmbeck.de
+amtsgericht-pfaffenhofen-ilm.bayern
+amtsgericht-weiden-oberpfalz.bayern
+amtsgericht-zeitz-sachsen-anhalt.de

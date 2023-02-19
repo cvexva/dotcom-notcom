@@ -1,0 +1,17 @@
+m5.app
+m5.biz
+m5.fan
+m5.fit
+m5.fyi
+m5.gay
+m5.ink
+m5.law
+m5.net
+m5.org
+m5.pub
+m5.rip
+m5.run
+m5.tel
+m5.vip
+m5.wtf
+m5.xyz

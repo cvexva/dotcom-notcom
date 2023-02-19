@@ -1,0 +1,9 @@
+i2k.app
+i2k.biz
+i2k.dev
+i2k.net
+i2k.org
+i2k.xyz
+i2k2.in
+i2ka.jp
+i2kt.de

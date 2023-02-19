@@ -1,0 +1,9 @@
+tp2.be
+tp2.ch
+tp2.eu
+tp2.in
+tp2.jp
+tp2.pl
+tp2.ru
+tp2.se
+tp2.sk

@@ -1,0 +1,7 @@
+hk.apartments
+hk.art.museum
+hk.immobilien
+hk.kharkov.ua
+hk.properties
+hk.restaurant
+hk.technology

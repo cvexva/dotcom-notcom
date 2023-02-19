@@ -1,0 +1,12 @@
+fn.academy
+fn.capital
+fn.careers
+fn.contact
+fn.cooking
+fn.country
+fn.digital
+fn.express
+fn.fashion
+fn.network
+fn.systems
+fn.wedding

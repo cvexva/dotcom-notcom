@@ -1,0 +1,14 @@
+xib.cc
+xib.ch
+xib.dk
+xib.fi
+xib.fr
+xib.jp
+xib.li
+xib.me
+xib.mx
+xib.pl
+xib.ru
+xib.se
+xib.su
+xib.uk

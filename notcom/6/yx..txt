@@ -1,0 +1,13 @@
+yx.app
+yx.biz
+yx.fit
+yx.fyi
+yx.ink
+yx.law
+yx.net
+yx.org
+yx.run
+yx.tel
+yx.vip
+yx.win
+yx.wtf

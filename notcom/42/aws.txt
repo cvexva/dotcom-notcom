@@ -1,0 +1,2 @@
+aws-service-catalog-factory.readthedocs.io
+awsiot-handson-fundamentals.readthedocs.io

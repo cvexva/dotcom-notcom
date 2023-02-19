@@ -1,0 +1,9 @@
+bm1.az
+bm1.de
+bm1.eu
+bm1.ir
+bm1.jp
+bm1.nl
+bm1.ru
+bm1.uk
+bm1.vn

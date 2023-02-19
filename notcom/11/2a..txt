@@ -1,0 +1,9 @@
+2a.business
+2a.clothing
+2a.diamonds
+2a.football
+2a.holdings
+2a.services
+2a.software
+2a.training
+2a.ventures

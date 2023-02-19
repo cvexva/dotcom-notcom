@@ -1,0 +1,2 @@
+rxjava-doc.readthedocs.io
+rxjs-playground.github.io

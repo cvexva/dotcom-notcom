@@ -1,0 +1,12 @@
+pux.at
+pux.cc
+pux.ch
+pux.cz
+pux.eu
+pux.it
+pux.nl
+pux.pl
+pux.ru
+pux.se
+pux.su
+pux.uk

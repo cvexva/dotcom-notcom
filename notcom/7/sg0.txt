@@ -1,0 +1,14 @@
+sg0.biz
+sg0.dev
+sg0.net
+sg0.org
+sg0.vip
+sg0.xyz
+sg01.ru
+sg03.de
+sg04.de
+sg04.kr
+sg05.de
+sg06.de
+sg07.ru
+sg08.de

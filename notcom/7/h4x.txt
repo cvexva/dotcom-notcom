@@ -1,0 +1,17 @@
+h4x.app
+h4x.bio
+h4x.biz
+h4x.dev
+h4x.fun
+h4x.fyi
+h4x.lol
+h4x.net
+h4x.org
+h4x.ovh
+h4x.red
+h4x.top
+h4x.uno
+h4x.wtf
+h4x.xyz
+h4x4.ru
+h4xs.cc

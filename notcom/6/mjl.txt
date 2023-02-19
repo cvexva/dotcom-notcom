@@ -1,0 +1,16 @@
+mjl.ae
+mjl.at
+mjl.be
+mjl.ch
+mjl.cn
+mjl.dk
+mjl.fr
+mjl.it
+mjl.no
+mjl.nu
+mjl.pl
+mjl.ru
+mjl.se
+mjl.tw
+mjl.uk
+mjl.us

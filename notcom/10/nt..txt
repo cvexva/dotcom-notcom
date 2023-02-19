@@ -1,0 +1,14 @@
+nt.academy
+nt.capital
+nt.company
+nt.contact
+nt.cooking
+nt.country
+nt.digital
+nt.domains
+nt.fashion
+nt.limited
+nt.network
+nt.support
+nt.systems
+nt.wedding

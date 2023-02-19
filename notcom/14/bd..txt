@@ -1,0 +1,3 @@
+bd.domain.name
+bd.productions
+bd.xn--vuq861b

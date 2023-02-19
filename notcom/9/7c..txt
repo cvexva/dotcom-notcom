@@ -1,0 +1,6 @@
+7c.agency
+7c.beauty
+7c.claims
+7c.health
+7c.makeup
+7c.social

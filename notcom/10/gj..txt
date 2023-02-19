@@ -1,0 +1,4 @@
+gj.capital
+gj.country
+gj.fashion
+gj.network

@@ -1,0 +1,16 @@
+cd.baby
+cd.beer
+cd.bond
+cd.casa
+cd.cash
+cd.city
+cd.cyou
+cd.guru
+cd.life
+cd.live
+cd.luxe
+cd.plus
+cd.team
+cd.wiki
+cd.work
+cd.yoga

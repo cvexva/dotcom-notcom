@@ -1,0 +1,12 @@
+ngclustertest-08052010a-vanity.biz
+ngclustertest-08052010b-vanity.biz
+ngclustertest-08052010b-vanity.org
+ngclustertest-08052010c-vanity.biz
+ngclustertest-08052010c-vanity.net
+ngclustertest-08052010c-vanity.org
+ngclustertest-08052010d-vanity.biz
+ngclustertest-08052010d-vanity.net
+ngclustertest-08052010d-vanity.org
+ngclustertest-08052010e-vanity.biz
+ngclustertest-08052010e-vanity.net
+ngclustertest-08052010e-vanity.org

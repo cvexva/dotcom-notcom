@@ -1,0 +1,12 @@
+qht.at
+qht.az
+qht.de
+qht.es
+qht.eu
+qht.it
+qht.jp
+qht.pl
+qht.ru
+qht.uk
+qht.us
+qht.vn

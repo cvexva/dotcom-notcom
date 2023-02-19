@@ -1,0 +1,8 @@
+3sg.it
+3sg.jp
+3sg.lt
+3sg.nl
+3sg.pl
+3sg.ru
+3sg.se
+3sg.tn

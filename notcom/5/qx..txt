@@ -1,0 +1,17 @@
+qx.al
+qx.be
+qx.bz
+qx.cx
+qx.fi
+qx.fr
+qx.lc
+qx.lt
+qx.md
+qx.nu
+qx.qa
+qx.ru
+qx.se
+qx.sk
+qx.su
+qx.to
+qx.uk

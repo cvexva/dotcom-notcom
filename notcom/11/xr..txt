@@ -1,0 +1,17 @@
+xr.builders
+xr.business
+xr.clothing
+xr.computer
+xr.delivery
+xr.exchange
+xr.football
+xr.graphics
+xr.holdings
+xr.memorial
+xr.observer
+xr.partners
+xr.pictures
+xr.services
+xr.shopping
+xr.training
+xr.ventures

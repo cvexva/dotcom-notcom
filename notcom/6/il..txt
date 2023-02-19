@@ -1,0 +1,15 @@
+il.aco
+il.app
+il.biz
+il.cpa
+il.dev
+il.fit
+il.gay
+il.gov
+il.ink
+il.law
+il.net
+il.org
+il.sbs
+il.vip
+il.wtf

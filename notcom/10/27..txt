@@ -1,0 +1,5 @@
+27.capital
+27.country
+27.digital
+27.fashion
+27.network

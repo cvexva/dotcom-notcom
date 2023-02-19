@@ -1,0 +1,9 @@
+ru.business
+ru.computer
+ru.delivery
+ru.football
+ru.lighting
+ru.lundbeck
+ru.observer
+ru.shopping
+ru.software

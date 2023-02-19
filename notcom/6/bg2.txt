@@ -1,0 +1,5 @@
+bg2.de
+bg2.eu
+bg2.fr
+bg2.ru
+bg2.se

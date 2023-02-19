@@ -1,0 +1,9 @@
+jd.bravo.name
+jd.consulting
+jd.foundation
+jd.properties
+jd.realestate
+jd.technology
+jd.university
+jd.xn--czru2d
+jd.xn--io0a7i

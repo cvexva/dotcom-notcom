@@ -1,0 +1,6 @@
+qgi.cc
+qgi.de
+qgi.eu
+qgi.it
+qgi.ru
+qgi.uk

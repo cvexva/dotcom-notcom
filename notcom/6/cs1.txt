@@ -1,0 +1,13 @@
+cs1.at
+cs1.bg
+cs1.ca
+cs1.ch
+cs1.cl
+cs1.cz
+cs1.de
+cs1.dk
+cs1.it
+cs1.nl
+cs1.ru
+cs1.se
+cs1.uk

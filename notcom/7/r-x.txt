@@ -1,0 +1,5 @@
+r-x.app
+r-x.dev
+r-x.net
+r-x.org
+r-x.xyz

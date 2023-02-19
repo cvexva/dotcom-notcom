@@ -1,0 +1,6 @@
+ga2.cc
+ga2.ch
+ga2.dk
+ga2.me
+ga2.ru
+ga2.se

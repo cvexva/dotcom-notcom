@@ -1,0 +1,17 @@
+vgg.by
+vgg.cc
+vgg.ch
+vgg.co
+vgg.de
+vgg.eu
+vgg.hr
+vgg.io
+vgg.it
+vgg.nl
+vgg.no
+vgg.nz
+vgg.pl
+vgg.pt
+vgg.ru
+vgg.se
+vgg.vn

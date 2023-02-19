@@ -1,0 +1,8 @@
+z2.cfd
+z2.fit
+z2.law
+z2.ltd
+z2.net
+z2.org
+z2.run
+z2.vip

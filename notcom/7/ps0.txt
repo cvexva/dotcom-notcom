@@ -1,0 +1,11 @@
+ps0.app
+ps0.dev
+ps0.net
+ps0.org
+ps01.ru
+ps02.ru
+ps03.ru
+ps04.fr
+ps06.fr
+ps08.ru
+ps09.fr

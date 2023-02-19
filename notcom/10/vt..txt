@@ -1,0 +1,15 @@
+vt.abogado
+vt.academy
+vt.capital
+vt.charity
+vt.company
+vt.contact
+vt.country
+vt.dentist
+vt.digital
+vt.domains
+vt.fashion
+vt.gallery
+vt.network
+vt.support
+vt.systems

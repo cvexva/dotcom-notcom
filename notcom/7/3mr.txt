@@ -1,0 +1,6 @@
+3mr.app
+3mr.dev
+3mr.net
+3mr.org
+3mr.top
+3mr.xyz

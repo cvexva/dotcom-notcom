@@ -1,0 +1,15 @@
+j9.app
+j9.bet
+j9.biz
+j9.fan
+j9.fit
+j9.fyi
+j9.ink
+j9.law
+j9.net
+j9.pub
+j9.tel
+j9.top
+j9.vip
+j9.wtf
+j9.xyz

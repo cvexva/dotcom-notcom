@@ -1,0 +1,17 @@
+wu.app
+wu.biz
+wu.dev
+wu.dog
+wu.fit
+wu.fyi
+wu.ink
+wu.law
+wu.mba
+wu.net
+wu.ooo
+wu.org
+wu.ren
+wu.run
+wu.tel
+wu.vip
+wu.wtf

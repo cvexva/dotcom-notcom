@@ -1,0 +1,15 @@
+m3.app
+m3.biz
+m3.fan
+m3.fyi
+m3.ink
+m3.ltd
+m3.mom
+m3.net
+m3.org
+m3.pub
+m3.sbs
+m3.tel
+m3.vip
+m3.wtf
+m3.xyz

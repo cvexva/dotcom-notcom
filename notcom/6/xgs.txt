@@ -1,0 +1,9 @@
+xgs.be
+xgs.cc
+xgs.ch
+xgs.de
+xgs.in
+xgs.it
+xgs.pl
+xgs.ru
+xgs.uk

@@ -1,0 +1,15 @@
+vdk.at
+vdk.be
+vdk.ca
+vdk.ch
+vdk.de
+vdk.eu
+vdk.ge
+vdk.hu
+vdk.jp
+vdk.lt
+vdk.nl
+vdk.ru
+vdk.se
+vdk.su
+vdk.uk

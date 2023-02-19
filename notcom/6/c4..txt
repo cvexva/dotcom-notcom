@@ -1,0 +1,14 @@
+c4.app
+c4.biz
+c4.fit
+c4.fyi
+c4.gay
+c4.ink
+c4.law
+c4.net
+c4.org
+c4.pub
+c4.run
+c4.vip
+c4.wtf
+c4.xyz

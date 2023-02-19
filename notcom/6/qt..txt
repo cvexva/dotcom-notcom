@@ -1,0 +1,10 @@
+qt.app
+qt.biz
+qt.fit
+qt.fyi
+qt.law
+qt.net
+qt.org
+qt.pub
+qt.vip
+qt.wtf

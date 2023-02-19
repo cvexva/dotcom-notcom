@@ -1,0 +1,17 @@
+g-b.at
+g-b.be
+g-b.ch
+g-b.cn
+g-b.co
+g-b.de
+g-b.dk
+g-b.io
+g-b.it
+g-b.jp
+g-b.kz
+g-b.lu
+g-b.no
+g-b.nu
+g-b.ru
+g-b.se
+g-b.uk

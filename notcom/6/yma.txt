@@ -1,0 +1,16 @@
+yma.am
+yma.az
+yma.be
+yma.ch
+yma.fi
+yma.io
+yma.ir
+yma.it
+yma.jp
+yma.kr
+yma.nl
+yma.pl
+yma.ru
+yma.se
+yma.su
+yma.uk

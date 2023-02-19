@@ -1,0 +1,15 @@
+en.abogado
+en.capital
+en.company
+en.contact
+en.cooking
+en.country
+en.digital
+en.domains
+en.express
+en.fashion
+en.limited
+en.name.tr
+en.network
+en.reviews
+en.wedding

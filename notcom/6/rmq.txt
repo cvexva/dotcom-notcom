@@ -1,0 +1,8 @@
+rmq.ch
+rmq.eu
+rmq.it
+rmq.lt
+rmq.nl
+rmq.ru
+rmq.sk
+rmq.uk

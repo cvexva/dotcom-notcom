@@ -1,0 +1,17 @@
+tu.app
+tu.biz
+tu.dog
+tu.fit
+tu.fyi
+tu.inc
+tu.ink
+tu.law
+tu.mba
+tu.net
+tu.org
+tu.pub
+tu.tax
+tu.tel
+tu.vip
+tu.win
+tu.wtf

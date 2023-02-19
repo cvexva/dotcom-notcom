@@ -1,0 +1,17 @@
+qrv.app
+qrv.lat
+qrv.net
+qrv.org
+qrv.vip
+qrv.xyz
+qrva.sk
+qrve.cn
+qrve.de
+qrvj.cn
+qrvk.cn
+qrvk.ru
+qrvk.uz
+qrvn.cc
+qrvn.vn
+qrvs.de
+qrvy.de

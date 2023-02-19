@@ -1,0 +1,8 @@
+a.cards
+a.cheap
+a.co.at
+a.co.il
+a.co.ua
+a.co.uk
+a.codes
+a.cymru

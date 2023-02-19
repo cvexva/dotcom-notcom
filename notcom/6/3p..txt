@@ -1,0 +1,11 @@
+3p.app
+3p.biz
+3p.fit
+3p.fyi
+3p.ink
+3p.lol
+3p.net
+3p.org
+3p.sbs
+3p.tel
+3p.vip

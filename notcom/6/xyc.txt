@@ -1,0 +1,11 @@
+xyc.cc
+xyc.ch
+xyc.cz
+xyc.de
+xyc.eu
+xyc.ir
+xyc.it
+xyc.pl
+xyc.ru
+xyc.se
+xyc.uk

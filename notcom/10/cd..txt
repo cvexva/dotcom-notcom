@@ -1,0 +1,10 @@
+cd.academy
+cd.capital
+cd.contact
+cd.country
+cd.express
+cd.fashion
+cd.fitness
+cd.kitchen
+cd.wedding
+cd.whoswho

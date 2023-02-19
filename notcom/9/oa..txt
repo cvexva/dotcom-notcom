@@ -1,0 +1,17 @@
+oa.africa
+oa.agency
+oa.art.br
+oa.center
+oa.church
+oa.coffee
+oa.com.au
+oa.com.hk
+oa.com.sg
+oa.edu.ua
+oa.org.au
+oa.org.nz
+oa.org.uk
+oa.org.za
+oa.photos
+oa.report
+oa.waw.pl

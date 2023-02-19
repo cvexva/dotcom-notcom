@@ -1,0 +1,15 @@
+jni.be
+jni.cc
+jni.ch
+jni.co
+jni.de
+jni.dk
+jni.eu
+jni.fr
+jni.it
+jni.me
+jni.nu
+jni.pl
+jni.ru
+jni.se
+jni.uk

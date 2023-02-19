@@ -1,0 +1,9 @@
+xs2.at
+xs2.be
+xs2.cc
+xs2.de
+xs2.me
+xs2.nl
+xs2.nu
+xs2.ru
+xs2.uk

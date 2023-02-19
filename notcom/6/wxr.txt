@@ -1,0 +1,9 @@
+wxr.ca
+wxr.cc
+wxr.ch
+wxr.de
+wxr.eu
+wxr.it
+wxr.pl
+wxr.ru
+wxr.uk

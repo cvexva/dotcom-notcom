@@ -1,0 +1,15 @@
+azx.app
+azx.dev
+azx.fyi
+azx.net
+azx.one
+azx.org
+azx.red
+azx.xyz
+azxc.ru
+azxd.ru
+azxe.ru
+azxh.cn
+azxr.cn
+azxs.ml
+azxs.ru

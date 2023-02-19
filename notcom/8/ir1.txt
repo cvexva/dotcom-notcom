@@ -1,0 +1,11 @@
+ir1.buzz
+ir1.gold
+ir1.info
+ir1.live
+ir1.work
+ir100.jp
+ir11.xyz
+ir118.ir
+ir12.xyz
+ir13.org
+ir1k.xyz

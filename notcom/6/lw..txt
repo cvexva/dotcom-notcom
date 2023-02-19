@@ -1,0 +1,13 @@
+lw.app
+lw.biz
+lw.cpa
+lw.dev
+lw.fit
+lw.fyi
+lw.law
+lw.net
+lw.org
+lw.tax
+lw.tel
+lw.vip
+lw.wtf

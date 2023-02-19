@@ -1,0 +1,8 @@
+ns5.at
+ns5.cc
+ns5.ch
+ns5.de
+ns5.ir
+ns5.jp
+ns5.ru
+ns5.uk

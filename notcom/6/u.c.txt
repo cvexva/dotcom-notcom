@@ -1,0 +1,7 @@
+u.cafe
+u.camp
+u.casa
+u.cash
+u.city
+u.club
+u.cool

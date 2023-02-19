@@ -1,0 +1,8 @@
+o-0.app
+o-0.biz
+o-0.fun
+o-0.net
+o-0.org
+o-0.vip
+o-0.wtf
+o-0.xyz

@@ -1,0 +1,17 @@
+gxp.am
+gxp.be
+gxp.by
+gxp.cc
+gxp.ch
+gxp.de
+gxp.dk
+gxp.fr
+gxp.ie
+gxp.it
+gxp.kz
+gxp.pt
+gxp.ro
+gxp.ru
+gxp.se
+gxp.uk
+gxp.us

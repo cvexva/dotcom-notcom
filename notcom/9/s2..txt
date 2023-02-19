@@ -1,0 +1,16 @@
+s2.agency
+s2.bayern
+s2.beauty
+s2.center
+s2.com.au
+s2.com.br
+s2.com.mx
+s2.com.ph
+s2.com.pl
+s2.com.tw
+s2.design
+s2.energy
+s2.events
+s2.net.cn
+s2.studio
+s2.yachts

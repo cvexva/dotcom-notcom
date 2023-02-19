@@ -1,0 +1,8 @@
+qjs.ch
+qjs.de
+qjs.eu
+qjs.fr
+qjs.it
+qjs.pl
+qjs.ru
+qjs.uk

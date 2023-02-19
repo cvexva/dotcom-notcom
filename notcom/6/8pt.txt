@@ -1,0 +1,4 @@
+8pt.au
+8pt.cc
+8pt.io
+8pt.ru

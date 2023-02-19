@@ -1,0 +1,7 @@
+73.capital
+73.contact
+73.country
+73.digital
+73.fashion
+73.markets
+73.network

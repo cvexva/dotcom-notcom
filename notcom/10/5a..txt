@@ -1,0 +1,4 @@
+5a.charity
+5a.country
+5a.fishing
+5a.wedding

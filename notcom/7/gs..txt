@@ -1,0 +1,15 @@
+gs.band
+gs.beer
+gs.city
+gs.farm
+gs.immo
+gs.life
+gs.live
+gs.luxe
+gs.news
+gs.plus
+gs.show
+gs.team
+gs.wiki
+gs.work
+gs.yoga

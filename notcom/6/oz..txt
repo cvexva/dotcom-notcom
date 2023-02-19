@@ -1,0 +1,16 @@
+oz.app
+oz.biz
+oz.fit
+oz.fyi
+oz.inc
+oz.ink
+oz.law
+oz.mba
+oz.net
+oz.org
+oz.run
+oz.tax
+oz.tel
+oz.vip
+oz.wtf
+oz.xyz

@@ -1,0 +1,6 @@
+c.capital
+c.careers
+c.company
+c.contact
+c.cooking
+c.country

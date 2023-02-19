@@ -1,0 +1,3 @@
+s.taro.name
+s.tomi.name
+s.toru.name

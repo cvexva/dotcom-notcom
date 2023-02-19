@@ -1,0 +1,4 @@
+1i.charity
+1i.country
+1i.fishing
+1i.monster

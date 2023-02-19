@@ -1,0 +1,3 @@
+ha.foundation
+ha.kommune.no
+ha.properties

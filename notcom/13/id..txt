@@ -1,0 +1,7 @@
+id.foundation
+id.healthcare
+id.industries
+id.kharkov.ua
+id.protection
+id.technology
+id.university

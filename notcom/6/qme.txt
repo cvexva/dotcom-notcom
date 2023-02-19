@@ -1,0 +1,15 @@
+qme.be
+qme.cc
+qme.ch
+qme.dk
+qme.es
+qme.fi
+qme.ie
+qme.io
+qme.jp
+qme.nl
+qme.pl
+qme.ru
+qme.se
+qme.uk
+qme.vn

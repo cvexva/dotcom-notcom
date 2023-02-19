@@ -1,0 +1,8 @@
+qva.cc
+qva.ch
+qva.de
+qva.ge
+qva.in
+qva.it
+qva.ru
+qva.uk

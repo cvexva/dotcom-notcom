@@ -1,0 +1,2 @@
+fk.domain.name
+fk.xn--vuq861b

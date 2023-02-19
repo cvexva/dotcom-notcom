@@ -1,0 +1,14 @@
+qsw.cc
+qsw.ch
+qsw.cn
+qsw.dk
+qsw.es
+qsw.eu
+qsw.it
+qsw.la
+qsw.nl
+qsw.pl
+qsw.ro
+qsw.ru
+qsw.se
+qsw.uk

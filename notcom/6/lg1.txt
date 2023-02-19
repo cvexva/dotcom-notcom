@@ -1,0 +1,5 @@
+lg1.ch
+lg1.de
+lg1.fr
+lg1.me
+lg1.ru

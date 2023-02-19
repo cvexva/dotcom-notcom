@@ -1,0 +1,17 @@
+pyq.app
+pyq.dog
+pyq.icu
+pyq.net
+pyq.one
+pyq.org
+pyq.pub
+pyq.vip
+pyq.wtf
+pyq.xyz
+pyqg.cn
+pyqh.cn
+pyqn.cn
+pyqr.cn
+pyqt.de
+pyqt.ml
+pyqt.ru

@@ -1,0 +1,6 @@
+ch.associates
+ch.consulting
+ch.immobilien
+ch.restaurant
+ch.swiss.name
+ch.university

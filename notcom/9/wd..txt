@@ -1,0 +1,15 @@
+wd.agency
+wd.center
+wd.com.pe
+wd.com.sg
+wd.com.tr
+wd.com.tw
+wd.com.vn
+wd.energy
+wd.expert
+wd.net.tw
+wd.net.ua
+wd.org.cn
+wd.org.pl
+wd.org.uk
+wd.school

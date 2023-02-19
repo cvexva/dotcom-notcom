@@ -1,0 +1,16 @@
+gg.abogado
+gg.capital
+gg.company
+gg.contact
+gg.cooking
+gg.country
+gg.digital
+gg.fashion
+gg.finance
+gg.govt.nz
+gg.limited
+gg.network
+gg.surgery
+gg.systems
+gg.wedding
+gg.whoswho

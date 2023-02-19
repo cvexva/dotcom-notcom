@@ -1,0 +1,6 @@
+pi1.ch
+pi1.in
+pi1.io
+pi1.pl
+pi1.ru
+pi1.uk

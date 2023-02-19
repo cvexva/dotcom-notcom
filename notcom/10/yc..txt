@@ -1,0 +1,12 @@
+yc.abogado
+yc.capital
+yc.careers
+yc.company
+yc.contact
+yc.country
+yc.digital
+yc.fashion
+yc.finance
+yc.fitness
+yc.network
+yc.support

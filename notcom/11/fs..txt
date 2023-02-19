@@ -1,0 +1,12 @@
+fs.agric.za
+fs.builders
+fs.business
+fs.clothing
+fs.delivery
+fs.engineer
+fs.exchange
+fs.football
+fs.partners
+fs.security
+fs.software
+fs.ventures

@@ -1,0 +1,2 @@
+ebay-manage-updated-hardware-patch-alert.ga
+ebay-manage-updated-security-patch-alert.ga

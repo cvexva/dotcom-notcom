@@ -1,0 +1,16 @@
+daq.ca
+daq.ch
+daq.cl
+daq.de
+daq.es
+daq.eu
+daq.in
+daq.io
+daq.ir
+daq.it
+daq.jp
+daq.lt
+daq.pl
+daq.ru
+daq.uk
+daq.vn

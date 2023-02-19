@@ -1,0 +1,12 @@
+t4c.app
+t4c.biz
+t4c.dev
+t4c.net
+t4c.one
+t4c.org
+t4c.xyz
+t4ce.de
+t4ch.ch
+t4ch.tk
+t4cl.es
+t4cl.eu

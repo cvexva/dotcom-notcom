@@ -1,0 +1,6 @@
+d1a.app
+d1a.biz
+d1a.net
+d1a.nyc
+d1a.org
+d1a0.cn

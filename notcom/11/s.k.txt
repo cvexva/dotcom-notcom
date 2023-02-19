@@ -1,0 +1,3 @@
+s.kuji.name
+s.kuma.name
+s.kura.name

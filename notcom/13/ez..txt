@@ -1,0 +1,3 @@
+ez.healthcare
+ez.technology
+ez.university

@@ -1,0 +1,15 @@
+jwk.app
+jwk.cpa
+jwk.dev
+jwk.net
+jwk.org
+jwk.red
+jwk.vip
+jwk.xyz
+jwka.ch
+jwkc.pl
+jwkg.de
+jwkj.cn
+jwkr.uk
+jwks.de
+jwks.nu

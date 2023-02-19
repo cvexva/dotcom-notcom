@@ -1,0 +1,17 @@
+ut.baby
+ut.bike
+ut.camp
+ut.casa
+ut.chat
+ut.city
+ut.cyou
+ut.jobs
+ut.life
+ut.live
+ut.luxe
+ut.plus
+ut.taxi
+ut.team
+ut.work
+ut.yoga
+ut.zone

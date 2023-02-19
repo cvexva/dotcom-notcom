@@ -1,0 +1,16 @@
+ft.app
+ft.biz
+ft.fit
+ft.fyi
+ft.gay
+ft.icu
+ft.law
+ft.net
+ft.ooo
+ft.org
+ft.pub
+ft.tax
+ft.tel
+ft.vip
+ft.win
+ft.wtf

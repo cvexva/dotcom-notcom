@@ -1,0 +1,16 @@
+xws.cc
+xws.ch
+xws.de
+xws.es
+xws.im
+xws.in
+xws.it
+xws.jp
+xws.me
+xws.nl
+xws.no
+xws.pt
+xws.ro
+xws.ru
+xws.se
+xws.uk

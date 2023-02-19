@@ -1,0 +1,14 @@
+ck.academy
+ck.capital
+ck.company
+ck.contact
+ck.country
+ck.digital
+ck.fashion
+ck.finance
+ck.fitness
+ck.kitchen
+ck.name.tr
+ck.support
+ck.systems
+ck.whoswho

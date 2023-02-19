@@ -1,0 +1,14 @@
+os.academy
+os.capital
+os.careers
+os.company
+os.contact
+os.country
+os.digital
+os.express
+os.fashion
+os.finance
+os.gallery
+os.network
+os.surgery
+os.systems

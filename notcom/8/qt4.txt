@@ -1,0 +1,5 @@
+qt4.link
+qt42.art
+qt42.xyz
+qt4c.icu
+qt4u.xyz

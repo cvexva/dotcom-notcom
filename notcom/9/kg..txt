@@ -1,0 +1,16 @@
+kg.claims
+kg.com.ar
+kg.com.cn
+kg.com.pe
+kg.com.pk
+kg.com.sg
+kg.com.tr
+kg.com.ua
+kg.com.vn
+kg.london
+kg.net.pl
+kg.org.rs
+kg.org.ua
+kg.org.uk
+kg.org.za
+kg.vgs.no

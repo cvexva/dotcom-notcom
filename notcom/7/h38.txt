@@ -1,0 +1,8 @@
+h38.app
+h38.bar
+h38.fun
+h38.net
+h38.org
+h38.top
+h38.xyz
+h389.cc

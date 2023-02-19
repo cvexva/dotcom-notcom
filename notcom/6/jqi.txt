@@ -1,0 +1,7 @@
+jqi.cc
+jqi.cl
+jqi.de
+jqi.eu
+jqi.it
+jqi.ru
+jqi.uk

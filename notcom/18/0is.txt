@@ -1,0 +1,2 @@
+0isatellite.health
+0isatellite.online

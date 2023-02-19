@@ -1,0 +1,15 @@
+g-f.at
+g-f.ch
+g-f.cz
+g-f.de
+g-f.dk
+g-f.eu
+g-f.fr
+g-f.jp
+g-f.kr
+g-f.ru
+g-f.se
+g-f.sk
+g-f.su
+g-f.uk
+g-f.uz

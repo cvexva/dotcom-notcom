@@ -1,0 +1,13 @@
+bgx.bg
+bgx.ch
+bgx.co
+bgx.de
+bgx.eu
+bgx.gg
+bgx.hu
+bgx.it
+bgx.jp
+bgx.pl
+bgx.ru
+bgx.su
+bgx.uk

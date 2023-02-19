@@ -1,0 +1,4 @@
+tg.holdings
+tg.partners
+tg.services
+tg.ventures

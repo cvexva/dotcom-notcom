@@ -1,0 +1,14 @@
+dv.biz
+dv.cpa
+dv.eus
+dv.fit
+dv.fyi
+dv.gov
+dv.law
+dv.net
+dv.org
+dv.ski
+dv.tel
+dv.vip
+dv.wtf
+dv.xyz

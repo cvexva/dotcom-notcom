@@ -1,0 +1,10 @@
+4f.actor
+4f.bingo
+4f.boats
+4f.co.uk
+4f.co.za
+4f.homes
+4f.irish
+4f.legal
+4f.movie
+4f.world

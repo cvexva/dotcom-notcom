@@ -1,0 +1,9 @@
+eq2.be
+eq2.ch
+eq2.dk
+eq2.fr
+eq2.me
+eq2.pl
+eq2.ru
+eq2.uk
+eq2.us

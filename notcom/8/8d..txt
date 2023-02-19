@@ -1,0 +1,8 @@
+8d.actor
+8d.bingo
+8d.boats
+8d.co.uk
+8d.homes
+8d.legal
+8d.movie
+8d.world

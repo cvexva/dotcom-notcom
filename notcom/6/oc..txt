@@ -1,0 +1,17 @@
+oc.app
+oc.biz
+oc.cat
+oc.day
+oc.dev
+oc.dog
+oc.fit
+oc.fyi
+oc.gov
+oc.law
+oc.mom
+oc.net
+oc.org
+oc.run
+oc.tel
+oc.vip
+oc.wtf

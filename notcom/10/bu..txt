@@ -1,0 +1,10 @@
+bu.academy
+bu.contact
+bu.country
+bu.digital
+bu.domains
+bu.fashion
+bu.limited
+bu.name.tr
+bu.network
+bu.rentals

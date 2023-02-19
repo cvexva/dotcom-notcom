@@ -1,0 +1,3 @@
+st.amsterdam
+st.education
+st.mail.name

@@ -1,0 +1,15 @@
+fg.chat
+fg.cool
+fg.cyou
+fg.film
+fg.gold
+fg.golf
+fg.life
+fg.link
+fg.live
+fg.plus
+fg.show
+fg.team
+fg.wiki
+fg.wine
+fg.yoga

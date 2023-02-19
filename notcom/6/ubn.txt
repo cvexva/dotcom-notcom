@@ -1,0 +1,16 @@
+ubn.ae
+ubn.be
+ubn.ch
+ubn.cl
+ubn.co
+ubn.de
+ubn.eu
+ubn.hk
+ubn.mn
+ubn.no
+ubn.pl
+ubn.ru
+ubn.se
+ubn.sk
+ubn.su
+ubn.uk

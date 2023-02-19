@@ -1,0 +1,11 @@
+pyo.at
+pyo.be
+pyo.ch
+pyo.eu
+pyo.io
+pyo.it
+pyo.nl
+pyo.pl
+pyo.ru
+pyo.se
+pyo.uk

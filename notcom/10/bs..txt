@@ -1,0 +1,14 @@
+bs.abogado
+bs.academy
+bs.capital
+bs.company
+bs.contact
+bs.country
+bs.digital
+bs.exposed
+bs.fashion
+bs.jewelry
+bs.support
+bs.systems
+bs.wedding
+bs.whoswho

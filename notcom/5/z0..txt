@@ -1,0 +1,13 @@
+z0.am
+z0.be
+z0.ca
+z0.cc
+z0.cl
+z0.lt
+z0.nu
+z0.pl
+z0.ru
+z0.se
+z0.sk
+z0.su
+z0.uk

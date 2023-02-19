@@ -1,0 +1,4 @@
+0g.capital
+0g.country
+0g.monster
+0g.network

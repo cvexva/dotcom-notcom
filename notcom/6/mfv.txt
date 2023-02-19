@@ -1,0 +1,12 @@
+mfv.at
+mfv.cc
+mfv.ch
+mfv.de
+mfv.fi
+mfv.fr
+mfv.hu
+mfv.io
+mfv.no
+mfv.ru
+mfv.se
+mfv.uk

@@ -1,0 +1,3 @@
+o3g.app
+o3g.net
+o3g.org

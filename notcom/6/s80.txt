@@ -1,0 +1,7 @@
+s80.cc
+s80.de
+s80.dk
+s80.eu
+s80.ru
+s80.uk
+s80.us

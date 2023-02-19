@@ -1,0 +1,5 @@
+hw1.ch
+hw1.it
+hw1.ru
+hw1.tv
+hw1.uk

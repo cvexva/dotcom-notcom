@@ -1,0 +1,3 @@
+t0.capital
+t0.country
+t0.network

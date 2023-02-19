@@ -1,0 +1,7 @@
+rq.baby
+rq.care
+rq.chat
+rq.land
+rq.link
+rq.plus
+rq.yoga

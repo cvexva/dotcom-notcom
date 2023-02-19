@@ -1,0 +1,10 @@
+zn.app
+zn.biz
+zn.fit
+zn.fyi
+zn.ink
+zn.law
+zn.net
+zn.run
+zn.vip
+zn.wtf

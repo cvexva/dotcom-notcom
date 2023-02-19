@@ -1,0 +1,9 @@
+p2x.app
+p2x.biz
+p2x.dev
+p2x.fun
+p2x.net
+p2x.one
+p2x.org
+p2x.xyz
+p2xe.se

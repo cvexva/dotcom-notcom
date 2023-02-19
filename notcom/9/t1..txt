@@ -1,0 +1,14 @@
+t1.beauty
+t1.coffee
+t1.com.au
+t1.com.br
+t1.com.pt
+t1.com.tw
+t1.design
+t1.energy
+t1.health
+t1.net.au
+t1.net.br
+t1.org.uk
+t1.social
+t1.studio

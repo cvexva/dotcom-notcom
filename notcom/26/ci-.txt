@@ -1,0 +1,2 @@
+ci-exclusive-properties.ch
+ci-servicesconsulaires.org

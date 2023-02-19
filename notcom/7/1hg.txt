@@ -1,0 +1,9 @@
+1hg.app
+1hg.bio
+1hg.dev
+1hg.fun
+1hg.net
+1hg.org
+1hg.vip
+1hg.xyz
+1hgd.uk

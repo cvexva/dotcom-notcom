@@ -1,0 +1,7 @@
+vl.buzz
+vl.care
+vl.chat
+vl.life
+vl.live
+vl.team
+vl.work

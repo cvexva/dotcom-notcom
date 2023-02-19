@@ -1,0 +1,9 @@
+h5.beer
+h5.bond
+h5.casa
+h5.chat
+h5.club
+h5.cool
+h5.luxe
+h5.wiki
+h5.work

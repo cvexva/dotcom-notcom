@@ -1,0 +1,10 @@
+npy.app
+npy.bar
+npy.net
+npy.one
+npy.org
+npy.ski
+npy.vip
+npyt.cn
+npyu.cn
+npyy.cn

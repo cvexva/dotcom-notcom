@@ -1,0 +1,6 @@
+wx.agency
+wx.energy
+wx.net.pl
+wx.org.uk
+wx.social
+wx.studio

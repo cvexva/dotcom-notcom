@@ -1,0 +1,17 @@
+nfe.as
+nfe.be
+nfe.ch
+nfe.cn
+nfe.co
+nfe.de
+nfe.eu
+nfe.fr
+nfe.hu
+nfe.io
+nfe.nl
+nfe.no
+nfe.ru
+nfe.se
+nfe.sk
+nfe.su
+nfe.uk

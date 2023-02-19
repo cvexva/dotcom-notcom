@@ -1,0 +1,8 @@
+bfq.ch
+bfq.in
+bfq.io
+bfq.it
+bfq.nu
+bfq.ru
+bfq.su
+bfq.uk

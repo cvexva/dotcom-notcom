@@ -1,0 +1,10 @@
+fqn.app
+fqn.bar
+fqn.fun
+fqn.net
+fqn.org
+fqn.vip
+fqn.xyz
+fqnl.cn
+fqns.cn
+fqnz.cn

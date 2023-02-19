@@ -1,0 +1,16 @@
+ic.app
+ic.biz
+ic.cfd
+ic.dev
+ic.fit
+ic.fyi
+ic.gov
+ic.icu
+ic.law
+ic.net
+ic.org
+ic.run
+ic.tel
+ic.vin
+ic.vip
+ic.wtf

@@ -1,0 +1,17 @@
+xo.app
+xo.biz
+xo.dev
+xo.dog
+xo.fit
+xo.fyi
+xo.law
+xo.net
+xo.org
+xo.pub
+xo.rip
+xo.run
+xo.sbs
+xo.tel
+xo.vip
+xo.wtf
+xo.xyz

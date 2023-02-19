@@ -1,0 +1,15 @@
+pv.app
+pv.biz
+pv.cpa
+pv.dev
+pv.eco
+pv.fit
+pv.fyi
+pv.law
+pv.mba
+pv.net
+pv.onl
+pv.org
+pv.tax
+pv.vip
+pv.wtf

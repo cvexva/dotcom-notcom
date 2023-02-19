@@ -1,0 +1,6 @@
+t2o.app
+t2o.biz
+t2o.ltd
+t2o.net
+t2o.org
+t2o.xyz

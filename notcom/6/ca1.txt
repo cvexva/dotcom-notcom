@@ -1,0 +1,9 @@
+ca1.ca
+ca1.ch
+ca1.cl
+ca1.eu
+ca1.it
+ca1.ru
+ca1.to
+ca1.uk
+ca1.us

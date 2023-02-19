@@ -1,0 +1,12 @@
+rtj.at
+rtj.be
+rtj.ch
+rtj.de
+rtj.dk
+rtj.eu
+rtj.ie
+rtj.it
+rtj.pl
+rtj.ru
+rtj.se
+rtj.uk

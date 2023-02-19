@@ -1,0 +1,8 @@
+g-8.app
+g-8.biz
+g-8.dev
+g-8.fun
+g-8.llc
+g-8.net
+g-8.org
+g-8.xyz

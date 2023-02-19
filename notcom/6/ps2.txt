@@ -1,0 +1,9 @@
+ps2.ch
+ps2.de
+ps2.hu
+ps2.it
+ps2.mk
+ps2.nu
+ps2.ro
+ps2.ru
+ps2.sk

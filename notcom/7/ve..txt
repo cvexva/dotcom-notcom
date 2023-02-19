@@ -1,0 +1,17 @@
+ve.baby
+ve.care
+ve.casa
+ve.cash
+ve.chat
+ve.city
+ve.cool
+ve.host
+ve.land
+ve.link
+ve.live
+ve.luxe
+ve.plus
+ve.team
+ve.wiki
+ve.work
+ve.yoga

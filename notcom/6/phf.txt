@@ -1,0 +1,14 @@
+phf.ch
+phf.de
+phf.eu
+phf.fi
+phf.fr
+phf.hu
+phf.it
+phf.jp
+phf.mx
+phf.pl
+phf.pt
+phf.ru
+phf.se
+phf.uk

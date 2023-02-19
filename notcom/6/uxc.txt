@@ -1,0 +1,10 @@
+uxc.cc
+uxc.ch
+uxc.de
+uxc.eu
+uxc.io
+uxc.ir
+uxc.it
+uxc.ru
+uxc.se
+uxc.uk

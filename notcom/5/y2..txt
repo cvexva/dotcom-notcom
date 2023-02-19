@@ -1,0 +1,14 @@
+y2.be
+y2.cn
+y2.eu
+y2.fr
+y2.hu
+y2.lt
+y2.nl
+y2.nu
+y2.pl
+y2.ru
+y2.se
+y2.su
+y2.tn
+y2.uk

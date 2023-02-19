@@ -1,0 +1,8 @@
+wg0.app
+wg0.dev
+wg0.net
+wg0.org
+wg0.xyz
+wg01.ru
+wg06.de
+wg08.de

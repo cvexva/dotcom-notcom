@@ -1,0 +1,5 @@
+ix.foundation
+ix.healthcare
+ix.industries
+ix.technology
+ix.university

@@ -1,0 +1,7 @@
+pa1.ch
+pa1.cn
+pa1.co
+pa1.de
+pa1.nl
+pa1.ru
+pa1.uk

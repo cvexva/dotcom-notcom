@@ -1,0 +1,8 @@
+lr.bank
+lr.immo
+lr.life
+lr.link
+lr.team
+lr.wiki
+lr.work
+lr.yoga

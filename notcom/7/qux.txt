@@ -1,0 +1,12 @@
+qux.app
+qux.dev
+qux.net
+qux.org
+qux.vip
+qux.wtf
+qux.xyz
+quxa.it
+quxg.cn
+quxo.de
+quxt.cn
+quxx.ru

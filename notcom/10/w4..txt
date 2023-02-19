@@ -1,0 +1,3 @@
+w4.capital
+w4.country
+w4.network

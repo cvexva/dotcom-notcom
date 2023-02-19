@@ -1,0 +1,3 @@
+ltur-basel-flughafen.ch
+ltur-geneve-aeroport.ch
+ltur-koeln-flughafen.de

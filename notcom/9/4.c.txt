@@ -1,0 +1,3 @@
+4.capital
+4.company
+4.country

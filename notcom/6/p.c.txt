@@ -1,0 +1,7 @@
+p.camp
+p.care
+p.casa
+p.cash
+p.city
+p.club
+p.cool

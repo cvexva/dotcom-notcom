@@ -1,0 +1,9 @@
+t2e.app
+t2e.biz
+t2e.net
+t2e.one
+t2e.org
+t2e.ovh
+t2e.xyz
+t2er.ru
+t2ex.de

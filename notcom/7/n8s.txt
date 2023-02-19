@@ -1,0 +1,6 @@
+n8s.app
+n8s.dev
+n8s.net
+n8s.one
+n8s.org
+n8s.xyz

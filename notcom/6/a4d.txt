@@ -1,0 +1,11 @@
+a4d.cc
+a4d.ch
+a4d.de
+a4d.eu
+a4d.fr
+a4d.it
+a4d.lv
+a4d.nl
+a4d.pl
+a4d.ru
+a4d.uk

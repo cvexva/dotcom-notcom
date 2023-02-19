@@ -1,0 +1,13 @@
+ub.app
+ub.biz
+ub.cat
+ub.fit
+ub.fyi
+ub.law
+ub.net
+ub.org
+ub.run
+ub.tel
+ub.vip
+ub.wtf
+ub.xyz

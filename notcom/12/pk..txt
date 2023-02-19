@@ -1,0 +1,11 @@
+pk.amsterdam
+pk.community
+pk.directory
+pk.education
+pk.equipment
+pk.financial
+pk.furniture
+pk.institute
+pk.marketing
+pk.solutions
+pk.vacations

@@ -1,0 +1,7 @@
+p4d.app
+p4d.biz
+p4d.dev
+p4d.net
+p4d.org
+p4d.xyz
+p4df.ru

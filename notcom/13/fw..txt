@@ -1,0 +1,3 @@
+fw.foundation
+fw.nappa.name
+fw.properties

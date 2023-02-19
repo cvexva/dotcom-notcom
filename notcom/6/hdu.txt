@@ -1,0 +1,15 @@
+hdu.ch
+hdu.cn
+hdu.co
+hdu.fr
+hdu.hr
+hdu.hu
+hdu.it
+hdu.jp
+hdu.no
+hdu.pt
+hdu.ru
+hdu.se
+hdu.tw
+hdu.uk
+hdu.vn

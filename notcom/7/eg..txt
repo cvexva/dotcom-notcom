@@ -1,0 +1,14 @@
+eg.army
+eg.asia
+eg.baby
+eg.casa
+eg.chat
+eg.farm
+eg.immo
+eg.land
+eg.link
+eg.live
+eg.plus
+eg.wiki
+eg.work
+eg.yoga

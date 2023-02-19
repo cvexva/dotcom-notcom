@@ -1,0 +1,11 @@
+rm2.at
+rm2.be
+rm2.de
+rm2.dk
+rm2.io
+rm2.it
+rm2.mx
+rm2.nl
+rm2.ru
+rm2.se
+rm2.uk

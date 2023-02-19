@@ -1,0 +1,7 @@
+sql-machine-learning.github.io
+sql-performance-explained.info
+sql-plsql-database.blogspot.in
+sqlcompatibilityfoundation.net
+sqlcompatibilityfoundation.org
+sqlserverperformancetuning.org
+sqltrainingquestionnaire.co.uk

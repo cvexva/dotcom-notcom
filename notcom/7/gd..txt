@@ -1,0 +1,13 @@
+gd.beer
+gd.cafe
+gd.club
+gd.gold
+gd.life
+gd.link
+gd.luxe
+gd.plus
+gd.team
+gd.wiki
+gd.wine
+gd.work
+gd.yoga

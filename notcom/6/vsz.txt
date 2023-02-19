@@ -1,0 +1,15 @@
+vsz.at
+vsz.be
+vsz.ch
+vsz.cz
+vsz.de
+vsz.hr
+vsz.hu
+vsz.it
+vsz.nl
+vsz.pl
+vsz.ru
+vsz.sk
+vsz.su
+vsz.uk
+vsz.uz

@@ -1,0 +1,9 @@
+qpd.ae
+qpd.ch
+qpd.eu
+qpd.it
+qpd.jp
+qpd.ro
+qpd.ru
+qpd.se
+qpd.uk

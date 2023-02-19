@@ -1,0 +1,5 @@
+qa.business
+qa.observer
+qa.services
+qa.supplies
+qa.ventures

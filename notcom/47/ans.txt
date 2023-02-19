@@ -1,0 +1,2 @@
+ansible-galaxy-fortimanager-docs.readthedocs.io
+anstalt-fuer-experimentelle-querverbindungen.de

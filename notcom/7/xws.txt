@@ -1,0 +1,12 @@
+xws.app
+xws.biz
+xws.icu
+xws.net
+xws.one
+xws.org
+xws.xyz
+xwsd.ru
+xwse.cn
+xwsp.cc
+xwss.cc
+xwss.se

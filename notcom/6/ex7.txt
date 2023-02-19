@@ -1,0 +1,5 @@
+ex7.de
+ex7.jp
+ex7.pl
+ex7.ru
+ex7.uk

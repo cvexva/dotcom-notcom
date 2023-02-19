@@ -1,0 +1,9 @@
+lp3.ch
+lp3.de
+lp3.fr
+lp3.in
+lp3.it
+lp3.nl
+lp3.pl
+lp3.ru
+lp3.se

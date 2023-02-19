@@ -1,0 +1,8 @@
+n2d.app
+n2d.dev
+n2d.net
+n2d.org
+n2d.xyz
+n2dc.cn
+n2ds.fr
+n2du.nl

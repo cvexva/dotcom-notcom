@@ -1,0 +1,3 @@
+sy.foundation
+sy.malbork.pl
+sy.technology

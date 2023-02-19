@@ -1,0 +1,8 @@
+qq.business
+qq.delivery
+qq.exchange
+qq.football
+qq.observer
+qq.pictures
+qq.shopping
+qq.ventures

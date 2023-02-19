@@ -1,0 +1,7 @@
+msn-account-confirmation.biz
+msn-account-confirmation.net
+msn-account-confirmation.org
+msn-account-reactivation.biz
+msn-account-reactivation.net
+msn-account-reactivation.org
+msnloveandrelationships.mobi

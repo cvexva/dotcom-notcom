@@ -1,0 +1,9 @@
+ax2.ca
+ax2.ch
+ax2.co
+ax2.de
+ax2.io
+ax2.jp
+ax2.ru
+ax2.se
+ax2.uk

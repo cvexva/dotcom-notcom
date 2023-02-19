@@ -1,0 +1,5 @@
+8g.charity
+8g.country
+8g.fishing
+8g.network
+8g.wedding

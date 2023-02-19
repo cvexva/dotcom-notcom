@@ -1,0 +1,5 @@
+django-admin-autocomplete-all.readthedocs.io
+django-cryptocurrency-payment.readthedocs.io
+django-endless-pagination-vue.readthedocs.io
+django-flexible-subscriptions.readthedocs.io
+django-static-underscore-i18n.readthedocs.io

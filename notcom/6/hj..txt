@@ -1,0 +1,12 @@
+hj.app
+hj.biz
+hj.fit
+hj.fyi
+hj.ink
+hj.law
+hj.net
+hj.org
+hj.run
+hj.vip
+hj.win
+hj.wtf

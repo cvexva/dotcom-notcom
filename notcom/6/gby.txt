@@ -1,0 +1,15 @@
+gby.at
+gby.cc
+gby.ch
+gby.cn
+gby.co
+gby.fr
+gby.ir
+gby.it
+gby.lt
+gby.no
+gby.pl
+gby.ru
+gby.se
+gby.su
+gby.uk

@@ -1,0 +1,5 @@
+vy.academy
+vy.country
+vy.fashion
+vy.finance
+vy.network

@@ -1,0 +1,14 @@
+rs1.at
+rs1.be
+rs1.ch
+rs1.es
+rs1.fr
+rs1.in
+rs1.ir
+rs1.it
+rs1.jp
+rs1.ro
+rs1.ru
+rs1.se
+rs1.tv
+rs1.uk

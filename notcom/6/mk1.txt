@@ -1,0 +1,17 @@
+mk1.at
+mk1.ch
+mk1.cz
+mk1.de
+mk1.eu
+mk1.io
+mk1.it
+mk1.jp
+mk1.kr
+mk1.kz
+mk1.nl
+mk1.no
+mk1.pl
+mk1.ru
+mk1.se
+mk1.sk
+mk1.uk

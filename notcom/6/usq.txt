@@ -1,0 +1,12 @@
+usq.au
+usq.ca
+usq.ch
+usq.cz
+usq.de
+usq.fr
+usq.jp
+usq.nl
+usq.ru
+usq.uk
+usq.us
+usq.uz

@@ -1,0 +1,17 @@
+fi.aco
+fi.app
+fi.biz
+fi.cfd
+fi.dev
+fi.fit
+fi.law
+fi.mba
+fi.net
+fi.org
+fi.run
+fi.sbs
+fi.tax
+fi.vin
+fi.vip
+fi.wtf
+fi.xyz

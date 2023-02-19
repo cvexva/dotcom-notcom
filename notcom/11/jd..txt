@@ -1,0 +1,12 @@
+jd.attorney
+jd.business
+jd.clothing
+jd.computer
+jd.delivery
+jd.discount
+jd.holdings
+jd.property
+jd.services
+jd.shopping
+jd.supplies
+jd.ventures

@@ -1,0 +1,3 @@
+v.game
+v.gold
+v.guru

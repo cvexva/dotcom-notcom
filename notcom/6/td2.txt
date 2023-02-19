@@ -1,0 +1,8 @@
+td2.ch
+td2.in
+td2.ir
+td2.it
+td2.jp
+td2.no
+td2.ru
+td2.uk

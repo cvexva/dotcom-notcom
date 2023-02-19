@@ -1,0 +1,17 @@
+cdu-breisgau-hochschwarzwald.net
+cdu-breisgau-hochschwarzwald.org
+cdu-carlsberg-hertlingshausen.de
+cdu-elbufer-hitzacker-goehrde.de
+cdu-fraktion-moenchengladbach.de
+cdu-fraktion-rhein-erft-kreis.de
+cdu-gartenstadt-schmargendorf.de
+cdu-gemeindeverband-kirchberg.de
+cdu-gemeindeverband-tarmstedt.de
+cdu-kreistagsfraktion-gifhorn.de
+cdu-kreistagsfraktion-stendal.de
+cdu-kreisverband-altenkirchen.de
+cdu-landeshauptstadt-hannover.de
+cdu-ratsfraktion-braunschweig.de
+cdu-schenefeld-mittelholstein.de
+cdu-stadtverbandstagsfraktion.de
+cdu-wuerttemberg-hohenzollern.de

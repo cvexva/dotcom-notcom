@@ -1,0 +1,5 @@
+ns8.ch
+ns8.pl
+ns8.ru
+ns8.uk
+ns8.us

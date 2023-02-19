@@ -1,0 +1,14 @@
+yi.app
+yi.biz
+yi.dog
+yi.fit
+yi.fyi
+yi.ink
+yi.law
+yi.net
+yi.org
+yi.pub
+yi.ren
+yi.tel
+yi.vip
+yi.wtf

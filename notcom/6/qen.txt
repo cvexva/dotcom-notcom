@@ -1,0 +1,7 @@
+qen.cc
+qen.ch
+qen.de
+qen.it
+qen.ru
+qen.uk
+qen.us

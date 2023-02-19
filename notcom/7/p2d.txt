@@ -1,0 +1,9 @@
+p2d.app
+p2d.fyi
+p2d.llc
+p2d.net
+p2d.org
+p2d.uno
+p2d.xyz
+p2d2.cz
+p2d2.ru

@@ -1,0 +1,10 @@
+qtn.app
+qtn.biz
+qtn.ltd
+qtn.net
+qtn.one
+qtn.org
+qtn.pub
+qtn.xyz
+qtnf.cc
+qtnv.cn

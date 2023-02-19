@@ -1,0 +1,5 @@
+oo.computer
+oo.exchange
+oo.football
+oo.observer
+oo.pictures

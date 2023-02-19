@@ -1,0 +1,9 @@
+g3m.app
+g3m.biz
+g3m.dev
+g3m.eus
+g3m.net
+g3m.org
+g3m.top
+g3m.xyz
+g3mi.fr

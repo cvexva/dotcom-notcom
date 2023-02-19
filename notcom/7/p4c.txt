@@ -1,0 +1,10 @@
+p4c.app
+p4c.biz
+p4c.dev
+p4c.net
+p4c.ngo
+p4c.org
+p4c.xyz
+p4ca.eu
+p4cm.tv
+p4co.ro

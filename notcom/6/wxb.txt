@@ -1,0 +1,10 @@
+wxb.ch
+wxb.cn
+wxb.de
+wxb.eu
+wxb.fr
+wxb.it
+wxb.pl
+wxb.ru
+wxb.se
+wxb.uk

@@ -1,0 +1,10 @@
+rc3.be
+rc3.ch
+rc3.fr
+rc3.io
+rc3.kr
+rc3.me
+rc3.nl
+rc3.ru
+rc3.se
+rc3.us

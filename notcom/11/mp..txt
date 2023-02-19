@@ -1,0 +1,8 @@
+mp.computer
+mp.czest.pl
+mp.delivery
+mp.holdings
+mp.partners
+mp.services
+mp.ventures
+mp.zgora.pl

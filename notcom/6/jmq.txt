@@ -1,0 +1,12 @@
+jmq.be
+jmq.ch
+jmq.cn
+jmq.de
+jmq.dk
+jmq.it
+jmq.nl
+jmq.nu
+jmq.pl
+jmq.ro
+jmq.ru
+jmq.uk

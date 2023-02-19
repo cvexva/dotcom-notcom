@@ -1,0 +1,5 @@
+i4.community
+i4.education
+i4.institute
+i4.marketing
+i4.solutions

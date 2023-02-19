@@ -1,0 +1,13 @@
+td.capital
+td.careers
+td.company
+td.contact
+td.cooking
+td.country
+td.fashion
+td.finance
+td.lviv.ua
+td.support
+td.systems
+td.wedding
+td.whoswho

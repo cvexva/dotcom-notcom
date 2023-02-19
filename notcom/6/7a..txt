@@ -1,0 +1,9 @@
+7a.app
+7a.biz
+7a.fit
+7a.fyi
+7a.ink
+7a.net
+7a.org
+7a.pub
+7a.vip

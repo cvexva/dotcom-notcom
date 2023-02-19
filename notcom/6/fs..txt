@@ -1,0 +1,17 @@
+fs.app
+fs.bio
+fs.biz
+fs.dev
+fs.fit
+fs.fyi
+fs.inc
+fs.law
+fs.lol
+fs.mba
+fs.net
+fs.org
+fs.run
+fs.sbs
+fs.tel
+fs.vip
+fs.wtf

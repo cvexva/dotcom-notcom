@@ -1,0 +1,10 @@
+rg.biz
+rg.cpa
+rg.dev
+rg.fit
+rg.fyi
+rg.law
+rg.net
+rg.org
+rg.vip
+rg.wtf

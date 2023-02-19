@@ -1,0 +1,14 @@
+htx.cc
+htx.ch
+htx.co
+htx.cz
+htx.hk
+htx.it
+htx.me
+htx.nl
+htx.no
+htx.pl
+htx.ro
+htx.ru
+htx.se
+htx.uk

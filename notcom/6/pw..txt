@@ -1,0 +1,14 @@
+pw.aco
+pw.biz
+pw.cab
+pw.dev
+pw.fit
+pw.fyi
+pw.law
+pw.mba
+pw.net
+pw.new
+pw.org
+pw.run
+pw.vip
+pw.wtf

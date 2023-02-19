@@ -1,0 +1,7 @@
+t3.academy
+t3.capital
+t3.contact
+t3.country
+t3.finance
+t3.network
+t3.systems

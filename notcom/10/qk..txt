@@ -1,0 +1,5 @@
+qk.careers
+qk.country
+qk.fashion
+qk.gallery
+qk.network

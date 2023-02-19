@@ -1,0 +1,16 @@
+p-a.by
+p-a.cc
+p-a.ch
+p-a.fr
+p-a.im
+p-a.it
+p-a.jp
+p-a.kz
+p-a.li
+p-a.lv
+p-a.nl
+p-a.nz
+p-a.pl
+p-a.ro
+p-a.ru
+p-a.uk

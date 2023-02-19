@@ -1,0 +1,9 @@
+q2.app
+q2.fit
+q2.fyi
+q2.ink
+q2.net
+q2.pub
+q2.tel
+q2.vip
+q2.wtf

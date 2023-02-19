@@ -1,0 +1,3 @@
+hf.foundation
+hf.industries
+hf.university

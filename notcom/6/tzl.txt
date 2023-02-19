@@ -1,0 +1,11 @@
+tzl.at
+tzl.bz
+tzl.ch
+tzl.de
+tzl.it
+tzl.kz
+tzl.nu
+tzl.pl
+tzl.ru
+tzl.se
+tzl.uk

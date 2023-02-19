@@ -1,0 +1,10 @@
+r16.be
+r16.ch
+r16.cn
+r16.de
+r16.it
+r16.jp
+r16.lt
+r16.ru
+r16.se
+r16.us

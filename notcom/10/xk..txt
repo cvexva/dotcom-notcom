@@ -1,0 +1,4 @@
+xk.capital
+xk.country
+xk.fashion
+xk.network

@@ -1,0 +1,16 @@
+wjs.be
+wjs.cc
+wjs.ch
+wjs.de
+wjs.dk
+wjs.fr
+wjs.ir
+wjs.it
+wjs.jp
+wjs.kr
+wjs.ru
+wjs.se
+wjs.sg
+wjs.tw
+wjs.uk
+wjs.us

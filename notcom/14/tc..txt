@@ -1,0 +1,6 @@
+tc.domain.name
+tc.engineering
+tc.productions
+tc.szczecin.pl
+tc.xn--czr694b
+tc.xn--vuq861b

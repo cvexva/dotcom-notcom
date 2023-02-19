@@ -1,0 +1,14 @@
+ge.aco
+ge.app
+ge.biz
+ge.fit
+ge.fyi
+ge.law
+ge.mba
+ge.net
+ge.org
+ge.run
+ge.sbs
+ge.tax
+ge.vip
+ge.wtf

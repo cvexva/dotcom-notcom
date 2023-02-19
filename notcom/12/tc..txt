@@ -1,0 +1,4 @@
+tc.amsterdam
+tc.community
+tc.education
+tc.solutions

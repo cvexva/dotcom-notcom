@@ -1,0 +1,11 @@
+sa1.ch
+sa1.de
+sa1.dk
+sa1.eu
+sa1.in
+sa1.io
+sa1.it
+sa1.lt
+sa1.nl
+sa1.ru
+sa1.uk

@@ -1,0 +1,9 @@
+ot.baby
+ot.care
+ot.chat
+ot.golf
+ot.life
+ot.link
+ot.live
+ot.work
+ot.zone

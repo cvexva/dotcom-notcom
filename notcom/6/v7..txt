@@ -1,0 +1,8 @@
+v7.app
+v7.fit
+v7.fyi
+v7.ink
+v7.net
+v7.org
+v7.pub
+v7.vip

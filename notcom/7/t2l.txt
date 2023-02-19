@@ -1,0 +1,10 @@
+t2l.app
+t2l.biz
+t2l.dev
+t2l.ink
+t2l.lol
+t2l.ltd
+t2l.net
+t2l.one
+t2l.org
+t2l.top

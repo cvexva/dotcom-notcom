@@ -1,0 +1,11 @@
+jv.academy
+jv.capital
+jv.contact
+jv.cooking
+jv.country
+jv.domains
+jv.fashion
+jv.finance
+jv.gallery
+jv.network
+jv.wedding

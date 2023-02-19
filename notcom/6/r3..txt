@@ -1,0 +1,14 @@
+r3.app
+r3.biz
+r3.dev
+r3.fit
+r3.fyi
+r3.gay
+r3.ink
+r3.law
+r3.net
+r3.org
+r3.pub
+r3.vip
+r3.wtf
+r3.xyz

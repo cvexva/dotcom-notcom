@@ -1,0 +1,8 @@
+g16.at
+g16.ch
+g16.cn
+g16.co
+g16.it
+g16.pl
+g16.ru
+g16.uk

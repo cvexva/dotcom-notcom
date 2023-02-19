@@ -1,0 +1,4 @@
+y.ac
+y.am
+y.ar
+y.at

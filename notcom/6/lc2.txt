@@ -1,0 +1,10 @@
+lc2.at
+lc2.be
+lc2.ca
+lc2.eu
+lc2.fr
+lc2.in
+lc2.it
+lc2.pl
+lc2.ru
+lc2.se

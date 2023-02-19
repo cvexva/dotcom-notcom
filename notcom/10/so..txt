@@ -1,0 +1,13 @@
+so.abogado
+so.capital
+so.company
+so.contact
+so.country
+so.digital
+so.domains
+so.express
+so.fashion
+so.finance
+so.limited
+so.wedding
+so.whoswho

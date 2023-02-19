@@ -1,0 +1,13 @@
+psz.at
+psz.be
+psz.ch
+psz.co
+psz.fr
+psz.it
+psz.pl
+psz.pt
+psz.ru
+psz.se
+psz.sk
+psz.su
+psz.uk

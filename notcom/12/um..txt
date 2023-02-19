@@ -1,0 +1,9 @@
+um.amsterdam
+um.bedzin.pl
+um.elblag.pl
+um.gorzow.pl
+um.kalisz.pl
+um.leczna.pl
+um.lowicz.pl
+um.olecko.pl
+um.wielun.pl

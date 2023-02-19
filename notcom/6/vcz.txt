@@ -1,0 +1,12 @@
+vcz.at
+vcz.ch
+vcz.fr
+vcz.hr
+vcz.it
+vcz.me
+vcz.nl
+vcz.pl
+vcz.ru
+vcz.sk
+vcz.uk
+vcz.uz

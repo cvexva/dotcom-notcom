@@ -1,0 +1,5 @@
+jm.consulting
+jm.foundation
+jm.properties
+jm.technology
+jm.wroclaw.pl

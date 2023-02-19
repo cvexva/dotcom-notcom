@@ -1,0 +1,17 @@
+eu.com.kw
+eu.com.pk
+eu.com.pl
+eu.com.tw
+eu.edu.au
+eu.edu.ge
+eu.edu.mk
+eu.edu.ua
+eu.net.mk
+eu.net.pl
+eu.net.ua
+eu.org.au
+eu.org.mk
+eu.org.pl
+eu.org.ua
+eu.org.uk
+eu.waw.pl

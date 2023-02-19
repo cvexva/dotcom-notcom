@@ -1,0 +1,12 @@
+q-c.cc
+q-c.ch
+q-c.de
+q-c.dk
+q-c.fr
+q-c.hu
+q-c.it
+q-c.jp
+q-c.nu
+q-c.ru
+q-c.se
+q-c.uk

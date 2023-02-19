@@ -1,0 +1,14 @@
+k1.app
+k1.biz
+k1.cpa
+k1.fan
+k1.fit
+k1.gay
+k1.ink
+k1.ltd
+k1.net
+k1.org
+k1.pub
+k1.tax
+k1.vip
+k1.wtf

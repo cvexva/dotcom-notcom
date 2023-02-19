@@ -1,0 +1,7 @@
+lv7.at
+lv7.cc
+lv7.de
+lv7.eu
+lv7.it
+lv7.ms
+lv7.ru

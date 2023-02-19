@@ -1,0 +1,4 @@
+87.capital
+87.country
+87.fashion
+87.network

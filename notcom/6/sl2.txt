@@ -1,0 +1,11 @@
+sl2.ch
+sl2.cl
+sl2.de
+sl2.eu
+sl2.gr
+sl2.im
+sl2.it
+sl2.jp
+sl2.pt
+sl2.ru
+sl2.uk

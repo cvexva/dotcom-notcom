@@ -1,0 +1,16 @@
+srr.ae
+srr.at
+srr.be
+srr.ch
+srr.cl
+srr.dk
+srr.fi
+srr.it
+srr.lv
+srr.nu
+srr.ro
+srr.ru
+srr.se
+srr.sk
+srr.su
+srr.uk

@@ -1,0 +1,4 @@
+uwsgi-docs-cn.readthedocs.io
+uwsgi-docs-zh.readthedocs.io
+uwsocialinnovationcenter.org
+uwsolutionscenter.technology

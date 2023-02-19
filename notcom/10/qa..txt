@@ -1,0 +1,11 @@
+qa.abogado
+qa.academy
+qa.careers
+qa.company
+qa.contact
+qa.country
+qa.digital
+qa.fashion
+qa.support
+qa.systems
+qa.whoswho

@@ -1,0 +1,16 @@
+cay.ac
+cay.be
+cay.ca
+cay.ch
+cay.cl
+cay.co
+cay.de
+cay.eu
+cay.it
+cay.kr
+cay.nl
+cay.pl
+cay.ru
+cay.to
+cay.uk
+cay.vn

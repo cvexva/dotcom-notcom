@@ -1,0 +1,10 @@
+tp1.by
+tp1.ca
+tp1.ch
+tp1.de
+tp1.eu
+tp1.jp
+tp1.pl
+tp1.ru
+tp1.se
+tp1.uk

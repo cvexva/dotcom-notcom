@@ -1,0 +1,13 @@
+zl.app
+zl.biz
+zl.fit
+zl.fyi
+zl.ink
+zl.law
+zl.ltd
+zl.net
+zl.ooo
+zl.org
+zl.run
+zl.vip
+zl.wtf

@@ -1,0 +1,4 @@
+w5.beer
+w5.rent
+w5.wiki
+w5.work

@@ -1,0 +1,10 @@
+tm2.ch
+tm2.de
+tm2.dk
+tm2.es
+tm2.jp
+tm2.kr
+tm2.nl
+tm2.pl
+tm2.ru
+tm2.se

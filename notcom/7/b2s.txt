@@ -1,0 +1,14 @@
+b2s.app
+b2s.biz
+b2s.dev
+b2s.net
+b2s.one
+b2s.org
+b2s.tel
+b2s.xyz
+b2sa.gr
+b2se.fr
+b2si.it
+b2sp.ch
+b2sp.es
+b2ss.co

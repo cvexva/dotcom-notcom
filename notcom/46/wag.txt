@@ -1,0 +1,1 @@
+wagtail-cookiecutter-foundation.readthedocs.io

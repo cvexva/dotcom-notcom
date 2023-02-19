@@ -1,0 +1,17 @@
+mf.app
+mf.biz
+mf.cpa
+mf.dev
+mf.fit
+mf.fun
+mf.fyi
+mf.gov
+mf.icu
+mf.law
+mf.lol
+mf.ltd
+mf.net
+mf.org
+mf.run
+mf.vip
+mf.wtf

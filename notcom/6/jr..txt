@@ -1,0 +1,13 @@
+jr.app
+jr.biz
+jr.dev
+jr.dog
+jr.fit
+jr.fyi
+jr.law
+jr.lol
+jr.mba
+jr.net
+jr.org
+jr.win
+jr.wtf

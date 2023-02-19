@@ -1,0 +1,9 @@
+bmq.ch
+bmq.de
+bmq.eu
+bmq.fi
+bmq.it
+bmq.nl
+bmq.pl
+bmq.ru
+bmq.uk

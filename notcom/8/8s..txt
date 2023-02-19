@@ -1,0 +1,9 @@
+8s.actor
+8s.bingo
+8s.boats
+8s.games
+8s.legal
+8s.movie
+8s.ninja
+8s.quest
+8s.world

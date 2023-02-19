@@ -1,0 +1,5 @@
+l27.app
+l27.dev
+l27.net
+l27.org
+l27.top

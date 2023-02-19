@@ -1,0 +1,4 @@
+s.parts
+s.photo
+s.pizza
+s.place

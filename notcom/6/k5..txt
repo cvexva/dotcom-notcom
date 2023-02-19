@@ -1,0 +1,10 @@
+k5.app
+k5.biz
+k5.fit
+k5.fyi
+k5.ink
+k5.ltd
+k5.net
+k5.org
+k5.pub
+k5.vip

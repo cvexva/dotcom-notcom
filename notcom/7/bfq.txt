@@ -1,0 +1,13 @@
+bfq.app
+bfq.biz
+bfq.dev
+bfq.icu
+bfq.net
+bfq.org
+bfq.vip
+bfq.xyz
+bfqf.cn
+bfqp.cn
+bfqr.ru
+bfqs.de
+bfqs.pl

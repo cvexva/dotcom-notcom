@@ -1,0 +1,6 @@
+jx.capital
+jx.company
+jx.country
+jx.digital
+jx.express
+jx.fashion

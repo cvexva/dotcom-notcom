@@ -1,0 +1,10 @@
+xo.capital
+xo.company
+xo.contact
+xo.country
+xo.digital
+xo.fashion
+xo.finance
+xo.fitness
+xo.network
+xo.wedding

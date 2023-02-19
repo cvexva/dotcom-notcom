@@ -1,0 +1,16 @@
+tb.app
+tb.biz
+tb.cpa
+tb.day
+tb.dev
+tb.fit
+tb.fyi
+tb.ink
+tb.law
+tb.net
+tb.org
+tb.pub
+tb.vip
+tb.win
+tb.wtf
+tb.xyz

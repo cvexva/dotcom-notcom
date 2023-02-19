@@ -1,0 +1,15 @@
+b3.app
+b3.biz
+b3.eco
+b3.fit
+b3.fyi
+b3.gay
+b3.ink
+b3.law
+b3.net
+b3.org
+b3.sbs
+b3.tel
+b3.vip
+b3.wtf
+b3.xyz

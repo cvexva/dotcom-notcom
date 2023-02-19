@@ -1,0 +1,12 @@
+5g.brussels
+5g.business
+5g.computer
+5g.engineer
+5g.football
+5g.mortgage
+5g.observer
+5g.partners
+5g.security
+5g.services
+5g.software
+5g.training

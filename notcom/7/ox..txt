@@ -1,0 +1,16 @@
+ox.care
+ox.casa
+ox.cash
+ox.chat
+ox.club
+ox.farm
+ox.guru
+ox.immo
+ox.kiwi
+ox.land
+ox.life
+ox.live
+ox.team
+ox.work
+ox.yoga
+ox.zone

@@ -1,0 +1,3 @@
+gi.domain.name
+gi.szczecin.pl
+gi.xn--vuq861b

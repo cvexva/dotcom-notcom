@@ -1,0 +1,14 @@
+nn.agency
+nn.casino
+nn.center
+nn.com.mx
+nn.com.pl
+nn.com.sg
+nn.com.ua
+nn.com.vn
+nn.doctor
+nn.energy
+nn.garden
+nn.org.br
+nn.org.uk
+nn.school

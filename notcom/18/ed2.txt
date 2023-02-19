@@ -1,0 +1,2 @@
+ed25519quirks.info
+ed2mconsulting.net

@@ -1,0 +1,10 @@
+xb.cash
+xb.chat
+xb.farm
+xb.gold
+xb.guru
+xb.link
+xb.team
+xb.wine
+xb.yoga
+xb.zone

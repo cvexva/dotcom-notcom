@@ -1,0 +1,14 @@
+pfw.ac
+pfw.at
+pfw.be
+pfw.ch
+pfw.es
+pfw.eu
+pfw.fr
+pfw.im
+pfw.it
+pfw.jp
+pfw.nu
+pfw.ru
+pfw.su
+pfw.uk

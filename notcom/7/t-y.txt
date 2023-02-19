@@ -1,0 +1,10 @@
+t-y.app
+t-y.biz
+t-y.dev
+t-y.kim
+t-y.net
+t-y.org
+t-y.top
+t-y.xyz
+t-ya.jp
+t-yd.jp

@@ -1,0 +1,15 @@
+fe.biz
+fe.dev
+fe.dog
+fe.fit
+fe.fyi
+fe.ink
+fe.law
+fe.net
+fe.org
+fe.run
+fe.tax
+fe.vin
+fe.vip
+fe.wtf
+fe.xyz

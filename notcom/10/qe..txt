@@ -1,0 +1,5 @@
+qe.academy
+qe.careers
+qe.country
+qe.fashion
+qe.finance

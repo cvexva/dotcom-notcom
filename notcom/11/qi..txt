@@ -1,0 +1,7 @@
+qi.business
+qi.delivery
+qi.diamonds
+qi.football
+qi.software
+qi.training
+qi.ventures

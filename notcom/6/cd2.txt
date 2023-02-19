@@ -1,0 +1,9 @@
+cd2.be
+cd2.cn
+cd2.es
+cd2.fr
+cd2.ir
+cd2.me
+cd2.pl
+cd2.ru
+cd2.uk

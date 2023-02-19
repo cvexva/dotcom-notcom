@@ -1,0 +1,7 @@
+u5.app
+u5.biz
+u5.law
+u5.net
+u5.org
+u5.top
+u5.vip

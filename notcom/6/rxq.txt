@@ -1,0 +1,10 @@
+rxq.cc
+rxq.ch
+rxq.cn
+rxq.de
+rxq.eu
+rxq.it
+rxq.pl
+rxq.ru
+rxq.se
+rxq.uk

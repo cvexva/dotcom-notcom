@@ -1,0 +1,4 @@
+zh1.ch
+zh1.ir
+zh1.ru
+zh1.uk

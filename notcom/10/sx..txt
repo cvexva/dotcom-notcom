@@ -1,0 +1,9 @@
+sx.capital
+sx.company
+sx.contact
+sx.country
+sx.fashion
+sx.finance
+sx.network
+sx.systems
+sx.whoswho

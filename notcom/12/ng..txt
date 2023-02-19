@@ -1,0 +1,6 @@
+ng.alan.name
+ng.amsterdam
+ng.community
+ng.github.io
+ng.marketing
+ng.solutions

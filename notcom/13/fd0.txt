@@ -1,0 +1,9 @@
+fd001s0w1.fit
+fd002s0w2.fit
+fd003s0w3.fit
+fd004s0w4.fit
+fd005s0w5.fit
+fd006s0w6.fit
+fd007s0w7.fit
+fd008s0w8.fit
+fd009s0w9.fit

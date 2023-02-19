@@ -1,0 +1,15 @@
+syz.ai
+syz.ca
+syz.ch
+syz.cl
+syz.cz
+syz.de
+syz.gr
+syz.hu
+syz.it
+syz.jp
+syz.nl
+syz.ru
+syz.se
+syz.sk
+syz.uk

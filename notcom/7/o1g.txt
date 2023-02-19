@@ -1,0 +1,7 @@
+o1g.app
+o1g.biz
+o1g.dev
+o1g.net
+o1g.rip
+o1g.top
+o1g.xyz

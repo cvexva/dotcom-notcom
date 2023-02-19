@@ -1,0 +1,7 @@
+os.foundation
+os.healthcare
+os.industries
+os.kommune.no
+os.restaurant
+os.technology
+os.university

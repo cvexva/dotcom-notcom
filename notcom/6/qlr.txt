@@ -1,0 +1,12 @@
+qlr.be
+qlr.ch
+qlr.de
+qlr.fr
+qlr.it
+qlr.jp
+qlr.pl
+qlr.ro
+qlr.ru
+qlr.se
+qlr.uk
+qlr.us

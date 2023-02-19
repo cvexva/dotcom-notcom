@@ -1,0 +1,4 @@
+j1.capital
+j1.country
+j1.digital
+j1.support

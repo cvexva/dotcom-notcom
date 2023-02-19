@@ -1,0 +1,10 @@
+sv1.ch
+sv1.de
+sv1.dk
+sv1.in
+sv1.ir
+sv1.is
+sv1.nl
+sv1.ru
+sv1.uk
+sv1.us

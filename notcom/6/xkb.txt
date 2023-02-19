@@ -1,0 +1,8 @@
+xkb.ca
+xkb.ch
+xkb.de
+xkb.it
+xkb.jp
+xkb.ru
+xkb.tw
+xkb.uk

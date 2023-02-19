@@ -1,0 +1,7 @@
+6r.actor
+6r.bingo
+6r.boats
+6r.group
+6r.media
+6r.quest
+6r.world

@@ -1,0 +1,7 @@
+p8n.app
+p8n.dev
+p8n.fun
+p8n.net
+p8n.org
+p8n.xyz
+p8nt.ru

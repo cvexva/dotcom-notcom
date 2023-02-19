@@ -1,0 +1,13 @@
+gv.biz
+gv.dev
+gv.eco
+gv.fit
+gv.fyi
+gv.law
+gv.net
+gv.ooo
+gv.org
+gv.tel
+gv.vin
+gv.vip
+gv.wtf

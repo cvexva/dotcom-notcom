@@ -1,0 +1,15 @@
+u2.app
+u2.biz
+u2.cfd
+u2.fan
+u2.fit
+u2.fyi
+u2.lol
+u2.ltd
+u2.net
+u2.org
+u2.pub
+u2.tel
+u2.vip
+u2.wtf
+u2.xyz

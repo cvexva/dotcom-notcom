@@ -1,0 +1,7 @@
+qk.coffee
+qk.com.au
+qk.com.cn
+qk.com.sa
+qk.com.vn
+qk.org.sa
+qk.org.uk

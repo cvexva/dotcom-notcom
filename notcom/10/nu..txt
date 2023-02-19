@@ -1,0 +1,15 @@
+nu.capital
+nu.careers
+nu.contact
+nu.cooking
+nu.country
+nu.digital
+nu.fashion
+nu.finance
+nu.fitness
+nu.gallery
+nu.kiev.ua
+nu.kitchen
+nu.network
+nu.support
+nu.whoswho

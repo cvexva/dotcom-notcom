@@ -1,0 +1,9 @@
+g3.cafe
+g3.chat
+g3.club
+g3.life
+g3.live
+g3.luxe
+g3.show
+g3.team
+g3.work

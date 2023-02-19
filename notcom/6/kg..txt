@@ -1,0 +1,16 @@
+kg.aco
+kg.app
+kg.biz
+kg.cab
+kg.cpa
+kg.dev
+kg.fit
+kg.fyi
+kg.ink
+kg.law
+kg.net
+kg.org
+kg.vin
+kg.vip
+kg.wtf
+kg.xyz

@@ -1,0 +1,6 @@
+gbq.ch
+gbq.co
+gbq.es
+gbq.it
+gbq.ru
+gbq.uk

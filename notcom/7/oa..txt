@@ -1,0 +1,13 @@
+oa.buzz
+oa.care
+oa.chat
+oa.cyou
+oa.life
+oa.link
+oa.news
+oa.plus
+oa.team
+oa.tips
+oa.work
+oa.yoga
+oa.zone

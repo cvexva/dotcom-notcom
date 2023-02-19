@@ -1,0 +1,6 @@
+f2.contact
+f2.country
+f2.fashion
+f2.finance
+f2.fitness
+f2.network

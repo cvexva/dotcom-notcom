@@ -1,0 +1,14 @@
+gi.cafe
+gi.care
+gi.city
+gi.golf
+gi.guru
+gi.jobs
+gi.life
+gi.luxe
+gi.plus
+gi.team
+gi.wine
+gi.work
+gi.yoga
+gi.zone

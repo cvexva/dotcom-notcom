@@ -1,0 +1,6 @@
+ha2.cn
+ha2.de
+ha2.jp
+ha2.ru
+ha2.tw
+ha2.uk

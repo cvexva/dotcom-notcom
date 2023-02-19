@@ -1,0 +1,13 @@
+nbq.ae
+nbq.cc
+nbq.ch
+nbq.de
+nbq.ee
+nbq.io
+nbq.it
+nbq.no
+nbq.nu
+nbq.pl
+nbq.ru
+nbq.se
+nbq.uk

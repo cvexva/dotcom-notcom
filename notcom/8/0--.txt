@@ -1,0 +1,9 @@
+0--0.biz
+0--0.dev
+0--0.net
+0--0.org
+0--0.tel
+0--0.top
+0--0.xyz
+0--a.net
+0--x.net

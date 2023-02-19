@@ -1,0 +1,2 @@
+zh-plotioglobal-chinese.group
+zh-style-guide.readthedocs.io

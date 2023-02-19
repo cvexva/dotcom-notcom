@@ -1,0 +1,9 @@
+wpy.ca
+wpy.ch
+wpy.co
+wpy.de
+wpy.it
+wpy.me
+wpy.nl
+wpy.ru
+wpy.uk

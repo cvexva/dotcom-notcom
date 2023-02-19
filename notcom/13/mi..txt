@@ -1,0 +1,10 @@
+mi.amore.name
+mi.foundation
+mi.healthcare
+mi.properties
+mi.restaurant
+mi.technology
+mi.university
+mi.xn--czrs0t
+mi.xn--czru2d
+mi.xn--fiqs8s

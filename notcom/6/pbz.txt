@@ -1,0 +1,16 @@
+pbz.bg
+pbz.ch
+pbz.cz
+pbz.de
+pbz.eu
+pbz.fr
+pbz.hr
+pbz.im
+pbz.it
+pbz.li
+pbz.nu
+pbz.pl
+pbz.ru
+pbz.se
+pbz.su
+pbz.uk

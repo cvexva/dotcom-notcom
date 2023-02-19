@@ -1,0 +1,12 @@
+ws.academy
+ws.capital
+ws.company
+ws.contact
+ws.country
+ws.digital
+ws.fashion
+ws.finance
+ws.limited
+ws.network
+ws.support
+ws.whoswho

@@ -1,0 +1,10 @@
+ze.cafe
+ze.cash
+ze.chat
+ze.farm
+ze.game
+ze.land
+ze.luxe
+ze.show
+ze.team
+ze.work

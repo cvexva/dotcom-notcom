@@ -1,0 +1,17 @@
+txf.app
+txf.icu
+txf.net
+txf.org
+txf.rip
+txf.vip
+txf.xyz
+txfa.cn
+txfb.de
+txfb.us
+txfi.ru
+txfm.de
+txfn.cn
+txfs.us
+txfx.se
+txfy.me
+txfy.ru

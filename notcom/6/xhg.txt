@@ -1,0 +1,8 @@
+xhg.am
+xhg.cn
+xhg.de
+xhg.eu
+xhg.nl
+xhg.pl
+xhg.ru
+xhg.uk

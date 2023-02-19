@@ -1,0 +1,14 @@
+xmt.cc
+xmt.ch
+xmt.cm
+xmt.cn
+xmt.de
+xmt.ee
+xmt.fr
+xmt.it
+xmt.kr
+xmt.pl
+xmt.ru
+xmt.se
+xmt.uk
+xmt.vn

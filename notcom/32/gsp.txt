@@ -1,0 +1,3 @@
+gspersonalfinancialmanagement.ru
+gspersonalfinancialmanagement.uk
+gspread-dataframe.readthedocs.io

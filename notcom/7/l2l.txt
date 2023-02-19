@@ -1,0 +1,11 @@
+l2l.app
+l2l.bar
+l2l.biz
+l2l.dev
+l2l.net
+l2l.one
+l2l.org
+l2l.top
+l2l.xyz
+l2l2.ru
+l2lm.ru

@@ -1,0 +1,7 @@
+tqu.cc
+tqu.ch
+tqu.de
+tqu.it
+tqu.ru
+tqu.uk
+tqu.uz

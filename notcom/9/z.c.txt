@@ -1,0 +1,6 @@
+z.capital
+z.careers
+z.company
+z.cooking
+z.country
+z.coupons

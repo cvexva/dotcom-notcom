@@ -1,0 +1,14 @@
+sx.aco
+sx.app
+sx.bet
+sx.biz
+sx.fit
+sx.fyi
+sx.ink
+sx.law
+sx.mba
+sx.net
+sx.org
+sx.pub
+sx.run
+sx.wtf

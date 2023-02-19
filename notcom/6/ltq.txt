@@ -1,0 +1,10 @@
+ltq.cc
+ltq.ch
+ltq.de
+ltq.fi
+ltq.im
+ltq.it
+ltq.nl
+ltq.pl
+ltq.ru
+ltq.uk

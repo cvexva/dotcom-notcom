@@ -1,0 +1,8 @@
+ug.farm
+ug.gold
+ug.life
+ug.news
+ug.plus
+ug.taxi
+ug.team
+ug.wiki

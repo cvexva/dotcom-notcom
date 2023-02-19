@@ -1,0 +1,12 @@
+ydt.am
+ydt.be
+ydt.cc
+ydt.ch
+ydt.de
+ydt.gr
+ydt.it
+ydt.me
+ydt.nl
+ydt.ru
+ydt.se
+ydt.vn

@@ -1,0 +1,4 @@
+wg8.cc
+wg8.ch
+wg8.de
+wg8.ru

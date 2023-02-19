@@ -1,0 +1,7 @@
+cc8.cc
+cc8.ch
+cc8.fr
+cc8.ir
+cc8.rs
+cc8.ru
+cc8.uk

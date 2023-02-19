@@ -1,0 +1,10 @@
+rlz.be
+rlz.ch
+rlz.cl
+rlz.dk
+rlz.fr
+rlz.io
+rlz.pl
+rlz.ro
+rlz.ru
+rlz.uk

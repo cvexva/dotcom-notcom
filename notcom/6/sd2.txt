@@ -1,0 +1,8 @@
+sd2.cc
+sd2.eu
+sd2.in
+sd2.my
+sd2.nl
+sd2.pl
+sd2.ru
+sd2.uk

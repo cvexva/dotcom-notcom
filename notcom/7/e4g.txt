@@ -1,0 +1,7 @@
+e4g.app
+e4g.biz
+e4g.dev
+e4g.net
+e4g.one
+e4g.org
+e4g.xyz

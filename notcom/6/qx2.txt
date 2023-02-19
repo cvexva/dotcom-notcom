@@ -1,0 +1,3 @@
+qx2.cc
+qx2.de
+qx2.gr

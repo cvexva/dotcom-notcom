@@ -1,0 +1,9 @@
+xx.delivery
+xx.diamonds
+xx.exchange
+xx.football
+xx.holdings
+xx.kin.name
+xx.observer
+xx.services
+xx.ventures

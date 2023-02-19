@@ -1,0 +1,1 @@
+wagtail-modeltranslation-docs.readthedocs.io

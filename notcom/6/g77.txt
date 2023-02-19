@@ -1,0 +1,7 @@
+g77.de
+g77.dk
+g77.gt
+g77.it
+g77.pt
+g77.ru
+g77.uk

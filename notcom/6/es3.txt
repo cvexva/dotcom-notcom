@@ -1,0 +1,11 @@
+es3.bg
+es3.ca
+es3.ch
+es3.de
+es3.eu
+es3.fr
+es3.hu
+es3.me
+es3.ru
+es3.se
+es3.us

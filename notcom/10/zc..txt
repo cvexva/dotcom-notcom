@@ -1,0 +1,7 @@
+zc.capital
+zc.company
+zc.country
+zc.digital
+zc.fashion
+zc.finance
+zc.network

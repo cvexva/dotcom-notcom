@@ -1,0 +1,5 @@
+yb.capital
+yb.country
+yb.digital
+yb.fashion
+yb.wedding

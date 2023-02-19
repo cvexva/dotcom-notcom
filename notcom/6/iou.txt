@@ -1,0 +1,16 @@
+iou.ac
+iou.at
+iou.bz
+iou.ch
+iou.co
+iou.de
+iou.dk
+iou.in
+iou.io
+iou.is
+iou.it
+iou.jp
+iou.ru
+iou.se
+iou.tw
+iou.uk

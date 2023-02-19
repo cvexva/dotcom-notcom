@@ -1,0 +1,5 @@
+y2.capital
+y2.country
+y2.digital
+y2.fashion
+y2.finance

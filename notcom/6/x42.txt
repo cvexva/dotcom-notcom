@@ -1,0 +1,9 @@
+x42.at
+x42.ch
+x42.de
+x42.eu
+x42.fr
+x42.nl
+x42.ru
+x42.se
+x42.uk

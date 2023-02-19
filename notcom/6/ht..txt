@@ -1,0 +1,13 @@
+ht.aco
+ht.app
+ht.biz
+ht.cpa
+ht.fit
+ht.fyi
+ht.ink
+ht.law
+ht.mba
+ht.net
+ht.org
+ht.vip
+ht.wtf

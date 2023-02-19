@@ -1,0 +1,9 @@
+tx3.be
+tx3.ch
+tx3.cn
+tx3.de
+tx3.fi
+tx3.in
+tx3.io
+tx3.ru
+tx3.us

@@ -1,0 +1,16 @@
+pzm.ba
+pzm.bz
+pzm.ch
+pzm.cz
+pzm.de
+pzm.fr
+pzm.in
+pzm.it
+pzm.kz
+pzm.me
+pzm.pl
+pzm.ru
+pzm.sk
+pzm.su
+pzm.uk
+pzm.vc

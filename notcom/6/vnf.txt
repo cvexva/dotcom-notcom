@@ -1,0 +1,16 @@
+vnf.az
+vnf.cc
+vnf.ch
+vnf.dk
+vnf.es
+vnf.fi
+vnf.fr
+vnf.kr
+vnf.lv
+vnf.nl
+vnf.no
+vnf.nu
+vnf.ru
+vnf.se
+vnf.uk
+vnf.us

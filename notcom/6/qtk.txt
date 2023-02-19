@@ -1,0 +1,14 @@
+qtk.be
+qtk.ca
+qtk.ch
+qtk.cn
+qtk.cz
+qtk.de
+qtk.io
+qtk.it
+qtk.nl
+qtk.pl
+qtk.ru
+qtk.tw
+qtk.uk
+qtk.vn

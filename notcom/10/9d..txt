@@ -1,0 +1,7 @@
+9d.capital
+9d.charity
+9d.country
+9d.finance
+9d.fishing
+9d.network
+9d.wedding

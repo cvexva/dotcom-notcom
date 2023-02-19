@@ -1,0 +1,7 @@
+bx.careers
+bx.contact
+bx.country
+bx.digital
+bx.fashion
+bx.finance
+bx.network

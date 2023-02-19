@@ -1,0 +1,4 @@
+jqbs-checker.store
+jqbs-cloud-api.xyz
+jqbs-cloud-cdn.xyz
+jqbs-cloud-min.xyz

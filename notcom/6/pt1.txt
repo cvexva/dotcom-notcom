@@ -1,0 +1,6 @@
+pt1.ch
+pt1.dk
+pt1.in
+pt1.ru
+pt1.se
+pt1.vc

@@ -1,0 +1,12 @@
+t-1.at
+t-1.cc
+t-1.ch
+t-1.ir
+t-1.it
+t-1.jp
+t-1.kr
+t-1.nl
+t-1.no
+t-1.ru
+t-1.su
+t-1.uk

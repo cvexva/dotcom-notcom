@@ -1,0 +1,14 @@
+txd.ch
+txd.cn
+txd.co
+txd.fr
+txd.ir
+txd.it
+txd.jp
+txd.md
+txd.me
+txd.ro
+txd.ru
+txd.se
+txd.uk
+txd.vn

@@ -1,0 +1,10 @@
+rnx.app
+rnx.cat
+rnx.net
+rnx.org
+rnx.vip
+rnxd.kr
+rnxm.ru
+rnxr.cn
+rnxs.cn
+rnxv.ru

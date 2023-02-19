@@ -1,0 +1,12 @@
+txm.ae
+txm.ch
+txm.co
+txm.cz
+txm.de
+txm.es
+txm.jp
+txm.pl
+txm.ro
+txm.ru
+txm.se
+txm.uk

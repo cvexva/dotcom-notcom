@@ -1,0 +1,5 @@
+i3-de.bmw
+i3-es.bmw
+i3-fr.bmw
+i3-uat.nz
+i3-wm.org

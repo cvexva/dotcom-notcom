@@ -1,0 +1,7 @@
+w3.associates
+w3.consulting
+w3.creditcard
+w3.foundation
+w3.properties
+w3.technology
+w3.university

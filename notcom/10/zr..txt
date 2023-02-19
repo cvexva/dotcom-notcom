@@ -1,0 +1,5 @@
+zr.country
+zr.digital
+zr.fashion
+zr.finance
+zr.network

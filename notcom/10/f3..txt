@@ -1,0 +1,8 @@
+f3.blog.br
+f3.capital
+f3.country
+f3.digital
+f3.finance
+f3.fitness
+f3.network
+f3.support

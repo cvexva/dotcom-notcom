@@ -1,0 +1,6 @@
+i8s.app
+i8s.dev
+i8s.net
+i8s.top
+i8s.xyz
+i8sg.co

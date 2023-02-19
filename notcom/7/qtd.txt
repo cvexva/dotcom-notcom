@@ -1,0 +1,10 @@
+qtd.dev
+qtd.net
+qtd.one
+qtd.org
+qtd.vip
+qtd.xyz
+qtdk.cn
+qtdp.cn
+qtds.in
+qtdx.cn

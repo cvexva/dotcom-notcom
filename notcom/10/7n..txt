@@ -1,0 +1,5 @@
+7n.charity
+7n.country
+7n.fishing
+7n.monster
+7n.wedding

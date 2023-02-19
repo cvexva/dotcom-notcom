@@ -1,0 +1,11 @@
+x-p.cc
+x-p.ch
+x-p.cz
+x-p.eu
+x-p.fr
+x-p.jp
+x-p.nl
+x-p.nu
+x-p.ru
+x-p.se
+x-p.uk

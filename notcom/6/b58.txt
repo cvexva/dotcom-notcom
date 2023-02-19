@@ -1,0 +1,5 @@
+b58.cc
+b58.ch
+b58.fr
+b58.ir
+b58.ru

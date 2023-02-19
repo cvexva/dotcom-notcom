@@ -1,0 +1,10 @@
+bz.beer
+bz.casa
+bz.chat
+bz.city
+bz.gold
+bz.live
+bz.wiki
+bz.wine
+bz.work
+bz.yoga

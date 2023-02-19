@@ -1,0 +1,13 @@
+wc.app
+wc.biz
+wc.cpa
+wc.dog
+wc.fit
+wc.fyi
+wc.law
+wc.net
+wc.org
+wc.pub
+wc.sbs
+wc.vip
+wc.wtf

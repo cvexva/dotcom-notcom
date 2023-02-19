@@ -1,0 +1,12 @@
+gk2.cc
+gk2.ch
+gk2.de
+gk2.dk
+gk2.es
+gk2.jp
+gk2.me
+gk2.pl
+gk2.ru
+gk2.sk
+gk2.uk
+gk2.us

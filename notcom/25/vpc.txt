@@ -1,0 +1,2 @@
+vpc48-aws-infra-test.site
+vpccnguyenduycuong.com.vn

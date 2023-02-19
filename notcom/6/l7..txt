@@ -1,0 +1,11 @@
+l7.biz
+l7.dev
+l7.fit
+l7.ink
+l7.ltd
+l7.net
+l7.org
+l7.pub
+l7.tel
+l7.vip
+l7.xyz

@@ -1,0 +1,16 @@
+tz.bayern
+tz.center
+tz.clinic
+tz.com.ar
+tz.com.au
+tz.com.cn
+tz.com.pk
+tz.com.pl
+tz.com.tr
+tz.com.tw
+tz.com.vn
+tz.events
+tz.net.au
+tz.org.ua
+tz.org.uk
+tz.soccer

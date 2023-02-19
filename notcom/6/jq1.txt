@@ -1,0 +1,4 @@
+jq1.ch
+jq1.io
+jq1.ru
+jq1.uk

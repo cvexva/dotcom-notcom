@@ -1,0 +1,9 @@
+xjc.cc
+xjc.ch
+xjc.de
+xjc.eu
+xjc.it
+xjc.nl
+xjc.pl
+xjc.ru
+xjc.uk

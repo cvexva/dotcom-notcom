@@ -1,0 +1,7 @@
+cl1.ca
+cl1.de
+cl1.eu
+cl1.ru
+cl1.se
+cl1.su
+cl1.us

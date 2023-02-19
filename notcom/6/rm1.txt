@@ -1,0 +1,12 @@
+rm1.at
+rm1.ca
+rm1.ch
+rm1.cn
+rm1.de
+rm1.ir
+rm1.it
+rm1.nl
+rm1.pl
+rm1.ru
+rm1.se
+rm1.uk

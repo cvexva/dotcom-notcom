@@ -1,0 +1,13 @@
+um.capital
+um.company
+um.contact
+um.country
+um.digital
+um.fashion
+um.kitchen
+um.lapy.pl
+um.network
+um.nysa.pl
+um.pila.pl
+um.systems
+um.whoswho

@@ -1,0 +1,13 @@
+yml.co
+yml.de
+yml.dk
+yml.fi
+yml.fr
+yml.in
+yml.it
+yml.kr
+yml.me
+yml.nl
+yml.ru
+yml.su
+yml.uk

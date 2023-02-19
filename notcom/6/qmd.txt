@@ -1,0 +1,10 @@
+qmd.ca
+qmd.ch
+qmd.cl
+qmd.de
+qmd.fr
+qmd.it
+qmd.pl
+qmd.ru
+qmd.se
+qmd.uk

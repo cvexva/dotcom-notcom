@@ -1,0 +1,13 @@
+sg1.be
+sg1.ch
+sg1.cz
+sg1.de
+sg1.eu
+sg1.io
+sg1.ir
+sg1.nl
+sg1.no
+sg1.pl
+sg1.ru
+sg1.sk
+sg1.us

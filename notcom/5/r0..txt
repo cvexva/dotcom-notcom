@@ -1,0 +1,15 @@
+r0.am
+r0.ca
+r0.cz
+r0.fr
+r0.io
+r0.kz
+r0.lc
+r0.lt
+r0.pl
+r0.ru
+r0.se
+r0.sk
+r0.su
+r0.to
+r0.uk

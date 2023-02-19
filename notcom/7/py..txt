@@ -1,0 +1,11 @@
+py.baby
+py.beer
+py.cafe
+py.chat
+py.club
+py.cool
+py.guru
+py.life
+py.wiki
+py.work
+py.yoga

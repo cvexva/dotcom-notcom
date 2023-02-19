@@ -1,0 +1,7 @@
+tz.capital
+tz.contact
+tz.cooking
+tz.country
+tz.fashion
+tz.wedding
+tz.whoswho

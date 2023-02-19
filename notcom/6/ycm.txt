@@ -1,0 +1,15 @@
+ycm.at
+ycm.be
+ycm.ch
+ycm.co
+ycm.de
+ycm.es
+ycm.fi
+ycm.fr
+ycm.it
+ycm.mc
+ycm.nl
+ycm.pl
+ycm.ro
+ycm.ru
+ycm.uk

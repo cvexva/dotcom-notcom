@@ -1,0 +1,16 @@
+pdu.by
+pdu.cc
+pdu.ch
+pdu.ci
+pdu.cz
+pdu.eu
+pdu.ie
+pdu.in
+pdu.io
+pdu.kz
+pdu.nl
+pdu.pk
+pdu.ro
+pdu.ru
+pdu.se
+pdu.uk

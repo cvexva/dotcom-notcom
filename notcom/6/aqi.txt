@@ -1,0 +1,15 @@
+aqi.at
+aqi.be
+aqi.ch
+aqi.co
+aqi.dk
+aqi.eu
+aqi.fr
+aqi.in
+aqi.qa
+aqi.ru
+aqi.se
+aqi.su
+aqi.tv
+aqi.tw
+aqi.uk

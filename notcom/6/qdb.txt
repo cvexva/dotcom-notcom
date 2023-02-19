@@ -1,0 +1,15 @@
+qdb.be
+qdb.ca
+qdb.ch
+qdb.co
+qdb.de
+qdb.dk
+qdb.gr
+qdb.hu
+qdb.io
+qdb.it
+qdb.qa
+qdb.ru
+qdb.se
+qdb.uk
+qdb.us

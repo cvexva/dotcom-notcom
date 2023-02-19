@@ -1,0 +1,9 @@
+x2c.art
+x2c.biz
+x2c.dev
+x2c.net
+x2c.one
+x2c.org
+x2c.top
+x2c.xyz
+x2cc.cc

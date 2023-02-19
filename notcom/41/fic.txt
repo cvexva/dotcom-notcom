@@ -1,0 +1,4 @@
+fichet-pointfort-la-chapelle-saint-luc.fr
+fichet-pointfort-paris-12-gare-de-lyon.fr
+fichet-pointfort-saint-germain-en-laye.fr
+fichet-pointfort-toulouse-zone-thibaud.fr

@@ -1,0 +1,16 @@
+br.aco
+br.app
+br.biz
+br.dev
+br.fit
+br.fyi
+br.law
+br.mba
+br.net
+br.nrw
+br.ooo
+br.org
+br.run
+br.tax
+br.vet
+br.vip

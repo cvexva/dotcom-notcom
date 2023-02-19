@@ -1,0 +1,2 @@
+semiautomaticclassificationmanual-v4.readthedocs.io
+semiautomaticclassificationmanual-v5.readthedocs.io

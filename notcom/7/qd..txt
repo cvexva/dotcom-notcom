@@ -1,0 +1,12 @@
+qd.beer
+qd.chat
+qd.gold
+qd.guru
+qd.immo
+qd.life
+qd.luxe
+qd.plus
+qd.show
+qd.wang
+qd.yoga
+qd.zone

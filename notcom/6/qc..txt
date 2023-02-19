@@ -1,0 +1,16 @@
+qc.app
+qc.biz
+qc.cab
+qc.dev
+qc.dog
+qc.fit
+qc.fyi
+qc.law
+qc.net
+qc.org
+qc.run
+qc.sbs
+qc.tel
+qc.top
+qc.win
+qc.wtf

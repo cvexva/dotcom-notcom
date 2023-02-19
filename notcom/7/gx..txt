@@ -1,0 +1,8 @@
+gx.chat
+gx.gold
+gx.link
+gx.luxe
+gx.plus
+gx.sale
+gx.work
+gx.yoga

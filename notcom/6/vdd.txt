@@ -1,0 +1,17 @@
+vdd.ae
+vdd.be
+vdd.ch
+vdd.de
+vdd.eu
+vdd.kz
+vdd.mx
+vdd.nl
+vdd.nu
+vdd.ro
+vdd.ru
+vdd.se
+vdd.sk
+vdd.su
+vdd.uk
+vdd.uz
+vdd.vn

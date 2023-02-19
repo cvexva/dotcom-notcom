@@ -1,0 +1,6 @@
+f77.ch
+f77.dk
+f77.ir
+f77.ru
+f77.se
+f77.uk

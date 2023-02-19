@@ -1,0 +1,5 @@
+2l.capital
+2l.contact
+2l.country
+2l.fishing
+2l.systems

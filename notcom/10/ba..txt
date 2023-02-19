@@ -1,0 +1,16 @@
+ba.academy
+ba.capital
+ba.company
+ba.contact
+ba.country
+ba.digital
+ba.domains
+ba.exposed
+ba.fashion
+ba.finance
+ba.limited
+ba.network
+ba.reviews
+ba.support
+ba.systems
+ba.whoswho

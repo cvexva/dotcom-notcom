@@ -1,0 +1,3 @@
+hl7-fhir.github.io
+hl7fhirdevdays.org
+hl7integration.net

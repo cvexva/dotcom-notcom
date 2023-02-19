@@ -1,0 +1,11 @@
+dg.academy
+dg.capital
+dg.company
+dg.contact
+dg.country
+dg.coupons
+dg.digital
+dg.fashion
+dg.kitchen
+dg.limited
+dg.network

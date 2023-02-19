@@ -1,0 +1,10 @@
+qvm.be
+qvm.ch
+qvm.cl
+qvm.de
+qvm.it
+qvm.nl
+qvm.nu
+qvm.ru
+qvm.se
+qvm.uk

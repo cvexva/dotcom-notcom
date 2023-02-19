@@ -1,0 +1,6 @@
+wp1.ca
+wp1.co
+wp1.de
+wp1.it
+wp1.pl
+wp1.ru

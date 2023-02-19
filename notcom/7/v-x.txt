@@ -1,0 +1,6 @@
+v-x.app
+v-x.net
+v-x.org
+v-x.xyz
+v-xc.ru
+v-xv.ru

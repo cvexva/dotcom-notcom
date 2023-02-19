@@ -1,0 +1,8 @@
+go.deloitte
+go.esurance
+go.exchange
+go.lundbeck
+go.radom.pl
+go.security
+go.shopping
+go.woodside

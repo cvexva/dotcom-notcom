@@ -1,0 +1,9 @@
+pnx.app
+pnx.bet
+pnx.dev
+pnx.ltd
+pnx.net
+pnx.org
+pnx.vip
+pnx.xyz
+pnxk.cn

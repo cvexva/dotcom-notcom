@@ -1,0 +1,11 @@
+lql.be
+lql.ch
+lql.co
+lql.de
+lql.eu
+lql.fr
+lql.nl
+lql.pl
+lql.ru
+lql.uk
+lql.vn

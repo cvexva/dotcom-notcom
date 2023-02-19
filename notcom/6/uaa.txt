@@ -1,0 +1,17 @@
+uaa.ae
+uaa.az
+uaa.ch
+uaa.cl
+uaa.cz
+uaa.de
+uaa.dk
+uaa.io
+uaa.it
+uaa.lt
+uaa.me
+uaa.mx
+uaa.nu
+uaa.pl
+uaa.ru
+uaa.se
+uaa.uk

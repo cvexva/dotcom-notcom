@@ -1,0 +1,16 @@
+qi.baby
+qi.bike
+qi.camp
+qi.care
+qi.casa
+qi.chat
+qi.city
+qi.golf
+qi.guru
+qi.immo
+qi.land
+qi.life
+qi.luxe
+qi.plus
+qi.work
+qi.yoga

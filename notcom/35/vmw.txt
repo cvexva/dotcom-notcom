@@ -1,0 +1,5 @@
+vmware-infrastructure-provider.info
+vmware-infrastructure-providing.biz
+vmware-infrastructure-providing.net
+vmware-infrastructure-providing.org
+vmware-vsphere-training.blogspot.tw

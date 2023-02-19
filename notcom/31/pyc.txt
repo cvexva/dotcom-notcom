@@ -1,0 +1,2 @@
+pycharm-security.readthedocs.io
+pycon-2012-notes.readthedocs.io

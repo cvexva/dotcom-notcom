@@ -1,0 +1,14 @@
+h-o.at
+h-o.be
+h-o.cc
+h-o.ch
+h-o.co
+h-o.de
+h-o.io
+h-o.ir
+h-o.nl
+h-o.nu
+h-o.ru
+h-o.sd
+h-o.uk
+h-o.us

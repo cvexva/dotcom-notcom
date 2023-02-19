@@ -1,0 +1,4 @@
+71.capital
+71.country
+71.fashion
+71.network

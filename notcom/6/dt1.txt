@@ -1,0 +1,10 @@
+dt1.ae
+dt1.al
+dt1.cc
+dt1.co
+dt1.de
+dt1.hk
+dt1.nl
+dt1.ru
+dt1.sg
+dt1.uk

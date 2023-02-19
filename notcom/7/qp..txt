@@ -1,0 +1,8 @@
+qp.care
+qp.chat
+qp.life
+qp.link
+qp.plus
+qp.wiki
+qp.work
+qp.yoga

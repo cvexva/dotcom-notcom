@@ -1,0 +1,7 @@
+j5.app
+j5.biz
+j5.fit
+j5.fyi
+j5.net
+j5.org
+j5.vip

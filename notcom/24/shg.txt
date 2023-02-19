@@ -1,0 +1,12 @@
+shg-adipositas-borken.de
+shg-adipositas-siegen.de
+shg-alzheimer-meissen.de
+shg-blasenkrebs-koeln.de
+shg-chronschmerz-suro.de
+shg-epilepsie-emsland.de
+shg-epilepsie-leipzig.de
+shg-leukaemie-leipzig.de
+shg-prostatakrebsbern.ch
+shg-schmerz-offenburg.de
+shg-transident-erfurt.de
+shgv-hausverwaltungen.de

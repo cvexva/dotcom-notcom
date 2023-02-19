@@ -1,0 +1,12 @@
+pk.apartments
+pk.associates
+pk.consulting
+pk.creditcard
+pk.foundation
+pk.healthcare
+pk.immobilien
+pk.industries
+pk.management
+pk.restaurant
+pk.technology
+pk.wolomin.pl

@@ -1,0 +1,9 @@
+mr.consulting
+mr.creditcard
+mr.republican
+mr.spock.name
+mr.store.name
+mr.technology
+mr.university
+mr.xn--czrs0t
+mr.xn--unup4y

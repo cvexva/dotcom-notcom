@@ -1,0 +1,4 @@
+sm.cieszyn.pl
+sm.gliwice.pl
+sm.klodzko.pl
+sm.university

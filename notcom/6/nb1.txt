@@ -1,0 +1,6 @@
+nb1.ca
+nb1.ch
+nb1.cz
+nb1.eu
+nb1.hu
+nb1.ru

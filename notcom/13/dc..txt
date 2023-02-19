@@ -1,0 +1,10 @@
+dc.apartments
+dc.chiro.name
+dc.foundation
+dc.immobilien
+dc.industries
+dc.management
+dc.properties
+dc.realestate
+dc.republican
+dc.technology

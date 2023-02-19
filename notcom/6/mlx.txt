@@ -1,0 +1,12 @@
+mlx.ax
+mlx.ch
+mlx.co
+mlx.de
+mlx.dk
+mlx.es
+mlx.fr
+mlx.io
+mlx.mx
+mlx.ru
+mlx.sk
+mlx.su

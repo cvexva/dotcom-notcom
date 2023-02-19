@@ -1,0 +1,4 @@
+qx.agency
+qx.com.au
+qx.com.pl
+qx.org.uk

@@ -1,0 +1,13 @@
+to.apartments
+to.bielawa.pl
+to.czeladz.pl
+to.gniezno.pl
+to.gorlice.pl
+to.grajewo.pl
+to.karpacz.pl
+to.kaszuby.pl
+to.klodzko.pl
+to.management
+to.oyagi.name
+to.technology
+to.university

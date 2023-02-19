@@ -1,0 +1,11 @@
+rf.app
+rf.biz
+rf.cpa
+rf.fit
+rf.fyi
+rf.law
+rf.net
+rf.org
+rf.run
+rf.vip
+rf.wtf

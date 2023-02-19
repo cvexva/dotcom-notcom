@@ -1,0 +1,13 @@
+d2.band
+d2.chat
+d2.fail
+d2.fund
+d2.live
+d2.luxe
+d2.news
+d2.rent
+d2.sale
+d2.team
+d2.wiki
+d2.work
+d2.yoga

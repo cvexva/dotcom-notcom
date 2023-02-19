@@ -1,0 +1,13 @@
+nm.biz
+nm.cpa
+nm.dev
+nm.fit
+nm.fyi
+nm.gov
+nm.law
+nm.net
+nm.org
+nm.sbs
+nm.tel
+nm.vip
+nm.wtf

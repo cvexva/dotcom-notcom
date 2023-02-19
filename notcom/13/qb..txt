@@ -1,0 +1,6 @@
+qb.accountant
+qb.creditcard
+qb.properties
+qb.restaurant
+qb.technology
+qb.university

@@ -1,0 +1,11 @@
+z1.app
+z1.biz
+z1.fit
+z1.fyi
+z1.ink
+z1.law
+z1.net
+z1.org
+z1.vip
+z1.wtf
+z1.xyz

@@ -1,0 +1,4 @@
+kr.attorney
+kr.holdings
+kr.radom.pl
+kr.software

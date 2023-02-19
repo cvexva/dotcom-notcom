@@ -1,0 +1,15 @@
+te.baby
+te.beer
+te.care
+te.casa
+te.chat
+te.immo
+te.land
+te.life
+te.luxe
+te.plus
+te.show
+te.team
+te.wiki
+te.work
+te.yoga

@@ -1,0 +1,15 @@
+n8.app
+n8.biz
+n8.eco
+n8.fyi
+n8.gay
+n8.law
+n8.net
+n8.org
+n8.pub
+n8.rip
+n8.tel
+n8.vin
+n8.vip
+n8.wtf
+n8.xyz

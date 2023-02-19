@@ -1,0 +1,13 @@
+xrc.ch
+xrc.cn
+xrc.co
+xrc.cz
+xrc.fr
+xrc.it
+xrc.kr
+xrc.mx
+xrc.pl
+xrc.ro
+xrc.ru
+xrc.se
+xrc.uk

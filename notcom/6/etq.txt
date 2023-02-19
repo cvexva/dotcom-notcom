@@ -1,0 +1,10 @@
+etq.be
+etq.ch
+etq.co
+etq.de
+etq.fr
+etq.it
+etq.nl
+etq.ru
+etq.se
+etq.uk

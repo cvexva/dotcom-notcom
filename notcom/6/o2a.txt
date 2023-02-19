@@ -1,0 +1,11 @@
+o2a.am
+o2a.ch
+o2a.co
+o2a.de
+o2a.dk
+o2a.it
+o2a.no
+o2a.pl
+o2a.pt
+o2a.rs
+o2a.se

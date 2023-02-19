@@ -1,0 +1,17 @@
+sj.beer
+sj.casa
+sj.city
+sj.club
+sj.cyou
+sj.farm
+sj.land
+sj.life
+sj.link
+sj.live
+sj.luxe
+sj.news
+sj.plus
+sj.team
+sj.wiki
+sj.work
+sj.yoga

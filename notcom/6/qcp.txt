@@ -1,0 +1,10 @@
+qcp.ch
+qcp.cn
+qcp.cz
+qcp.eu
+qcp.ie
+qcp.pl
+qcp.ru
+qcp.se
+qcp.tw
+qcp.uk

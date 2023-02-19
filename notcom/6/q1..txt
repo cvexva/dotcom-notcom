@@ -1,0 +1,8 @@
+q1.app
+q1.fit
+q1.ink
+q1.law
+q1.net
+q1.org
+q1.uno
+q1.vip

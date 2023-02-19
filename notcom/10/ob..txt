@@ -1,0 +1,6 @@
+ob.capital
+ob.country
+ob.digital
+ob.fashion
+ob.finance
+ob.network

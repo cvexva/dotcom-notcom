@@ -1,0 +1,6 @@
+qgn.cc
+qgn.de
+qgn.in
+qgn.it
+qgn.ru
+qgn.uk

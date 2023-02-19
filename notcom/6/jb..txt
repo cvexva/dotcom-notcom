@@ -1,0 +1,17 @@
+jb.app
+jb.bet
+jb.biz
+jb.dev
+jb.fit
+jb.ink
+jb.law
+jb.mba
+jb.net
+jb.ooo
+jb.org
+jb.run
+jb.tax
+jb.tel
+jb.vip
+jb.wtf
+jb.xyz

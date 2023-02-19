@@ -1,0 +1,11 @@
+xnd.cc
+xnd.ch
+xnd.cz
+xnd.de
+xnd.eu
+xnd.io
+xnd.it
+xnd.pl
+xnd.ru
+xnd.se
+xnd.uk

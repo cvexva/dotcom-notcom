@@ -1,0 +1,9 @@
+knx-deutschland.digital
+knx-gebaeudetechnik.biz
+knx-light-control.co.uk
+knx-schulungszentrum.eu
+knx-service-maeurer.nrw
+knx-systemintegrator.ch
+knx-systemintegrator.de
+knx-trainingszentrum.de
+knxsystemintegrator.org

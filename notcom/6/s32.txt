@@ -1,0 +1,11 @@
+s32.ca
+s32.de
+s32.es
+s32.hu
+s32.nl
+s32.pl
+s32.ru
+s32.se
+s32.su
+s32.uk
+s32.us

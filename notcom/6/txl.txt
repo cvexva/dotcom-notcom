@@ -1,0 +1,14 @@
+txl.be
+txl.ca
+txl.ch
+txl.co
+txl.de
+txl.fr
+txl.it
+txl.nl
+txl.no
+txl.nu
+txl.pl
+txl.ru
+txl.se
+txl.uk

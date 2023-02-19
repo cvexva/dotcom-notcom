@@ -1,0 +1,2 @@
+s3-cardanofoundation.org
+s3-server.readthedocs.io

@@ -1,0 +1,9 @@
+pg2.at
+pg2.ch
+pg2.cz
+pg2.de
+pg2.eu
+pg2.ir
+pg2.nl
+pg2.nu
+pg2.ru

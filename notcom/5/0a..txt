@@ -1,0 +1,10 @@
+0a.ax
+0a.eu
+0a.io
+0a.nl
+0a.pl
+0a.ru
+0a.se
+0a.sk
+0a.su
+0a.uk

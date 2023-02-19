@@ -1,0 +1,4 @@
+cfn-design-template-2.net
+cfncluster.readthedocs.io
+cfnettoyageetservices.net
+cfnewandusedspares.africa

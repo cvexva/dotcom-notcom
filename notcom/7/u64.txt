@@ -1,0 +1,9 @@
+u64.cam
+u64.dev
+u64.net
+u64.org
+u64.top
+u64.xyz
+u640.cn
+u648.cn
+u649.cn

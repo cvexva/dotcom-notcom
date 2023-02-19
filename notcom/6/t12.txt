@@ -1,0 +1,10 @@
+t12.at
+t12.cn
+t12.cz
+t12.eu
+t12.it
+t12.me
+t12.ru
+t12.se
+t12.tv
+t12.uk

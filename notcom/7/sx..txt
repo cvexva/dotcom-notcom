@@ -1,0 +1,7 @@
+sx.baby
+sx.city
+sx.sale
+sx.team
+sx.wiki
+sx.work
+sx.yoga

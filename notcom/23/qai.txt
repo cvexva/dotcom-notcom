@@ -1,0 +1,2 @@
+qairiskaware.management
+qairiskaware.technology

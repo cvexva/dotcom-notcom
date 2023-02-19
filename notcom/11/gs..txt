@@ -1,0 +1,12 @@
+gs.business
+gs.diamonds
+gs.engineer
+gs.exchange
+gs.ilawa.pl
+gs.mortgage
+gs.olawa.pl
+gs.partners
+gs.services
+gs.software
+gs.ustka.pl
+gs.ventures

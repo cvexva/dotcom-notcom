@@ -1,0 +1,11 @@
+vu.aco
+vu.app
+vu.biz
+vu.fit
+vu.law
+vu.mba
+vu.net
+vu.org
+vu.sbs
+vu.vip
+vu.xyz

@@ -1,0 +1,13 @@
+l2.beer
+l2.bond
+l2.cafe
+l2.cash
+l2.club
+l2.fail
+l2.golf
+l2.life
+l2.news
+l2.surf
+l2.wiki
+l2.work
+l2.zone

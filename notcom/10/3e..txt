@@ -1,0 +1,7 @@
+3e.capital
+3e.charity
+3e.country
+3e.digital
+3e.fishing
+3e.monster
+3e.wedding

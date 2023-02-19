@@ -1,0 +1,11 @@
+gt2.at
+gt2.ch
+gt2.de
+gt2.eu
+gt2.fr
+gt2.io
+gt2.nl
+gt2.no
+gt2.ru
+gt2.se
+gt2.uk

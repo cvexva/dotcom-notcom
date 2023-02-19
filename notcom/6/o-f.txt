@@ -1,0 +1,7 @@
+o-f.cc
+o-f.ch
+o-f.co
+o-f.de
+o-f.jp
+o-f.ru
+o-f.uk

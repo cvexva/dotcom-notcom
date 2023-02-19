@@ -1,0 +1,3 @@
+2.fashion
+2.fitness
+2.flights

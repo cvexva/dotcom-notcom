@@ -1,0 +1,14 @@
+ld.app
+ld.biz
+ld.dev
+ld.fit
+ld.fyi
+ld.ink
+ld.law
+ld.net
+ld.org
+ld.pub
+ld.rip
+ld.tel
+ld.vip
+ld.wtf

@@ -1,0 +1,10 @@
+p0.app
+p0.biz
+p0.dev
+p0.fit
+p0.ink
+p0.net
+p0.org
+p0.pub
+p0.vip
+p0.wtf

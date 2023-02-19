@@ -1,0 +1,7 @@
+dq.capital
+dq.contact
+dq.country
+dq.digital
+dq.fashion
+dq.finance
+dq.limited

@@ -1,0 +1,15 @@
+mg.academy
+mg.auto.pl
+mg.capital
+mg.contact
+mg.country
+mg.digital
+mg.fashion
+mg.finance
+mg.fitness
+mg.gallery
+mg.holiday
+mg.rentals
+mg.systems
+mg.wedding
+mg.whoswho

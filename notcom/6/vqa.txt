@@ -1,0 +1,11 @@
+vqa.ch
+vqa.cn
+vqa.de
+vqa.dk
+vqa.it
+vqa.nl
+vqa.pl
+vqa.ru
+vqa.se
+vqa.uk
+vqa.vn

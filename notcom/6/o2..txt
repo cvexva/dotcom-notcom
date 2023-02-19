@@ -1,0 +1,17 @@
+o2.app
+o2.bio
+o2.biz
+o2.dev
+o2.fit
+o2.fyi
+o2.law
+o2.lol
+o2.ltd
+o2.net
+o2.org
+o2.pub
+o2.rip
+o2.run
+o2.tax
+o2.tel
+o2.vip

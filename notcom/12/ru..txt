@@ -1,0 +1,4 @@
+ru.amsterdam
+ru.community
+ru.furniture
+ru.hisamitsu

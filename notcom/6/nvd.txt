@@ -1,0 +1,17 @@
+nvd.by
+nvd.ch
+nvd.cn
+nvd.co
+nvd.de
+nvd.dk
+nvd.hr
+nvd.ie
+nvd.io
+nvd.jp
+nvd.lv
+nvd.nl
+nvd.no
+nvd.nu
+nvd.ru
+nvd.se
+nvd.uk

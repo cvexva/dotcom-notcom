@@ -1,0 +1,17 @@
+puf.bg
+puf.cc
+puf.ch
+puf.co
+puf.de
+puf.dk
+puf.fr
+puf.im
+puf.kz
+puf.lv
+puf.pl
+puf.rs
+puf.ru
+puf.se
+puf.sk
+puf.su
+puf.uk

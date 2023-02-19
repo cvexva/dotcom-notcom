@@ -1,0 +1,5 @@
+3f.army
+3f.farm
+3f.sale
+3f.team
+3f.work

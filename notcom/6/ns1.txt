@@ -1,0 +1,13 @@
+ns1.al
+ns1.az
+ns1.bg
+ns1.ch
+ns1.ge
+ns1.in
+ns1.kz
+ns1.nu
+ns1.ru
+ns1.se
+ns1.sk
+ns1.uk
+ns1.us

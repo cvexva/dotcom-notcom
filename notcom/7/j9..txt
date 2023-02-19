@@ -1,0 +1,13 @@
+j9.beer
+j9.cash
+j9.chat
+j9.club
+j9.life
+j9.live
+j9.news
+j9.sale
+j9.surf
+j9.team
+j9.wiki
+j9.work
+j9.yoga

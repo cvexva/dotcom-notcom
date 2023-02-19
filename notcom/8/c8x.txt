@@ -1,0 +1,3 @@
+c8x0.xyz
+c8x1.xyz
+c8x8.xyz

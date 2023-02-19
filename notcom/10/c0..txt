@@ -1,0 +1,2 @@
+c0.country
+c0.network

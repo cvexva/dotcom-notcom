@@ -1,0 +1,11 @@
+yc.chat
+yc.city
+yc.club
+yc.life
+yc.link
+yc.live
+yc.news
+yc.team
+yc.work
+yc.yoga
+yc.zone

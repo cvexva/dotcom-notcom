@@ -1,0 +1,7 @@
+a50.cc
+a50.ch
+a50.cn
+a50.de
+a50.it
+a50.jp
+a50.ru

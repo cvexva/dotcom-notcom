@@ -1,0 +1,12 @@
+e1.actor
+e1.boats
+e1.click
+e1.co.kr
+e1.co.uk
+e1.gives
+e1.glass
+e1.homes
+e1.legal
+e1.money
+e1.tires
+e1.world

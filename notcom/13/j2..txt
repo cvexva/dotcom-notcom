@@ -1,0 +1,3 @@
+j2.consulting
+j2.properties
+j2.technology

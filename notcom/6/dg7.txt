@@ -1,0 +1,7 @@
+dg7.cc
+dg7.de
+dg7.in
+dg7.pt
+dg7.ru
+dg7.se
+dg7.uk

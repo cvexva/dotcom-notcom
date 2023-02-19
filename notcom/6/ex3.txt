@@ -1,0 +1,14 @@
+ex3.at
+ex3.ch
+ex3.es
+ex3.eu
+ex3.io
+ex3.it
+ex3.jp
+ex3.me
+ex3.ru
+ex3.se
+ex3.sk
+ex3.su
+ex3.to
+ex3.uk

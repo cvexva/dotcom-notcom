@@ -1,0 +1,17 @@
+mr.business
+mr.computer
+mr.czest.pl
+mr.delivery
+mr.diamonds
+mr.discount
+mr.engineer
+mr.exchange
+mr.football
+mr.graphics
+mr.holdings
+mr.ilawa.pl
+mr.mortgage
+mr.plumbing
+mr.services
+mr.shopping
+mr.software

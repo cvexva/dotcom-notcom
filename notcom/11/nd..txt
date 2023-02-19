@@ -1,0 +1,5 @@
+nd.business
+nd.football
+nd.partners
+nd.supplies
+nd.zgora.pl

@@ -1,0 +1,4 @@
+ki.computer
+ki.partners
+ki.software
+ki.training

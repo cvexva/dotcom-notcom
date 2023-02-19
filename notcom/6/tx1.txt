@@ -1,0 +1,5 @@
+tx1.ch
+tx1.dk
+tx1.fr
+tx1.io
+tx1.ru

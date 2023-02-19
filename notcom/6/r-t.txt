@@ -1,0 +1,14 @@
+r-t.bg
+r-t.by
+r-t.cc
+r-t.ch
+r-t.cz
+r-t.dk
+r-t.eu
+r-t.it
+r-t.jp
+r-t.pl
+r-t.ru
+r-t.su
+r-t.ua
+r-t.uk

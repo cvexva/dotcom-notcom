@@ -1,0 +1,9 @@
+uoj.ac
+uoj.ch
+uoj.co
+uoj.de
+uoj.eu
+uoj.it
+uoj.jp
+uoj.nl
+uoj.ru

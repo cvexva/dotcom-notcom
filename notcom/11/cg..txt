@@ -1,0 +1,8 @@
+cg.business
+cg.exchange
+cg.holdings
+cg.partners
+cg.software
+cg.spdns.eu
+cg.training
+cg.ventures

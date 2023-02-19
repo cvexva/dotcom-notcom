@@ -1,0 +1,8 @@
+eqn.cc
+eqn.ch
+eqn.fr
+eqn.it
+eqn.ru
+eqn.se
+eqn.tv
+eqn.uk

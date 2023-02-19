@@ -1,0 +1,12 @@
+kj.app
+kj.biz
+kj.cab
+kj.fit
+kj.fyi
+kj.law
+kj.net
+kj.org
+kj.run
+kj.tel
+kj.vin
+kj.wtf

@@ -1,0 +1,14 @@
+fkg.at
+fkg.ch
+fkg.cn
+fkg.de
+fkg.dk
+fkg.eu
+fkg.fr
+fkg.it
+fkg.nl
+fkg.nu
+fkg.ru
+fkg.se
+fkg.tv
+fkg.uk

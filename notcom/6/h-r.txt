@@ -1,0 +1,17 @@
+h-r.al
+h-r.be
+h-r.bg
+h-r.ch
+h-r.cz
+h-r.dk
+h-r.gr
+h-r.hr
+h-r.hu
+h-r.it
+h-r.jp
+h-r.la
+h-r.pl
+h-r.ru
+h-r.se
+h-r.uk
+h-r.uz

@@ -1,0 +1,17 @@
+mw.aco
+mw.app
+mw.bio
+mw.biz
+mw.dev
+mw.fit
+mw.fyi
+mw.law
+mw.mba
+mw.net
+mw.run
+mw.sbs
+mw.tax
+mw.top
+mw.vip
+mw.wtf
+mw.xyz

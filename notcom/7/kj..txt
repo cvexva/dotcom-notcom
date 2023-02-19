@@ -1,0 +1,8 @@
+kj.chat
+kj.live
+kj.show
+kj.team
+kj.wiki
+kj.wine
+kj.work
+kj.yoga

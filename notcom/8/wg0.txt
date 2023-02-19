@@ -1,0 +1,12 @@
+wg0.host
+wg0.live
+wg01.net
+wg01.xyz
+wg02.net
+wg02.xyz
+wg06.net
+wg06.org
+wg08.vip
+wg0a.net
+wg0r.net
+wg0v.xyz

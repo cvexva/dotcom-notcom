@@ -1,0 +1,12 @@
+ho.beer
+ho.bike
+ho.casa
+ho.club
+ho.golf
+ho.live
+ho.luxe
+ho.tips
+ho.wiki
+ho.wine
+ho.work
+ho.yoga

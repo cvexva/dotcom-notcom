@@ -1,0 +1,11 @@
+g1.club
+g1.farm
+g1.golf
+g1.immo
+g1.life
+g1.live
+g1.luxe
+g1.news
+g1.rent
+g1.team
+g1.work

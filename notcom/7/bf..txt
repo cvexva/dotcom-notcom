@@ -1,0 +1,13 @@
+bf.baby
+bf.beer
+bf.care
+bf.immo
+bf.life
+bf.link
+bf.luxe
+bf.sale
+bf.show
+bf.team
+bf.wiki
+bf.work
+bf.yoga

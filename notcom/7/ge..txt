@@ -1,0 +1,14 @@
+ge.baby
+ge.beer
+ge.care
+ge.city
+ge.cyou
+ge.gold
+ge.jobs
+ge.link
+ge.luxe
+ge.plus
+ge.scot
+ge.team
+ge.yoga
+ge.zone

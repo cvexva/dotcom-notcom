@@ -1,0 +1,10 @@
+qc1.app
+qc1.biz
+qc1.dev
+qc1.net
+qc1.org
+qc1.top
+qc11.cn
+qc11.tv
+qc13.cn
+qc17.cn

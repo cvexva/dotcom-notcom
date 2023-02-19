@@ -1,0 +1,12 @@
+ogz.at
+ogz.be
+ogz.by
+ogz.ch
+ogz.de
+ogz.in
+ogz.io
+ogz.it
+ogz.nl
+ogz.ru
+ogz.su
+ogz.uk

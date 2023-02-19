@@ -1,0 +1,15 @@
+k8s.af
+k8s.ai
+k8s.ch
+k8s.cn
+k8s.de
+k8s.es
+k8s.io
+k8s.li
+k8s.nu
+k8s.ru
+k8s.se
+k8s.si
+k8s.sk
+k8s.su
+k8s.uk

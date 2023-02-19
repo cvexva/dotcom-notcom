@@ -1,0 +1,6 @@
+pa.amsterdam
+pa.community
+pa.financial
+pa.lublin.pl
+pa.marketing
+pa.solutions

@@ -1,0 +1,13 @@
+pl.auction
+pl.company
+pl.contact
+pl.cooking
+pl.country
+pl.digital
+pl.fashion
+pl.info.pl
+pl.lviv.ua
+pl.network
+pl.systems
+pl.wedding
+pl.whoswho

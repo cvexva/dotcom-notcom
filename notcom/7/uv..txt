@@ -1,0 +1,10 @@
+uv.band
+uv.beer
+uv.casa
+uv.city
+uv.club
+uv.gold
+uv.life
+uv.luxe
+uv.work
+uv.yoga

@@ -1,0 +1,7 @@
+fy.company
+fy.country
+fy.digital
+fy.fashion
+fy.finance
+fy.limited
+fy.network

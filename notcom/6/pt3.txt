@@ -1,0 +1,7 @@
+pt3.ca
+pt3.ch
+pt3.de
+pt3.ir
+pt3.it
+pt3.ru
+pt3.uk

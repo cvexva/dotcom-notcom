@@ -1,0 +1,12 @@
+rj.app
+rj.biz
+rj.cpa
+rj.fit
+rj.fyi
+rj.law
+rj.net
+rj.org
+rj.run
+rj.tel
+rj.vip
+rj.wtf

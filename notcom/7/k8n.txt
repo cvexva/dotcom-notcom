@@ -1,0 +1,6 @@
+k8n.biz
+k8n.dev
+k8n.net
+k8n.one
+k8n.org
+k8ns.in

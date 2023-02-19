@@ -1,0 +1,8 @@
+g.cafe
+g.camp
+g.casa
+g.cash
+g.city
+g.club
+g.cool
+g.coop

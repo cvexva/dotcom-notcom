@@ -1,0 +1,12 @@
+oi.academy
+oi.capital
+oi.company
+oi.contact
+oi.cooking
+oi.country
+oi.digital
+oi.fashion
+oi.limited
+oi.network
+oi.systems
+oi.wedding

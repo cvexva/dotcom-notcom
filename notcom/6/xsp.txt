@@ -1,0 +1,12 @@
+xsp.am
+xsp.be
+xsp.co
+xsp.ee
+xsp.fr
+xsp.gr
+xsp.it
+xsp.nl
+xsp.pw
+xsp.ru
+xsp.se
+xsp.uk

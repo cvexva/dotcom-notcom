@@ -1,0 +1,5 @@
+1w.charity
+1w.country
+1w.fishing
+1w.monster
+1w.wedding

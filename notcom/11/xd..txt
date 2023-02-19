@@ -1,0 +1,6 @@
+xd.business
+xd.delivery
+xd.diamonds
+xd.exchange
+xd.holdings
+xd.ventures

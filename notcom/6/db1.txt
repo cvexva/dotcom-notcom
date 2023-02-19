@@ -1,0 +1,11 @@
+db1.ch
+db1.cn
+db1.in
+db1.it
+db1.jp
+db1.nl
+db1.no
+db1.ru
+db1.su
+db1.uk
+db1.us

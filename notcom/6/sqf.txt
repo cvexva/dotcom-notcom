@@ -1,0 +1,12 @@
+sqf.ch
+sqf.cn
+sqf.de
+sqf.ir
+sqf.it
+sqf.jp
+sqf.me
+sqf.nl
+sqf.no
+sqf.ru
+sqf.se
+sqf.uk

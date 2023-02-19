@@ -1,0 +1,9 @@
+c5.app
+c5.biz
+c5.fit
+c5.fyi
+c5.ink
+c5.net
+c5.org
+c5.pub
+c5.vip

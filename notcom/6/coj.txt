@@ -1,0 +1,17 @@
+coj.be
+coj.ch
+coj.cn
+coj.de
+coj.dk
+coj.eu
+coj.fr
+coj.kr
+coj.me
+coj.ne
+coj.nu
+coj.ru
+coj.se
+coj.su
+coj.th
+coj.tw
+coj.uk

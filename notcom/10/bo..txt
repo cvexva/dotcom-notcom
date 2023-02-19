@@ -1,0 +1,8 @@
+bo.capital
+bo.contact
+bo.cooking
+bo.country
+bo.fashion
+bo.hosting
+bo.wedding
+bo.whoswho

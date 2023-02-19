@@ -1,0 +1,17 @@
+syp.ae
+syp.be
+syp.ch
+syp.co
+syp.de
+syp.dk
+syp.io
+syp.ir
+syp.it
+syp.nu
+syp.pl
+syp.ro
+syp.ru
+syp.se
+syp.sk
+syp.uk
+syp.vn

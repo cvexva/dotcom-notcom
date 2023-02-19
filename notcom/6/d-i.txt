@@ -1,0 +1,15 @@
+d-i.be
+d-i.ch
+d-i.de
+d-i.dk
+d-i.fr
+d-i.it
+d-i.kr
+d-i.mx
+d-i.nl
+d-i.pl
+d-i.ru
+d-i.se
+d-i.su
+d-i.uk
+d-i.us

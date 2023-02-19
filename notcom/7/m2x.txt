@@ -1,0 +1,9 @@
+m2x.app
+m2x.dev
+m2x.fun
+m2x.net
+m2x.org
+m2x.xyz
+m2x2.ru
+m2xh.nl
+m2xl.nl

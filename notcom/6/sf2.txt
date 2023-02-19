@@ -1,0 +1,7 @@
+sf2.ch
+sf2.de
+sf2.eu
+sf2.lv
+sf2.ru
+sf2.se
+sf2.su

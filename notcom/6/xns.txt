@@ -1,0 +1,13 @@
+xns.at
+xns.cc
+xns.ch
+xns.cn
+xns.co
+xns.eu
+xns.io
+xns.ir
+xns.it
+xns.pl
+xns.ru
+xns.se
+xns.uk

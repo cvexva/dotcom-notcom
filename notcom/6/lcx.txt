@@ -1,0 +1,12 @@
+lcx.at
+lcx.cc
+lcx.ch
+lcx.co
+lcx.de
+lcx.es
+lcx.it
+lcx.jp
+lcx.li
+lcx.me
+lcx.ru
+lcx.uk

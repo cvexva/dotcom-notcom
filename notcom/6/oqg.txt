@@ -1,0 +1,7 @@
+oqg.cc
+oqg.ch
+oqg.de
+oqg.fr
+oqg.it
+oqg.ru
+oqg.uk

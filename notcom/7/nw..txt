@@ -1,0 +1,12 @@
+nw.bank
+nw.care
+nw.chat
+nw.farm
+nw.golf
+nw.guru
+nw.life
+nw.team
+nw.toys
+nw.wine
+nw.work
+nw.yoga

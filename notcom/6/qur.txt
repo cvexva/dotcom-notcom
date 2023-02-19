@@ -1,0 +1,12 @@
+qur.at
+qur.be
+qur.ch
+qur.de
+qur.fr
+qur.io
+qur.ir
+qur.nl
+qur.pl
+qur.ru
+qur.se
+qur.uk

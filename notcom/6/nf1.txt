@@ -1,0 +1,9 @@
+nf1.be
+nf1.ch
+nf1.de
+nf1.it
+nf1.jp
+nf1.lv
+nf1.ru
+nf1.tv
+nf1.uk

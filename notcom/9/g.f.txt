@@ -1,0 +1,6 @@
+g.fashion
+g.finance
+g.fishing
+g.fitness
+g.flights
+g.florist

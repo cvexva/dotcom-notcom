@@ -1,0 +1,15 @@
+fgb.ae
+fgb.be
+fgb.bg
+fgb.by
+fgb.ch
+fgb.cz
+fgb.de
+fgb.dk
+fgb.es
+fgb.eu
+fgb.nl
+fgb.no
+fgb.ru
+fgb.se
+fgb.uk

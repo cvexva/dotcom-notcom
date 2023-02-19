@@ -1,0 +1,4 @@
+fx.amsterdam
+fx.community
+fx.financial
+fx.solutions

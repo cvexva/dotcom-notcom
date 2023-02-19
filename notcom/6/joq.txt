@@ -1,0 +1,9 @@
+joq.al
+joq.ca
+joq.ch
+joq.de
+joq.it
+joq.pl
+joq.ru
+joq.uk
+joq.us

@@ -1,0 +1,2 @@
+cx-freeze.readthedocs.io
+cx-oracle.readthedocs.io

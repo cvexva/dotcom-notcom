@@ -1,0 +1,12 @@
+sz.aco
+sz.biz
+sz.fit
+sz.fyi
+sz.law
+sz.mba
+sz.net
+sz.org
+sz.pub
+sz.tax
+sz.vip
+sz.win

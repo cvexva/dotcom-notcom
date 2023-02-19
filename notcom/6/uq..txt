@@ -1,0 +1,9 @@
+uq.app
+uq.biz
+uq.fit
+uq.fyi
+uq.law
+uq.net
+uq.org
+uq.vip
+uq.wtf

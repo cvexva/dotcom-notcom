@@ -1,0 +1,3 @@
+g9.capital
+g9.country
+g9.digital

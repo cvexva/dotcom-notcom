@@ -1,0 +1,5 @@
+az.domain.name
+az.investments
+az.photography
+az.productions
+az.xn--vuq861b

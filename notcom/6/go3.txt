@@ -1,0 +1,12 @@
+go3.be
+go3.ca
+go3.cc
+go3.cr
+go3.ee
+go3.in
+go3.lt
+go3.lv
+go3.nu
+go3.pl
+go3.ru
+go3.tv

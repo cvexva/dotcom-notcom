@@ -1,0 +1,7 @@
+sh4.ch
+sh4.eu
+sh4.fi
+sh4.in
+sh4.ir
+sh4.me
+sh4.ru

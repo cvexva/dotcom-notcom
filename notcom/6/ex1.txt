@@ -1,0 +1,9 @@
+ex1.az
+ex1.ch
+ex1.co
+ex1.de
+ex1.it
+ex1.rs
+ex1.ru
+ex1.uk
+ex1.us

@@ -1,0 +1,4 @@
+2x.capital
+2x.country
+2x.fishing
+2x.systems

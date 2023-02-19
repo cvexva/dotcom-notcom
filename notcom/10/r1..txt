@@ -1,0 +1,6 @@
+r1.company
+r1.country
+r1.digital
+r1.fashion
+r1.network
+r1.reviews

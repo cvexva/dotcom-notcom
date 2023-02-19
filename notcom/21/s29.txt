@@ -1,0 +1,12 @@
+s29al008j55tfir20.top
+s29al008j70tfi010.top
+s29al016j70bfi010.top
+s29al016j70tfi020.top
+s29gl01gp11tfir10.top
+s29gl064n90ffi010.top
+s29gl064n90ffi020.top
+s29gl064s70bhi030.top
+s29gl128s90tfi020.top
+s29gl256s90dhi010.top
+s29gl512t10tfi020.top
+s29jl032j70tfi320.top

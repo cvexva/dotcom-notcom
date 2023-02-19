@@ -1,0 +1,7 @@
+bd.business
+bd.delivery
+bd.engineer
+bd.exchange
+bd.partners
+bd.services
+bd.shopping

@@ -1,0 +1,3 @@
+nq.football
+nq.partners
+nq.services

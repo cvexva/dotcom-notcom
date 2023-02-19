@@ -1,0 +1,4 @@
+tg.amsterdam
+tg.financial
+tg.marketing
+tg.solutions

@@ -1,0 +1,12 @@
+tc3.be
+tc3.ca
+tc3.co
+tc3.es
+tc3.eu
+tc3.fr
+tc3.io
+tc3.nl
+tc3.pl
+tc3.ro
+tc3.ru
+tc3.us

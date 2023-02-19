@@ -1,0 +1,7 @@
+qt-e.icu
+qt-it.id
+qt-m.icu
+qt-m.xyz
+qt-n.net
+qt-x.net
+qt-x.org

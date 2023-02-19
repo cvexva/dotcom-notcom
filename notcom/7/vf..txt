@@ -1,0 +1,5 @@
+vf.chat
+vf.life
+vf.link
+vf.live
+vf.plus

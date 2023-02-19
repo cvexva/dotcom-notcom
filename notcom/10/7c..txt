@@ -1,0 +1,4 @@
+7c.charity
+7c.country
+7c.fishing
+7c.wedding

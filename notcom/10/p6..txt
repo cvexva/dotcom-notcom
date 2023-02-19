@@ -1,0 +1,4 @@
+p6.capital
+p6.country
+p6.monster
+p6.network

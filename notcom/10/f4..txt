@@ -1,0 +1,4 @@
+f4.capital
+f4.country
+f4.digital
+f4.fashion

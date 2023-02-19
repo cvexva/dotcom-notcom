@@ -1,0 +1,15 @@
+ka.app
+ka.biz
+ka.cpa
+ka.dev
+ka.fit
+ka.fyi
+ka.ink
+ka.law
+ka.net
+ka.ooo
+ka.org
+ka.run
+ka.vin
+ka.vip
+ka.wtf

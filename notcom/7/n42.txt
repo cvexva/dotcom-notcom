@@ -1,0 +1,6 @@
+n42.biz
+n42.dev
+n42.net
+n42.one
+n42.org
+n42.xyz

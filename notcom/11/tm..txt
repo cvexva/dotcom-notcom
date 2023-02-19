@@ -1,0 +1,10 @@
+tm.business
+tm.catering
+tm.computer
+tm.exchange
+tm.holdings
+tm.lighting
+tm.partners
+tm.services
+tm.training
+tm.ventures

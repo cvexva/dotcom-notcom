@@ -1,0 +1,15 @@
+mp2.ag
+mp2.at
+mp2.ch
+mp2.co
+mp2.de
+mp2.dk
+mp2.ir
+mp2.jp
+mp2.kz
+mp2.nl
+mp2.pl
+mp2.ru
+mp2.se
+mp2.sk
+mp2.us

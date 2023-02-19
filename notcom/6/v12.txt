@@ -1,0 +1,17 @@
+v12.at
+v12.be
+v12.ch
+v12.cl
+v12.eu
+v12.fr
+v12.it
+v12.jp
+v12.me
+v12.pl
+v12.rs
+v12.ru
+v12.se
+v12.sk
+v12.su
+v12.tv
+v12.uk

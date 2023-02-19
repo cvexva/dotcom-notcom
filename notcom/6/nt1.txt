@@ -1,0 +1,13 @@
+nt1.cc
+nt1.ch
+nt1.co
+nt1.de
+nt1.ir
+nt1.it
+nt1.ph
+nt1.pl
+nt1.ru
+nt1.su
+nt1.tv
+nt1.tw
+nt1.uk

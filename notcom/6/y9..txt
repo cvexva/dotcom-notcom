@@ -1,0 +1,8 @@
+y9.app
+y9.fit
+y9.ink
+y9.net
+y9.org
+y9.pub
+y9.vip
+y9.xin

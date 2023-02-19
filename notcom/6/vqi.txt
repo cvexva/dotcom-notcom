@@ -1,0 +1,6 @@
+vqi.cc
+vqi.de
+vqi.eu
+vqi.nl
+vqi.ru
+vqi.uk

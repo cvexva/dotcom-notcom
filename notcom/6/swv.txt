@@ -1,0 +1,14 @@
+swv.am
+swv.at
+swv.cc
+swv.ch
+swv.cn
+swv.co
+swv.de
+swv.eu
+swv.it
+swv.nu
+swv.pl
+swv.ru
+swv.se
+swv.uk

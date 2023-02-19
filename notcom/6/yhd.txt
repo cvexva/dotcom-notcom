@@ -1,0 +1,10 @@
+yhd.cc
+yhd.cn
+yhd.de
+yhd.fr
+yhd.in
+yhd.it
+yhd.nl
+yhd.ru
+yhd.se
+yhd.uk

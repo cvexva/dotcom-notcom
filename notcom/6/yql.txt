@@ -1,0 +1,8 @@
+yql.ca
+yql.cn
+yql.de
+yql.eu
+yql.it
+yql.nl
+yql.ru
+yql.uk

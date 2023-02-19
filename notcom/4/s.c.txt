@@ -1,0 +1,10 @@
+s.cc
+s.cf
+s.cg
+s.cl
+s.cm
+s.cn
+s.co
+s.cr
+s.cx
+s.cz

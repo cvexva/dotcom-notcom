@@ -1,0 +1,15 @@
+oi.casa
+oi.chat
+oi.farm
+oi.immo
+oi.kiwi
+oi.life
+oi.live
+oi.luxe
+oi.plus
+oi.team
+oi.tips
+oi.wiki
+oi.work
+oi.yoga
+oi.zone

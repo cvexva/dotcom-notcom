@@ -1,0 +1,15 @@
+xy.app
+xy.biz
+xy.fit
+xy.fyi
+xy.ink
+xy.law
+xy.mba
+xy.net
+xy.org
+xy.run
+xy.top
+xy.vin
+xy.vip
+xy.wtf
+xy.xyz

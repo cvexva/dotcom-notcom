@@ -1,0 +1,8 @@
+sr2.ch
+sr2.de
+sr2.fr
+sr2.in
+sr2.jp
+sr2.ru
+sr2.se
+sr2.uk

@@ -1,0 +1,5 @@
+py-basementwaterproof.life
+py-filelock.readthedocs.io
+py-quantmod.readthedocs.io
+py-template.readthedocs.io
+py-vmdetect.readthedocs.io

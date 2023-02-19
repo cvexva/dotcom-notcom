@@ -1,0 +1,13 @@
+l1.biz
+l1.cfd
+l1.fyi
+l1.ink
+l1.law
+l1.ltd
+l1.net
+l1.org
+l1.pub
+l1.tel
+l1.vip
+l1.wtf
+l1.xyz

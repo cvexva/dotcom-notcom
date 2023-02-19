@@ -1,0 +1,4 @@
+kg.domain.name
+kg.investments
+kg.photography
+kg.xn--vuq861b

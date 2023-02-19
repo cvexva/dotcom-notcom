@@ -1,0 +1,10 @@
+hb1.at
+hb1.cc
+hb1.ch
+hb1.de
+hb1.dk
+hb1.eu
+hb1.jp
+hb1.ru
+hb1.se
+hb1.uk

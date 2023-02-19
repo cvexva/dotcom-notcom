@@ -1,0 +1,10 @@
+sb2.be
+sb2.cl
+sb2.de
+sb2.dk
+sb2.eu
+sb2.it
+sb2.nl
+sb2.no
+sb2.ru
+sb2.uk

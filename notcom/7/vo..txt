@@ -1,0 +1,14 @@
+vo.beer
+vo.bond
+vo.care
+vo.chat
+vo.city
+vo.guru
+vo.life
+vo.link
+vo.plus
+vo.taxi
+vo.team
+vo.wiki
+vo.work
+vo.yoga

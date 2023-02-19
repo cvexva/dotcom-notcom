@@ -1,0 +1,3 @@
+np7.pl
+np7.ru
+np7.uk

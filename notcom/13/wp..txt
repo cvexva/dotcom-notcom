@@ -1,0 +1,3 @@
+wp.consulting
+wp.technology
+wp.university

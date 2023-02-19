@@ -1,0 +1,16 @@
+ufl.ae
+ufl.az
+ufl.ch
+ufl.cz
+ufl.es
+ufl.gg
+ufl.jp
+ufl.li
+ufl.ph
+ufl.pl
+ufl.ru
+ufl.se
+ufl.to
+ufl.ua
+ufl.uk
+ufl.us

@@ -1,0 +1,5 @@
+4s.capital
+4s.charity
+4s.country
+4s.fishing
+4s.network

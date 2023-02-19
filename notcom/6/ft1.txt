@@ -1,0 +1,6 @@
+ft1.de
+ft1.nl
+ft1.no
+ft1.ru
+ft1.se
+ft1.su

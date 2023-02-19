@@ -1,0 +1,2 @@
+hu.domain.name
+hu.xn--vuq861b

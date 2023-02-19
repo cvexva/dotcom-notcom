@@ -1,0 +1,1 @@
+djacap-django-accounting-application.readthedocs.io

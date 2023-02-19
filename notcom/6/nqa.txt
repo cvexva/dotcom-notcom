@@ -1,0 +1,13 @@
+nqa.bg
+nqa.de
+nqa.es
+nqa.hu
+nqa.ie
+nqa.it
+nqa.nl
+nqa.no
+nqa.pl
+nqa.pt
+nqa.ru
+nqa.sa
+nqa.uk

@@ -1,0 +1,17 @@
+th.aco
+th.app
+th.biz
+th.dev
+th.fan
+th.fit
+th.fyi
+th.inc
+th.ink
+th.jcb
+th.law
+th.mba
+th.net
+th.org
+th.run
+th.vip
+th.wtf

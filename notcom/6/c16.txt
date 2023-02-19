@@ -1,0 +1,9 @@
+c16.am
+c16.ca
+c16.cn
+c16.de
+c16.eu
+c16.it
+c16.jp
+c16.pl
+c16.ru

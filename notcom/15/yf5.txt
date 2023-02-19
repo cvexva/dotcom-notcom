@@ -1,0 +1,3 @@
+yf562api1.store
+yf562api2.store
+yf562down.store

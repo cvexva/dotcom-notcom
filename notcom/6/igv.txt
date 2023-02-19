@@ -1,0 +1,17 @@
+igv.at
+igv.be
+igv.ch
+igv.co
+igv.de
+igv.dk
+igv.es
+igv.fr
+igv.it
+igv.nl
+igv.pl
+igv.ro
+igv.ru
+igv.se
+igv.sk
+igv.uk
+igv.vn

@@ -1,0 +1,8 @@
+qgs.bg
+qgs.eu
+qgs.io
+qgs.it
+qgs.nl
+qgs.pl
+qgs.ru
+qgs.uk

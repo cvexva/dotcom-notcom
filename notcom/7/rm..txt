@@ -1,0 +1,11 @@
+rm.care
+rm.chat
+rm.guru
+rm.kiwi
+rm.link
+rm.luxe
+rm.team
+rm.wiki
+rm.work
+rm.yoga
+rm.zone

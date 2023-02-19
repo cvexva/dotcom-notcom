@@ -1,0 +1,10 @@
+oj.biz
+oj.fit
+oj.fyi
+oj.law
+oj.net
+oj.org
+oj.run
+oj.tel
+oj.vip
+oj.wtf

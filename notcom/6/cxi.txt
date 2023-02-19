@@ -1,0 +1,14 @@
+cxi.be
+cxi.ch
+cxi.cn
+cxi.de
+cxi.eu
+cxi.fr
+cxi.hu
+cxi.ie
+cxi.it
+cxi.nl
+cxi.pl
+cxi.ru
+cxi.se
+cxi.uk

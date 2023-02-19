@@ -1,0 +1,5 @@
+a.pe
+a.ph
+a.pl
+a.ps
+a.pt

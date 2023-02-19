@@ -1,0 +1,10 @@
+qax.cc
+qax.cl
+qax.de
+qax.eu
+qax.fr
+qax.io
+qax.it
+qax.ru
+qax.sk
+qax.uk

@@ -1,0 +1,11 @@
+h0.biz
+h0.fit
+h0.fyi
+h0.ink
+h0.ist
+h0.net
+h0.org
+h0.pub
+h0.sbs
+h0.tel
+h0.vip

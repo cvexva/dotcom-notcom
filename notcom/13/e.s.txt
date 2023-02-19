@@ -1,0 +1,4 @@
+e.stargard.pl
+e.swidnica.pl
+e.szczecin.pl
+e.szczytno.pl

@@ -1,0 +1,14 @@
+b4.app
+b4.biz
+b4.fan
+b4.fit
+b4.fyi
+b4.ink
+b4.law
+b4.net
+b4.org
+b4.pub
+b4.run
+b4.tel
+b4.vip
+b4.wtf

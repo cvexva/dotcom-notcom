@@ -1,0 +1,10 @@
+gg.business
+gg.computer
+gg.delivery
+gg.exchange
+gg.holdings
+gg.lighting
+gg.partners
+gg.pictures
+gg.supplies
+gg.ventures

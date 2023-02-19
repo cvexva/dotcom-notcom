@@ -1,0 +1,5 @@
+3p.capital
+3p.charity
+3p.country
+3p.fishing
+3p.monster

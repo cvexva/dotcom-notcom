@@ -1,0 +1,2 @@
+64gates.design
+64gudini.store

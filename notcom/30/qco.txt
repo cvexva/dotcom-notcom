@@ -1,0 +1,2 @@
+qconsoftwareconferences.events
+qconsoftwareconferences.global

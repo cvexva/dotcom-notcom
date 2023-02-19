@@ -1,0 +1,12 @@
+myj.am
+myj.be
+myj.ch
+myj.de
+myj.im
+myj.nl
+myj.pl
+myj.ru
+myj.se
+myj.su
+myj.uk
+myj.us

@@ -1,0 +1,15 @@
+fh.app
+fh.bet
+fh.biz
+fh.cab
+fh.dev
+fh.fit
+fh.fyi
+fh.ink
+fh.law
+fh.net
+fh.new
+fh.ooo
+fh.org
+fh.vip
+fh.wtf

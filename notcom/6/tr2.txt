@@ -1,0 +1,9 @@
+tr2.at
+tr2.de
+tr2.dk
+tr2.eu
+tr2.lu
+tr2.ru
+tr2.se
+tr2.uk
+tr2.uy

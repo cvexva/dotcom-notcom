@@ -1,0 +1,14 @@
+ap1.au
+ap1.by
+ap1.cz
+ap1.de
+ap1.dk
+ap1.gr
+ap1.io
+ap1.ir
+ap1.jp
+ap1.nu
+ap1.ru
+ap1.se
+ap1.tv
+ap1.uk

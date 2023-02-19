@@ -1,0 +1,6 @@
+d1.business
+d1.clothing
+d1.diamonds
+d1.football
+d1.training
+d1.ventures

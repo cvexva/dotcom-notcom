@@ -1,0 +1,17 @@
+hm.aco
+hm.app
+hm.biz
+hm.cpa
+hm.day
+hm.fit
+hm.fyi
+hm.ink
+hm.law
+hm.net
+hm.ooo
+hm.org
+hm.run
+hm.sew
+hm.tax
+hm.vip
+hm.wtf

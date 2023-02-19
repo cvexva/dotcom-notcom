@@ -1,0 +1,5 @@
+12.abc.name
+12.holdings
+12.istanbul
+12.ventures
+12.xn--p1ai

@@ -1,0 +1,10 @@
+l2.auction
+l2.capital
+l2.country
+l2.digital
+l2.domains
+l2.finance
+l2.markets
+l2.monster
+l2.network
+l2.wedding

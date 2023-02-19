@@ -1,0 +1,12 @@
+d2g.app
+d2g.biz
+d2g.dev
+d2g.net
+d2g.one
+d2g.org
+d2g.xyz
+d2go.ch
+d2go.de
+d2go.io
+d2go.us
+d2gs.ru

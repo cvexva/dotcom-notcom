@@ -1,0 +1,10 @@
+rh01-fuku.site
+rh01-hbhc.site
+rh01-hira.site
+rh01-kcho.site
+rh01-mita.site
+rh01-ncvc.site
+rh01-ogmc.site
+rh01-shin.site
+rh01-stmu.site
+rh01-suhf.site

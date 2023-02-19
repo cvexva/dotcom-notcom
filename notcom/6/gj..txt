@@ -1,0 +1,12 @@
+gj.app
+gj.biz
+gj.cpa
+gj.fit
+gj.fyi
+gj.law
+gj.mba
+gj.net
+gj.org
+gj.run
+gj.tax
+gj.wtf

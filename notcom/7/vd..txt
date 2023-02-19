@@ -1,0 +1,7 @@
+vd.chat
+vd.immo
+vd.life
+vd.luxe
+vd.plus
+vd.work
+vd.yoga

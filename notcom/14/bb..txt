@@ -1,0 +1,7 @@
+bb.domain.name
+bb.engineering
+bb.enterprises
+bb.investments
+bb.productions
+bb.sardinia.it
+bb.xn--vuq861b

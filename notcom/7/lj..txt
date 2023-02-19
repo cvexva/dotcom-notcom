@@ -1,0 +1,8 @@
+lj.cafe
+lj.cash
+lj.chat
+lj.club
+lj.link
+lj.show
+lj.work
+lj.yoga

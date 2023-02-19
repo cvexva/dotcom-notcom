@@ -1,0 +1,5 @@
+kb.consulting
+kb.foundation
+kb.immobilien
+kb.properties
+kb.technology

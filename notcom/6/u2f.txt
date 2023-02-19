@@ -1,0 +1,5 @@
+u2f.ch
+u2f.de
+u2f.ru
+u2f.se
+u2f.uk

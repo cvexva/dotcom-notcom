@@ -1,0 +1,16 @@
+zmm.be
+zmm.by
+zmm.ca
+zmm.cc
+zmm.ch
+zmm.co
+zmm.cz
+zmm.de
+zmm.eu
+zmm.it
+zmm.lt
+zmm.pl
+zmm.ru
+zmm.se
+zmm.sk
+zmm.uk

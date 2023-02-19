@@ -1,0 +1,15 @@
+kc.app
+kc.biz
+kc.dev
+kc.fit
+kc.fyi
+kc.gov
+kc.law
+kc.net
+kc.ooo
+kc.org
+kc.run
+kc.sbs
+kc.tel
+kc.wtf
+kc.xyz

@@ -1,0 +1,17 @@
+hg.app
+hg.bet
+hg.biz
+hg.bot
+hg.cpa
+hg.dev
+hg.fit
+hg.fyi
+hg.law
+hg.mom
+hg.net
+hg.org
+hg.rip
+hg.run
+hg.tel
+hg.vip
+hg.wtf

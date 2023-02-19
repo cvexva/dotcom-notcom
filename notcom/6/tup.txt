@@ -1,0 +1,16 @@
+tup.ac
+tup.am
+tup.at
+tup.ch
+tup.co
+tup.de
+tup.dk
+tup.eu
+tup.it
+tup.no
+tup.ru
+tup.se
+tup.sg
+tup.su
+tup.uk
+tup.us

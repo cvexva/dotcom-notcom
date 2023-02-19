@@ -1,0 +1,9 @@
+eq.business
+eq.engineer
+eq.exchange
+eq.observer
+eq.partners
+eq.services
+eq.software
+eq.training
+eq.ventures

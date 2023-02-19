@@ -1,0 +1,6 @@
+br.bytom.pl
+br.exchange
+br.holdings
+br.opole.pl
+br.software
+br.ventures

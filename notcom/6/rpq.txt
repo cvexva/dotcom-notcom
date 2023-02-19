@@ -1,0 +1,12 @@
+rpq.be
+rpq.ca
+rpq.ch
+rpq.cn
+rpq.de
+rpq.eu
+rpq.nl
+rpq.pl
+rpq.ru
+rpq.se
+rpq.uk
+rpq.us

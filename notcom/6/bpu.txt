@@ -1,0 +1,13 @@
+bpu.by
+bpu.cc
+bpu.ch
+bpu.co
+bpu.de
+bpu.eu
+bpu.fr
+bpu.nu
+bpu.pl
+bpu.ru
+bpu.se
+bpu.uk
+bpu.uz

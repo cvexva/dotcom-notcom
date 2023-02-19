@@ -1,0 +1,12 @@
+qs.cafe
+qs.care
+qs.chat
+qs.city
+qs.cool
+qs.life
+qs.link
+qs.plus
+qs.scot
+qs.team
+qs.work
+qs.yoga

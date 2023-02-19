@@ -1,0 +1,15 @@
+bfd.az
+bfd.ba
+bfd.bh
+bfd.by
+bfd.ca
+bfd.ch
+bfd.de
+bfd.dk
+bfd.fr
+bfd.me
+bfd.pm
+bfd.ru
+bfd.se
+bfd.uk
+bfd.vn

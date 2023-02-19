@@ -1,0 +1,11 @@
+f01.cc
+f01.ch
+f01.cn
+f01.co
+f01.cz
+f01.de
+f01.fr
+f01.io
+f01.jp
+f01.nl
+f01.ru

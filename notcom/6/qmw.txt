@@ -1,0 +1,9 @@
+qmw.cc
+qmw.ch
+qmw.cl
+qmw.cn
+qmw.eu
+qmw.hu
+qmw.it
+qmw.ru
+qmw.uk

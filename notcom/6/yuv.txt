@@ -1,0 +1,8 @@
+yuv.al
+yuv.gr
+yuv.ir
+yuv.it
+yuv.me
+yuv.pl
+yuv.ru
+yuv.uk

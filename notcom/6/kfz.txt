@@ -1,0 +1,12 @@
+kfz.at
+kfz.cc
+kfz.ch
+kfz.de
+kfz.fr
+kfz.it
+kfz.nl
+kfz.pt
+kfz.ro
+kfz.ru
+kfz.se
+kfz.uk

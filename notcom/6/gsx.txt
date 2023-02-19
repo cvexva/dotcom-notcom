@@ -1,0 +1,13 @@
+gsx.cc
+gsx.ch
+gsx.de
+gsx.dk
+gsx.gi
+gsx.io
+gsx.it
+gsx.mx
+gsx.ro
+gsx.ru
+gsx.se
+gsx.uk
+gsx.us

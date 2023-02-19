@@ -1,0 +1,10 @@
+qe.app
+qe.biz
+qe.fit
+qe.fyi
+qe.law
+qe.net
+qe.org
+qe.tax
+qe.vip
+qe.wtf

@@ -1,0 +1,3 @@
+z.sh
+z.sm
+z.st

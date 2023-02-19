@@ -1,0 +1,2 @@
+yii2-cookbook-copy.readthedocs.io
+yii2-cookbook-test.readthedocs.io

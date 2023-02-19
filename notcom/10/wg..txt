@@ -1,0 +1,7 @@
+wg.company
+wg.contact
+wg.country
+wg.fashion
+wg.network
+wg.rentals
+wg.support

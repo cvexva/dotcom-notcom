@@ -1,0 +1,17 @@
+ibv.ch
+ibv.co
+ibv.eu
+ibv.fr
+ibv.hu
+ibv.in
+ibv.is
+ibv.it
+ibv.nu
+ibv.ro
+ibv.rs
+ibv.ru
+ibv.se
+ibv.si
+ibv.sk
+ibv.uk
+ibv.vn

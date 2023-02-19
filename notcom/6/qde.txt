@@ -1,0 +1,9 @@
+qde.at
+qde.be
+qde.ch
+qde.cn
+qde.ir
+qde.it
+qde.ru
+qde.sk
+qde.uk

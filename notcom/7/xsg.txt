@@ -1,0 +1,12 @@
+xsg.app
+xsg.dev
+xsg.net
+xsg.org
+xsg.ovh
+xsg.vip
+xsg.xyz
+xsgl.de
+xsgl.me
+xsgo.ru
+xsgp.ru
+xsgt.ru

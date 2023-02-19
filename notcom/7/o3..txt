@@ -1,0 +1,11 @@
+o3.army
+o3.care
+o3.chat
+o3.club
+o3.fund
+o3.life
+o3.live
+o3.team
+o3.wiki
+o3.work
+o3.zone

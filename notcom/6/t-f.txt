@@ -1,0 +1,14 @@
+t-f.be
+t-f.ch
+t-f.de
+t-f.dk
+t-f.eu
+t-f.io
+t-f.it
+t-f.jp
+t-f.nl
+t-f.ru
+t-f.su
+t-f.uk
+t-f.us
+t-f.uz

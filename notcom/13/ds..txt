@@ -1,0 +1,6 @@
+ds.consulting
+ds.foundation
+ds.management
+ds.properties
+ds.technology
+ds.university

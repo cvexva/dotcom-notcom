@@ -1,0 +1,6 @@
+8t.capital
+8t.charity
+8t.country
+8t.fishing
+8t.monster
+8t.wedding

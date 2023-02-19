@@ -1,0 +1,9 @@
+v42.app
+v42.biz
+v42.dev
+v42.net
+v42.one
+v42.org
+v42.vip
+v422.cn
+v425.ru

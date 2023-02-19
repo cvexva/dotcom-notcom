@@ -1,0 +1,11 @@
+xsa.ad
+xsa.be
+xsa.ch
+xsa.gr
+xsa.in
+xsa.ir
+xsa.it
+xsa.jp
+xsa.me
+xsa.ru
+xsa.uk

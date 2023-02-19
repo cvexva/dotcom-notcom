@@ -1,0 +1,12 @@
+exf.ac
+exf.be
+exf.ch
+exf.co
+exf.es
+exf.fr
+exf.it
+exf.nl
+exf.no
+exf.ru
+exf.se
+exf.uk

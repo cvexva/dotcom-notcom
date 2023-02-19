@@ -1,0 +1,3 @@
+2nr.cc
+2nr.pl
+2nr.ru

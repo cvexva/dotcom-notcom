@@ -1,0 +1,6 @@
+8h.actor
+8h.horse
+8h.legal
+8h.movie
+8h.quest
+8h.world

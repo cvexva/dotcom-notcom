@@ -1,0 +1,17 @@
+lyd.am
+lyd.ch
+lyd.cl
+lyd.cn
+lyd.de
+lyd.fr
+lyd.ir
+lyd.it
+lyd.me
+lyd.nl
+lyd.no
+lyd.nu
+lyd.pl
+lyd.pt
+lyd.ru
+lyd.se
+lyd.uk

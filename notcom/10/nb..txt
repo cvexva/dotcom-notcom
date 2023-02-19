@@ -1,0 +1,11 @@
+nb.capital
+nb.careers
+nb.contact
+nb.country
+nb.digital
+nb.domains
+nb.fashion
+nb.jewelry
+nb.network
+nb.systems
+nb.wedding

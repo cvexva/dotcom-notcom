@@ -1,0 +1,11 @@
+fn.coffee
+fn.com.my
+fn.com.ua
+fn.energy
+fn.global
+fn.net.au
+fn.net.pl
+fn.org.pl
+fn.org.uk
+fn.school
+fn.studio

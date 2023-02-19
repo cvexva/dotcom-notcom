@@ -1,0 +1,16 @@
+vty.be
+vty.cc
+vty.ch
+vty.co
+vty.cz
+vty.de
+vty.ee
+vty.eu
+vty.fi
+vty.it
+vty.nl
+vty.ru
+vty.se
+vty.sh
+vty.uk
+vty.uz

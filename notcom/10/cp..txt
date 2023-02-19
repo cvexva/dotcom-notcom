@@ -1,0 +1,15 @@
+cp.academy
+cp.auction
+cp.blog.br
+cp.capital
+cp.company
+cp.cooking
+cp.country
+cp.digital
+cp.domains
+cp.fashion
+cp.finance
+cp.network
+cp.reviews
+cp.systems
+cp.wedding

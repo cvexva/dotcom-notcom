@@ -1,0 +1,10 @@
+f6.app
+f6.biz
+f6.fit
+f6.fyi
+f6.ink
+f6.ltd
+f6.net
+f6.org
+f6.pub
+f6.vip

@@ -1,0 +1,16 @@
+bzl.ai
+bzl.at
+bzl.be
+bzl.ch
+bzl.co
+bzl.de
+bzl.eu
+bzl.fr
+bzl.io
+bzl.it
+bzl.me
+bzl.no
+bzl.ru
+bzl.se
+bzl.si
+bzl.uk

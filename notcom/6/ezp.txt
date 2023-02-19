@@ -1,0 +1,10 @@
+ezp.bz
+ezp.ch
+ezp.eu
+ezp.fr
+ezp.it
+ezp.pl
+ezp.ru
+ezp.sk
+ezp.uk
+ezp.vn

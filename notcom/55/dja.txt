@@ -1,0 +1,2 @@
+django-rest-framework-version-transforms.readthedocs.io
+djangorestframework-composed-permissions.readthedocs.io

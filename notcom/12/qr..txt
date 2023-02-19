@@ -1,0 +1,3 @@
+qr.amsterdam
+qr.marketing
+qr.solutions

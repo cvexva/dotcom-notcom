@@ -1,0 +1,16 @@
+lm.bike
+lm.chat
+lm.city
+lm.club
+lm.cool
+lm.golf
+lm.link
+lm.live
+lm.luxe
+lm.news
+lm.show
+lm.team
+lm.tips
+lm.work
+lm.yoga
+lm.zone

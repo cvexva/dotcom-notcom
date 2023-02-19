@@ -1,0 +1,2 @@
+pyumbral.readthedocs.io
+pyuvdata.readthedocs.io

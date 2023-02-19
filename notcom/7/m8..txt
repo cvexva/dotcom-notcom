@@ -1,0 +1,12 @@
+m8.beer
+m8.buzz
+m8.casa
+m8.chat
+m8.club
+m8.luxe
+m8.team
+m8.town
+m8.wiki
+m8.work
+m8.yoga
+m8.zone

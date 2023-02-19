@@ -1,0 +1,17 @@
+t3.app
+t3.biz
+t3.fit
+t3.fyi
+t3.ink
+t3.law
+t3.lol
+t3.ltd
+t3.net
+t3.new
+t3.org
+t3.pub
+t3.tel
+t3.vet
+t3.vip
+t3.wtf
+t3.xyz

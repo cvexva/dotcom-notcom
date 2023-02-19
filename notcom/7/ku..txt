@@ -1,0 +1,17 @@
+ku.bike
+ku.cash
+ku.chat
+ku.city
+ku.cool
+ku.cyou
+ku.farm
+ku.immo
+ku.land
+ku.life
+ku.link
+ku.live
+ku.plus
+ku.team
+ku.wiki
+ku.work
+ku.zone

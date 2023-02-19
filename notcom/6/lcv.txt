@@ -1,0 +1,12 @@
+lcv.be
+lcv.cc
+lcv.ch
+lcv.co
+lcv.dk
+lcv.jp
+lcv.li
+lcv.pl
+lcv.ro
+lcv.ru
+lcv.se
+lcv.uk

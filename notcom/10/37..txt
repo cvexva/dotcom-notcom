@@ -1,0 +1,5 @@
+37.capital
+37.country
+37.digital
+37.fashion
+37.network

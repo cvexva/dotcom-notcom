@@ -1,0 +1,10 @@
+zwb.cc
+zwb.ch
+zwb.de
+zwb.io
+zwb.it
+zwb.me
+zwb.pl
+zwb.ru
+zwb.uk
+zwb.us

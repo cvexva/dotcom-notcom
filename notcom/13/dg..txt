@@ -1,0 +1,4 @@
+dg.consulting
+dg.healthcare
+dg.university
+dg.wroclaw.pl

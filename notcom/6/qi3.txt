@@ -1,0 +1,4 @@
+qi3.cc
+qi3.de
+qi3.pt
+qi3.se

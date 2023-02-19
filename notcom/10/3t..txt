@@ -1,0 +1,8 @@
+3t.capital
+3t.charity
+3t.country
+3t.digital
+3t.fishing
+3t.network
+3t.support
+3t.wedding

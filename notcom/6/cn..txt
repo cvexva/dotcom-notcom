@@ -1,0 +1,14 @@
+cn.aco
+cn.app
+cn.biz
+cn.dev
+cn.fit
+cn.icu
+cn.law
+cn.mom
+cn.net
+cn.org
+cn.sbs
+cn.tax
+cn.vip
+cn.xin

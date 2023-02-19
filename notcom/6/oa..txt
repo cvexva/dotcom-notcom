@@ -1,0 +1,14 @@
+oa.app
+oa.biz
+oa.cab
+oa.cpa
+oa.fit
+oa.fyi
+oa.law
+oa.mba
+oa.net
+oa.org
+oa.run
+oa.tel
+oa.vip
+oa.wtf

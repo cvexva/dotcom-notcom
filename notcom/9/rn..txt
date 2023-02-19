@@ -1,0 +1,12 @@
+rn.agency
+rn.com.cn
+rn.com.co
+rn.com.pa
+rn.com.pl
+rn.degree
+rn.expert
+rn.family
+rn.gov.br
+rn.org.uk
+rn.school
+rn.social

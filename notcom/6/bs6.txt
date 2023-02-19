@@ -1,0 +1,5 @@
+bs6.ch
+bs6.cn
+bs6.eu
+bs6.ru
+bs6.uk

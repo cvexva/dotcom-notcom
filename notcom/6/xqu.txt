@@ -1,0 +1,7 @@
+xqu.cc
+xqu.ch
+xqu.de
+xqu.eu
+xqu.it
+xqu.ru
+xqu.uk

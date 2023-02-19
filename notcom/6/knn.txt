@@ -1,0 +1,16 @@
+knn.be
+knn.cc
+knn.ch
+knn.cz
+knn.es
+knn.eu
+knn.fr
+knn.no
+knn.nu
+knn.pl
+knn.ru
+knn.se
+knn.sk
+knn.su
+knn.tw
+knn.uk

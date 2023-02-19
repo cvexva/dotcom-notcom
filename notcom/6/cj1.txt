@@ -1,0 +1,7 @@
+cj1.cc
+cj1.cz
+cj1.de
+cj1.dk
+cj1.in
+cj1.kr
+cj1.ru

@@ -1,0 +1,12 @@
+ej.app
+ej.biz
+ej.fit
+ej.fyi
+ej.gov
+ej.law
+ej.net
+ej.ooo
+ej.org
+ej.rip
+ej.vin
+ej.vip

@@ -1,0 +1,14 @@
+cxn.at
+cxn.ch
+cxn.cn
+cxn.de
+cxn.dk
+cxn.hu
+cxn.it
+cxn.jp
+cxn.nl
+cxn.pl
+cxn.ru
+cxn.se
+cxn.tv
+cxn.uk

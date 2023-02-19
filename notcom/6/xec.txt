@@ -1,0 +1,12 @@
+xec.cc
+xec.ch
+xec.de
+xec.eu
+xec.io
+xec.it
+xec.jp
+xec.me
+xec.nl
+xec.ru
+xec.se
+xec.sh

@@ -1,0 +1,7 @@
+t1x.ch
+t1x.cn
+t1x.de
+t1x.eu
+t1x.nl
+t1x.uk
+t1x.us

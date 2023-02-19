@@ -1,0 +1,17 @@
+zec.ae
+zec.at
+zec.ba
+zec.ca
+zec.ch
+zec.co
+zec.de
+zec.fr
+zec.hu
+zec.io
+zec.it
+zec.mk
+zec.rs
+zec.ru
+zec.se
+zec.sk
+zec.uk

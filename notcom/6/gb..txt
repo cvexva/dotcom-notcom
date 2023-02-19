@@ -1,0 +1,16 @@
+gb.biz
+gb.cpa
+gb.dev
+gb.fit
+gb.fyi
+gb.law
+gb.mba
+gb.net
+gb.ooo
+gb.org
+gb.run
+gb.sbs
+gb.tax
+gb.vip
+gb.wtf
+gb.xyz

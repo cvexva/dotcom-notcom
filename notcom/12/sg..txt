@@ -1,0 +1,5 @@
+sg.amsterdam
+sg.financial
+sg.hisamitsu
+sg.krakow.pl
+sg.statebank

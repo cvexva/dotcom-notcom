@@ -1,0 +1,10 @@
+cp1.at
+cp1.ch
+cp1.hk
+cp1.it
+cp1.jp
+cp1.nl
+cp1.nu
+cp1.pl
+cp1.ru
+cp1.uk

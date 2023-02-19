@@ -1,0 +1,16 @@
+wb.app
+wb.biz
+wb.dog
+wb.fit
+wb.fyi
+wb.gay
+wb.gov
+wb.law
+wb.net
+wb.org
+wb.run
+wb.tel
+wb.top
+wb.vip
+wb.wtf
+wb.xyz

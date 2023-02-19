@@ -1,0 +1,8 @@
+sa.business
+sa.exchange
+sa.mortgage
+sa.partners
+sa.pdg.name
+sa.services
+sa.software
+sa.ventures

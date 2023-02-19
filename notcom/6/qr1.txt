@@ -1,0 +1,14 @@
+qr1.at
+qr1.be
+qr1.ch
+qr1.de
+qr1.dk
+qr1.fr
+qr1.in
+qr1.it
+qr1.jp
+qr1.ru
+qr1.se
+qr1.su
+qr1.uk
+qr1.us

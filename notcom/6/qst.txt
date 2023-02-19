@@ -1,0 +1,15 @@
+qst.ae
+qst.be
+qst.ch
+qst.de
+qst.es
+qst.eu
+qst.gr
+qst.kz
+qst.nu
+qst.pl
+qst.ru
+qst.se
+qst.st
+qst.su
+qst.uk

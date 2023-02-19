@@ -1,0 +1,6 @@
+gt.consulting
+gt.foundation
+gt.healthcare
+gt.industries
+gt.technology
+gt.university

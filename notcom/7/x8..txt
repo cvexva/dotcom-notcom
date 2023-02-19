@@ -1,0 +1,10 @@
+x8.army
+x8.beer
+x8.chat
+x8.club
+x8.fund
+x8.live
+x8.shop
+x8.team
+x8.wiki
+x8.work

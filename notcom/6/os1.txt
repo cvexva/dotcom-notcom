@@ -1,0 +1,10 @@
+os1.ch
+os1.de
+os1.dk
+os1.eu
+os1.it
+os1.me
+os1.pl
+os1.ru
+os1.su
+os1.tv

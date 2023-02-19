@@ -1,0 +1,12 @@
+xl.capital
+xl.company
+xl.country
+xl.digital
+xl.domains
+xl.express
+xl.fashion
+xl.gallery
+xl.hamburg
+xl.network
+xl.storage
+xl.systems

@@ -1,0 +1,11 @@
+ra2.at
+ra2.ch
+ra2.de
+ra2.fr
+ra2.in
+ra2.io
+ra2.it
+ra2.nl
+ra2.pl
+ra2.ru
+ra2.us

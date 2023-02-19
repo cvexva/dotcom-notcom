@@ -1,0 +1,7 @@
+bzx.app
+bzx.net
+bzx.one
+bzx.org
+bzx.vip
+bzx8.cn
+bzxs.cc

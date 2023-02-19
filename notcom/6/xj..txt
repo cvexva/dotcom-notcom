@@ -1,0 +1,12 @@
+xj.app
+xj.biz
+xj.fit
+xj.fyi
+xj.law
+xj.net
+xj.org
+xj.pub
+xj.tel
+xj.vip
+xj.wtf
+xj.xyz

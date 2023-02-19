@@ -1,0 +1,3 @@
+a.restaurant
+a.ruder.name
+a.rully.name

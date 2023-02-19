@@ -1,0 +1,12 @@
+bc2.at
+bc2.cc
+bc2.ch
+bc2.cn
+bc2.de
+bc2.eu
+bc2.in
+bc2.me
+bc2.nl
+bc2.ru
+bc2.se
+bc2.uk

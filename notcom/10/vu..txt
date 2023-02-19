@@ -1,0 +1,9 @@
+vu.company
+vu.contact
+vu.country
+vu.fashion
+vu.network
+vu.reviews
+vu.support
+vu.wedding
+vu.whoswho

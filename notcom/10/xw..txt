@@ -1,0 +1,6 @@
+xw.abogado
+xw.capital
+xw.country
+xw.express
+xw.fashion
+xw.network

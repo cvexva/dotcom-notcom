@@ -1,0 +1,17 @@
+aqd.am
+aqd.be
+aqd.ch
+aqd.cn
+aqd.de
+aqd.dk
+aqd.eu
+aqd.ir
+aqd.is
+aqd.it
+aqd.jp
+aqd.nl
+aqd.ru
+aqd.sa
+aqd.se
+aqd.tw
+aqd.uk

@@ -1,0 +1,15 @@
+ncx.at
+ncx.bz
+ncx.ch
+ncx.co
+ncx.de
+ncx.dk
+ncx.eu
+ncx.io
+ncx.it
+ncx.jp
+ncx.mn
+ncx.ru
+ncx.se
+ncx.sk
+ncx.uk

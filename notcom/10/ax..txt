@@ -1,0 +1,9 @@
+ax.capital
+ax.country
+ax.digital
+ax.fashion
+ax.finance
+ax.holiday
+ax.rentals
+ax.systems
+ax.whoswho

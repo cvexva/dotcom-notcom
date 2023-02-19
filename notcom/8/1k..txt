@@ -1,0 +1,14 @@
+1k.actor
+1k.bingo
+1k.boats
+1k.cards
+1k.co.uk
+1k.co.za
+1k.gives
+1k.group
+1k.homes
+1k.legal
+1k.money
+1k.movie
+1k.rocks
+1k.world

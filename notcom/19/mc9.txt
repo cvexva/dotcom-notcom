@@ -1,0 +1,14 @@
+mc9-4ym-78m2pi.kred
+mc9s12c32mpbe25.top
+mc9s12db128cpve.top
+mc9s12dg128cpve.top
+mc9s12dg256cpve.top
+mc9s12dp512cpve.top
+mc9s12dp512mpve.top
+mc9s12dp512vpve.top
+mc9s12xep100cag.top
+mc9s12xep100cal.top
+mc9s12xep100mag.top
+mc9s12xeq512cal.top
+mc9s12xeq512maa.top
+mc9s12xet256mag.top

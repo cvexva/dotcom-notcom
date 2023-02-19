@@ -1,0 +1,15 @@
+hp.band
+hp.care
+hp.casa
+hp.chat
+hp.cyou
+hp.fail
+hp.help
+hp.immo
+hp.jobs
+hp.plus
+hp.sale
+hp.team
+hp.work
+hp.yoga
+hp.zone

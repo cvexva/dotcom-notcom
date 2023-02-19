@@ -1,0 +1,5 @@
+g8.capital
+g8.country
+g8.monster
+g8.network
+g8.systems

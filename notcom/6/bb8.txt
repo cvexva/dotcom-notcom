@@ -1,0 +1,11 @@
+bb8.cc
+bb8.ch
+bb8.co
+bb8.de
+bb8.me
+bb8.mn
+bb8.nu
+bb8.pl
+bb8.ru
+bb8.uk
+bb8.us

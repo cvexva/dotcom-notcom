@@ -1,0 +1,7 @@
+80p.app
+80p.dev
+80p.net
+80p.top
+80ps.cn
+80ps.de
+80py.uk

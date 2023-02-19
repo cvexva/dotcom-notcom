@@ -1,0 +1,6 @@
+a.careers
+a.company
+a.cooking
+a.country
+a.coupons
+a.cruises

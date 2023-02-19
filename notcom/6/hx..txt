@@ -1,0 +1,14 @@
+hx.app
+hx.biz
+hx.fit
+hx.fyi
+hx.inc
+hx.law
+hx.net
+hx.one
+hx.org
+hx.run
+hx.tel
+hx.vip
+hx.wtf
+hx.xyz

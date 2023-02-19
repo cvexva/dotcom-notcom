@@ -1,0 +1,14 @@
+ls2.ca
+ls2.ch
+ls2.cl
+ls2.cz
+ls2.it
+ls2.jp
+ls2.nl
+ls2.pl
+ls2.ru
+ls2.sg
+ls2.sk
+ls2.su
+ls2.uk
+ls2.vn

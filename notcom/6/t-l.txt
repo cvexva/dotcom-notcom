@@ -1,0 +1,14 @@
+t-l.cc
+t-l.ch
+t-l.co
+t-l.de
+t-l.eu
+t-l.it
+t-l.jp
+t-l.no
+t-l.ru
+t-l.se
+t-l.sk
+t-l.su
+t-l.uk
+t-l.us

@@ -1,0 +1,9 @@
+s3g.at
+s3g.ch
+s3g.cn
+s3g.de
+s3g.fr
+s3g.it
+s3g.pl
+s3g.ru
+s3g.us

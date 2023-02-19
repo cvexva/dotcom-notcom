@@ -1,0 +1,13 @@
+v2.cards
+v2.co.uk
+v2.codes
+v2.email
+v2.games
+v2.group
+v2.homes
+v2.legal
+v2.media
+v2.money
+v2.ninja
+v2.rocks
+v2.world

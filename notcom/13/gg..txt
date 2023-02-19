@@ -1,0 +1,5 @@
+gg.foundation
+gg.immobilien
+gg.properties
+gg.technology
+gg.university

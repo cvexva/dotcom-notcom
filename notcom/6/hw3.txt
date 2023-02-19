@@ -1,0 +1,3 @@
+hw3.ch
+hw3.eu
+hw3.io

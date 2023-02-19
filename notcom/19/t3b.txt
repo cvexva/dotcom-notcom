@@ -1,0 +1,3 @@
+t3bpfintadores.buzz
+t3bpfintadores.rest
+t3bus-vorarlberg.at

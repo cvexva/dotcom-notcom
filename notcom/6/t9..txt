@@ -1,0 +1,11 @@
+t9.app
+t9.biz
+t9.fit
+t9.ink
+t9.law
+t9.net
+t9.org
+t9.pub
+t9.sbs
+t9.vip
+t9.xyz

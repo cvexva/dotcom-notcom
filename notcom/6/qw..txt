@@ -1,0 +1,9 @@
+qw.app
+qw.biz
+qw.fit
+qw.fyi
+qw.ink
+qw.law
+qw.net
+qw.org
+qw.vip

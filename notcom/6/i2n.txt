@@ -1,0 +1,10 @@
+i2n.cg
+i2n.de
+i2n.eu
+i2n.jp
+i2n.kr
+i2n.mc
+i2n.mg
+i2n.pl
+i2n.ru
+i2n.uk

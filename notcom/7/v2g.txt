@@ -1,0 +1,10 @@
+v2g.app
+v2g.biz
+v2g.dev
+v2g.eco
+v2g.net
+v2g.one
+v2g.org
+v2g.xyz
+v2g6.ru
+v2go.me

@@ -1,0 +1,4 @@
+l2j.de
+l2j.fr
+l2j.lt
+l2j.ru

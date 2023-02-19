@@ -1,0 +1,6 @@
+qt1.app
+qt1.biz
+qt1.net
+qt1.org
+qt1.xyz
+qt17.cn

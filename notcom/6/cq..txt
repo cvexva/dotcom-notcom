@@ -1,0 +1,13 @@
+cq.app
+cq.biz
+cq.fit
+cq.fyi
+cq.ink
+cq.law
+cq.lol
+cq.net
+cq.org
+cq.sbs
+cq.vin
+cq.wtf
+cq.xyz

@@ -1,0 +1,9 @@
+0b100101.one
+0b101010.dev
+0b101010.net
+0b101010.org
+0b101010.pub
+0b1913440.cn
+0b1ldqz.cyou
+0b1o577.cyou
+0b1zhkh.buzz

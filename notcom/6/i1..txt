@@ -1,0 +1,11 @@
+i1.app
+i1.biz
+i1.fit
+i1.fyi
+i1.gay
+i1.net
+i1.org
+i1.pub
+i1.run
+i1.vip
+i1.wtf

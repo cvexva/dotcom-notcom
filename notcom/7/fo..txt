@@ -1,0 +1,12 @@
+fo.beer
+fo.care
+fo.casa
+fo.land
+fo.life
+fo.luxe
+fo.plus
+fo.show
+fo.team
+fo.wiki
+fo.work
+fo.yoga

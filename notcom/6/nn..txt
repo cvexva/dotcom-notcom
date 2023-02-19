@@ -1,0 +1,17 @@
+nn.app
+nn.biz
+nn.fit
+nn.fyi
+nn.icu
+nn.law
+nn.lol
+nn.mba
+nn.net
+nn.org
+nn.rip
+nn.run
+nn.tel
+nn.vip
+nn.win
+nn.wtf
+nn.xyz

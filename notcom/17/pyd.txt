@@ -1,0 +1,11 @@
+pydantic.services
+pydarstores.co.uk
+pydatascience.org
+pydconsulting.net
+pydedeypeqir.info
+pydev.blogspot.de
+pydev.blogspot.it
+pydevsg.github.io
+pydfoundation.org
+pydicom.github.io
+pydinitiative.org

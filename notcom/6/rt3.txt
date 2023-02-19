@@ -1,0 +1,11 @@
+rt3.at
+rt3.ch
+rt3.de
+rt3.eu
+rt3.fr
+rt3.io
+rt3.it
+rt3.lt
+rt3.pl
+rt3.ru
+rt3.us

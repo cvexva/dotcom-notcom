@@ -1,0 +1,16 @@
+bm.audi
+bm.bike
+bm.cafe
+bm.chat
+bm.city
+bm.farm
+bm.land
+bm.link
+bm.live
+bm.luxe
+bm.plus
+bm.sale
+bm.team
+bm.wiki
+bm.work
+bm.yoga

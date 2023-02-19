@@ -1,0 +1,12 @@
+sr.care
+sr.chat
+sr.farm
+sr.immo
+sr.life
+sr.link
+sr.live
+sr.sale
+sr.team
+sr.wiki
+sr.work
+sr.yoga

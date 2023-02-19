@@ -1,0 +1,15 @@
+fx0.name
+fx00.dev
+fx001.cn
+fx001.ru
+fx007.uk
+fx01.net
+fx01.xyz
+fx05.top
+fx05.vip
+fx05.xyz
+fx072.cn
+fx077.cn
+fx08.xyz
+fx088.cn
+fx0b.xyz

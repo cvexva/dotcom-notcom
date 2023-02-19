@@ -1,0 +1,14 @@
+nyg.as
+nyg.at
+nyg.ca
+nyg.ch
+nyg.co
+nyg.dk
+nyg.fr
+nyg.it
+nyg.kr
+nyg.nl
+nyg.nu
+nyg.ru
+nyg.se
+nyg.uk

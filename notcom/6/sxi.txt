@@ -1,0 +1,12 @@
+sxi.cc
+sxi.ch
+sxi.cn
+sxi.fr
+sxi.ie
+sxi.io
+sxi.it
+sxi.nl
+sxi.pl
+sxi.ru
+sxi.se
+sxi.uk

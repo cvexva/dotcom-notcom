@@ -1,0 +1,12 @@
+qhc.ae
+qhc.ch
+qhc.cn
+qhc.eu
+qhc.fr
+qhc.it
+qhc.me
+qhc.no
+qhc.ru
+qhc.se
+qhc.uk
+qhc.vn

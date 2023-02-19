@@ -1,0 +1,15 @@
+m8.app
+m8.biz
+m8.dev
+m8.fit
+m8.fyi
+m8.gay
+m8.lol
+m8.net
+m8.org
+m8.run
+m8.sbs
+m8.tel
+m8.vip
+m8.wtf
+m8.xyz

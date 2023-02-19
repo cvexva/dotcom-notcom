@@ -1,0 +1,12 @@
+s4u.app
+s4u.biz
+s4u.cat
+s4u.fun
+s4u.ltd
+s4u.net
+s4u.one
+s4u.org
+s4u.top
+s4u.vip
+s4u.xyz
+s4um.ru

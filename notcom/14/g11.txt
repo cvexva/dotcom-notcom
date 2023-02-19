@@ -1,0 +1,4 @@
+g11.foundation
+g11.properties
+g11.technology
+g11betting.xyz

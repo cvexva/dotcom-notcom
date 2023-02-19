@@ -1,0 +1,10 @@
+2io.app
+2io.biz
+2io.net
+2io.org
+2io.sbs
+2io.xyz
+2ion.ru
+2iot.ch
+2iot.io
+2iot.se

@@ -1,0 +1,12 @@
+tzb.at
+tzb.be
+tzb.ch
+tzb.de
+tzb.im
+tzb.it
+tzb.nl
+tzb.pl
+tzb.ru
+tzb.sk
+tzb.st
+tzb.uk

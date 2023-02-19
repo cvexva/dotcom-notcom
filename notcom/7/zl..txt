@@ -1,0 +1,9 @@
+zl.chat
+zl.city
+zl.gold
+zl.immo
+zl.life
+zl.live
+zl.team
+zl.work
+zl.yoga

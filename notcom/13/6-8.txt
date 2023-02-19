@@ -1,0 +1,9 @@
+6-8.education
+6-80.software
+6-81.business
+6-82.business
+6-83.business
+6-86.software
+6-87.football
+6-89.business
+6-89.software

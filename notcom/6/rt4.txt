@@ -1,0 +1,7 @@
+rt4.at
+rt4.ch
+rt4.de
+rt4.mn
+rt4.mx
+rt4.ru
+rt4.su

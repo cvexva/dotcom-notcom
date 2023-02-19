@@ -1,0 +1,7 @@
+os.cleaning
+os.computer
+os.delivery
+os.exchange
+os.holdings
+os.software
+os.ventures

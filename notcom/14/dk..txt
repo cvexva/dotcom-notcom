@@ -1,0 +1,4 @@
+dk.domain.name
+dk.engineering
+dk.szczecin.pl
+dk.xn--vuq861b

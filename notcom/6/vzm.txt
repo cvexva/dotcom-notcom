@@ -1,0 +1,14 @@
+vzm.ag
+vzm.at
+vzm.be
+vzm.ch
+vzm.de
+vzm.eu
+vzm.hu
+vzm.it
+vzm.nl
+vzm.pl
+vzm.ru
+vzm.su
+vzm.uk
+vzm.uz

@@ -1,0 +1,8 @@
+ov.capital
+ov.contact
+ov.country
+ov.digital
+ov.fashion
+ov.finance
+ov.network
+ov.systems

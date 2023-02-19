@@ -1,0 +1,16 @@
+ng.aco
+ng.app
+ng.biz
+ng.dev
+ng.fit
+ng.fyi
+ng.ink
+ng.law
+ng.mba
+ng.net
+ng.new
+ng.org
+ng.run
+ng.vip
+ng.wtf
+ng.xyz

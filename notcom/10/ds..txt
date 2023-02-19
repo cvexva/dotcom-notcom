@@ -1,0 +1,15 @@
+ds.academy
+ds.bauhaus
+ds.capital
+ds.company
+ds.contact
+ds.cooking
+ds.country
+ds.digital
+ds.fashion
+ds.fitness
+ds.limited
+ds.network
+ds.rentals
+ds.systems
+ds.wedding

@@ -1,0 +1,16 @@
+d2b.cc
+d2b.ch
+d2b.cl
+d2b.dk
+d2b.es
+d2b.fr
+d2b.it
+d2b.jp
+d2b.nl
+d2b.pl
+d2b.rs
+d2b.ru
+d2b.se
+d2b.sk
+d2b.su
+d2b.uk

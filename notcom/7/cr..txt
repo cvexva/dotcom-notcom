@@ -1,0 +1,15 @@
+cr.baby
+cr.beer
+cr.care
+cr.casa
+cr.cash
+cr.city
+cr.club
+cr.farm
+cr.life
+cr.link
+cr.luxe
+cr.team
+cr.wiki
+cr.work
+cr.yoga

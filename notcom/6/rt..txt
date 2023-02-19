@@ -1,0 +1,14 @@
+rt.biz
+rt.day
+rt.fit
+rt.fyi
+rt.icu
+rt.ink
+rt.law
+rt.mba
+rt.net
+rt.org
+rt.run
+rt.tel
+rt.vip
+rt.wtf

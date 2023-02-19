@@ -1,0 +1,9 @@
+fk.agency
+fk.com.au
+fk.com.ua
+fk.edu.pe
+fk.inf.br
+fk.market
+fk.net.pl
+fk.org.pl
+fk.org.uk

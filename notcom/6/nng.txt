@@ -1,0 +1,15 @@
+nng.bz
+nng.ch
+nng.cn
+nng.co
+nng.de
+nng.hu
+nng.io
+nng.it
+nng.li
+nng.no
+nng.pl
+nng.ru
+nng.se
+nng.su
+nng.uk

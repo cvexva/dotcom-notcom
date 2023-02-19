@@ -1,0 +1,11 @@
+ypd.bg
+ypd.ch
+ypd.cz
+ypd.fr
+ypd.it
+ypd.jp
+ypd.kr
+ypd.nl
+ypd.ru
+ypd.se
+ypd.uk

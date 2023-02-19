@@ -1,0 +1,6 @@
+g2n.biz
+g2n.net
+g2n.org
+g2n.ovh
+g2n.pub
+g2n.xyz

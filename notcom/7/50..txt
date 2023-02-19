@@ -1,0 +1,10 @@
+50.chat
+50.farm
+50.immo
+50.link
+50.luxe
+50.plus
+50.tips
+50.wine
+50.work
+50.yoga

@@ -1,0 +1,17 @@
+jdt.ae
+jdt.ch
+jdt.co
+jdt.de
+jdt.dk
+jdt.es
+jdt.eu
+jdt.fr
+jdt.it
+jdt.kr
+jdt.me
+jdt.nu
+jdt.pl
+jdt.ru
+jdt.se
+jdt.sk
+jdt.uk

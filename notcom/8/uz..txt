@@ -1,0 +1,5 @@
+uz.cards
+uz.co.uk
+uz.me.uk
+uz.pizza
+uz.video

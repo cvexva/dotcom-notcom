@@ -1,0 +1,6 @@
+f1.consulting
+f1.creditcard
+f1.management
+f1.restaurant
+f1.technology
+f1.university

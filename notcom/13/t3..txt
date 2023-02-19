@@ -1,0 +1,5 @@
+t3.consulting
+t3.healthcare
+t3.industries
+t3.realestate
+t3.technology

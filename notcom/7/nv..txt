@@ -1,0 +1,15 @@
+nv.baby
+nv.bike
+nv.casa
+nv.chat
+nv.cyou
+nv.gold
+nv.immo
+nv.jobs
+nv.life
+nv.link
+nv.live
+nv.mobi
+nv.plus
+nv.wiki
+nv.work

@@ -1,0 +1,12 @@
+tf.bike
+tf.bond
+tf.cash
+tf.city
+tf.guru
+tf.live
+tf.news
+tf.plus
+tf.wiki
+tf.work
+tf.yoga
+tf.zone

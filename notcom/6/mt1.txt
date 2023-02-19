@@ -1,0 +1,9 @@
+mt1.at
+mt1.ca
+mt1.ch
+mt1.dk
+mt1.fr
+mt1.it
+mt1.ru
+mt1.uk
+mt1.us

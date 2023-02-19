@@ -1,0 +1,10 @@
+osq.az
+osq.ch
+osq.cn
+osq.co
+osq.de
+osq.fi
+osq.fr
+osq.it
+osq.ru
+osq.uk

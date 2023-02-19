@@ -1,0 +1,12 @@
+tr.builders
+tr.business
+tr.exchange
+tr.football
+tr.holdings
+tr.memorial
+tr.partners
+tr.pictures
+tr.services
+tr.software
+tr.training
+tr.ventures

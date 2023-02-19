@@ -1,0 +1,7 @@
+r-1.ch
+r-1.de
+r-1.lt
+r-1.lu
+r-1.me
+r-1.ru
+r-1.uk

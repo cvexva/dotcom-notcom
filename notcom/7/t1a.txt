@@ -1,0 +1,4 @@
+t1a.dev
+t1a.net
+t1a.org
+t1a.xyz

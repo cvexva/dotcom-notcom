@@ -1,0 +1,14 @@
+pd.care
+pd.chat
+pd.city
+pd.cool
+pd.coop
+pd.immo
+pd.kiwi
+pd.life
+pd.link
+pd.live
+pd.team
+pd.wine
+pd.work
+pd.yoga

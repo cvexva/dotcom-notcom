@@ -1,0 +1,9 @@
+gh.academy
+gh.capital
+gh.contact
+gh.country
+gh.digital
+gh.fashion
+gh.holiday
+gh.network
+gh.whoswho

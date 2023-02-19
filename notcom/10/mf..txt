@@ -1,0 +1,13 @@
+mf.academy
+mf.company
+mf.contact
+mf.country
+mf.digital
+mf.express
+mf.fashion
+mf.finance
+mf.kitchen
+mf.network
+mf.unsa.ba
+mf.wedding
+mf.whoswho

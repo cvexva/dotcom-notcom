@@ -1,0 +1,16 @@
+fr.abogado
+fr.academy
+fr.capital
+fr.company
+fr.contact
+fr.cooking
+fr.country
+fr.express
+fr.fashion
+fr.finance
+fr.gallery
+fr.genting
+fr.network
+fr.rentals
+fr.wedding
+fr.whoswho

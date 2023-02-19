@@ -1,0 +1,15 @@
+qr.boutique
+qr.builders
+qr.business
+qr.catering
+qr.clothing
+qr.delivery
+qr.exchange
+qr.football
+qr.memorial
+qr.pictures
+qr.services
+qr.shopping
+qr.software
+qr.training
+qr.ventures

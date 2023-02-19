@@ -1,0 +1,6 @@
+sqx.cc
+sqx.ch
+sqx.dk
+sqx.it
+sqx.ru
+sqx.uk

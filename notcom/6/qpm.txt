@@ -1,0 +1,17 @@
+qpm.be
+qpm.ca
+qpm.ch
+qpm.de
+qpm.dk
+qpm.eu
+qpm.fi
+qpm.fr
+qpm.gr
+qpm.ie
+qpm.io
+qpm.nu
+qpm.pl
+qpm.ru
+qpm.se
+qpm.sk
+qpm.uk

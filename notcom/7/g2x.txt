@@ -1,0 +1,7 @@
+g2x.app
+g2x.dev
+g2x.net
+g2x.org
+g2x.top
+g2x.xyz
+g2xs.pw

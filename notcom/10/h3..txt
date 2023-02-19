@@ -1,0 +1,5 @@
+h3.capital
+h3.country
+h3.digital
+h3.hamburg
+h3.network

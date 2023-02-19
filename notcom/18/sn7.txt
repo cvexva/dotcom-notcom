@@ -1,0 +1,11 @@
+sn74ahct240pwr.top
+sn74ahct273pwr.top
+sn74cbt3125pwr.top
+sn74hc14qpwrq1.top
+sn74hc595brwnr.top
+sn74lv123argyr.top
+sn74lv1t34dbvr.top
+sn74lv4t125pwr.top
+sn74lvc4245adw.top
+sn74lvc4245apw.top
+sn74lvch244apw.top

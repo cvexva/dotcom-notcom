@@ -1,0 +1,15 @@
+pyd.be
+pyd.ch
+pyd.de
+pyd.es
+pyd.eu
+pyd.fr
+pyd.io
+pyd.it
+pyd.jp
+pyd.nu
+pyd.ru
+pyd.se
+pyd.sk
+pyd.su
+pyd.uk

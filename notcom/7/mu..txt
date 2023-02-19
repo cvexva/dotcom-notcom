@@ -1,0 +1,14 @@
+mu.beer
+mu.cafe
+mu.city
+mu.land
+mu.life
+mu.link
+mu.luxe
+mu.plus
+mu.porn
+mu.team
+mu.toys
+mu.wiki
+mu.work
+mu.yoga

@@ -1,0 +1,8 @@
+sa2.cc
+sa2.dk
+sa2.eu
+sa2.jp
+sa2.kr
+sa2.ru
+sa2.uk
+sa2.us

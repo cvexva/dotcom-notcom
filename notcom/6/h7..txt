@@ -1,0 +1,8 @@
+h7.fit
+h7.ink
+h7.llc
+h7.ltd
+h7.net
+h7.org
+h7.tel
+h7.vip

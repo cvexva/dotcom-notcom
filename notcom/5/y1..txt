@@ -1,0 +1,17 @@
+y1.am
+y1.be
+y1.ca
+y1.cl
+y1.de
+y1.fr
+y1.hk
+y1.io
+y1.nl
+y1.nu
+y1.pl
+y1.rs
+y1.ru
+y1.se
+y1.sk
+y1.su
+y1.uk

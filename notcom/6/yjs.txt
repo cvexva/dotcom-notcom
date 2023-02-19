@@ -1,0 +1,10 @@
+yjs.co
+yjs.de
+yjs.eu
+yjs.fi
+yjs.fr
+yjs.it
+yjs.jp
+yjs.ru
+yjs.se
+yjs.uk

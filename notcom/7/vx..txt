@@ -1,0 +1,7 @@
+vx.cash
+vx.chat
+vx.gmbh
+vx.link
+vx.live
+vx.team
+vx.zone

@@ -1,0 +1,8 @@
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-deggendorf.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-ingolstadt.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-kaufbeuren.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-mindelheim.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-muenchberg.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-regensburg.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-schwandorf.bayern
+amt-fuer-ernaehrung-landwirtschaft-und-forsten-traunstein.bayern

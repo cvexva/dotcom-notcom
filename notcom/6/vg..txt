@@ -1,0 +1,7 @@
+vg.aco
+vg.biz
+vg.fit
+vg.law
+vg.net
+vg.org
+vg.vip

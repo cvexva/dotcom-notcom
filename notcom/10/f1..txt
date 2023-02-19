@@ -1,0 +1,14 @@
+f1.academy
+f1.auction
+f1.capital
+f1.contact
+f1.country
+f1.digital
+f1.domains
+f1.fashion
+f1.finance
+f1.flights
+f1.monster
+f1.network
+f1.reviews
+f1.tickets

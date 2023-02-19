@@ -1,0 +1,15 @@
+hl-1.tv
+hl-b.de
+hl-b.jp
+hl-c.eu
+hl-c.jp
+hl-c.ru
+hl-d.pl
+hl-g.de
+hl-m.ru
+hl-p.ru
+hl-s.fi
+hl-s.ru
+hl-t.de
+hl-v.at
+hl-v.eu

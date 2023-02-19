@@ -1,0 +1,3 @@
+rs.domain.name
+rs.investments
+rs.xn--vuq861b

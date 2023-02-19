@@ -1,0 +1,13 @@
+ot.academy
+ot.capital
+ot.company
+ot.contact
+ot.country
+ot.digital
+ot.fashion
+ot.fitness
+ot.govt.nz
+ot.kiev.ua
+ot.limited
+ot.network
+ot.systems

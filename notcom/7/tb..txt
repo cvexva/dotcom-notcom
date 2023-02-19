@@ -1,0 +1,16 @@
+tb.chat
+tb.club
+tb.cool
+tb.cyou
+tb.fish
+tb.fund
+tb.game
+tb.immo
+tb.link
+tb.live
+tb.plus
+tb.team
+tb.tips
+tb.wiki
+tb.work
+tb.yoga

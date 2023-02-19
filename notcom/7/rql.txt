@@ -1,0 +1,11 @@
+rql.app
+rql.dev
+rql.net
+rql.one
+rql.org
+rql.vip
+rql.xyz
+rqle.cn
+rqln.cn
+rqlo.ru
+rqlw.cn

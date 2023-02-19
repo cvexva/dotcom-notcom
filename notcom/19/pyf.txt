@@ -1,0 +1,7 @@
+pyfound.blogspot.ca
+pyfound.blogspot.de
+pyfound.blogspot.fr
+pyfound.blogspot.jp
+pyfoundation.online
+pyfoundation.org.uk
+pyfy.readthedocs.io

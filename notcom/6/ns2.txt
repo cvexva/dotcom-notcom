@@ -1,0 +1,13 @@
+ns2.ch
+ns2.fr
+ns2.io
+ns2.kz
+ns2.lt
+ns2.md
+ns2.nl
+ns2.ru
+ns2.se
+ns2.sk
+ns2.su
+ns2.uk
+ns2.us

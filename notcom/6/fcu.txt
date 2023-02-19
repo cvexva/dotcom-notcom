@@ -1,0 +1,13 @@
+fcu.at
+fcu.ch
+fcu.de
+fcu.es
+fcu.fr
+fcu.ir
+fcu.it
+fcu.jp
+fcu.pl
+fcu.ru
+fcu.ua
+fcu.uk
+fcu.us

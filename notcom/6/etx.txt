@@ -1,0 +1,17 @@
+etx.by
+etx.ca
+etx.ch
+etx.co
+etx.de
+etx.fi
+etx.fr
+etx.hu
+etx.io
+etx.ng
+etx.nl
+etx.pl
+etx.ru
+etx.se
+etx.sk
+etx.su
+etx.uk

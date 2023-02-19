@@ -1,0 +1,4 @@
+ru.apartments
+ru.consulting
+ru.healthcare
+ru.technology

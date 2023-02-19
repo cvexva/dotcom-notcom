@@ -1,0 +1,3 @@
+xs.industries
+xs.restaurant
+xs.technology

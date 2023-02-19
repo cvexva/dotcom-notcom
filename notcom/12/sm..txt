@@ -1,0 +1,10 @@
+sm.amsterdam
+sm.education
+sm.glogow.pl
+sm.institute
+sm.kalisz.pl
+sm.marketing
+sm.olecko.pl
+sm.poznan.pl
+sm.rybnik.pl
+sm.solutions

@@ -1,0 +1,4 @@
+cq.associates
+cq.properties
+cq.technology
+cq.university

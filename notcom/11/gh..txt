@@ -1,0 +1,4 @@
+gh.holdings
+gh.partners
+gh.services
+gh.ventures

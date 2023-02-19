@@ -1,0 +1,16 @@
+jc.band
+jc.cafe
+jc.camp
+jc.chat
+jc.club
+jc.cool
+jc.immo
+jc.link
+jc.live
+jc.luxe
+jc.shop
+jc.show
+jc.team
+jc.tips
+jc.work
+jc.yoga

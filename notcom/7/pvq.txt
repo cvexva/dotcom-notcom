@@ -1,0 +1,11 @@
+pvq.app
+pvq.ink
+pvq.moe
+pvq.net
+pvq.org
+pvq.vip
+pvq.xyz
+pvqi.cn
+pvqm.de
+pvqn.cn
+pvqv.cn

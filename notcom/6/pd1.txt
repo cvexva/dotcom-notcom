@@ -1,0 +1,7 @@
+pd1.be
+pd1.cn
+pd1.de
+pd1.dk
+pd1.pl
+pd1.ru
+pd1.uk

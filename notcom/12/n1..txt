@@ -1,0 +1,2 @@
+n1.education
+n1.solutions

@@ -1,0 +1,17 @@
+gp.aco
+gp.app
+gp.biz
+gp.cpa
+gp.fit
+gp.fyi
+gp.icu
+gp.law
+gp.mba
+gp.net
+gp.ooo
+gp.org
+gp.run
+gp.sex
+gp.vip
+gp.wtf
+gp.xyz

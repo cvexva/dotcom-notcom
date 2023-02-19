@@ -1,0 +1,12 @@
+fd.academy
+fd.capital
+fd.company
+fd.contact
+fd.cooking
+fd.country
+fd.digital
+fd.fashion
+fd.finance
+fd.network
+fd.support
+fd.wedding

@@ -1,0 +1,5 @@
+t5-board.de
+t5-event.de
+t5-forum.de
+t5-forum.pl
+t5-spezi.de

@@ -1,0 +1,11 @@
+3mc.app
+3mc.biz
+3mc.dev
+3mc.ltd
+3mc.net
+3mc.org
+3mc.top
+3mc.xyz
+3mco.uk
+3mcs.in
+3mct.eu

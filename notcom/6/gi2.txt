@@ -1,0 +1,6 @@
+gi2.be
+gi2.ch
+gi2.de
+gi2.io
+gi2.jp
+gi2.pt

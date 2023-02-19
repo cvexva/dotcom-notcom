@@ -1,0 +1,8 @@
+wasserwirtschaftsamt-ansbach-flussmeisterstelle-ansbach.bayern
+wasserwirtschaftsamt-donauwoerth-servicestelle-krumbach.bayern
+wasserwirtschaftsamt-kempten-flussmeisterstelle-fuessen.bayern
+wasserwirtschaftsamt-kempten-flussmeisterstelle-kempten.bayern
+wasserwirtschaftsamt-kronach-flussmeisterstelle-bamberg.bayern
+wasserwirtschaftsamt-kronach-flussmeisterstelle-kronach.bayern
+wasserwirtschaftsamt-muenchen-flussmeisterstelle-dachau.bayern
+wasserwirtschaftsamt-weilheim-flussmeisterstelle-oberau.bayern

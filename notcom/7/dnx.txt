@@ -1,0 +1,16 @@
+dnx.app
+dnx.biz
+dnx.lol
+dnx.net
+dnx.one
+dnx.org
+dnx.vip
+dnx.xyz
+dnxd.ga
+dnxh.cn
+dnxi.de
+dnxq.cn
+dnxr.ch
+dnxt.jp
+dnxt.pt
+dnxx.de

@@ -1,0 +1,15 @@
+oi.app
+oi.biz
+oi.dev
+oi.dog
+oi.fit
+oi.fyi
+oi.law
+oi.net
+oi.org
+oi.pub
+oi.run
+oi.uno
+oi.vip
+oi.wtf
+oi.xyz

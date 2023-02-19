@@ -1,0 +1,12 @@
+zt.biz
+zt.dev
+zt.fit
+zt.fyi
+zt.law
+zt.net
+zt.org
+zt.tax
+zt.tel
+zt.vip
+zt.wtf
+zt.xyz

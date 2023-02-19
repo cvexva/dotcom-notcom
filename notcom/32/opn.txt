@@ -1,0 +1,2 @@
+opnfv-bottlenecks.readthedocs.io
+opnfv-compass4nfv.readthedocs.io

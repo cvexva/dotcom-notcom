@@ -1,0 +1,5 @@
+6g-acia.org
+6g-gps.info
+6g-hub.info
+6g-map.info
+6g-v2x.info

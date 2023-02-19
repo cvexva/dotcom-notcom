@@ -1,0 +1,8 @@
+p4x.app
+p4x.biz
+p4x.net
+p4x.one
+p4x.org
+p4x.xyz
+p4x4.it
+p4x4.ru

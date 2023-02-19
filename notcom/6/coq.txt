@@ -1,0 +1,17 @@
+coq.be
+coq.ch
+coq.de
+coq.dk
+coq.fr
+coq.hu
+coq.in
+coq.io
+coq.jp
+coq.me
+coq.nl
+coq.no
+coq.nu
+coq.pl
+coq.ru
+coq.sk
+coq.uk

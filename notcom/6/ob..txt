@@ -1,0 +1,15 @@
+ob.app
+ob.biz
+ob.dev
+ob.fit
+ob.fyi
+ob.ink
+ob.law
+ob.net
+ob.nrw
+ob.org
+ob.run
+ob.tel
+ob.vip
+ob.wtf
+ob.xyz

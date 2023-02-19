@@ -1,0 +1,13 @@
+py.ac.th
+py.cards
+py.co.kr
+py.co.th
+py.co.uk
+py.email
+py.me.uk
+py.miami
+py.pizza
+py.rocks
+py.tools
+py.watch
+py.world

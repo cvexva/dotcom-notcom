@@ -1,0 +1,5 @@
+wc2.cc
+wc2.de
+wc2.io
+wc2.ru
+wc2.uk

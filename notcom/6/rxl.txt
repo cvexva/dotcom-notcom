@@ -1,0 +1,13 @@
+rxl.be
+rxl.ch
+rxl.de
+rxl.dk
+rxl.es
+rxl.eu
+rxl.fr
+rxl.it
+rxl.jp
+rxl.pt
+rxl.ru
+rxl.se
+rxl.uk

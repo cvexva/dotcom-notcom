@@ -1,0 +1,16 @@
+p4m.app
+p4m.art
+p4m.bet
+p4m.biz
+p4m.dev
+p4m.net
+p4m.org
+p4m.top
+p4m.vip
+p4m.xyz
+p4m1.cn
+p4mc.de
+p4mc.ru
+p4mi.ru
+p4mm.de
+p4mr.de

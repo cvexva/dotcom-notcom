@@ -1,0 +1,4 @@
+k2.consulting
+k2.foundation
+k2.properties
+k2.technology

@@ -1,0 +1,8 @@
+18.capital
+18.contact
+18.country
+18.digital
+18.domains
+18.exposed
+18.fashion
+18.network

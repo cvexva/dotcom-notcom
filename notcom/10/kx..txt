@@ -1,0 +1,9 @@
+kx.capital
+kx.country
+kx.digital
+kx.fashion
+kx.finance
+kx.fitness
+kx.network
+kx.systems
+kx.wedding

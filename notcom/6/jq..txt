@@ -1,0 +1,11 @@
+jq.biz
+jq.fit
+jq.fyi
+jq.ink
+jq.law
+jq.net
+jq.org
+jq.run
+jq.vip
+jq.wtf
+jq.xyz

@@ -1,0 +1,17 @@
+dow.aw
+dow.ch
+dow.de
+dow.es
+dow.ie
+dow.it
+dow.nl
+dow.nu
+dow.pl
+dow.pt
+dow.ru
+dow.sa
+dow.se
+dow.sh
+dow.sk
+dow.uk
+dow.us

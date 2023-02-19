@@ -1,0 +1,9 @@
+nr.aco
+nr.biz
+nr.fit
+nr.fyi
+nr.law
+nr.net
+nr.org
+nr.run
+nr.vip

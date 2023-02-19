@@ -1,0 +1,10 @@
+eq1.app
+eq1.net
+eq1.org
+eq1.top
+eq10.de
+eq10.eu
+eq14.cn
+eq17.cn
+eq18.se
+eq1n.cc

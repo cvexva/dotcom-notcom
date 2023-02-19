@@ -1,0 +1,13 @@
+1w-bonus.pro
+1w-in.online
+1w-money.pro
+1w-team.site
+1w-tst-1.cfd
+1w-tst-2.cfd
+1w-tst-3.cfd
+1w-tst-4.cfd
+1w-tst-5.cfd
+1w-tst-6.cfd
+1w-tst-7.cfd
+1w-tst-8.cfd
+1w-tst-9.cfd

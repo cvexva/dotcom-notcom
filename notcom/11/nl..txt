@@ -1,0 +1,8 @@
+nl.business
+nl.catering
+nl.clothing
+nl.computer
+nl.mortgage
+nl.pictures
+nl.shopping
+nl.vanguard

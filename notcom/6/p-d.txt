@@ -1,0 +1,16 @@
+p-d.at
+p-d.be
+p-d.by
+p-d.ch
+p-d.cz
+p-d.eu
+p-d.gr
+p-d.ie
+p-d.it
+p-d.nu
+p-d.pl
+p-d.ru
+p-d.se
+p-d.si
+p-d.tv
+p-d.uk

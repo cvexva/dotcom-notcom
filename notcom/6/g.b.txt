@@ -1,0 +1,4 @@
+g.bank
+g.beer
+g.best
+g.bike

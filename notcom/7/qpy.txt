@@ -1,0 +1,15 @@
+qpy.app
+qpy.net
+qpy.org
+qpy.vip
+qpy.xyz
+qpya.cn
+qpyc.ie
+qpyi.cn
+qpyj.cn
+qpyk.cn
+qpyl.cn
+qpyn.cn
+qpyr.cn
+qpyu.cn
+qpyz.cn

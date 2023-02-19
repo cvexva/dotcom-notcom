@@ -1,0 +1,17 @@
+ucf.ae
+ucf.be
+ucf.cc
+ucf.ch
+ucf.co
+ucf.de
+ucf.dk
+ucf.ec
+ucf.eu
+ucf.jp
+ucf.me
+ucf.nl
+ucf.pl
+ucf.pt
+ucf.ru
+ucf.se
+ucf.uk

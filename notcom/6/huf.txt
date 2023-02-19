@@ -1,0 +1,17 @@
+huf.at
+huf.ax
+huf.ch
+huf.co
+huf.de
+huf.dk
+huf.fi
+huf.fr
+huf.it
+huf.nu
+huf.pl
+huf.ro
+huf.ru
+huf.se
+huf.sk
+huf.uk
+huf.us

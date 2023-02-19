@@ -1,0 +1,13 @@
+vtx.be
+vtx.ca
+vtx.ch
+vtx.cz
+vtx.hu
+vtx.it
+vtx.jp
+vtx.nl
+vtx.ru
+vtx.se
+vtx.tv
+vtx.uk
+vtx.vn

@@ -1,0 +1,10 @@
+sg3.ca
+sg3.ch
+sg3.cz
+sg3.eu
+sg3.fr
+sg3.it
+sg3.jp
+sg3.me
+sg3.ru
+sg3.uk

@@ -1,0 +1,15 @@
+pxy.ca
+pxy.ch
+pxy.co
+pxy.de
+pxy.eu
+pxy.in
+pxy.io
+pxy.it
+pxy.jp
+pxy.lk
+pxy.nl
+pxy.ru
+pxy.se
+pxy.uk
+pxy.us

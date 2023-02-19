@@ -1,0 +1,11 @@
+yp.app
+yp.biz
+yp.fit
+yp.fyi
+yp.ink
+yp.law
+yp.net
+yp.org
+yp.rip
+yp.vip
+yp.wtf

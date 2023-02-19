@@ -1,0 +1,7 @@
+qs.abogado
+qs.capital
+qs.country
+qs.digital
+qs.fashion
+qs.network
+qs.systems

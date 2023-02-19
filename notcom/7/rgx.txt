@@ -1,0 +1,9 @@
+rgx.day
+rgx.dev
+rgx.net
+rgx.one
+rgx.org
+rgx.vip
+rgx.xyz
+rgxf.cn
+rgxl.cn

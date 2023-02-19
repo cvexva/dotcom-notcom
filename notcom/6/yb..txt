@@ -1,0 +1,12 @@
+yb.app
+yb.biz
+yb.dev
+yb.fit
+yb.fyi
+yb.law
+yb.net
+yb.org
+yb.run
+yb.tax
+yb.vip
+yb.xyz

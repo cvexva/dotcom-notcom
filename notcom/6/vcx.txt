@@ -1,0 +1,11 @@
+vcx.ch
+vcx.de
+vcx.fr
+vcx.it
+vcx.kr
+vcx.pl
+vcx.ru
+vcx.se
+vcx.su
+vcx.uk
+vcx.us

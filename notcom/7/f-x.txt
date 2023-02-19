@@ -1,0 +1,9 @@
+f-x.app
+f-x.biz
+f-x.dev
+f-x.net
+f-x.org
+f-x.top
+f-x.vip
+f-x.xyz
+f-xa.co

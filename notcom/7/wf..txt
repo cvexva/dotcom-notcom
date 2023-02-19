@@ -1,0 +1,13 @@
+wf.camp
+wf.city
+wf.club
+wf.cyou
+wf.farm
+wf.gmbh
+wf.gold
+wf.life
+wf.show
+wf.team
+wf.wiki
+wf.work
+wf.zone

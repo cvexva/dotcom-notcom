@@ -1,0 +1,13 @@
+qsd.ba
+qsd.ca
+qsd.ch
+qsd.de
+qsd.dk
+qsd.fr
+qsd.ie
+qsd.it
+qsd.kz
+qsd.nl
+qsd.pl
+qsd.ru
+qsd.uk

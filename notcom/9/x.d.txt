@@ -1,0 +1,3 @@
+x.dentist
+x.digital
+x.domains

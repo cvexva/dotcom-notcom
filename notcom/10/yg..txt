@@ -1,0 +1,4 @@
+yg.capital
+yg.country
+yg.digital
+yg.fashion

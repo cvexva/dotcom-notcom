@@ -1,0 +1,11 @@
+wv.agency
+wv.center
+wv.church
+wv.com.br
+wv.com.mx
+wv.com.pl
+wv.com.tw
+wv.insure
+wv.lawyer
+wv.org.au
+wv.org.uk

@@ -1,0 +1,2 @@
+cy.domain.name
+cy.xn--vuq861b

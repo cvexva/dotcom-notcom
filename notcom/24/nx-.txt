@@ -1,0 +1,3 @@
+nx-macro-controller.info
+nx-python.readthedocs.io
+nx-reception-mng-dev.net

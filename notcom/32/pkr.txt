@@ -1,0 +1,1 @@
+pkra-mathjax-docs.readthedocs.io

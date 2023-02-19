@@ -1,0 +1,17 @@
+qbe.ae
+qbe.at
+qbe.be
+qbe.ch
+qbe.co
+qbe.de
+qbe.dk
+qbe.ee
+qbe.gg
+qbe.hk
+qbe.it
+qbe.nl
+qbe.pl
+qbe.ru
+qbe.se
+qbe.sk
+qbe.uk

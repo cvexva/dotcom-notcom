@@ -1,0 +1,9 @@
+t2c.be
+t2c.ch
+t2c.fr
+t2c.nl
+t2c.no
+t2c.pl
+t2c.ru
+t2c.se
+t2c.su

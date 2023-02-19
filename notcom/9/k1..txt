@@ -1,0 +1,17 @@
+k1.agency
+k1.bayern
+k1.beauty
+k1.church
+k1.com.au
+k1.com.br
+k1.com.pl
+k1.com.ua
+k1.design
+k1.direct
+k1.insure
+k1.london
+k1.net.cn
+k1.net.ua
+k1.org.uk
+k1.report
+k1.studio

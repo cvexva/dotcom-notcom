@@ -1,0 +1,13 @@
+5t.actor
+5t.bingo
+5t.boats
+5t.co.kr
+5t.co.uk
+5t.gives
+5t.homes
+5t.irish
+5t.legal
+5t.media
+5t.movie
+5t.rodeo
+5t.world

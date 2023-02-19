@@ -1,0 +1,17 @@
+dt.biz
+dt.cpa
+dt.dev
+dt.fit
+dt.fox
+dt.fyi
+dt.inc
+dt.ink
+dt.law
+dt.mba
+dt.net
+dt.onl
+dt.org
+dt.run
+dt.vip
+dt.wtf
+dt.xin

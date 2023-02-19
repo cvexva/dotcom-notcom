@@ -1,0 +1,6 @@
+s8.city
+s8.club
+s8.guru
+s8.link
+s8.live
+s8.work

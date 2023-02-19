@@ -1,0 +1,13 @@
+oid.cc
+oid.ch
+oid.dk
+oid.es
+oid.kr
+oid.no
+oid.nu
+oid.pl
+oid.pw
+oid.ru
+oid.se
+oid.su
+oid.uk

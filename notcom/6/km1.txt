@@ -1,0 +1,10 @@
+km1.cl
+km1.cn
+km1.de
+km1.hk
+km1.it
+km1.jp
+km1.kz
+km1.pl
+km1.ru
+km1.se

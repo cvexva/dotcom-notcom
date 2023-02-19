@@ -1,0 +1,16 @@
+b2d.app
+b2d.art
+b2d.biz
+b2d.dev
+b2d.fyi
+b2d.net
+b2d.org
+b2d.ovh
+b2d.wtf
+b2d.xyz
+b2d2.se
+b2dc.io
+b2de.de
+b2do.ru
+b2ds.io
+b2dv.de

@@ -1,0 +1,14 @@
+qpt.ae
+qpt.al
+qpt.ca
+qpt.cc
+qpt.ch
+qpt.de
+qpt.es
+qpt.hu
+qpt.it
+qpt.jp
+qpt.pl
+qpt.ru
+qpt.se
+qpt.uk

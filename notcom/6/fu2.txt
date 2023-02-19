@@ -1,0 +1,7 @@
+fu2.ch
+fu2.de
+fu2.fr
+fu2.no
+fu2.ru
+fu2.se
+fu2.uk

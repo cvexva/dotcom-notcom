@@ -1,0 +1,8 @@
+agq.cc
+agq.ch
+agq.de
+agq.fr
+agq.it
+agq.jp
+agq.ru
+agq.uk

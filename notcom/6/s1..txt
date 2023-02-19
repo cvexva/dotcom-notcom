@@ -1,0 +1,14 @@
+s1.app
+s1.biz
+s1.cfd
+s1.fit
+s1.fyi
+s1.ink
+s1.law
+s1.ltd
+s1.net
+s1.org
+s1.pub
+s1.tel
+s1.vip
+s1.wtf

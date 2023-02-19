@@ -1,0 +1,6 @@
+s1.chat
+s1.guru
+s1.skin
+s1.surf
+s1.tips
+s1.work

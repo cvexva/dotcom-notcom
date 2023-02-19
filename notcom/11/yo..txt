@@ -1,0 +1,6 @@
+yo.business
+yo.clothing
+yo.delivery
+yo.engineer
+yo.services
+yo.software

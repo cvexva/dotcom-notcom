@@ -1,0 +1,13 @@
+rxp.app
+rxp.biz
+rxp.dev
+rxp.fit
+rxp.net
+rxp.one
+rxp.org
+rxp.ovh
+rxp.vip
+rxpg.de
+rxpm.cn
+rxpq.uk
+rxpv.cn

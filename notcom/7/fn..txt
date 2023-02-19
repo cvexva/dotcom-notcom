@@ -1,0 +1,15 @@
+fn.bank
+fn.beer
+fn.chat
+fn.haus
+fn.immo
+fn.land
+fn.link
+fn.live
+fn.luxe
+fn.news
+fn.team
+fn.wiki
+fn.work
+fn.yoga
+fn.zone

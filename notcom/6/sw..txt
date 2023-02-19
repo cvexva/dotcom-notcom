@@ -1,0 +1,17 @@
+sw.app
+sw.biz
+sw.cpa
+sw.dev
+sw.dog
+sw.fit
+sw.fyi
+sw.law
+sw.net
+sw.nrw
+sw.onl
+sw.org
+sw.run
+sw.tel
+sw.vip
+sw.wtf
+sw.xyz

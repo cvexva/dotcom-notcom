@@ -1,0 +1,10 @@
+dxl.ae
+dxl.be
+dxl.ch
+dxl.dk
+dxl.es
+dxl.fr
+dxl.ru
+dxl.se
+dxl.sk
+dxl.uk

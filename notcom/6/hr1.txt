@@ -1,0 +1,9 @@
+hr1.at
+hr1.ch
+hr1.de
+hr1.kr
+hr1.lt
+hr1.mx
+hr1.ru
+hr1.se
+hr1.uk

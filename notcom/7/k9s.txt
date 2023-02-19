@@ -1,0 +1,15 @@
+k9s.app
+k9s.biz
+k9s.dev
+k9s.dog
+k9s.fun
+k9s.net
+k9s.org
+k9s.run
+k9s.top
+k9s.vet
+k9s.xyz
+k9sf.us
+k9sg.ch
+k9sp.fr
+k9ss.io

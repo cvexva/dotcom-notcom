@@ -1,0 +1,8 @@
+y4.app
+y4.biz
+y4.fit
+y4.fyi
+y4.ink
+y4.net
+y4.org
+y4.vip

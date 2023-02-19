@@ -1,0 +1,3 @@
+tv.international
+tv.malopolska.pl
+tv.tarnobrzeg.pl

@@ -1,0 +1,5 @@
+8b.country
+8b.finance
+8b.fishing
+8b.network
+8b.wedding

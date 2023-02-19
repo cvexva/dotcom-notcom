@@ -1,0 +1,2 @@
+qta-testbase.readthedocs.io
+qtag-generalunternehmung.ch

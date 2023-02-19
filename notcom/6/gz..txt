@@ -1,0 +1,10 @@
+gz.biz
+gz.fit
+gz.fyi
+gz.law
+gz.net
+gz.org
+gz.run
+gz.tel
+gz.vip
+gz.win

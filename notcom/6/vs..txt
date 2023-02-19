@@ -1,0 +1,16 @@
+vs.app
+vs.biz
+vs.dev
+vs.dog
+vs.fit
+vs.ink
+vs.law
+vs.net
+vs.onl
+vs.org
+vs.run
+vs.tax
+vs.vet
+vs.vip
+vs.wtf
+vs.xyz

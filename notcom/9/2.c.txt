@@ -1,0 +1,5 @@
+2.capital
+2.careers
+2.company
+2.cooking
+2.country

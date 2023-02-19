@@ -1,0 +1,12 @@
+fk.aco
+fk.biz
+fk.dev
+fk.fit
+fk.fyi
+fk.ink
+fk.law
+fk.mba
+fk.net
+fk.org
+fk.vip
+fk.wtf

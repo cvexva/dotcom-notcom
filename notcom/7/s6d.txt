@@ -1,0 +1,4 @@
+s6d.app
+s6d.dev
+s6d.net
+s6d.top

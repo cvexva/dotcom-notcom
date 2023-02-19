@@ -1,0 +1,9 @@
+x0r.app
+x0r.biz
+x0r.dev
+x0r.net
+x0r.one
+x0r.org
+x0r.ovh
+x0r.wtf
+x0r.xyz

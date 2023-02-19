@@ -1,0 +1,9 @@
+jqa.app
+jqa.cat
+jqa.dev
+jqa.icu
+jqa.net
+jqa.org
+jqa.vip
+jqa.xyz
+jqad.cc

@@ -1,0 +1,13 @@
+as2.ae
+as2.at
+as2.be
+as2.ch
+as2.fr
+as2.io
+as2.it
+as2.jp
+as2.nl
+as2.nu
+as2.pl
+as2.ru
+as2.uk

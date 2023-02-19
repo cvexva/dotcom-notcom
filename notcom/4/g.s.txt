@@ -1,0 +1,4 @@
+g.sc
+g.sg
+g.sh
+g.so

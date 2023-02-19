@@ -1,0 +1,2 @@
+tf-bot-control-panel.glitch.me
+tf-embed-with-params.glitch.me

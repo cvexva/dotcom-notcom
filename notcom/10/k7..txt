@@ -1,0 +1,4 @@
+k7.capital
+k7.country
+k7.digital
+k7.network

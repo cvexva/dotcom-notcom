@@ -1,0 +1,14 @@
+kb.biz
+kb.cpa
+kb.dog
+kb.eus
+kb.fit
+kb.fyi
+kb.ink
+kb.law
+kb.net
+kb.org
+kb.tel
+kb.vip
+kb.wtf
+kb.xyz

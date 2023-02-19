@@ -1,0 +1,13 @@
+i2c.ca
+i2c.ch
+i2c.cn
+i2c.de
+i2c.eu
+i2c.fr
+i2c.it
+i2c.jp
+i2c.nl
+i2c.ru
+i2c.se
+i2c.sk
+i2c.uk

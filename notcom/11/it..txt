@@ -1,0 +1,15 @@
+it.airforce
+it.bytom.pl
+it.discover
+it.esurance
+it.ilawa.pl
+it.konin.pl
+it.lundbeck
+it.mortgage
+it.observer
+it.opole.pl
+it.security
+it.sklep.pl
+it.torun.pl
+it.vanguard
+it.volyn.ua

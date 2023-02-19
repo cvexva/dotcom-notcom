@@ -1,0 +1,12 @@
+dut.by
+dut.ca
+dut.ch
+dut.de
+dut.fr
+dut.hr
+dut.pl
+dut.ru
+dut.se
+dut.si
+dut.su
+dut.uk

@@ -1,0 +1,4 @@
+vi.exchange
+vi.partners
+vi.services
+vi.software

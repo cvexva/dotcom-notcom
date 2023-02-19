@@ -1,0 +1,7 @@
+54.capital
+54.company
+54.country
+54.digital
+54.fashion
+54.fitness
+54.network

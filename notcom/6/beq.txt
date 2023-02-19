@@ -1,0 +1,17 @@
+beq.be
+beq.ca
+beq.ch
+beq.co
+beq.dk
+beq.eu
+beq.gr
+beq.in
+beq.it
+beq.ma
+beq.nl
+beq.pl
+beq.pt
+beq.ru
+beq.se
+beq.su
+beq.uk

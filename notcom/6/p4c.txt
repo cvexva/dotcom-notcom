@@ -1,0 +1,16 @@
+p4c.at
+p4c.au
+p4c.ch
+p4c.cz
+p4c.eu
+p4c.fr
+p4c.gr
+p4c.in
+p4c.ir
+p4c.it
+p4c.no
+p4c.nu
+p4c.pl
+p4c.ru
+p4c.se
+p4c.sk

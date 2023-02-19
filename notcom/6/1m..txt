@@ -1,0 +1,11 @@
+1m.app
+1m.biz
+1m.fit
+1m.fyi
+1m.ink
+1m.net
+1m.org
+1m.pub
+1m.tel
+1m.vip
+1m.xyz

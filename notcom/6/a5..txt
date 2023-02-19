@@ -1,0 +1,11 @@
+a5.app
+a5.bet
+a5.biz
+a5.fit
+a5.ink
+a5.net
+a5.org
+a5.tel
+a5.vip
+a5.wtf
+a5.xyz

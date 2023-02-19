@@ -1,0 +1,7 @@
+pr5.cc
+pr5.ch
+pr5.it
+pr5.kr
+pr5.pl
+pr5.ru
+pr5.uk

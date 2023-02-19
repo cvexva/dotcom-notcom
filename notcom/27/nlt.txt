@@ -1,0 +1,2 @@
+nltk-trainer.readthedocs.io
+nltransformandovidas.com.br

@@ -1,0 +1,9 @@
+m0.biz
+m0.eco
+m0.fit
+m0.fyi
+m0.net
+m0.org
+m0.pub
+m0.vip
+m0.xyz

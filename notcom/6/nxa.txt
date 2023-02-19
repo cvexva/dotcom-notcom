@@ -1,0 +1,9 @@
+nxa.at
+nxa.be
+nxa.ch
+nxa.de
+nxa.fr
+nxa.it
+nxa.jp
+nxa.ru
+nxa.uk

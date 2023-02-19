@@ -1,0 +1,16 @@
+s2.app
+s2.biz
+s2.fan
+s2.fit
+s2.fyi
+s2.law
+s2.lol
+s2.net
+s2.org
+s2.pub
+s2.rip
+s2.run
+s2.tel
+s2.vip
+s2.wtf
+s2.xyz

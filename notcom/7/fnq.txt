@@ -1,0 +1,6 @@
+fnq.app
+fnq.biz
+fnq.net
+fnq.org
+fnq.vip
+fnq.xyz

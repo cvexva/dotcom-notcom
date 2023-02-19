@@ -1,0 +1,4 @@
+dq.chat
+dq.link
+dq.wiki
+dq.yoga

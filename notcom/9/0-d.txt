@@ -1,0 +1,9 @@
+0-day.biz
+0-day.dev
+0-day.net
+0-day.org
+0-day.red
+0-day.top
+0-dev.net
+0-dev.org
+0-duo.net

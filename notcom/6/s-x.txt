@@ -1,0 +1,13 @@
+s-x.cc
+s-x.ch
+s-x.co
+s-x.de
+s-x.dk
+s-x.eu
+s-x.it
+s-x.me
+s-x.pl
+s-x.ru
+s-x.se
+s-x.sk
+s-x.uk

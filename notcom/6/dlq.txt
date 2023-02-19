@@ -1,0 +1,8 @@
+dlq.ch
+dlq.de
+dlq.ir
+dlq.it
+dlq.ru
+dlq.se
+dlq.uk
+dlq.us

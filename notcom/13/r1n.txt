@@ -1,0 +1,5 @@
+r1network.app
+r1network.net
+r1network.org
+r1news.com.br
+r1north.co.uk

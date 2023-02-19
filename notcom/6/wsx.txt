@@ -1,0 +1,17 @@
+wsx.at
+wsx.cc
+wsx.ch
+wsx.dk
+wsx.eu
+wsx.fr
+wsx.hu
+wsx.in
+wsx.nl
+wsx.pl
+wsx.re
+wsx.ro
+wsx.ru
+wsx.se
+wsx.su
+wsx.tv
+wsx.uk

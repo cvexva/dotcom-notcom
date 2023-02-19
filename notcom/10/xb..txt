@@ -1,0 +1,9 @@
+xb.auction
+xb.capital
+xb.company
+xb.country
+xb.digital
+xb.domains
+xb.fashion
+xb.finance
+xb.network

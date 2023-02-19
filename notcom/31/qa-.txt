@@ -1,0 +1,3 @@
+qa-awananetwork.pantheonsite.io
+qa-domain-to-test-portal2.co.uk
+qa-sync-hdca-servicemonster.net

@@ -1,0 +1,5 @@
+hc.consulting
+hc.healthcare
+hc.immobilien
+hc.management
+hc.university

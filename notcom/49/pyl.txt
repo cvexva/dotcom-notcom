@@ -1,0 +1,1 @@
+pylms-python-logitech-media-server.readthedocs.io

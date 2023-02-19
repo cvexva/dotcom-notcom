@@ -1,0 +1,17 @@
+hpg.am
+hpg.ch
+hpg.cl
+hpg.dk
+hpg.ee
+hpg.fr
+hpg.gr
+hpg.ir
+hpg.it
+hpg.no
+hpg.nu
+hpg.pl
+hpg.pw
+hpg.ru
+hpg.se
+hpg.su
+hpg.uk

@@ -1,0 +1,5 @@
+x2.capital
+x2.country
+x2.finance
+x2.gallery
+x2.network

@@ -1,0 +1,11 @@
+6m.actor
+6m.bingo
+6m.boats
+6m.co.kr
+6m.co.uk
+6m.homes
+6m.legal
+6m.ninja
+6m.quest
+6m.rodeo
+6m.world

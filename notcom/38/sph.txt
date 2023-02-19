@@ -1,0 +1,3 @@
+sphinx-landing-template.readthedocs.io
+sphinx-plotly-directive.readthedocs.io
+sphinxcontrib-contentui.readthedocs.io

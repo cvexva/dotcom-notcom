@@ -1,0 +1,13 @@
+zx.baby
+zx.beer
+zx.bike
+zx.cafe
+zx.chat
+zx.city
+zx.club
+zx.kiwi
+zx.life
+zx.team
+zx.wang
+zx.work
+zx.yoga

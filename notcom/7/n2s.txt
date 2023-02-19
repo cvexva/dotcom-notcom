@@ -1,0 +1,9 @@
+n2s.app
+n2s.dev
+n2s.net
+n2s.ngo
+n2s.org
+n2s.xyz
+n2sa.uk
+n2se.ca
+n2si.fr

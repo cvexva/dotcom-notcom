@@ -1,0 +1,5 @@
+42.amsterdam
+42.community
+42.education
+42.financial
+42.solutions

@@ -1,0 +1,3 @@
+bt6.cc
+bt6.de
+bt6.uk

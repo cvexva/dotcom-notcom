@@ -1,0 +1,11 @@
+tf1.cc
+tf1.ch
+tf1.fr
+tf1.it
+tf1.kr
+tf1.nl
+tf1.ru
+tf1.se
+tf1.tv
+tf1.uk
+tf1.us

@@ -1,0 +1,12 @@
+ip2.at
+ip2.cc
+ip2.ch
+ip2.es
+ip2.fr
+ip2.in
+ip2.it
+ip2.nl
+ip2.ru
+ip2.sg
+ip2.uk
+ip2.us

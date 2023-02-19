@@ -1,0 +1,12 @@
+pgj.al
+pgj.cc
+pgj.ch
+pgj.de
+pgj.eu
+pgj.fr
+pgj.ir
+pgj.me
+pgj.pl
+pgj.ru
+pgj.se
+pgj.uk

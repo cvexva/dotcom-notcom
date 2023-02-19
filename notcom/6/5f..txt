@@ -1,0 +1,11 @@
+5f.app
+5f.biz
+5f.dev
+5f.fan
+5f.fit
+5f.fyi
+5f.ink
+5f.net
+5f.org
+5f.pub
+5f.vip

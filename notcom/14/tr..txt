@@ -1,0 +1,4 @@
+tr.domain.name
+tr.enterprises
+tr.investments
+tr.xn--vuq861b

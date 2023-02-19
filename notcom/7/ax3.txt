@@ -1,0 +1,16 @@
+ax3.app
+ax3.art
+ax3.bio
+ax3.dev
+ax3.fun
+ax3.net
+ax3.one
+ax3.org
+ax3.top
+ax3.xyz
+ax34.cn
+ax36.ru
+ax38.ru
+ax39.ru
+ax3l.de
+ax3l.io

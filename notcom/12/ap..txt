@@ -1,0 +1,7 @@
+ap.amsterdam
+ap.community
+ap.education
+ap.furniture
+ap.kalisz.pl
+ap.marketing
+ap.solutions

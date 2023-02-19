@@ -1,0 +1,6 @@
+3x.charity
+3x.country
+3x.digital
+3x.finance
+3x.fishing
+3x.network

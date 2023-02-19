@@ -1,0 +1,10 @@
+w1.app
+w1.biz
+w1.fan
+w1.fit
+w1.ink
+w1.ltd
+w1.net
+w1.tel
+w1.uno
+w1.vip

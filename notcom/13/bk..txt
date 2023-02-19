@@ -1,0 +1,6 @@
+bk.consulting
+bk.immobilien
+bk.industries
+bk.management
+bk.restaurant
+bk.technology

@@ -1,0 +1,2 @@
+pyforms-gui.readthedocs.io
+pyforms-web.readthedocs.io

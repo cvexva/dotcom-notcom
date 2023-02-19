@@ -1,0 +1,15 @@
+cf.academy
+cf.careers
+cf.company
+cf.contact
+cf.cooking
+cf.coop.br
+cf.country
+cf.digital
+cf.fashion
+cf.finance
+cf.gallery
+cf.network
+cf.support
+cf.wedding
+cf.whoswho

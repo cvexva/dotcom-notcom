@@ -1,0 +1,8 @@
+eq3.be
+eq3.ch
+eq3.co
+eq3.de
+eq3.fr
+eq3.jp
+eq3.ru
+eq3.se

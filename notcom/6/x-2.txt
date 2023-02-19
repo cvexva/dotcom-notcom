@@ -1,0 +1,8 @@
+x-2.cc
+x-2.ch
+x-2.in
+x-2.pl
+x-2.pw
+x-2.ru
+x-2.uk
+x-2.us

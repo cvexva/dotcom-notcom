@@ -1,0 +1,15 @@
+qdo.cc
+qdo.cn
+qdo.de
+qdo.dk
+qdo.ee
+qdo.es
+qdo.fr
+qdo.it
+qdo.jp
+qdo.nl
+qdo.pt
+qdo.ru
+qdo.se
+qdo.tw
+qdo.uk

@@ -1,0 +1,16 @@
+glw.at
+glw.be
+glw.ch
+glw.cn
+glw.de
+glw.io
+glw.it
+glw.jp
+glw.me
+glw.ng
+glw.no
+glw.pl
+glw.ru
+glw.se
+glw.uk
+glw.us

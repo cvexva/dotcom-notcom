@@ -1,0 +1,6 @@
+30.capital
+30.country
+30.coupons
+30.digital
+30.fashion
+30.network

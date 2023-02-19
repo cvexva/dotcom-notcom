@@ -1,0 +1,16 @@
+qtr.be
+qtr.ch
+qtr.de
+qtr.dk
+qtr.eu
+qtr.fr
+qtr.in
+qtr.io
+qtr.it
+qtr.nl
+qtr.pl
+qtr.ru
+qtr.se
+qtr.tv
+qtr.uk
+qtr.us

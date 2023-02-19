@@ -1,0 +1,12 @@
+jxf.app
+jxf.art
+jxf.bet
+jxf.dev
+jxf.icu
+jxf.net
+jxf.org
+jxf.vip
+jxf.xyz
+jxfa.cn
+jxfb.cn
+jxfs.de

@@ -1,0 +1,5 @@
+9-hotel-bastille-lyon.fr
+9-hotel-geneve-centre.ch
+9-hotel-geneve-paquis.ch
+9-hotel-paquis-geneva.ch
+9-hotel-ribeira-porto.fr

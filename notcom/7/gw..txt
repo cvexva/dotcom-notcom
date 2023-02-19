@@ -1,0 +1,12 @@
+gw.club
+gw.farm
+gw.gold
+gw.immo
+gw.life
+gw.live
+gw.news
+gw.sale
+gw.team
+gw.wiki
+gw.work
+gw.yoga

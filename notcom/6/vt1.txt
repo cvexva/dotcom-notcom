@@ -1,0 +1,6 @@
+vt1.ca
+vt1.de
+vt1.it
+vt1.jp
+vt1.ru
+vt1.uk

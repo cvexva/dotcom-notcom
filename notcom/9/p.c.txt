@@ -1,0 +1,5 @@
+p.capital
+p.careers
+p.company
+p.cooking
+p.country

@@ -1,0 +1,17 @@
+5g.capital
+5g.careers
+5g.charity
+5g.contact
+5g.country
+5g.digital
+5g.fashion
+5g.finance
+5g.fishing
+5g.hamburg
+5g.info.pl
+5g.monster
+5g.network
+5g.reviews
+5g.support
+5g.systems
+5g.wedding

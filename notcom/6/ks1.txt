@@ -1,0 +1,11 @@
+ks1.at
+ks1.cc
+ks1.ch
+ks1.de
+ks1.es
+ks1.eu
+ks1.io
+ks1.ru
+ks1.se
+ks1.su
+ks1.tv

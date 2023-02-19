@@ -1,0 +1,4 @@
+ts.industries
+ts.japan.name
+ts.management
+ts.technology

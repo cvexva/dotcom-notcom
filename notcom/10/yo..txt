@@ -1,0 +1,15 @@
+yo.abogado
+yo.capital
+yo.company
+yo.contact
+yo.country
+yo.digital
+yo.fashion
+yo.finance
+yo.gallery
+yo.limited
+yo.network
+yo.recipes
+yo.reviews
+yo.systems
+yo.wedding

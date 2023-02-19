@@ -1,0 +1,7 @@
+a.sb
+a.sc
+a.sg
+a.sh
+a.si
+a.sn
+a.st

@@ -1,0 +1,14 @@
+db2.ch
+db2.de
+db2.dk
+db2.hu
+db2.in
+db2.io
+db2.jp
+db2.li
+db2.nl
+db2.pl
+db2.ru
+db2.se
+db2.su
+db2.uk

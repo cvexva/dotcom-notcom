@@ -1,0 +1,12 @@
+rgx.ch
+rgx.de
+rgx.eu
+rgx.ge
+rgx.it
+rgx.jp
+rgx.me
+rgx.nl
+rgx.pl
+rgx.pt
+rgx.ru
+rgx.uk

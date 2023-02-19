@@ -1,0 +1,14 @@
+ox.agency
+ox.center
+ox.com.fr
+ox.com.pl
+ox.com.pt
+ox.com.tr
+ox.energy
+ox.eti.br
+ox.family
+ox.garden
+ox.net.br
+ox.org.uk
+ox.school
+ox.studio

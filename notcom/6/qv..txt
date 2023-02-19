@@ -1,0 +1,10 @@
+qv.app
+qv.biz
+qv.fit
+qv.fyi
+qv.law
+qv.net
+qv.org
+qv.run
+qv.vip
+qv.wtf

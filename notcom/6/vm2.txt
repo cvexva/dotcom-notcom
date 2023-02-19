@@ -1,0 +1,9 @@
+vm2.de
+vm2.ee
+vm2.fi
+vm2.hr
+vm2.me
+vm2.nl
+vm2.nu
+vm2.ru
+vm2.tv

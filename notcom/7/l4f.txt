@@ -1,0 +1,6 @@
+l4f.app
+l4f.biz
+l4f.dev
+l4f.fun
+l4f.net
+l4f.org

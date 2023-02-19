@@ -1,0 +1,17 @@
+ax1.app
+ax1.biz
+ax1.net
+ax1.one
+ax1.org
+ax1.sbs
+ax1.top
+ax1.xyz
+ax10.ru
+ax11.cn
+ax11.de
+ax11.ru
+ax12.cn
+ax12.de
+ax12.ru
+ax1j.cn
+ax1m.ch

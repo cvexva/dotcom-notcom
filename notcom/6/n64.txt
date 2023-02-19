@@ -1,0 +1,7 @@
+n64.cc
+n64.ch
+n64.de
+n64.in
+n64.nl
+n64.ru
+n64.uk

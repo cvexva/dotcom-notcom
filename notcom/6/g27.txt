@@ -1,0 +1,7 @@
+g27.ch
+g27.de
+g27.eu
+g27.pl
+g27.ru
+g27.se
+g27.us

@@ -1,0 +1,9 @@
+g2p.ch
+g2p.cz
+g2p.dk
+g2p.fr
+g2p.ma
+g2p.me
+g2p.pl
+g2p.ru
+g2p.sk

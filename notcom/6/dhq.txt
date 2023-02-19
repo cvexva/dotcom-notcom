@@ -1,0 +1,12 @@
+dhq.be
+dhq.ca
+dhq.ch
+dhq.cz
+dhq.eu
+dhq.io
+dhq.it
+dhq.nu
+dhq.ru
+dhq.uk
+dhq.us
+dhq.ws

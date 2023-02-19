@@ -1,0 +1,6 @@
+jy.capital
+jy.country
+jy.digital
+jy.fashion
+jy.myds.me
+jy.network

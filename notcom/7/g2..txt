@@ -1,0 +1,9 @@
+g2.asia
+g2.club
+g2.fund
+g2.life
+g2.link
+g2.live
+g2.luxe
+g2.team
+g2.work

@@ -1,0 +1,15 @@
+mh.aco
+mh.app
+mh.biz
+mh.dev
+mh.fit
+mh.fyi
+mh.ink
+mh.law
+mh.mba
+mh.net
+mh.ooo
+mh.org
+mh.run
+mh.vip
+mh.wtf

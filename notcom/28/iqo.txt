@@ -1,0 +1,4 @@
+iqo-collective-genius.family
+iqo-collective-genius.school
+iqo-collective-genius.studio
+iqo-institute-switzerland.ch

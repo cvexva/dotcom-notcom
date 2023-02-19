@@ -1,0 +1,3 @@
+g.day
+g.dev
+g.dog

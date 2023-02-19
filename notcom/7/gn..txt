@@ -1,0 +1,11 @@
+gn.chat
+gn.farm
+gn.golf
+gn.immo
+gn.link
+gn.sarl
+gn.team
+gn.town
+gn.wiki
+gn.work
+gn.yoga

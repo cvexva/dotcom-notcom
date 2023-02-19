@@ -1,0 +1,6 @@
+gd.boutique
+gd.business
+gd.exchange
+gd.holdings
+gd.partners
+gd.ventures

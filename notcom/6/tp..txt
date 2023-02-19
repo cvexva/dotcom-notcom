@@ -1,0 +1,15 @@
+tp.biz
+tp.dog
+tp.fit
+tp.fyi
+tp.law
+tp.mba
+tp.net
+tp.one
+tp.org
+tp.run
+tp.sbs
+tp.tax
+tp.vin
+tp.vip
+tp.wtf

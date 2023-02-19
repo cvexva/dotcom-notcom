@@ -1,0 +1,14 @@
+f-t.az
+f-t.by
+f-t.ch
+f-t.cz
+f-t.dk
+f-t.fr
+f-t.it
+f-t.pl
+f-t.ru
+f-t.se
+f-t.su
+f-t.tw
+f-t.uk
+f-t.uz

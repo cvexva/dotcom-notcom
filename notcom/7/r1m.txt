@@ -1,0 +1,3 @@
+r1m.app
+r1m.net
+r1m.org

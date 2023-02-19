@@ -1,0 +1,8 @@
+w4g.app
+w4g.biz
+w4g.dev
+w4g.net
+w4g.org
+w4g.ovh
+w4g.vin
+w4g.xyz

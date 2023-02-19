@@ -1,0 +1,13 @@
+gt.capital
+gt.company
+gt.contact
+gt.cooking
+gt.country
+gt.digital
+gt.fashion
+gt.finance
+gt.network
+gt.support
+gt.systems
+gt.wedding
+gt.whoswho

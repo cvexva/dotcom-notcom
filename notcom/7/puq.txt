@@ -1,0 +1,10 @@
+puq.app
+puq.biz
+puq.icu
+puq.net
+puq.org
+puq.pub
+puq.vip
+puqe.cn
+puqf.cn
+puqi.nl

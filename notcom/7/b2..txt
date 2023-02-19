@@ -1,0 +1,15 @@
+b2.band
+b2.bank
+b2.beer
+b2.cash
+b2.chat
+b2.club
+b2.cool
+b2.guru
+b2.immo
+b2.live
+b2.plus
+b2.sale
+b2.skin
+b2.team
+b2.work

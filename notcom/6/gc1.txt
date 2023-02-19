@@ -1,0 +1,5 @@
+gc1.ca
+gc1.in
+gc1.ru
+gc1.se
+gc1.uk

@@ -1,0 +1,11 @@
+kr.capital
+kr.company
+kr.contact
+kr.country
+kr.digital
+kr.fashion
+kr.finance
+kr.kyiv.ua
+kr.markets
+kr.trading
+kr.whoswho

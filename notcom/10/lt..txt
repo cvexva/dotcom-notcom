@@ -1,0 +1,11 @@
+lt.academy
+lt.capital
+lt.company
+lt.contact
+lt.coop.br
+lt.country
+lt.digital
+lt.fashion
+lt.finance
+lt.wedding
+lt.whoswho

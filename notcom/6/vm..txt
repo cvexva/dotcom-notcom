@@ -1,0 +1,16 @@
+vm.app
+vm.biz
+vm.dev
+vm.dog
+vm.fit
+vm.law
+vm.mba
+vm.net
+vm.nrw
+vm.org
+vm.run
+vm.tax
+vm.tel
+vm.uno
+vm.vip
+vm.wtf

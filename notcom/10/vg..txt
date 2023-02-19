@@ -1,0 +1,8 @@
+vg.company
+vg.contact
+vg.cooking
+vg.country
+vg.fashion
+vg.gallery
+vg.wedding
+vg.whoswho

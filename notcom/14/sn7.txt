@@ -1,0 +1,13 @@
+sn74hc109n.top
+sn74hc165d.top
+sn74hc253d.top
+sn74hc595d.top
+sn74ls138n.top
+sn74ls145d.top
+sn74ls145n.top
+sn74ls244n.top
+sn74ls273n.top
+sn74ls393n.top
+sn74ls74an.top
+sn74lv04ad.top
+sn75hvd12d.top

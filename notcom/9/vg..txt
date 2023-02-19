@@ -1,0 +1,13 @@
+vg.agency
+vg.casino
+vg.center
+vg.coffee
+vg.com.au
+vg.com.br
+vg.com.cn
+vg.com.tr
+vg.com.ua
+vg.design
+vg.energy
+vg.org.uk
+vg.studio

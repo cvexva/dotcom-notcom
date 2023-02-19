@@ -1,0 +1,17 @@
+xcv.bg
+xcv.ch
+xcv.co
+xcv.es
+xcv.eu
+xcv.fr
+xcv.hu
+xcv.it
+xcv.kr
+xcv.lt
+xcv.nl
+xcv.nu
+xcv.ru
+xcv.se
+xcv.su
+xcv.uk
+xcv.vc

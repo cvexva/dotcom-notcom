@@ -1,0 +1,5 @@
+yr.cooking
+yr.country
+yr.fashion
+yr.network
+yr.wedding

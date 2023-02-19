@@ -1,0 +1,11 @@
+vp2.cc
+vp2.eu
+vp2.fr
+vp2.hu
+vp2.lt
+vp2.nl
+vp2.pt
+vp2.ru
+vp2.se
+vp2.sk
+vp2.uk

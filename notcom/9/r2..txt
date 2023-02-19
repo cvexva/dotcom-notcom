@@ -1,0 +1,16 @@
+r2.agency
+r2.arq.br
+r2.beauty
+r2.center
+r2.com.au
+r2.com.br
+r2.com.cn
+r2.com.pl
+r2.com.ua
+r2.com.vc
+r2.design
+r2.energy
+r2.far.br
+r2.org.cn
+r2.social
+r2.studio

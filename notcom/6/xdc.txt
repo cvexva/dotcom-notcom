@@ -1,0 +1,16 @@
+xdc.at
+xdc.be
+xdc.ch
+xdc.co
+xdc.de
+xdc.dk
+xdc.eu
+xdc.fr
+xdc.io
+xdc.it
+xdc.nl
+xdc.nz
+xdc.pl
+xdc.ru
+xdc.se
+xdc.uk

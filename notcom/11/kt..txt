@@ -1,0 +1,3 @@
+kt.partners
+kt.ventures
+kt.web.name

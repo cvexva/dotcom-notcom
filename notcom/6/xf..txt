@@ -1,0 +1,11 @@
+xf.app
+xf.biz
+xf.fit
+xf.fyi
+xf.ink
+xf.law
+xf.net
+xf.org
+xf.tel
+xf.vip
+xf.wtf

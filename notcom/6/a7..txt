@@ -1,0 +1,10 @@
+a7.fit
+a7.ink
+a7.law
+a7.net
+a7.org
+a7.pub
+a7.tel
+a7.vip
+a7.wtf
+a7.xyz

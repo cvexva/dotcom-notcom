@@ -1,0 +1,14 @@
+az1.at
+az1.by
+az1.ch
+az1.de
+az1.es
+az1.eu
+az1.fr
+az1.hu
+az1.it
+az1.me
+az1.pl
+az1.ro
+az1.ru
+az1.uk

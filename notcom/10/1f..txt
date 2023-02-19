@@ -1,0 +1,4 @@
+1f.charity
+1f.country
+1f.fishing
+1f.wedding

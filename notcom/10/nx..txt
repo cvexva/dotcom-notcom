@@ -1,0 +1,8 @@
+nx.careers
+nx.contact
+nx.country
+nx.digital
+nx.domains
+nx.fashion
+nx.network
+nx.systems

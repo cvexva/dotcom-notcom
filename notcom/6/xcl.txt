@@ -1,0 +1,12 @@
+xcl.cc
+xcl.ch
+xcl.co
+xcl.de
+xcl.fr
+xcl.it
+xcl.jp
+xcl.nl
+xcl.pl
+xcl.ru
+xcl.se
+xcl.uk

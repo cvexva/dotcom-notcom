@@ -1,0 +1,12 @@
+qgc.app
+qgc.dev
+qgc.ltd
+qgc.net
+qgc.org
+qgc.vip
+qgc.xyz
+qgcj.cn
+qgcq.cn
+qgcs.cn
+qgct.cn
+qgcw.cn

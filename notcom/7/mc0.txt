@@ -1,0 +1,12 @@
+mc0.dev
+mc0.net
+mc0.org
+mc0.top
+mc0.xyz
+mc01.ru
+mc01.uk
+mc02.uk
+mc03.cn
+mc03.de
+mc03.ru
+mc05.ru

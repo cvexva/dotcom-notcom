@@ -1,0 +1,13 @@
+fzf.be
+fzf.cc
+fzf.ch
+fzf.co
+fzf.cz
+fzf.de
+fzf.eu
+fzf.it
+fzf.pl
+fzf.rs
+fzf.ru
+fzf.se
+fzf.uk

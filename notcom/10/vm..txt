@@ -1,0 +1,12 @@
+vm.academy
+vm.capital
+vm.contact
+vm.country
+vm.digital
+vm.express
+vm.fashion
+vm.finance
+vm.jewelry
+vm.limited
+vm.network
+vm.support

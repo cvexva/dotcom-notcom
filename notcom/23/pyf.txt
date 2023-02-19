@@ -1,0 +1,2 @@
+pyfinmod.readthedocs.io
+pyfranca.readthedocs.io

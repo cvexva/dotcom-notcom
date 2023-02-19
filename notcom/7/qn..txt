@@ -1,0 +1,5 @@
+qn.chat
+qn.city
+qn.kiwi
+qn.life
+qn.yoga

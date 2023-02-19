@@ -1,0 +1,11 @@
+q-q.app
+q-q.bid
+q-q.dev
+q-q.fun
+q-q.lol
+q-q.net
+q-q.org
+q-q.top
+q-q.wtf
+q-q.xyz
+q-qq.ru

@@ -1,0 +1,8 @@
+vmq.at
+vmq.ca
+vmq.ch
+vmq.de
+vmq.dk
+vmq.it
+vmq.ru
+vmq.uk

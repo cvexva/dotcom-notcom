@@ -1,0 +1,7 @@
+python-amazon-product-api.readthedocs.io
+python-jsonschema-objects.readthedocs.io
+python-packaging-tutorial.readthedocs.io
+python-simple-rest-client.readthedocs.io
+python-tools-for-students.readthedocs.io
+python3-cookbook-personal.readthedocs.io
+pythonic-sqlalchemy-query.readthedocs.io

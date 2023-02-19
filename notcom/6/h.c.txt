@@ -1,0 +1,8 @@
+h.cafe
+h.camp
+h.care
+h.casa
+h.cash
+h.city
+h.club
+h.cool

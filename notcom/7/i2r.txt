@@ -1,0 +1,9 @@
+i2r.app
+i2r.dev
+i2r.lat
+i2r.ltd
+i2r.net
+i2r.org
+i2rd.co
+i2ri.ca
+i2rs.nl

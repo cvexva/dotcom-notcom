@@ -1,0 +1,10 @@
+sv.aco
+sv.biz
+sv.fit
+sv.fyi
+sv.law
+sv.lol
+sv.net
+sv.org
+sv.vip
+sv.xyz

@@ -1,0 +1,10 @@
+g2o.ae
+g2o.cc
+g2o.co
+g2o.eu
+g2o.fr
+g2o.hr
+g2o.nl
+g2o.ru
+g2o.si
+g2o.sk

@@ -1,0 +1,13 @@
+s8.app
+s8.fan
+s8.fit
+s8.ink
+s8.ltd
+s8.net
+s8.org
+s8.pub
+s8.sbs
+s8.top
+s8.vip
+s8.wtf
+s8.xyz

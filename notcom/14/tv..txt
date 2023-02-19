@@ -1,0 +1,7 @@
+tv.domain.name
+tv.mazowsze.pl
+tv.photography
+tv.szczecin.pl
+tv.warszawa.pl
+tv.xn--fjq720a
+tv.xn--vuq861b

@@ -1,0 +1,10 @@
+bz.capital
+bz.company
+bz.contact
+bz.cooking
+bz.country
+bz.digital
+bz.fashion
+bz.home.pl
+bz.kitchen
+bz.whoswho

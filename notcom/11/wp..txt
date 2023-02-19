@@ -1,0 +1,15 @@
+wp.boutique
+wp.builders
+wp.business
+wp.computer
+wp.delivery
+wp.discount
+wp.engineer
+wp.football
+wp.holdings
+wp.konin.pl
+wp.partners
+wp.services
+wp.software
+wp.supplies
+wp.ventures

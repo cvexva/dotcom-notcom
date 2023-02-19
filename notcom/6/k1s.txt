@@ -1,0 +1,4 @@
+k1s.cc
+k1s.jp
+k1s.nl
+k1s.ru

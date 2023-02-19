@@ -1,0 +1,8 @@
+2m.capital
+2m.charity
+2m.company
+2m.country
+2m.finance
+2m.fishing
+2m.network
+2m.wedding

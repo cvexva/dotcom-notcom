@@ -1,0 +1,17 @@
+om.aco
+om.app
+om.biz
+om.dev
+om.fit
+om.fyi
+om.gay
+om.ink
+om.law
+om.mom
+om.net
+om.org
+om.run
+om.sbs
+om.vip
+om.wtf
+om.xyz

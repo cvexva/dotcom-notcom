@@ -1,0 +1,12 @@
+s0.gd
+s0.is
+s0.lt
+s0.no
+s0.nu
+s0.pl
+s0.ru
+s0.se
+s0.sk
+s0.su
+s0.tf
+s0.uk

@@ -1,0 +1,6 @@
+d.md
+d.mk
+d.ms
+d.mt
+d.mu
+d.my

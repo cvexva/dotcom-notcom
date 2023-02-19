@@ -1,0 +1,7 @@
+yk.app
+yk.biz
+yk.fit
+yk.fyi
+yk.law
+yk.net
+yk.org

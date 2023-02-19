@@ -1,0 +1,10 @@
+5n.actor
+5n.bingo
+5n.boats
+5n.co.kr
+5n.gives
+5n.homes
+5n.legal
+5n.movie
+5n.rodeo
+5n.world

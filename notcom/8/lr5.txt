@@ -1,0 +1,5 @@
+lr5.info
+lr50.fit
+lr52.xyz
+lr5bz.ga
+lr5tx.ga

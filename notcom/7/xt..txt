@@ -1,0 +1,9 @@
+xt.chat
+xt.city
+xt.club
+xt.cool
+xt.gold
+xt.life
+xt.show
+xt.team
+xt.yoga

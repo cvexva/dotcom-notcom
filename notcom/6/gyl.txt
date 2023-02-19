@@ -1,0 +1,13 @@
+gyl.ch
+gyl.cl
+gyl.cn
+gyl.de
+gyl.es
+gyl.eu
+gyl.fi
+gyl.fr
+gyl.it
+gyl.jp
+gyl.ru
+gyl.se
+gyl.uk

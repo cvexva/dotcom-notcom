@@ -1,0 +1,3 @@
+6t.business
+6t.football
+6t.software

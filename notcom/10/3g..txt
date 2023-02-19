@@ -1,0 +1,5 @@
+3g.charity
+3g.country
+3g.fishing
+3g.monster
+3g.wedding

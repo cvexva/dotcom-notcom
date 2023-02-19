@@ -1,0 +1,15 @@
+jl.biz
+jl.cpa
+jl.dev
+jl.fit
+jl.fyi
+jl.ink
+jl.law
+jl.net
+jl.org
+jl.pub
+jl.run
+jl.sbs
+jl.tel
+jl.vip
+jl.wtf

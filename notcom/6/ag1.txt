@@ -1,0 +1,8 @@
+ag1.ch
+ag1.cz
+ag1.de
+ag1.no
+ag1.pl
+ag1.ru
+ag1.uk
+ag1.us

@@ -1,0 +1,7 @@
+fj.baby
+fj.game
+fj.golf
+fj.life
+fj.wiki
+fj.work
+fj.yoga

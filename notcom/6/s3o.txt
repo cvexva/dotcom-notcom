@@ -1,0 +1,8 @@
+s3o.at
+s3o.ch
+s3o.de
+s3o.fr
+s3o.ir
+s3o.it
+s3o.pl
+s3o.ru

@@ -1,0 +1,4 @@
+sz1.ch
+sz1.eu
+sz1.nl
+sz1.ru

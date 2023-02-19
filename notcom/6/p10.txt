@@ -1,0 +1,11 @@
+p10.at
+p10.ch
+p10.cz
+p10.de
+p10.dk
+p10.io
+p10.pl
+p10.ru
+p10.se
+p10.su
+p10.uk

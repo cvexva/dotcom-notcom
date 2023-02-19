@@ -1,0 +1,14 @@
+bsx.app
+bsx.dev
+bsx.icu
+bsx.net
+bsx.org
+bsx.vip
+bsx.xyz
+bsxl.de
+bsxl.nl
+bsxp.cn
+bsxs.de
+bsxv.cn
+bsxv.ml
+bsxv.se

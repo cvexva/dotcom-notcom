@@ -1,0 +1,6 @@
+ka.business
+ka.holdings
+ka.partners
+ka.shopping
+ka.software
+ka.ventures

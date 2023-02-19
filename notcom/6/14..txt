@@ -1,0 +1,14 @@
+14.app
+14.biz
+14.dev
+14.fit
+14.fyi
+14.gay
+14.ink
+14.law
+14.net
+14.org
+14.rip
+14.run
+14.uno
+14.vip

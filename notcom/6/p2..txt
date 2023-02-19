@@ -1,0 +1,10 @@
+p2.biz
+p2.dev
+p2.fit
+p2.net
+p2.new
+p2.org
+p2.rip
+p2.run
+p2.vip
+p2.wtf

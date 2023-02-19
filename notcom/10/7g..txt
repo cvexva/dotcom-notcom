@@ -1,0 +1,5 @@
+7g.country
+7g.fishing
+7g.monster
+7g.network
+7g.wedding

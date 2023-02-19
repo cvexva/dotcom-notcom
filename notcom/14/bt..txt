@@ -1,0 +1,2 @@
+bt.domain.name
+bt.xn--vuq861b

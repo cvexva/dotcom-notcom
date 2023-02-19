@@ -1,0 +1,13 @@
+hfx.app
+hfx.biz
+hfx.dev
+hfx.ink
+hfx.net
+hfx.one
+hfx.org
+hfx.vip
+hfx.xyz
+hfxa.cn
+hfxb.cn
+hfxi.cn
+hfxv.cn

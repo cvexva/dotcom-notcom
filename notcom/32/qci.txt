@@ -1,0 +1,3 @@
+qcinternationalhospital.training
+qcinternationalmilitary.training
+qcinternationaltactical.training

@@ -1,0 +1,11 @@
+xft.be
+xft.ch
+xft.cn
+xft.de
+xft.dk
+xft.eu
+xft.fr
+xft.it
+xft.pl
+xft.ru
+xft.uk

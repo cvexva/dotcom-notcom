@@ -1,0 +1,15 @@
+s2e.cc
+s2e.ch
+s2e.cl
+s2e.co
+s2e.eu
+s2e.fr
+s2e.it
+s2e.jp
+s2e.ma
+s2e.me
+s2e.nl
+s2e.ru
+s2e.se
+s2e.sk
+s2e.tv

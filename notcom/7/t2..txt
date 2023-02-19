@@ -1,0 +1,11 @@
+t2.auto
+t2.beer
+t2.care
+t2.golf
+t2.live
+t2.plus
+t2.surf
+t2.team
+t2.wiki
+t2.work
+t2.yoga

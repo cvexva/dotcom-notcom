@@ -1,0 +1,6 @@
+gc7.cc
+gc7.cn
+gc7.in
+gc7.lv
+gc7.nl
+gc7.ru

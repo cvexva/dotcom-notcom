@@ -1,0 +1,10 @@
+pql.ca
+pql.cz
+pql.es
+pql.eu
+pql.me
+pql.pl
+pql.ru
+pql.se
+pql.uk
+pql.vn

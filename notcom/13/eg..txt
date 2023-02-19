@@ -1,0 +1,3 @@
+eg.foundation
+eg.properties
+eg.technology

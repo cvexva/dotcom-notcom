@@ -1,0 +1,15 @@
+azd.am
+azd.be
+azd.ch
+azd.cz
+azd.de
+azd.dk
+azd.es
+azd.fr
+azd.hr
+azd.ru
+azd.se
+azd.sk
+azd.su
+azd.uk
+azd.uz

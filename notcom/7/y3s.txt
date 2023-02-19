@@ -1,0 +1,7 @@
+y3s.app
+y3s.art
+y3s.cfd
+y3s.fit
+y3s.net
+y3s.org
+y3s.xyz

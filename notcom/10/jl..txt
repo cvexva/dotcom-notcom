@@ -1,0 +1,12 @@
+jl.capital
+jl.careers
+jl.company
+jl.contact
+jl.country
+jl.digital
+jl.fashion
+jl.fitness
+jl.jewelry
+jl.network
+jl.support
+jl.trading

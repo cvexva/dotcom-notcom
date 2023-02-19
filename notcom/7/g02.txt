@@ -1,0 +1,10 @@
+g02.app
+g02.biz
+g02.net
+g02.one
+g02.org
+g02.run
+g02.xyz
+g021.cn
+g028.cn
+g02x.cn

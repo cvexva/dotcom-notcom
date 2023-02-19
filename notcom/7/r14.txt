@@ -1,0 +1,10 @@
+r14.app
+r14.biz
+r14.dev
+r14.net
+r14.org
+r14.top
+r140.de
+r140.ru
+r14c.ru
+r14i.ch

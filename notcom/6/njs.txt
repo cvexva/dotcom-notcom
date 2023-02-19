@@ -1,0 +1,17 @@
+njs.at
+njs.be
+njs.ch
+njs.cz
+njs.dk
+njs.fi
+njs.ie
+njs.io
+njs.ir
+njs.it
+njs.no
+njs.nu
+njs.pl
+njs.ru
+njs.se
+njs.uk
+njs.us

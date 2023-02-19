@@ -1,0 +1,17 @@
+bo.cafe
+bo.care
+bo.city
+bo.cool
+bo.cyou
+bo.farm
+bo.gold
+bo.guru
+bo.immo
+bo.land
+bo.life
+bo.luxe
+bo.team
+bo.wiki
+bo.work
+bo.yoga
+bo.zone

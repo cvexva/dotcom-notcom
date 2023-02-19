@@ -1,0 +1,9 @@
+qf-arc.info
+qf-bin.info
+qf-cable.cn
+qf-cloud.cn
+qf-hotel.de
+qf-pcr.info
+qf-qpos.net
+qf-s.online
+qf-tools.cn

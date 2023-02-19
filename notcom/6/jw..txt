@@ -1,0 +1,13 @@
+jw.app
+jw.biz
+jw.dev
+jw.dog
+jw.fit
+jw.fyi
+jw.law
+jw.org
+jw.pub
+jw.run
+jw.tax
+jw.vip
+jw.wtf

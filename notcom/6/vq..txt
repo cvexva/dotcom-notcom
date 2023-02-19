@@ -1,0 +1,10 @@
+vq.app
+vq.biz
+vq.fit
+vq.fyi
+vq.gay
+vq.law
+vq.net
+vq.org
+vq.vip
+vq.wtf

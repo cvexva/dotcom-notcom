@@ -1,0 +1,15 @@
+xm.app
+xm.biz
+xm.fan
+xm.fit
+xm.fyi
+xm.icu
+xm.ink
+xm.law
+xm.net
+xm.org
+xm.run
+xm.tel
+xm.vip
+xm.win
+xm.wtf

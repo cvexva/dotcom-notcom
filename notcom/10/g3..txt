@@ -1,0 +1,4 @@
+g3.capital
+g3.country
+g3.monster
+g3.network

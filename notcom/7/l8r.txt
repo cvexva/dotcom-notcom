@@ -1,0 +1,8 @@
+l8r.app
+l8r.biz
+l8r.dev
+l8r.fyi
+l8r.lol
+l8r.net
+l8r.org
+l8r.xyz

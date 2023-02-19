@@ -1,0 +1,6 @@
+vs.business
+vs.delivery
+vs.partners
+vs.services
+vs.software
+vs.ventures

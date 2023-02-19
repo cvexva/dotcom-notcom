@@ -1,0 +1,4 @@
+pykakasi.readthedocs.io
+pykarbon.readthedocs.io
+pykg2vec.readthedocs.io
+pyknotid.readthedocs.io

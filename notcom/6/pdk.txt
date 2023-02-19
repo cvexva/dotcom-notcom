@@ -1,0 +1,17 @@
+pdk.al
+pdk.at
+pdk.by
+pdk.bz
+pdk.ch
+pdk.de
+pdk.hu
+pdk.io
+pdk.nl
+pdk.pl
+pdk.ru
+pdk.se
+pdk.si
+pdk.sk
+pdk.su
+pdk.to
+pdk.uk

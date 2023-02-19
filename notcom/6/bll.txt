@@ -1,0 +1,17 @@
+bll.bg
+bll.bi
+bll.bt
+bll.ca
+bll.ch
+bll.de
+bll.dk
+bll.io
+bll.kr
+bll.la
+bll.no
+bll.nu
+bll.ru
+bll.se
+bll.sk
+bll.uk
+bll.us

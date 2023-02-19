@@ -1,0 +1,11 @@
+bd1.by
+bd1.ca
+bd1.ch
+bd1.de
+bd1.eu
+bd1.nl
+bd1.ru
+bd1.se
+bd1.uk
+bd1.us
+bd1.vn

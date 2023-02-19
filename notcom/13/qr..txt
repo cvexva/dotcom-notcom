@@ -1,0 +1,7 @@
+qr.apartments
+qr.associates
+qr.foundation
+qr.healthcare
+qr.properties
+qr.restaurant
+qr.technology

@@ -1,0 +1,10 @@
+o-l.at
+o-l.cc
+o-l.ch
+o-l.co
+o-l.cz
+o-l.kr
+o-l.no
+o-l.pl
+o-l.ru
+o-l.uk

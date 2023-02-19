@@ -1,0 +1,8 @@
+jxf.cc
+jxf.ch
+jxf.it
+jxf.me
+jxf.nl
+jxf.ru
+jxf.uk
+jxf.us

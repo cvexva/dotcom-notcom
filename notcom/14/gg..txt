@@ -1,0 +1,5 @@
+gg.domain.name
+gg.investments
+gg.productions
+gg.warszawa.pl
+gg.xn--vuq861b

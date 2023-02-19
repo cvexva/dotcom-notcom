@@ -1,0 +1,13 @@
+qld.be
+qld.ca
+qld.ch
+qld.co
+qld.de
+qld.it
+qld.nl
+qld.pl
+qld.pt
+qld.re
+qld.ru
+qld.uk
+qld.us

@@ -1,0 +1,13 @@
+xb.app
+xb.biz
+xb.fit
+xb.fyi
+xb.ink
+xb.law
+xb.net
+xb.org
+xb.tel
+xb.vin
+xb.vip
+xb.wtf
+xb.xyz

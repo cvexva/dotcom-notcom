@@ -1,0 +1,16 @@
+2k.actor
+2k.bingo
+2k.boats
+2k.cards
+2k.co.nz
+2k.co.uk
+2k.games
+2k.group
+2k.homes
+2k.legal
+2k.media
+2k.movie
+2k.ninja
+2k.tours
+2k.watch
+2k.world

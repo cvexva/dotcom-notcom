@@ -1,0 +1,7 @@
+qx.capital
+qx.country
+qx.digital
+qx.fashion
+qx.flights
+qx.network
+qx.systems

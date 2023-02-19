@@ -1,0 +1,8 @@
+45.capital
+45.company
+45.country
+45.digital
+45.fashion
+45.fitness
+45.network
+45.rentals

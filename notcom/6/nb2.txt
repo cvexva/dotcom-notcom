@@ -1,0 +1,7 @@
+nb2.ca
+nb2.de
+nb2.fr
+nb2.hu
+nb2.it
+nb2.ru
+nb2.to

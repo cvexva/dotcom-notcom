@@ -1,0 +1,10 @@
+l8n.dev
+l8n.net
+l8n.one
+l8n.org
+l8n.ovh
+l8n.xyz
+l8n8.ch
+l8n8.de
+l8n8.us
+l8nc.uk

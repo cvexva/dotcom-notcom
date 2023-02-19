@@ -1,0 +1,10 @@
+bq.chat
+bq.city
+bq.guru
+bq.life
+bq.limo
+bq.plus
+bq.toys
+bq.wang
+bq.wiki
+bq.yoga

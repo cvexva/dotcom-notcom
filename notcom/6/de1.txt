@@ -1,0 +1,11 @@
+de1.be
+de1.by
+de1.cc
+de1.ch
+de1.de
+de1.ir
+de1.nl
+de1.pl
+de1.ru
+de1.uk
+de1.us

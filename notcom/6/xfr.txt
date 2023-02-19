@@ -1,0 +1,10 @@
+xfr.ch
+xfr.eu
+xfr.fr
+xfr.it
+xfr.pl
+xfr.ru
+xfr.se
+xfr.sk
+xfr.to
+xfr.uk

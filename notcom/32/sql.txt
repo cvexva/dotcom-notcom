@@ -1,0 +1,3 @@
+sql-au-coeur-des-performances.fr
+sqlalchemy-seeder.readthedocs.io
+sqlserver-performance-tuning.net

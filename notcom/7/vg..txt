@@ -1,0 +1,10 @@
+vg.beer
+vg.life
+vg.live
+vg.luxe
+vg.news
+vg.plus
+vg.wiki
+vg.work
+vg.yoga
+vg.zone

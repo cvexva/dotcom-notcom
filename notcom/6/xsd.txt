@@ -1,0 +1,14 @@
+xsd.at
+xsd.be
+xsd.ca
+xsd.ch
+xsd.cz
+xsd.dk
+xsd.gr
+xsd.ie
+xsd.me
+xsd.nl
+xsd.ru
+xsd.se
+xsd.so
+xsd.uk

@@ -1,0 +1,4 @@
+g9tessera.media
+g9tessera.party
+g9tessera.promo
+g9tessera.vegas

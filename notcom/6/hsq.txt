@@ -1,0 +1,12 @@
+hsq.ae
+hsq.be
+hsq.ch
+hsq.de
+hsq.es
+hsq.hu
+hsq.ie
+hsq.it
+hsq.nl
+hsq.ru
+hsq.sk
+hsq.uk

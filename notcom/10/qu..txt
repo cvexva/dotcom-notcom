@@ -1,0 +1,8 @@
+qu.academy
+qu.capital
+qu.company
+qu.contact
+qu.country
+qu.fashion
+qu.limited
+qu.network

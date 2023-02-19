@@ -1,0 +1,12 @@
+xc.chat
+xc.city
+xc.cool
+xc.fish
+xc.life
+xc.live
+xc.sale
+xc.show
+xc.team
+xc.work
+xc.yoga
+xc.zone

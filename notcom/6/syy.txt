@@ -1,0 +1,9 @@
+syy.cc
+syy.ch
+syy.de
+syy.fi
+syy.hk
+syy.ph
+syy.pl
+syy.ru
+syy.us

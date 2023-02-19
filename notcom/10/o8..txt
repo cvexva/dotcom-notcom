@@ -1,0 +1,3 @@
+o8.capital
+o8.country
+o8.digital

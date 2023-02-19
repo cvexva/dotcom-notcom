@@ -1,0 +1,10 @@
+vf.app
+vf.biz
+vf.fyi
+vf.law
+vf.net
+vf.org
+vf.tel
+vf.vin
+vf.vip
+vf.wtf

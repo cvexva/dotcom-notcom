@@ -1,0 +1,10 @@
+pq.agency
+pq.claims
+pq.com.cn
+pq.com.kz
+pq.com.vn
+pq.med.br
+pq.net.pl
+pq.org.uk
+pq.quebec
+pq.tennis

@@ -1,0 +1,15 @@
+fmx.app
+fmx.biz
+fmx.icu
+fmx.lol
+fmx.net
+fmx.org
+fmx.pub
+fmx.vip
+fmxa.co
+fmxg.nl
+fmxj.cn
+fmxm.ch
+fmxo.de
+fmxs.cn
+fmxx.de

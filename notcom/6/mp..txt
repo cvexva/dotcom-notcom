@@ -1,0 +1,16 @@
+mp.aco
+mp.app
+mp.biz
+mp.dev
+mp.fit
+mp.fyi
+mp.ink
+mp.law
+mp.ltd
+mp.mba
+mp.net
+mp.org
+mp.run
+mp.tax
+mp.vip
+mp.wtf

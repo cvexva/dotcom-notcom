@@ -1,0 +1,17 @@
+jm.aco
+jm.app
+jm.biz
+jm.cpa
+jm.dev
+jm.fan
+jm.fit
+jm.fyi
+jm.ink
+jm.law
+jm.net
+jm.nrw
+jm.org
+jm.tax
+jm.vip
+jm.win
+jm.wtf

@@ -1,0 +1,10 @@
+pyv.ch
+pyv.de
+pyv.es
+pyv.eu
+pyv.fr
+pyv.io
+pyv.it
+pyv.pl
+pyv.ru
+pyv.uk

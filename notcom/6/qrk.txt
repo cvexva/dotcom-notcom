@@ -1,0 +1,11 @@
+qrk.cc
+qrk.ch
+qrk.eu
+qrk.fr
+qrk.io
+qrk.mx
+qrk.pl
+qrk.ru
+qrk.se
+qrk.su
+qrk.uk

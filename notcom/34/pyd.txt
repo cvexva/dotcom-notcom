@@ -1,0 +1,2 @@
+pydanny-event-notes.readthedocs.io
+pydata-sphinx-theme.readthedocs.io

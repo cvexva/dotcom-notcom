@@ -1,0 +1,10 @@
+fqc.ae
+fqc.be
+fqc.cz
+fqc.de
+fqc.eu
+fqc.it
+fqc.nl
+fqc.ru
+fqc.se
+fqc.uk

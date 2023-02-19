@@ -1,0 +1,9 @@
+xs.capital
+xs.contact
+xs.country
+xs.digital
+xs.exposed
+xs.fashion
+xs.finance
+xs.jewelry
+xs.network

@@ -1,0 +1,16 @@
+pxt.at
+pxt.be
+pxt.ch
+pxt.cn
+pxt.de
+pxt.in
+pxt.io
+pxt.it
+pxt.jp
+pxt.nl
+pxt.pl
+pxt.ru
+pxt.se
+pxt.sk
+pxt.uk
+pxt.vn

@@ -1,0 +1,11 @@
+ix.cash
+ix.golf
+ix.immo
+ix.life
+ix.luxe
+ix.plus
+ix.team
+ix.tech
+ix.work
+ix.yoga
+ix.zone

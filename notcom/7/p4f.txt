@@ -1,0 +1,7 @@
+p4f.art
+p4f.bet
+p4f.dev
+p4f.fun
+p4f.net
+p4f.org
+p4f.vip

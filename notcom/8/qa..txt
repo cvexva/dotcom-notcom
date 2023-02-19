@@ -1,0 +1,16 @@
+qa.cards
+qa.co.uk
+qa.co.za
+qa.coach
+qa.email
+qa.loans
+qa.me.uk
+qa.miami
+qa.movie
+qa.ninja
+qa.pizza
+qa.rocks
+qa.tools
+qa.weber
+qa.works
+qa.world

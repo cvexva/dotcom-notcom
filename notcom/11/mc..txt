@@ -1,0 +1,8 @@
+mc.barclays
+mc.delivery
+mc.exchange
+mc.holdings
+mc.radom.pl
+mc.services
+mc.software
+mc.ventures

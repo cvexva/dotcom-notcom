@@ -1,0 +1,8 @@
+d.cc
+d.cg
+d.ci
+d.cl
+d.cn
+d.co
+d.cr
+d.cx

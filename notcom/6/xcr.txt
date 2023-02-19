@@ -1,0 +1,12 @@
+xcr.at
+xcr.be
+xcr.ch
+xcr.cz
+xcr.de
+xcr.fr
+xcr.it
+xcr.jp
+xcr.nl
+xcr.pl
+xcr.ru
+xcr.uk

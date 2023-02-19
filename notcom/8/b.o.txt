@@ -1,0 +1,5 @@
+b.org.nz
+b.org.pk
+b.org.pl
+b.org.uk
+b.org.za

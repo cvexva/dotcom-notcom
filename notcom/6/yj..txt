@@ -1,0 +1,10 @@
+yj.app
+yj.biz
+yj.fit
+yj.fyi
+yj.ink
+yj.law
+yj.mba
+yj.net
+yj.org
+yj.wtf

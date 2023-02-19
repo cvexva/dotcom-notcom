@@ -1,0 +1,6 @@
+it.domain.name
+it.mazowsze.pl
+it.no1227.name
+it.szczecin.pl
+it.warszawa.pl
+it.xn--vuq861b

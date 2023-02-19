@@ -1,0 +1,17 @@
+vld.by
+vld.ch
+vld.cy
+vld.dk
+vld.fr
+vld.no
+vld.nu
+vld.pl
+vld.rs
+vld.ru
+vld.se
+vld.sk
+vld.su
+vld.to
+vld.uk
+vld.us
+vld.uz

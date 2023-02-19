@@ -1,0 +1,3 @@
+ep20-team-jh-gw-test-domain1.net
+ep20-team-jh-gw-test-domain2.net
+ep20-team-jh-gw-test-domain3.net

@@ -1,0 +1,10 @@
+vz.app
+vz.biz
+vz.fit
+vz.fyi
+vz.gay
+vz.law
+vz.net
+vz.org
+vz.vip
+vz.wtf

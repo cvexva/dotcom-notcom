@@ -1,0 +1,7 @@
+np1.de
+np1.dk
+np1.eu
+np1.in
+np1.ru
+np1.se
+np1.uk

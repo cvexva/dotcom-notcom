@@ -1,0 +1,13 @@
+nk.care
+nk.chat
+nk.cyou
+nk.gold
+nk.immo
+nk.life
+nk.link
+nk.news
+nk.plus
+nk.toys
+nk.work
+nk.yoga
+nk.zone

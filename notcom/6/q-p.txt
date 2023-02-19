@@ -1,0 +1,12 @@
+q-p.ae
+q-p.be
+q-p.ch
+q-p.de
+q-p.eu
+q-p.nl
+q-p.no
+q-p.ru
+q-p.se
+q-p.su
+q-p.uk
+q-p.uz

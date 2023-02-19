@@ -1,0 +1,17 @@
+py.aco
+py.app
+py.biz
+py.dev
+py.fit
+py.fyi
+py.gov
+py.law
+py.mba
+py.net
+py.new
+py.ooo
+py.org
+py.run
+py.tax
+py.vip
+py.wtf

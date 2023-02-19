@@ -1,0 +1,15 @@
+k2.app
+k2.bet
+k2.biz
+k2.fit
+k2.fyi
+k2.law
+k2.ltd
+k2.net
+k2.nyc
+k2.org
+k2.rip
+k2.run
+k2.tel
+k2.vip
+k2.xyz

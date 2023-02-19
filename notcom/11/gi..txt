@@ -1,0 +1,3 @@
+gi.clothing
+gi.services
+gi.ventures

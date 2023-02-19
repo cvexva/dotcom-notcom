@@ -1,0 +1,9 @@
+h4.fit
+h4.ink
+h4.law
+h4.net
+h4.org
+h4.tel
+h4.vip
+h4.wtf
+h4.xyz

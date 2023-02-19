@@ -1,0 +1,15 @@
+vhs-buergerdialog.saarland
+vhs-crailsheim-schulung.de
+vhs-grafschaft-bentheim.de
+vhs-hersbrucker-schweiz.de
+vhs-korntal-muenchingen.de
+vhs-langenfeld-programm.de
+vhs-marzahn-hellersdorf.de
+vhs-miteinander-wachsen.de
+vhs-neumarkt-sankt-veit.de
+vhs-neunkirchen-am-sand.de
+vhs-siegen-wittgenstein.de
+vhs-steglitz-zehlendorf.de
+vhs-timmendorfer-strand.de
+vhs-waldeck-frankenberg.de
+vhsdozenten-duesseldorf.de

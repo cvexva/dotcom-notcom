@@ -1,0 +1,2 @@
+c25-dom.store
+c25o.computer

@@ -1,0 +1,9 @@
+g-3.at
+g-3.ca
+g-3.ch
+g-3.cn
+g-3.cz
+g-3.de
+g-3.eu
+g-3.ru
+g-3.sk

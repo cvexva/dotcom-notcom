@@ -1,0 +1,9 @@
+zd.chat
+zd.city
+zd.farm
+zd.life
+zd.live
+zd.wine
+zd.work
+zd.yoga
+zd.zone

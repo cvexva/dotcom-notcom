@@ -1,0 +1,12 @@
+wkn.at
+wkn.cc
+wkn.ch
+wkn.co
+wkn.de
+wkn.eu
+wkn.ie
+wkn.it
+wkn.no
+wkn.pl
+wkn.ru
+wkn.uk

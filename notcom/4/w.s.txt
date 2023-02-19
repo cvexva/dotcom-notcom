@@ -1,0 +1,4 @@
+w.sc
+w.sh
+w.ss
+w.st

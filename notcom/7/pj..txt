@@ -1,0 +1,15 @@
+pj.asia
+pj.beer
+pj.chat
+pj.club
+pj.immo
+pj.land
+pj.life
+pj.link
+pj.news
+pj.plus
+pj.show
+pj.wiki
+pj.wine
+pj.work
+pj.yoga

@@ -1,0 +1,12 @@
+wasserwirtschaftsamt-ansbach-seemeisterstelle-altmuehlsee.bayern
+wasserwirtschaftsamt-ansbach-seemeisterstelle-brombachsee.bayern
+wasserwirtschaftsamt-deggendorf-flussmeisterstelle-passau.bayern
+wasserwirtschaftsamt-kempten-flussmeisterstelle-sonthofen.bayern
+wasserwirtschaftsamt-kempten-flussmeisterstelle-tuerkheim.bayern
+wasserwirtschaftsamt-landshut-flussmeisterstelle-landshut.bayern
+wasserwirtschaftsamt-muenchen-flussmeisterstelle-freising.bayern
+wasserwirtschaftsamt-muenchen-flussmeisterstelle-muenchen.bayern
+wasserwirtschaftsamt-nuernberg-flussmeisterstelle-rothsee.bayern
+wasserwirtschaftsamt-regensburg-flussmeisterstelle-roding.bayern
+wasserwirtschaftsamt-traunstein-flussmeisterstelle-piding.bayern
+wasserwirtschaftsamt-weilheim-flussmeisterstelle-weilheim.bayern

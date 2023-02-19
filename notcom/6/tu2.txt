@@ -1,0 +1,8 @@
+tu2.cc
+tu2.ch
+tu2.de
+tu2.in
+tu2.jp
+tu2.me
+tu2.pl
+tu2.ru

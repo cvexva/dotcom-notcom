@@ -1,0 +1,13 @@
+ja.biz
+ja.cat
+ja.dev
+ja.dog
+ja.fit
+ja.fyi
+ja.law
+ja.mba
+ja.net
+ja.org
+ja.vet
+ja.vip
+ja.wtf

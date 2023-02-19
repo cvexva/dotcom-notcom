@@ -1,0 +1,1 @@
+after-effects-scripting-guide.readthedocs.io

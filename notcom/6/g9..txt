@@ -1,0 +1,12 @@
+g9.app
+g9.biz
+g9.fit
+g9.fyi
+g9.ink
+g9.law
+g9.net
+g9.org
+g9.pub
+g9.top
+g9.vip
+g9.wtf

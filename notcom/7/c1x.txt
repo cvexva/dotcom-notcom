@@ -1,0 +1,7 @@
+c1x.app
+c1x.biz
+c1x.dev
+c1x.org
+c1x.top
+c1x1.de
+c1x4.cn

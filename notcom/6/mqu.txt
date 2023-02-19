@@ -1,0 +1,8 @@
+mqu.be
+mqu.cn
+mqu.de
+mqu.it
+mqu.me
+mqu.nl
+mqu.ru
+mqu.uk

@@ -1,0 +1,12 @@
+vr.consulting
+vr.creditcard
+vr.foundation
+vr.healthcare
+vr.management
+vr.properties
+vr.restaurant
+vr.technology
+vr.university
+vr.xn--czrs0t
+vr.xn--czru2d
+vr.xn--unup4y

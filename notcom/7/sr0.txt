@@ -1,0 +1,9 @@
+sr0.dev
+sr0.net
+sr0.org
+sr0.top
+sr01.cf
+sr01.cn
+sr01.eu
+sr01.ru
+sr08.fr

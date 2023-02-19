@@ -1,0 +1,12 @@
+qdn.ch
+qdn.cn
+qdn.de
+qdn.eu
+qdn.fr
+qdn.it
+qdn.me
+qdn.nl
+qdn.ru
+qdn.se
+qdn.uk
+qdn.vn

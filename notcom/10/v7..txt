@@ -1,0 +1,4 @@
+v7.capital
+v7.country
+v7.digital
+v7.network

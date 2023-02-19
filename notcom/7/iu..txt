@@ -1,0 +1,11 @@
+iu.cafe
+iu.care
+iu.chat
+iu.city
+iu.cool
+iu.life
+iu.link
+iu.news
+iu.team
+iu.wiki
+iu.zone

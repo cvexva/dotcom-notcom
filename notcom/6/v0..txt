@@ -1,0 +1,12 @@
+v0.biz
+v0.fyi
+v0.gay
+v0.ink
+v0.net
+v0.org
+v0.pub
+v0.rip
+v0.run
+v0.vip
+v0.wtf
+v0.xyz

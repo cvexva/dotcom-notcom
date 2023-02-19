@@ -1,0 +1,7 @@
+dg2.ch
+dg2.de
+dg2.gr
+dg2.it
+dg2.ro
+dg2.ru
+dg2.uk

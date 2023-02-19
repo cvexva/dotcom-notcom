@@ -1,0 +1,16 @@
+a-d.ae
+a-d.cc
+a-d.ch
+a-d.cl
+a-d.de
+a-d.fr
+a-d.gr
+a-d.ir
+a-d.it
+a-d.lt
+a-d.no
+a-d.ru
+a-d.se
+a-d.su
+a-d.uk
+a-d.us

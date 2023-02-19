@@ -1,0 +1,11 @@
+pi3.at
+pi3.ch
+pi3.es
+pi3.fr
+pi3.gr
+pi3.it
+pi3.nl
+pi3.pl
+pi3.ru
+pi3.se
+pi3.uk

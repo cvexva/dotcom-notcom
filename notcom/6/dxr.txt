@@ -1,0 +1,17 @@
+dxr.az
+dxr.be
+dxr.ch
+dxr.cn
+dxr.co
+dxr.de
+dxr.dk
+dxr.it
+dxr.jp
+dxr.nl
+dxr.pl
+dxr.ru
+dxr.se
+dxr.su
+dxr.uk
+dxr.us
+dxr.uz

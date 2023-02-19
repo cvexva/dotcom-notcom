@@ -1,0 +1,6 @@
+u.capital
+u.careers
+u.company
+u.cooking
+u.country
+u.cruises

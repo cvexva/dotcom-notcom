@@ -1,0 +1,12 @@
+x6.app
+x6.biz
+x6.cfd
+x6.fit
+x6.fyi
+x6.gay
+x6.ink
+x6.net
+x6.org
+x6.pub
+x6.tel
+x6.vip

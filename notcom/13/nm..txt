@@ -1,0 +1,2 @@
+nm.properties
+nm.wroclaw.pl

@@ -1,0 +1,16 @@
+tfl.al
+tfl.am
+tfl.be
+tfl.bz
+tfl.ch
+tfl.io
+tfl.lu
+tfl.nl
+tfl.no
+tfl.ru
+tfl.se
+tfl.si
+tfl.su
+tfl.tj
+tfl.to
+tfl.uk

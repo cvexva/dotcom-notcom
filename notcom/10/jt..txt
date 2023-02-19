@@ -1,0 +1,9 @@
+jt.capital
+jt.contact
+jt.country
+jt.express
+jt.fashion
+jt.finance
+jt.fitness
+jt.jewelry
+jt.network

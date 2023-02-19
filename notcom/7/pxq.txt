@@ -1,0 +1,9 @@
+pxq.app
+pxq.dev
+pxq.net
+pxq.one
+pxq.org
+pxq.vip
+pxq.xyz
+pxqc.cn
+pxqw.cn

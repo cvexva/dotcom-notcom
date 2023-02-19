@@ -1,0 +1,9 @@
+v-r.ch
+v-r.cz
+v-r.de
+v-r.dk
+v-r.fr
+v-r.nl
+v-r.ru
+v-r.su
+v-r.uk

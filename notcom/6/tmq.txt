@@ -1,0 +1,16 @@
+tmq.ae
+tmq.ca
+tmq.ch
+tmq.dk
+tmq.es
+tmq.eu
+tmq.fr
+tmq.in
+tmq.ir
+tmq.it
+tmq.pl
+tmq.ru
+tmq.se
+tmq.uk
+tmq.us
+tmq.vn

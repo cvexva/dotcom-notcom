@@ -1,0 +1,12 @@
+n0.biz
+n0.fit
+n0.ink
+n0.lol
+n0.net
+n0.org
+n0.pub
+n0.run
+n0.sbs
+n0.tel
+n0.vip
+n0.wtf

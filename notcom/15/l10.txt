@@ -1,0 +1,4 @@
+l10n.healthcare
+l10ng.github.io
+l10njournal.net
+l10nworks.co.uk

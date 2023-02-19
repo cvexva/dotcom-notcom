@@ -1,0 +1,15 @@
+fwr.be
+fwr.ca
+fwr.ch
+fwr.cz
+fwr.de
+fwr.es
+fwr.fi
+fwr.fr
+fwr.it
+fwr.pl
+fwr.ro
+fwr.ru
+fwr.se
+fwr.sk
+fwr.uk

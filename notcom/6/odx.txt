@@ -1,0 +1,12 @@
+odx.bg
+odx.ca
+odx.ch
+odx.co
+odx.de
+odx.io
+odx.it
+odx.nl
+odx.ru
+odx.se
+odx.tv
+odx.uk

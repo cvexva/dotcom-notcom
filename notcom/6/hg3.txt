@@ -1,0 +1,5 @@
+hg3.cl
+hg3.de
+hg3.dk
+hg3.pl
+hg3.uk

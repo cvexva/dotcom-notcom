@@ -1,0 +1,12 @@
+moq.ch
+moq.de
+moq.dk
+moq.eu
+moq.fi
+moq.is
+moq.it
+moq.lt
+moq.me
+moq.nl
+moq.ru
+moq.uk

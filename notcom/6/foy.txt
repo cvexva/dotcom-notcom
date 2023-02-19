@@ -1,0 +1,12 @@
+foy.cc
+foy.ch
+foy.de
+foy.eu
+foy.fr
+foy.gr
+foy.it
+foy.pl
+foy.ru
+foy.se
+foy.sk
+foy.uk

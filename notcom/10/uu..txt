@@ -1,0 +1,7 @@
+uu.abogado
+uu.capital
+uu.company
+uu.country
+uu.fashion
+uu.network
+uu.wedding

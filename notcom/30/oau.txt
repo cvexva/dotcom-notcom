@@ -1,0 +1,2 @@
+oauth-login-my-account-mail.ru
+oauth-login-myaccounts-mail.ru

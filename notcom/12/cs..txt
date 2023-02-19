@@ -1,0 +1,7 @@
+cs.allfinanz
+cs.amsterdam
+cs.community
+cs.education
+cs.institute
+cs.krakow.pl
+cs.solutions

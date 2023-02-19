@@ -1,0 +1,12 @@
+ky.agency
+ky.broker
+ky.church
+ky.coffee
+ky.com.br
+ky.com.pl
+ky.dental
+ky.doctor
+ky.energy
+ky.lawyer
+ky.org.uk
+ky.studio

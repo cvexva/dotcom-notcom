@@ -1,0 +1,6 @@
+wc1.ca
+wc1.cc
+wc1.jp
+wc1.ru
+wc1.uk
+wc1.us

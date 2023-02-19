@@ -1,0 +1,5 @@
+8s.charity
+8s.country
+8s.fishing
+8s.monster
+8s.wedding

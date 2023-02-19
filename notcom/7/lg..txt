@@ -1,0 +1,16 @@
+lg.asia
+lg.beer
+lg.care
+lg.chat
+lg.city
+lg.cyou
+lg.farm
+lg.immo
+lg.life
+lg.live
+lg.luxe
+lg.rsvp
+lg.team
+lg.wiki
+lg.work
+lg.yoga

@@ -1,0 +1,8 @@
+ldy.co
+ldy.de
+ldy.fr
+ldy.it
+ldy.kr
+ldy.ro
+ldy.ru
+ldy.uk

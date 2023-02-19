@@ -1,0 +1,4 @@
+95.capital
+95.country
+95.fashion
+95.network

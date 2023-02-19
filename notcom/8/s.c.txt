@@ -1,0 +1,13 @@
+s.camera
+s.career
+s.center
+s.coffee
+s.com.ag
+s.com.cm
+s.com.cn
+s.com.co
+s.com.mx
+s.com.my
+s.com.ph
+s.com.pl
+s.com.ua

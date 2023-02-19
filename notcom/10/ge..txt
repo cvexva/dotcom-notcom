@@ -1,0 +1,14 @@
+ge.capital
+ge.company
+ge.contact
+ge.country
+ge.digital
+ge.domains
+ge.fashion
+ge.finance
+ge.jewelry
+ge.kitchen
+ge.support
+ge.systems
+ge.wedding
+ge.whoswho

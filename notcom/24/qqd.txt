@@ -1,0 +1,2 @@
+qqdesignstudio.directory
+qqdesignstudio.solutions

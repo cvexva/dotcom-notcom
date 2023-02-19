@@ -1,0 +1,8 @@
+u1.app
+u1.fit
+u1.ink
+u1.net
+u1.org
+u1.tel
+u1.vip
+u1.wtf

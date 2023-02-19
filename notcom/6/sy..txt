@@ -1,0 +1,15 @@
+sy.aco
+sy.app
+sy.biz
+sy.dev
+sy.fit
+sy.fyi
+sy.ink
+sy.law
+sy.mba
+sy.net
+sy.org
+sy.run
+sy.vip
+sy.win
+sy.xxx

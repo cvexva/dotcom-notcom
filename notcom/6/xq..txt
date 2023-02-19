@@ -1,0 +1,11 @@
+xq.app
+xq.biz
+xq.fit
+xq.fyi
+xq.gay
+xq.law
+xq.net
+xq.org
+xq.run
+xq.vip
+xq.wtf

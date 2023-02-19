@@ -1,0 +1,7 @@
+k8.capital
+k8.company
+k8.country
+k8.digital
+k8.monster
+k8.network
+k8.reviews

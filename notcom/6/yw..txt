@@ -1,0 +1,10 @@
+yw.app
+yw.biz
+yw.fit
+yw.fyi
+yw.gov
+yw.law
+yw.net
+yw.org
+yw.vip
+yw.wtf

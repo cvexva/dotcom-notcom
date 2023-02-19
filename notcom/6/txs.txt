@@ -1,0 +1,15 @@
+txs.be
+txs.ch
+txs.cz
+txs.de
+txs.dk
+txs.es
+txs.eu
+txs.hu
+txs.io
+txs.it
+txs.kz
+txs.me
+txs.ru
+txs.se
+txs.uk

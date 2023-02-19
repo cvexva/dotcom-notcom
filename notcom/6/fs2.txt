@@ -1,0 +1,11 @@
+fs2.at
+fs2.ca
+fs2.ch
+fs2.co
+fs2.de
+fs2.dk
+fs2.eu
+fs2.io
+fs2.lu
+fs2.pl
+fs2.ru

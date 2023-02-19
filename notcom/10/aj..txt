@@ -1,0 +1,8 @@
+aj.company
+aj.contact
+aj.country
+aj.digital
+aj.express
+aj.fashion
+aj.network
+aj.wedding

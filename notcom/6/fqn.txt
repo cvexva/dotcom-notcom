@@ -1,0 +1,7 @@
+fqn.ch
+fqn.de
+fqn.eu
+fqn.it
+fqn.nl
+fqn.ru
+fqn.uk

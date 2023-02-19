@@ -1,0 +1,14 @@
+s-o.by
+s-o.cc
+s-o.ch
+s-o.de
+s-o.dk
+s-o.es
+s-o.io
+s-o.it
+s-o.no
+s-o.ru
+s-o.se
+s-o.sk
+s-o.uk
+s-o.uz

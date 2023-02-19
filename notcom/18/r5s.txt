@@ -1,0 +1,6 @@
+r5s72030w200fp.top
+r5s72050w200bg.top
+r5s76700b200bg.top
+r5s76710b200bg.top
+r5s77640n300bg.top
+r5s77641n300bg.top

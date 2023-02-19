@@ -1,0 +1,16 @@
+ck.aco
+ck.app
+ck.biz
+ck.cpa
+ck.dev
+ck.fit
+ck.fyi
+ck.inc
+ck.law
+ck.lol
+ck.net
+ck.org
+ck.run
+ck.vip
+ck.wtf
+ck.xyz

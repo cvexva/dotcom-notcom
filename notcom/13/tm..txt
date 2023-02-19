@@ -1,0 +1,9 @@
+tm.apartments
+tm.associates
+tm.consulting
+tm.foundation
+tm.immobilien
+tm.lezajsk.pl
+tm.nsw.edu.au
+tm.university
+tm.xn--czru2d

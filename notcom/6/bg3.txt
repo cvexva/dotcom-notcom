@@ -1,0 +1,7 @@
+bg3.at
+bg3.co
+bg3.de
+bg3.eu
+bg3.fr
+bg3.it
+bg3.ru

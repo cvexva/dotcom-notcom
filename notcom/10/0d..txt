@@ -1,0 +1,3 @@
+0d.country
+0d.monster
+0d.network

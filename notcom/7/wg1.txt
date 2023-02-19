@@ -1,0 +1,12 @@
+wg1.dev
+wg1.net
+wg1.org
+wg1.xyz
+wg10.ru
+wg11.ch
+wg12.de
+wg13.de
+wg14.ch
+wg14.de
+wg15.de
+wg19.cn

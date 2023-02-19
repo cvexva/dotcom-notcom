@@ -1,0 +1,15 @@
+vsq.at
+vsq.cc
+vsq.ch
+vsq.cz
+vsq.de
+vsq.ie
+vsq.io
+vsq.it
+vsq.kr
+vsq.me
+vsq.nu
+vsq.ru
+vsq.se
+vsq.uk
+vsq.us

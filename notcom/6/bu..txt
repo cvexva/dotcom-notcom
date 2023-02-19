@@ -1,0 +1,15 @@
+bu.biz
+bu.dog
+bu.eco
+bu.fan
+bu.fit
+bu.fyi
+bu.law
+bu.mba
+bu.net
+bu.org
+bu.run
+bu.tel
+bu.vin
+bu.vip
+bu.wtf

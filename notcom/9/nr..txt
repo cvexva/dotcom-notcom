@@ -1,0 +1,14 @@
+nr.center
+nr.church
+nr.com.ar
+nr.com.au
+nr.com.br
+nr.com.fr
+nr.com.gt
+nr.com.tw
+nr.com.ua
+nr.net.cn
+nr.net.ua
+nr.org.ua
+nr.org.uk
+nr.waw.pl

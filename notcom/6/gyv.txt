@@ -1,0 +1,10 @@
+gyv.cc
+gyv.de
+gyv.es
+gyv.fr
+gyv.it
+gyv.nl
+gyv.no
+gyv.ru
+gyv.se
+gyv.uk

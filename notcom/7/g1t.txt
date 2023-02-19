@@ -1,0 +1,6 @@
+g1t.app
+g1t.dev
+g1t.net
+g1t.org
+g1t.top
+g1t.xyz

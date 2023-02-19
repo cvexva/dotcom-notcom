@@ -1,0 +1,17 @@
+e10.at
+e10.ch
+e10.co
+e10.dk
+e10.eu
+e10.fr
+e10.in
+e10.it
+e10.jp
+e10.lu
+e10.no
+e10.nu
+e10.pl
+e10.ro
+e10.ru
+e10.se
+e10.uk

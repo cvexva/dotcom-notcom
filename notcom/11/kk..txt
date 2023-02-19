@@ -1,0 +1,9 @@
+kk.builders
+kk.business
+kk.exchange
+kk.holdings
+kk.jgora.pl
+kk.opole.pl
+kk.radom.pl
+kk.services
+kk.ventures

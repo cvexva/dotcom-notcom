@@ -1,0 +1,11 @@
+s9.app
+s9.biz
+s9.fit
+s9.fyi
+s9.ink
+s9.net
+s9.org
+s9.uno
+s9.vip
+s9.wtf
+s9.xyz

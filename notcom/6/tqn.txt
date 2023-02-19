@@ -1,0 +1,9 @@
+tqn.at
+tqn.cn
+tqn.de
+tqn.eu
+tqn.fr
+tqn.it
+tqn.me
+tqn.ru
+tqn.uk

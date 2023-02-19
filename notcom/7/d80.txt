@@ -1,0 +1,9 @@
+d80.app
+d80.dev
+d80.net
+d80.org
+d80.top
+d80.vip
+d800.de
+d800.ru
+d801.cc

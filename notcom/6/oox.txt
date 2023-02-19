@@ -1,0 +1,10 @@
+oox.ae
+oox.ch
+oox.co
+oox.cz
+oox.it
+oox.me
+oox.nl
+oox.pl
+oox.ru
+oox.uk

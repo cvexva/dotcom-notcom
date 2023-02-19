@@ -1,0 +1,7 @@
+xl-a.fr
+xl-e.be
+xl-e.cn
+xl-g.de
+xl-p.de
+xl-s.ro
+xl-s.ru

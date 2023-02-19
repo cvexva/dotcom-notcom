@@ -1,0 +1,11 @@
+s2.baby
+s2.beer
+s2.care
+s2.club
+s2.cool
+s2.life
+s2.live
+s2.rent
+s2.surf
+s2.team
+s2.work

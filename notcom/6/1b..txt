@@ -1,0 +1,12 @@
+1b.app
+1b.biz
+1b.fit
+1b.fyi
+1b.ink
+1b.net
+1b.org
+1b.pub
+1b.sbs
+1b.vip
+1b.wtf
+1b.xyz

@@ -1,0 +1,17 @@
+qb.app
+qb.biz
+qb.bot
+qb.dev
+qb.fit
+qb.fyi
+qb.law
+qb.llc
+qb.net
+qb.ooo
+qb.org
+qb.tax
+qb.top
+qb.vip
+qb.wtf
+qb.xxx
+qb.xyz

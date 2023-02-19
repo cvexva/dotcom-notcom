@@ -1,0 +1,8 @@
+ma1.ch
+ma1.de
+ma1.dk
+ma1.eu
+ma1.ir
+ma1.it
+ma1.jp
+ma1.ru

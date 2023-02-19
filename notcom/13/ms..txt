@@ -1,0 +1,7 @@
+ms.healthcare
+ms.immobilien
+ms.management
+ms.olsztyn.pl
+ms.technology
+ms.university
+ms.wroclaw.pl

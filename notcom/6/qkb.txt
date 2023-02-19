@@ -1,0 +1,6 @@
+qkb.ch
+qkb.de
+qkb.it
+qkb.nl
+qkb.ru
+qkb.uk

@@ -1,0 +1,8 @@
+p2u.app
+p2u.biz
+p2u.fun
+p2u.net
+p2u.one
+p2u.org
+p2u.xyz
+p2uc.cn

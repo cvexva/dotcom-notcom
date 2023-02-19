@@ -1,0 +1,16 @@
+mk.care
+mk.city
+mk.cool
+mk.cyou
+mk.fund
+mk.land
+mk.live
+mk.news
+mk.plus
+mk.team
+mk.tips
+mk.town
+mk.toys
+mk.wiki
+mk.work
+mk.yoga

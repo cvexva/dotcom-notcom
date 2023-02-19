@@ -1,0 +1,9 @@
+wc.capital
+wc.cologne
+wc.company
+wc.country
+wc.digital
+wc.fashion
+wc.gallery
+wc.network
+wc.support

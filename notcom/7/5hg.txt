@@ -1,0 +1,3 @@
+5hg.app
+5hg.net
+5hg.vip

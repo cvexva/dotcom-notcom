@@ -1,0 +1,13 @@
+gyp.be
+gyp.ch
+gyp.co
+gyp.de
+gyp.eu
+gyp.fr
+gyp.gr
+gyp.hu
+gyp.it
+gyp.ru
+gyp.se
+gyp.so
+gyp.uk

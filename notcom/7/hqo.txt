@@ -1,0 +1,13 @@
+hqo.app
+hqo.bar
+hqo.biz
+hqo.dev
+hqo.net
+hqo.org
+hqo.pub
+hqo.vip
+hqo.xyz
+hqok.cn
+hqol.cn
+hqon.cc
+hqow.cn

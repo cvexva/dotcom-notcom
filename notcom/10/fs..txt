@@ -1,0 +1,12 @@
+fs.academy
+fs.capital
+fs.careers
+fs.company
+fs.contact
+fs.cooking
+fs.country
+fs.digital
+fs.fashion
+fs.gallery
+fs.network
+fs.wedding

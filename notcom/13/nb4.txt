@@ -1,0 +1,6 @@
+nb44.clothing
+nb44.diamonds
+nb44.services
+nb44.shopping
+nb44.training
+nb44.ventures

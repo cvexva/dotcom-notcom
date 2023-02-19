@@ -1,0 +1,13 @@
+yl.app
+yl.bet
+yl.biz
+yl.fit
+yl.fyi
+yl.ink
+yl.law
+yl.net
+yl.ooo
+yl.org
+yl.vip
+yl.wtf
+yl.xyz

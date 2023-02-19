@@ -1,0 +1,8 @@
+3i.capital
+3i.charity
+3i.company
+3i.country
+3i.finance
+3i.fishing
+3i.network
+3i.wedding

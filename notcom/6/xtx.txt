@@ -1,0 +1,17 @@
+xtx.cc
+xtx.ch
+xtx.fi
+xtx.gr
+xtx.it
+xtx.kr
+xtx.li
+xtx.me
+xtx.nl
+xtx.nu
+xtx.pl
+xtx.ro
+xtx.ru
+xtx.se
+xtx.su
+xtx.uk
+xtx.us

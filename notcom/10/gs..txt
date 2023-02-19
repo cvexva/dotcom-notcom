@@ -1,0 +1,15 @@
+gs.academy
+gs.capital
+gs.company
+gs.contact
+gs.cooking
+gs.country
+gs.cruises
+gs.fashion
+gs.finance
+gs.kitchen
+gs.limited
+gs.markets
+gs.name.tr
+gs.wedding
+gs.whoswho

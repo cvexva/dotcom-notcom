@@ -1,0 +1,8 @@
+m1.cash
+m1.life
+m1.live
+m1.luxe
+m1.news
+m1.plus
+m1.wang
+m1.work

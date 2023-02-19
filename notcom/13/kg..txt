@@ -1,0 +1,6 @@
+kg.apartments
+kg.consulting
+kg.foundation
+kg.industries
+kg.properties
+kg.technology

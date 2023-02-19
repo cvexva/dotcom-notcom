@@ -1,0 +1,17 @@
+al.aco
+al.app
+al.biz
+al.cpa
+al.fan
+al.fit
+al.fyi
+al.gov
+al.ink
+al.law
+al.mba
+al.net
+al.org
+al.run
+al.sbs
+al.vin
+al.vip

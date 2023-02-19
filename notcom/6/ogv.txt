@@ -1,0 +1,13 @@
+ogv.at
+ogv.br
+ogv.ch
+ogv.cz
+ogv.de
+ogv.dk
+ogv.in
+ogv.it
+ogv.ph
+ogv.pl
+ogv.ru
+ogv.se
+ogv.uk

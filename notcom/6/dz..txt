@@ -1,0 +1,12 @@
+dz.aco
+dz.app
+dz.biz
+dz.fit
+dz.fyi
+dz.ink
+dz.law
+dz.mba
+dz.net
+dz.org
+dz.run
+dz.vip

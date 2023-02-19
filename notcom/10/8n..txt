@@ -1,0 +1,4 @@
+8n.charity
+8n.country
+8n.fishing
+8n.wedding

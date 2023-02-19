@@ -1,0 +1,6 @@
+vb2.cc
+vb2.de
+vb2.eu
+vb2.jp
+vb2.nl
+vb2.ru

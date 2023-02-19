@@ -1,0 +1,17 @@
+mql.be
+mql.cc
+mql.ch
+mql.co
+mql.de
+mql.es
+mql.fm
+mql.ir
+mql.it
+mql.jp
+mql.mx
+mql.pl
+mql.ru
+mql.se
+mql.su
+mql.uk
+mql.uz

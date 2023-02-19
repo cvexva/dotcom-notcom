@@ -1,0 +1,17 @@
+pg.aco
+pg.app
+pg.biz
+pg.cpa
+pg.dev
+pg.fit
+pg.fyi
+pg.gal
+pg.law
+pg.mba
+pg.net
+pg.org
+pg.pub
+pg.run
+pg.vin
+pg.vip
+pg.wtf

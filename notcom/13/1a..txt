@@ -1,0 +1,4 @@
+1a.immobilien
+1a.realestate
+1a.technology
+1a.university

@@ -1,0 +1,13 @@
+tj.aco
+tj.app
+tj.biz
+tj.cpa
+tj.dev
+tj.fit
+tj.fyi
+tj.law
+tj.mba
+tj.net
+tj.org
+tj.run
+tj.wtf

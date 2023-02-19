@@ -1,0 +1,7 @@
+vd1.ch
+vd1.de
+vd1.eu
+vd1.it
+vd1.jp
+vd1.ru
+vd1.uk

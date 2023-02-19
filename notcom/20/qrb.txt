@@ -1,0 +1,5 @@
+qrbarcodescanner.pro
+qrbhgositukurimu.net
+qrbill-online.online
+qrbscotlandltd.co.uk
+qrbusinesscard.co.uk

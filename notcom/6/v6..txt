@@ -1,0 +1,13 @@
+v6.app
+v6.fan
+v6.fit
+v6.fyi
+v6.gay
+v6.ink
+v6.net
+v6.org
+v6.pub
+v6.rip
+v6.vet
+v6.vip
+v6.wtf

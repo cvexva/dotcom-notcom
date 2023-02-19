@@ -1,0 +1,5 @@
+sc3.ch
+sc3.fr
+sc3.io
+sc3.ru
+sc3.se

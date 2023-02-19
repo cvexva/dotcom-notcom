@@ -1,0 +1,9 @@
+t1.army
+t1.beer
+t1.casa
+t1.chat
+t1.life
+t1.live
+t1.rent
+t1.wiki
+t1.work

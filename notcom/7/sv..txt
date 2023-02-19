@@ -1,0 +1,16 @@
+sv.cafe
+sv.camp
+sv.cash
+sv.chat
+sv.city
+sv.club
+sv.cyou
+sv.immo
+sv.life
+sv.live
+sv.moda
+sv.plus
+sv.taxi
+sv.team
+sv.wiki
+sv.zone

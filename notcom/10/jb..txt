@@ -1,0 +1,11 @@
+jb.academy
+jb.capital
+jb.company
+jb.contact
+jb.country
+jb.digital
+jb.fashion
+jb.gallery
+jb.network
+jb.systems
+jb.wedding

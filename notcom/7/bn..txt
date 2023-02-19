@@ -1,0 +1,11 @@
+bn.beer
+bn.cafe
+bn.cash
+bn.life
+bn.link
+bn.live
+bn.luxe
+bn.plus
+bn.wiki
+bn.work
+bn.yoga

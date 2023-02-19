@@ -1,0 +1,2 @@
+rsyslog-mm.readthedocs.io
+rsystemsconsultancy.co.uk

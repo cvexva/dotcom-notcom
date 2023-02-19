@@ -1,0 +1,2 @@
+lightregisternowyourmainlimitedrecords.download
+lightstreamer-lib-python-adapter.readthedocs.io

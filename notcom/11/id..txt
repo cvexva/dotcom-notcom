@@ -1,0 +1,16 @@
+id.builders
+id.business
+id.computer
+id.diamonds
+id.discount
+id.exchange
+id.graphics
+id.holdings
+id.lundbeck
+id.partners
+id.pictures
+id.property
+id.services
+id.software
+id.training
+id.ventures

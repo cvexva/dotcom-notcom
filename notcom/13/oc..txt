@@ -1,0 +1,5 @@
+oc.apartments
+oc.industries
+oc.olsztyn.pl
+oc.properties
+oc.university

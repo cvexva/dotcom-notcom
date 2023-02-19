@@ -1,0 +1,10 @@
+pq.company
+pq.contact
+pq.country
+pq.domains
+pq.express
+pq.fashion
+pq.hosting
+pq.network
+pq.systems
+pq.wedding

@@ -1,0 +1,10 @@
+4g.app
+4g.biz
+4g.cam
+4g.fit
+4g.ink
+4g.net
+4g.org
+4g.tel
+4g.vip
+4g.wtf

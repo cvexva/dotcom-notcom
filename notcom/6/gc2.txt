@@ -1,0 +1,8 @@
+gc2.at
+gc2.in
+gc2.io
+gc2.jp
+gc2.me
+gc2.nl
+gc2.pl
+gc2.ru

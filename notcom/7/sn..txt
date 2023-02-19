@@ -1,0 +1,9 @@
+sn.beer
+sn.immo
+sn.life
+sn.live
+sn.luxe
+sn.team
+sn.wang
+sn.wiki
+sn.yoga

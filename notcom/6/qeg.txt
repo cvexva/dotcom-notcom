@@ -1,0 +1,7 @@
+qeg.ch
+qeg.de
+qeg.es
+qeg.it
+qeg.pl
+qeg.ru
+qeg.uk

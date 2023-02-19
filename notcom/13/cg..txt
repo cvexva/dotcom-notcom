@@ -1,0 +1,6 @@
+cg.consulting
+cg.foundation
+cg.management
+cg.restaurant
+cg.technology
+cg.university

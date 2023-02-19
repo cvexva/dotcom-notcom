@@ -1,0 +1,7 @@
+wt.capital
+wt.country
+wt.fashion
+wt.finance
+wt.fitness
+wt.network
+wt.support

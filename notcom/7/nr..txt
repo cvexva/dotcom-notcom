@@ -1,0 +1,6 @@
+nr.live
+nr.plus
+nr.wiki
+nr.wine
+nr.work
+nr.yoga

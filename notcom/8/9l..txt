@@ -1,0 +1,6 @@
+9l.bingo
+9l.boats
+9l.homes
+9l.legal
+9l.quest
+9l.world

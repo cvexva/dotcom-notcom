@@ -1,0 +1,11 @@
+pt.aco
+pt.app
+pt.biz
+pt.eco
+pt.fit
+pt.ink
+pt.law
+pt.net
+pt.sbs
+pt.tax
+pt.vip

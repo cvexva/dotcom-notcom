@@ -1,0 +1,16 @@
+knx.app
+knx.cab
+knx.dev
+knx.fit
+knx.icu
+knx.net
+knx.one
+knx.org
+knx.vip
+knx.xyz
+knx2.cn
+knxc.de
+knxh.cn
+knxl.ru
+knxm.ru
+knxt.se

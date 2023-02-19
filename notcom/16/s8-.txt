@@ -1,0 +1,2 @@
+s8-capital.store
+s8-faxnummer.xyz

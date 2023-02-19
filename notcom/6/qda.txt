@@ -1,0 +1,11 @@
+qda.be
+qda.cc
+qda.ch
+qda.de
+qda.fr
+qda.it
+qda.nl
+qda.pl
+qda.pt
+qda.ru
+qda.uk

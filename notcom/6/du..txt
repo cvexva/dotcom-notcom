@@ -1,0 +1,16 @@
+du.app
+du.biz
+du.bot
+du.day
+du.dog
+du.fit
+du.fyi
+du.law
+du.mba
+du.net
+du.ooo
+du.org
+du.tel
+du.vet
+du.vip
+du.wtf

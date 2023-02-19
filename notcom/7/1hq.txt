@@ -1,0 +1,6 @@
+1hq.app
+1hq.biz
+1hq.dev
+1hq.net
+1hq.org
+1hq.xyz

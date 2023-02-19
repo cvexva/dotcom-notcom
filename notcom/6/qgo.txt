@@ -1,0 +1,8 @@
+qgo.be
+qgo.de
+qgo.eu
+qgo.it
+qgo.me
+qgo.mn
+qgo.ru
+qgo.uk

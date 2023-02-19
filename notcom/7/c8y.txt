@@ -1,0 +1,4 @@
+c8y.app
+c8y.net
+c8y.org
+c8y.xyz

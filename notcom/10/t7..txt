@@ -1,0 +1,3 @@
+t7.country
+t7.monster
+t7.network

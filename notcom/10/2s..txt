@@ -1,0 +1,5 @@
+2s.charity
+2s.country
+2s.digital
+2s.network
+2s.wedding

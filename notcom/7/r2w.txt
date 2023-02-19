@@ -1,0 +1,11 @@
+r2w.app
+r2w.biz
+r2w.dev
+r2w.fun
+r2w.ltd
+r2w.net
+r2w.org
+r2w.run
+r2w.tel
+r2w.xyz
+r2w2.de

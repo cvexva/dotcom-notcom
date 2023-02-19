@@ -1,0 +1,13 @@
+vfl.be
+vfl.cc
+vfl.ch
+vfl.de
+vfl.eu
+vfl.hu
+vfl.it
+vfl.lt
+vfl.nu
+vfl.ru
+vfl.se
+vfl.sk
+vfl.uk

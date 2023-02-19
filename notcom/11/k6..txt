@@ -1,0 +1,3 @@
+k6.business
+k6.football
+k6.partners

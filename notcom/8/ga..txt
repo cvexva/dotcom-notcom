@@ -1,0 +1,17 @@
+ga.bible
+ga.co.ke
+ga.co.kr
+ga.co.uk
+ga.dn.ua
+ga.guide
+ga.legal
+ga.me.uk
+ga.media
+ga.miami
+ga.rocks
+ga.rodeo
+ga.solar
+ga.style
+ga.tours
+ga.works
+ga.world

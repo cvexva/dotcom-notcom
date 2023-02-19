@@ -1,0 +1,11 @@
+ax1.ch
+ax1.eu
+ax1.gr
+ax1.io
+ax1.jp
+ax1.pl
+ax1.ru
+ax1.se
+ax1.uk
+ax1.us
+ax1.vc

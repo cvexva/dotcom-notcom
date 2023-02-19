@@ -1,0 +1,3 @@
+50quidfix.help
+50quidfix.info
+50quidfix.shop

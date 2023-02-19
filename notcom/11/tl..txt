@@ -1,0 +1,3 @@
+tl.attorney
+tl.partners
+tl.ventures

@@ -1,0 +1,11 @@
+gcx.app
+gcx.dev
+gcx.ink
+gcx.net
+gcx.org
+gcx.vip
+gcx.xyz
+gcxc.ru
+gcxo.cn
+gcxs.nl
+gcxx.jp

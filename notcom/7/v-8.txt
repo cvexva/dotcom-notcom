@@ -1,0 +1,8 @@
+v-8.bar
+v-8.biz
+v-8.net
+v-8.org
+v-8.top
+v-8.win
+v-8.xyz
+v-89.ru

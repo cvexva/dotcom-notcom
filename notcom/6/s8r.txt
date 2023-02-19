@@ -1,0 +1,5 @@
+s8r.cc
+s8r.ch
+s8r.de
+s8r.no
+s8r.uk

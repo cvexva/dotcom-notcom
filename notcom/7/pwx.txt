@@ -1,0 +1,12 @@
+pwx.app
+pwx.dev
+pwx.net
+pwx.org
+pwx.vip
+pwx.xyz
+pwxa.cn
+pwxm.cn
+pwxp.cn
+pwxr.cn
+pwxs.ch
+pwxs.nl

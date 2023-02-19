@@ -1,0 +1,17 @@
+dy.app
+dy.bid
+dy.biz
+dy.cpa
+dy.dev
+dy.dog
+dy.fit
+dy.fyi
+dy.ink
+dy.law
+dy.mba
+dy.net
+dy.org
+dy.run
+dy.tel
+dy.vip
+dy.wtf

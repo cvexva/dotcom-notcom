@@ -1,0 +1,12 @@
+rh.app
+rh.biz
+rh.eco
+rh.fit
+rh.fyi
+rh.law
+rh.net
+rh.ooo
+rh.org
+rh.pub
+rh.vip
+rh.wtf

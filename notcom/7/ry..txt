@@ -1,0 +1,7 @@
+ry.chat
+ry.golf
+ry.haus
+ry.land
+ry.live
+ry.work
+ry.zone

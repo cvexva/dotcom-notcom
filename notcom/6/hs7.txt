@@ -1,0 +1,8 @@
+hs7.at
+hs7.ch
+hs7.de
+hs7.eu
+hs7.hu
+hs7.ru
+hs7.se
+hs7.uk

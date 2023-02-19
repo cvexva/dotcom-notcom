@@ -1,0 +1,15 @@
+fw.app
+fw.biz
+fw.dev
+fw.fit
+fw.fyi
+fw.ink
+fw.law
+fw.net
+fw.nrw
+fw.org
+fw.run
+fw.tax
+fw.vip
+fw.wtf
+fw.xyz

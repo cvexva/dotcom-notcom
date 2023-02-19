@@ -1,0 +1,10 @@
+qb.bargains
+qb.business
+qb.delivery
+qb.exchange
+qb.football
+qb.partners
+qb.services
+qb.software
+qb.training
+qb.ventures

@@ -1,0 +1,7 @@
+ui5.app
+ui5.dev
+ui5.net
+ui5.org
+ui5.xyz
+ui56.co
+ui5c.ch

@@ -1,0 +1,10 @@
+qpe.cz
+qpe.de
+qpe.es
+qpe.eu
+qpe.ir
+qpe.it
+qpe.nu
+qpe.pl
+qpe.ru
+qpe.uk

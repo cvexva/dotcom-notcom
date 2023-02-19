@@ -1,0 +1,13 @@
+gl.academy
+gl.capital
+gl.company
+gl.contact
+gl.country
+gl.digital
+gl.fashion
+gl.finance
+gl.fitness
+gl.support
+gl.systems
+gl.ucoz.ua
+gl.whoswho

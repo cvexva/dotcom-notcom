@@ -1,0 +1,17 @@
+6g.army
+6g.chat
+6g.city
+6g.club
+6g.cool
+6g.fund
+6g.gmbh
+6g.life
+6g.link
+6g.live
+6g.moda
+6g.news
+6g.plus
+6g.sale
+6g.skin
+6g.wiki
+6g.work

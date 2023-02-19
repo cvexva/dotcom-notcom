@@ -1,0 +1,4 @@
+kn.immo
+kn.wiki
+kn.work
+kn.yoga

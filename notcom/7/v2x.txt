@@ -1,0 +1,13 @@
+v2x.app
+v2x.biz
+v2x.fun
+v2x.ltd
+v2x.net
+v2x.org
+v2x.pub
+v2x.run
+v2x.top
+v2x.vip
+v2x.xyz
+v2x2.cn
+v2xe.cn

@@ -1,0 +1,8 @@
+hu.capital
+hu.contact
+hu.cooking
+hu.country
+hu.fashion
+hu.gallery
+hu.wedding
+hu.whoswho

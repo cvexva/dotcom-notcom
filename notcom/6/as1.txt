@@ -1,0 +1,12 @@
+as1.at
+as1.cc
+as1.ch
+as1.dk
+as1.eu
+as1.in
+as1.it
+as1.pl
+as1.ru
+as1.se
+as1.su
+as1.uk

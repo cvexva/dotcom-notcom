@@ -1,0 +1,14 @@
+tr.aco
+tr.biz
+tr.dev
+tr.fit
+tr.fyi
+tr.ink
+tr.kfh
+tr.law
+tr.mba
+tr.net
+tr.org
+tr.sbs
+tr.uno
+tr.vip

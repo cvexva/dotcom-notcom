@@ -1,0 +1,9 @@
+ip1.at
+ip1.cc
+ip1.ch
+ip1.eu
+ip1.fr
+ip1.it
+ip1.ru
+ip1.se
+ip1.uk

@@ -1,0 +1,12 @@
+ak.builders
+ak.business
+ak.czest.pl
+ak.delivery
+ak.diamonds
+ak.graphics
+ak.holdings
+ak.partners
+ak.radom.pl
+ak.services
+ak.software
+ak.ventures

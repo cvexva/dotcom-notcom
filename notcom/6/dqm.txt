@@ -1,0 +1,11 @@
+dqm.cc
+dqm.ch
+dqm.eu
+dqm.it
+dqm.mx
+dqm.nl
+dqm.pl
+dqm.pt
+dqm.ru
+dqm.se
+dqm.uk

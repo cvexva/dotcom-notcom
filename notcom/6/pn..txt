@@ -1,0 +1,11 @@
+pn.aco
+pn.biz
+pn.fit
+pn.fyi
+pn.law
+pn.net
+pn.org
+pn.run
+pn.tax
+pn.vip
+pn.wtf

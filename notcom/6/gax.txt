@@ -1,0 +1,12 @@
+gax.be
+gax.ca
+gax.cc
+gax.ch
+gax.cz
+gax.eu
+gax.fr
+gax.nl
+gax.pl
+gax.ru
+gax.se
+gax.uk

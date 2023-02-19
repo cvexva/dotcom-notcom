@@ -1,0 +1,13 @@
+vej.ae
+vej.ch
+vej.cl
+vej.co
+vej.de
+vej.fi
+vej.it
+vej.jp
+vej.nl
+vej.ru
+vej.se
+vej.uk
+vej.us

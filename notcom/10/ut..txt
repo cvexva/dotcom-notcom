@@ -1,0 +1,13 @@
+ut.abogado
+ut.academy
+ut.company
+ut.contact
+ut.cooking
+ut.country
+ut.dentist
+ut.fashion
+ut.kiev.ua
+ut.network
+ut.support
+ut.ucoz.ua
+ut.wedding

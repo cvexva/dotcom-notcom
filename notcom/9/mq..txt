@@ -1,0 +1,13 @@
+mq.coffee
+mq.com.au
+mq.com.my
+mq.com.tr
+mq.com.ua
+mq.edu.au
+mq.energy
+mq.events
+mq.net.cn
+mq.org.tw
+mq.org.uk
+mq.studio
+mq.supply

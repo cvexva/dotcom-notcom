@@ -1,0 +1,10 @@
+xvm.be
+xvm.by
+xvm.ch
+xvm.de
+xvm.eu
+xvm.it
+xvm.me
+xvm.nl
+xvm.ru
+xvm.uk

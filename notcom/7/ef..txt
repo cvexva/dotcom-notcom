@@ -1,0 +1,14 @@
+ef.asia
+ef.bike
+ef.camp
+ef.care
+ef.chat
+ef.guru
+ef.info
+ef.kids
+ef.life
+ef.link
+ef.live
+ef.team
+ef.work
+ef.yoga

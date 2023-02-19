@@ -1,0 +1,10 @@
+gpq.ch
+gpq.cn
+gpq.de
+gpq.it
+gpq.jp
+gpq.kr
+gpq.pl
+gpq.qa
+gpq.ru
+gpq.uk

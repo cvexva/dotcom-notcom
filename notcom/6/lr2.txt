@@ -1,0 +1,5 @@
+lr2.de
+lr2.es
+lr2.lv
+lr2.ru
+lr2.uk

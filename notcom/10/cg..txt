@@ -1,0 +1,14 @@
+cg.academy
+cg.capital
+cg.careers
+cg.company
+cg.contact
+cg.country
+cg.digital
+cg.exposed
+cg.fashion
+cg.fitness
+cg.network
+cg.support
+cg.surgery
+cg.whoswho

@@ -1,0 +1,5 @@
+u40.cc
+u40.ch
+u40.de
+u40.ir
+u40.ru

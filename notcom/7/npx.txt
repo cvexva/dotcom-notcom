@@ -1,0 +1,17 @@
+npx.app
+npx.biz
+npx.net
+npx.new
+npx.one
+npx.onl
+npx.org
+npx.vip
+npx.xyz
+npxa.cn
+npxf.cn
+npxg.cn
+npxl.in
+npxl.ir
+npxl.ru
+npxl.us
+npxs.cn

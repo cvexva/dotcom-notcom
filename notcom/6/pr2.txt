@@ -1,0 +1,12 @@
+pr2.bg
+pr2.by
+pr2.ca
+pr2.ch
+pr2.de
+pr2.dk
+pr2.hu
+pr2.in
+pr2.it
+pr2.pl
+pr2.ru
+pr2.uk

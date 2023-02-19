@@ -1,0 +1,15 @@
+deq.be
+deq.ca
+deq.ch
+deq.cl
+deq.co
+deq.de
+deq.it
+deq.jp
+deq.nl
+deq.pl
+deq.ru
+deq.se
+deq.si
+deq.sk
+deq.uk

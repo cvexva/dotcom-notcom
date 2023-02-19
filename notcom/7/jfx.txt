@@ -1,0 +1,12 @@
+jfx.app
+jfx.biz
+jfx.net
+jfx.one
+jfx.org
+jfx.vip
+jfx.xyz
+jfxa.co
+jfxd.cn
+jfxs.cn
+jfxw.cn
+jfxx.cn

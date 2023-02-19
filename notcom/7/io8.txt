@@ -1,0 +1,9 @@
+io8.app
+io8.dev
+io8.net
+io8.one
+io8.org
+io8.top
+io81.ru
+io83.cn
+io83.tv

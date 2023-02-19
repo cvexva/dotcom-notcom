@@ -1,0 +1,14 @@
+szt.at
+szt.cc
+szt.ch
+szt.cz
+szt.de
+szt.eu
+szt.hu
+szt.it
+szt.pl
+szt.ru
+szt.si
+szt.sk
+szt.su
+szt.uk

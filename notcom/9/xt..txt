@@ -1,0 +1,10 @@
+xt.agency
+xt.art.br
+xt.com.au
+xt.com.pe
+xt.com.tr
+xt.com.tw
+xt.energy
+xt.gov.cn
+xt.net.pl
+xt.org.uk

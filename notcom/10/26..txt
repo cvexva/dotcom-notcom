@@ -1,0 +1,4 @@
+26.capital
+26.country
+26.fashion
+26.network

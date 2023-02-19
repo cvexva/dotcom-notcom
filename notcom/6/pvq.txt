@@ -1,0 +1,11 @@
+pvq.at
+pvq.ch
+pvq.de
+pvq.fr
+pvq.in
+pvq.it
+pvq.me
+pvq.nl
+pvq.pl
+pvq.ru
+pvq.uk

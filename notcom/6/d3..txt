@@ -1,0 +1,15 @@
+d3.app
+d3.cfd
+d3.fan
+d3.fit
+d3.fyi
+d3.ink
+d3.law
+d3.net
+d3.org
+d3.pub
+d3.rip
+d3.tel
+d3.vip
+d3.wtf
+d3.xyz

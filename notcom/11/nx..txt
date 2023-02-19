@@ -1,0 +1,4 @@
+nx.partners
+nx.services
+nx.software
+nx.training

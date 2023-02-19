@@ -1,0 +1,8 @@
+or.business
+or.delivery
+or.partners
+or.security
+or.services
+or.shopping
+or.software
+or.ventures

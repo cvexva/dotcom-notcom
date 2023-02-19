@@ -1,0 +1,3 @@
+ca.apartments
+ca.properties
+ca.technology

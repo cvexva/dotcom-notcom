@@ -1,0 +1,4 @@
+fi.foundation
+fi.properties
+fi.realestate
+fi.technology

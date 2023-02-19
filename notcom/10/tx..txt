@@ -1,0 +1,16 @@
+tx.abogado
+tx.academy
+tx.capital
+tx.careers
+tx.company
+tx.contact
+tx.country
+tx.digital
+tx.fashion
+tx.finance
+tx.fitness
+tx.markets
+tx.network
+tx.rentals
+tx.systems
+tx.wedding

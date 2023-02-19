@@ -1,0 +1,8 @@
+qm.cash
+qm.chat
+qm.club
+qm.gold
+qm.immo
+qm.life
+qm.work
+qm.yoga

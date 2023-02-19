@@ -1,0 +1,9 @@
+wl.blog.br
+wl.capital
+wl.contact
+wl.country
+wl.coupons
+wl.cruises
+wl.fashion
+wl.limited
+wl.network

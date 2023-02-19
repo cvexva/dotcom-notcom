@@ -1,0 +1,13 @@
+pyf.be
+pyf.ch
+pyf.cl
+pyf.cn
+pyf.co
+pyf.de
+pyf.dk
+pyf.es
+pyf.fr
+pyf.kr
+pyf.nl
+pyf.ru
+pyf.uk

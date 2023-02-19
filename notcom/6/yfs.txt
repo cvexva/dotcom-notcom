@@ -1,0 +1,11 @@
+yfs.be
+yfs.ca
+yfs.ch
+yfs.co
+yfs.de
+yfs.in
+yfs.it
+yfs.kr
+yfs.ru
+yfs.sk
+yfs.uk

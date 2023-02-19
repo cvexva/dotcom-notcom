@@ -1,0 +1,12 @@
+pg1.be
+pg1.ca
+pg1.de
+pg1.eu
+pg1.fr
+pg1.it
+pg1.jp
+pg1.me
+pg1.pl
+pg1.ru
+pg1.uk
+pg1.us

@@ -1,0 +1,15 @@
+s8.al
+s8.cx
+s8.dk
+s8.is
+s8.lt
+s8.my
+s8.nu
+s8.pl
+s8.ro
+s8.ru
+s8.se
+s8.si
+s8.sk
+s8.su
+s8.uk

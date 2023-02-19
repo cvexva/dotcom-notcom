@@ -1,0 +1,8 @@
+qdk.app
+qdk.net
+qdk.org
+qdk.vip
+qdk.xyz
+qdkc.de
+qdki.cn
+qdkj.cn

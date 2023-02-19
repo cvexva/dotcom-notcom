@@ -1,0 +1,4 @@
+x.fail
+x.farm
+x.fish
+x.fund

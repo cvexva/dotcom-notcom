@@ -1,0 +1,9 @@
+g2t.app
+g2t.dev
+g2t.net
+g2t.org
+g2t.pub
+g2t.top
+g2tc.co
+g2tc.ru
+g2tp.uk

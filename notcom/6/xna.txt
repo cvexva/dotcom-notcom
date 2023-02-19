@@ -1,0 +1,12 @@
+xna.ch
+xna.de
+xna.eu
+xna.fr
+xna.hu
+xna.jp
+xna.no
+xna.pl
+xna.ru
+xna.se
+xna.uk
+xna.us

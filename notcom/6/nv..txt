@@ -1,0 +1,17 @@
+nv.biz
+nv.cpa
+nv.dev
+nv.fit
+nv.fyi
+nv.gov
+nv.law
+nv.mba
+nv.net
+nv.onl
+nv.org
+nv.ren
+nv.run
+nv.sbs
+nv.tel
+nv.vip
+nv.wtf

@@ -1,0 +1,11 @@
+tt1.de
+tt1.eu
+tt1.in
+tt1.ir
+tt1.it
+tt1.jp
+tt1.lt
+tt1.no
+tt1.pl
+tt1.ru
+tt1.su

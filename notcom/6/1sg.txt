@@ -1,0 +1,5 @@
+1sg.de
+1sg.ir
+1sg.ru
+1sg.sg
+1sg.sk

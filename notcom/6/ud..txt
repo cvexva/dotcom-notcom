@@ -1,0 +1,11 @@
+ud.app
+ud.biz
+ud.dev
+ud.dog
+ud.fit
+ud.law
+ud.net
+ud.org
+ud.vip
+ud.wtf
+ud.xyz

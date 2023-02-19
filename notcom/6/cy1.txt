@@ -1,0 +1,5 @@
+cy1.ch
+cy1.de
+cy1.eu
+cy1.ru
+cy1.uk

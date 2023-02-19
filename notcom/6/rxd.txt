@@ -1,0 +1,12 @@
+rxd.ch
+rxd.cn
+rxd.co
+rxd.cz
+rxd.hu
+rxd.it
+rxd.ph
+rxd.ro
+rxd.ru
+rxd.se
+rxd.sk
+rxd.uk

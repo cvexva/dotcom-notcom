@@ -1,0 +1,16 @@
+zy.app
+zy.biz
+zy.dev
+zy.dog
+zy.fit
+zy.fyi
+zy.ink
+zy.law
+zy.mba
+zy.net
+zy.org
+zy.pub
+zy.tax
+zy.vip
+zy.win
+zy.wtf

@@ -1,0 +1,11 @@
+h1.app
+h1.biz
+h1.dev
+h1.fit
+h1.net
+h1.org
+h1.pub
+h1.sbs
+h1.vip
+h1.wtf
+h1.xyz

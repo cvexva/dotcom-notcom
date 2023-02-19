@@ -1,0 +1,3 @@
+nuxleypropertyservices.co.uk
+nuxt-i18n-boilerplate.now.sh
+nuxt-vuetify-purgecss.now.sh

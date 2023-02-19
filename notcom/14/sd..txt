@@ -1,0 +1,6 @@
+sd.blackfriday
+sd.domain.name
+sd.engineering
+sd.photography
+sd.xn--czr694b
+sd.xn--vuq861b

@@ -1,0 +1,16 @@
+ax.aco
+ax.app
+ax.biz
+ax.dev
+ax.fit
+ax.fyi
+ax.law
+ax.mba
+ax.net
+ax.org
+ax.run
+ax.ski
+ax.tax
+ax.vip
+ax.wtf
+ax.xxx

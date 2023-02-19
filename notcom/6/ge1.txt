@@ -1,0 +1,5 @@
+ge1.ca
+ge1.ch
+ge1.de
+ge1.eu
+ge1.ru

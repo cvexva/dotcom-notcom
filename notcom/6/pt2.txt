@@ -1,0 +1,7 @@
+pt2.ca
+pt2.ch
+pt2.cn
+pt2.de
+pt2.nl
+pt2.ru
+pt2.uk

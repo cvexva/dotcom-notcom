@@ -1,0 +1,8 @@
+wt1.at
+wt1.cc
+wt1.ch
+wt1.eu
+wt1.in
+wt1.la
+wt1.me
+wt1.ru

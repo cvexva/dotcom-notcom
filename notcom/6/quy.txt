@@ -1,0 +1,9 @@
+quy.cc
+quy.ch
+quy.de
+quy.it
+quy.nl
+quy.ru
+quy.sk
+quy.uk
+quy.vn

@@ -1,0 +1,11 @@
+vxx.cc
+vxx.ch
+vxx.eu
+vxx.it
+vxx.mx
+vxx.nl
+vxx.pl
+vxx.ru
+vxx.tv
+vxx.uk
+vxx.us

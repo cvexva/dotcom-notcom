@@ -1,0 +1,13 @@
+bb5.at
+bb5.cc
+bb5.dk
+bb5.fr
+bb5.gr
+bb5.jp
+bb5.kr
+bb5.me
+bb5.nl
+bb5.pl
+bb5.ru
+bb5.se
+bb5.uk

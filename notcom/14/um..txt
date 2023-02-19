@@ -1,0 +1,11 @@
+um.domain.name
+um.jaworzno.pl
+um.katowice.pl
+um.nowaruda.pl
+um.pruszkow.pl
+um.stargard.pl
+um.swidnica.pl
+um.szczecin.pl
+um.szczytno.pl
+um.warszawa.pl
+um.xn--vuq861b

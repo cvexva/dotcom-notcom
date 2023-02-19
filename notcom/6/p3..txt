@@ -1,0 +1,14 @@
+p3.biz
+p3.cpa
+p3.fit
+p3.fyi
+p3.ink
+p3.law
+p3.lol
+p3.net
+p3.org
+p3.tel
+p3.vet
+p3.vin
+p3.vip
+p3.xyz

@@ -1,0 +1,5 @@
+ta.business
+ta.exchange
+ta.partners
+ta.services
+ta.training

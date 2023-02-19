@@ -1,0 +1,2 @@
+lu.domain.name
+lu.xn--vuq861b

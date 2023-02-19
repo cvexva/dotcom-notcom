@@ -1,0 +1,12 @@
+ox.capital
+ox.careers
+ox.company
+ox.contact
+ox.country
+ox.digital
+ox.domains
+ox.fashion
+ox.finance
+ox.network
+ox.systems
+ox.wedding

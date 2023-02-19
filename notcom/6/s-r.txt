@@ -1,0 +1,14 @@
+s-r.as
+s-r.at
+s-r.be
+s-r.ch
+s-r.dk
+s-r.io
+s-r.it
+s-r.me
+s-r.nl
+s-r.pw
+s-r.ru
+s-r.sa
+s-r.se
+s-r.uz

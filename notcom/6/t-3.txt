@@ -1,0 +1,8 @@
+t-3.at
+t-3.bz
+t-3.ch
+t-3.de
+t-3.jp
+t-3.nl
+t-3.pl
+t-3.ru

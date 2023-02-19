@@ -1,0 +1,8 @@
+rqu.cc
+rqu.ch
+rqu.de
+rqu.eu
+rqu.it
+rqu.ru
+rqu.uk
+rqu.us

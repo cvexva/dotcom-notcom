@@ -1,0 +1,16 @@
+d3.agency
+d3.beauty
+d3.church
+d3.com.au
+d3.com.sg
+d3.com.tw
+d3.design
+d3.energy
+d3.expert
+d3.london
+d3.makeup
+d3.market
+d3.school
+d3.soccer
+d3.social
+d3.studio

@@ -1,0 +1,2 @@
+1.apartments
+1.associates

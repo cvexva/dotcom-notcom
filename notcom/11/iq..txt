@@ -1,0 +1,11 @@
+iq.business
+iq.cleaning
+iq.computer
+iq.exchange
+iq.football
+iq.holdings
+iq.lighting
+iq.mortgage
+iq.services
+iq.software
+iq.training

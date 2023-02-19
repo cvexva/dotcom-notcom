@@ -1,0 +1,6 @@
+pm.domain.name
+pm.engineering
+pm.investments
+pm.katowice.pl
+pm.szczecin.pl
+pm.xn--vuq861b

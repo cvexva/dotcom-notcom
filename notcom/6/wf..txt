@@ -1,0 +1,17 @@
+wf.aco
+wf.app
+wf.biz
+wf.cpa
+wf.dev
+wf.fit
+wf.fyi
+wf.gay
+wf.icu
+wf.ink
+wf.law
+wf.net
+wf.ooo
+wf.org
+wf.pub
+wf.vip
+wf.wtf

@@ -1,0 +1,8 @@
+zd.camera
+zd.clinic
+zd.com.tw
+zd.com.ua
+zd.com.uy
+zd.energy
+zd.gov.cn
+zd.org.uk

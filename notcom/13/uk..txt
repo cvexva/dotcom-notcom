@@ -1,0 +1,5 @@
+uk.foundation
+uk.healthcare
+uk.technology
+uk.university
+uk.xn--czrs0t

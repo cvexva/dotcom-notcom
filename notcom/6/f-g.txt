@@ -1,0 +1,11 @@
+f-g.at
+f-g.be
+f-g.ch
+f-g.de
+f-g.io
+f-g.it
+f-g.jp
+f-g.pl
+f-g.ru
+f-g.se
+f-g.uk

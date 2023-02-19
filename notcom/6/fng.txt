@@ -1,0 +1,17 @@
+fng.ae
+fng.ca
+fng.ch
+fng.cn
+fng.dk
+fng.eu
+fng.fi
+fng.hu
+fng.ie
+fng.no
+fng.pl
+fng.ru
+fng.se
+fng.sk
+fng.tw
+fng.uk
+fng.vn

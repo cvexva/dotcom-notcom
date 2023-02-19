@@ -1,0 +1,11 @@
+ob1.ch
+ob1.eu
+ob1.fr
+ob1.io
+ob1.jp
+ob1.nl
+ob1.nu
+ob1.pw
+ob1.ru
+ob1.se
+ob1.us

@@ -1,0 +1,12 @@
+ax.church
+ax.com.kw
+ax.com.pl
+ax.com.py
+ax.com.ua
+ax.design
+ax.energy
+ax.estate
+ax.net.cn
+ax.net.ua
+ax.org.uk
+ax.studio

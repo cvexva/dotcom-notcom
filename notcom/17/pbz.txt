@@ -1,0 +1,10 @@
+pbz-badvoeslau.at
+pbz-gutenstein.at
+pbz-hollabrunn.at
+pbz-korneuburg.at
+pbz-mistelbach.at
+pbz-nekretnine.hr
+pbz-pottendorf.at
+pbz-voesendorf.at
+pbz-wrneustadt.at
+pbzcard-travel.hr

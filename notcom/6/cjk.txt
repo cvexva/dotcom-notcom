@@ -1,0 +1,11 @@
+cjk.be
+cjk.ch
+cjk.de
+cjk.eu
+cjk.fr
+cjk.ie
+cjk.it
+cjk.jp
+cjk.pl
+cjk.ru
+cjk.uk

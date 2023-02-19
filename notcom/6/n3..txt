@@ -1,0 +1,14 @@
+n3.app
+n3.fit
+n3.fyi
+n3.ink
+n3.law
+n3.net
+n3.org
+n3.pub
+n3.rip
+n3.tel
+n3.vet
+n3.vip
+n3.wtf
+n3.xyz

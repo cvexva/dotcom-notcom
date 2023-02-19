@@ -1,0 +1,7 @@
+7l.bingo
+7l.boats
+7l.games
+7l.homes
+7l.legal
+7l.quest
+7l.world

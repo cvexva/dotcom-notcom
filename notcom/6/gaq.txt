@@ -1,0 +1,11 @@
+gaq.be
+gaq.ca
+gaq.ch
+gaq.de
+gaq.eu
+gaq.ge
+gaq.ir
+gaq.it
+gaq.nl
+gaq.ru
+gaq.uk

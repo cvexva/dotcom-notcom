@@ -1,0 +1,8 @@
+si5317c-c-gm.top
+si5324c-c-gm.top
+si53301-b-gm.top
+si53304-b-gm.top
+si53306-b-gm.top
+si53312-b-gm.top
+si53340-b-gm.top
+si5344b-d-gm.top

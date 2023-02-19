@@ -1,0 +1,8 @@
+sf.apartments
+sf.associates
+sf.creditcard
+sf.healthcare
+sf.industries
+sf.properties
+sf.restaurant
+sf.technology

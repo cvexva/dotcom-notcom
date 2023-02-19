@@ -1,0 +1,16 @@
+wd.app
+wd.biz
+wd.cpa
+wd.dev
+wd.dog
+wd.fit
+wd.fyi
+wd.icu
+wd.inc
+wd.ink
+wd.law
+wd.lol
+wd.net
+wd.org
+wd.run
+wd.vip

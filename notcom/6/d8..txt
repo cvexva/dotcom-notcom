@@ -1,0 +1,14 @@
+d8.app
+d8.biz
+d8.fit
+d8.fyi
+d8.gay
+d8.ink
+d8.int
+d8.law
+d8.net
+d8.org
+d8.pub
+d8.run
+d8.vip
+d8.xyz

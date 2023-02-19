@@ -1,0 +1,14 @@
+xrl.be
+xrl.ch
+xrl.co
+xrl.cz
+xrl.fr
+xrl.in
+xrl.it
+xrl.jp
+xrl.nl
+xrl.pl
+xrl.ru
+xrl.se
+xrl.uk
+xrl.us

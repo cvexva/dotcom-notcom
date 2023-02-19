@@ -1,0 +1,8 @@
+ju.contact
+ju.cooking
+ju.country
+ju.domains
+ju.fashion
+ju.finance
+ju.network
+ju.wedding

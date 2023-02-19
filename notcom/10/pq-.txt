@@ -1,0 +1,12 @@
+pq-abst.de
+pq-bonn.de
+pq-cert.de
+pq-db.info
+pq-dns.org
+pq-fmea.eu
+pq-fmea.pl
+pq-gbp.net
+pq-gmb.net
+pq-plus.de
+pq-sns.net
+pq-test.de

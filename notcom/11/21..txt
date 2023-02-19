@@ -1,0 +1,9 @@
+21.business
+21.clothing
+21.diamonds
+21.exchange
+21.holdings
+21.partners
+21.training
+21.ventures
+21.xn--p1ai

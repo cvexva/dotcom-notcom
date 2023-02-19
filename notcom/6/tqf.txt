@@ -1,0 +1,5 @@
+tqf.cc
+tqf.it
+tqf.ru
+tqf.se
+tqf.us

@@ -1,0 +1,3 @@
+eg.amsterdam
+eg.community
+eg.education

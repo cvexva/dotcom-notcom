@@ -1,0 +1,12 @@
+md1.by
+md1.ca
+md1.de
+md1.fi
+md1.hu
+md1.in
+md1.ir
+md1.jp
+md1.ru
+md1.se
+md1.sk
+md1.uk

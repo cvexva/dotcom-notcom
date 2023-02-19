@@ -1,0 +1,4 @@
+bg.consulting
+bg.foundation
+bg.management
+bg.wroclaw.pl

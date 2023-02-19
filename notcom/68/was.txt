@@ -1,0 +1,9 @@
+wasserwirtschaftsamt-deggendorf-flussmeisterstelle-deggendorf.bayern
+wasserwirtschaftsamt-donauwoerth-flussmeisterstelle-guenzburg.bayern
+wasserwirtschaftsamt-ingolstadt-flussmeisterstelle-eichstaett.bayern
+wasserwirtschaftsamt-ingolstadt-flussmeisterstelle-ingolstadt.bayern
+wasserwirtschaftsamt-kempten-seemeisterstelle-lindau-bodensee.bayern
+wasserwirtschaftsamt-regensburg-flussmeisterstelle-regensburg.bayern
+wasserwirtschaftsamt-traunstein-flussmeisterstelle-altenmarkt.bayern
+wasserwirtschaftsamt-traunstein-flussmeisterstelle-traunstein.bayern
+wasserwirtschaftsamt-weiden-i-d-opf-flussmeisterstelle-amberg.bayern

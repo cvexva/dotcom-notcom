@@ -1,0 +1,10 @@
+xlc.be
+xlc.ch
+xlc.de
+xlc.eu
+xlc.fr
+xlc.hu
+xlc.it
+xlc.my
+xlc.ru
+xlc.uk

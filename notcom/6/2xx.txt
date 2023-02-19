@@ -1,0 +1,10 @@
+2xx.at
+2xx.ca
+2xx.ch
+2xx.co
+2xx.de
+2xx.jp
+2xx.me
+2xx.nl
+2xx.pl
+2xx.ru

@@ -1,0 +1,5 @@
+b.fashion
+b.finance
+b.fishing
+b.fitness
+b.flights

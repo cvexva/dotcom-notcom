@@ -1,0 +1,7 @@
+c-y.cc
+c-y.eu
+c-y.jp
+c-y.ru
+c-y.se
+c-y.uk
+c-y.uz

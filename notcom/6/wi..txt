@@ -1,0 +1,16 @@
+wi.app
+wi.biz
+wi.cpa
+wi.dog
+wi.fit
+wi.fyi
+wi.gov
+wi.ink
+wi.law
+wi.mba
+wi.net
+wi.org
+wi.run
+wi.sbs
+wi.vip
+wi.wtf

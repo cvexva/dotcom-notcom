@@ -1,0 +1,6 @@
+ic.amsterdam
+ic.community
+ic.directory
+ic.education
+ic.institute
+ic.solutions

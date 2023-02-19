@@ -1,0 +1,11 @@
+bwx.app
+bwx.dev
+bwx.icu
+bwx.lol
+bwx.net
+bwx.one
+bwx.org
+bwx.vip
+bwx.wtf
+bwx5.cn
+bwxe.cn

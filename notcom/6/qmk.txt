@@ -1,0 +1,13 @@
+qmk.be
+qmk.ca
+qmk.ch
+qmk.de
+qmk.eu
+qmk.fm
+qmk.ir
+qmk.it
+qmk.me
+qmk.nl
+qmk.ru
+qmk.uk
+qmk.vn

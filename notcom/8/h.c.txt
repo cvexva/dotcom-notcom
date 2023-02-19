@@ -1,0 +1,6 @@
+h.clinic
+h.coffee
+h.com.co
+h.com.mx
+h.com.ua
+h.com.vn

@@ -1,0 +1,12 @@
+rz.app
+rz.biz
+rz.eco
+rz.fit
+rz.fyi
+rz.ink
+rz.law
+rz.net
+rz.org
+rz.vip
+rz.win
+rz.wtf

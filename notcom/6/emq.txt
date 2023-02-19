@@ -1,0 +1,13 @@
+emq.be
+emq.ch
+emq.fr
+emq.ir
+emq.it
+emq.jp
+emq.nl
+emq.nu
+emq.pl
+emq.ru
+emq.se
+emq.ua
+emq.uk

@@ -1,0 +1,15 @@
+ic0.app
+ic0.biz
+ic0.dev
+ic0.fun
+ic0.ist
+ic0.org
+ic0.top
+ic0.xyz
+ic00.ch
+ic02.cn
+ic03.fr
+ic04.cn
+ic08.se
+ic0n.ru
+ic0p.ru

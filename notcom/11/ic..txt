@@ -1,0 +1,9 @@
+ic.builders
+ic.business
+ic.delivery
+ic.exchange
+ic.holdings
+ic.opole.pl
+ic.services
+ic.training
+ic.ventures

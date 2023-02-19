@@ -1,0 +1,14 @@
+hg-a.de
+hg-a.dk
+hg-e.ch
+hg-e.de
+hg-f.de
+hg-j.de
+hg-n.de
+hg-o.de
+hg-p.ch
+hg-s.dk
+hg-t.nl
+hg-v.de
+hg-w.de
+hg-z.de

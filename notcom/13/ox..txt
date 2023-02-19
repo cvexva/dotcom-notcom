@@ -1,0 +1,7 @@
+ox.foundation
+ox.healthcare
+ox.industries
+ox.management
+ox.properties
+ox.restaurant
+ox.technology

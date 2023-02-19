@@ -1,0 +1,9 @@
+dq1.cam
+dq1.net
+dq1.top
+dq10.de
+dq10.ml
+dq11.cn
+dq11.de
+dq11.jp
+dq1f.de

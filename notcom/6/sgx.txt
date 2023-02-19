@@ -1,0 +1,16 @@
+sgx.at
+sgx.be
+sgx.bz
+sgx.ch
+sgx.co
+sgx.de
+sgx.ee
+sgx.hu
+sgx.mx
+sgx.no
+sgx.pl
+sgx.ru
+sgx.se
+sgx.su
+sgx.uk
+sgx.vn

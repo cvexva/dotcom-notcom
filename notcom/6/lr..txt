@@ -1,0 +1,8 @@
+lr.aco
+lr.app
+lr.biz
+lr.fit
+lr.fyi
+lr.law
+lr.net
+lr.org

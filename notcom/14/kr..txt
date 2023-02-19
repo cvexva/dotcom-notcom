@@ -1,0 +1,4 @@
+kr.domain.name
+kr.engineering
+kr.photography
+kr.xn--vuq861b

@@ -1,0 +1,17 @@
+gw-2.de
+gw-8.cn
+gw-b.de
+gw-c.ch
+gw-d.cn
+gw-e.de
+gw-e.fr
+gw-f.de
+gw-g.ru
+gw-i.de
+gw-n.de
+gw-p.de
+gw-r.de
+gw-s.de
+gw-t.nl
+gw-t.ru
+gw-w.de

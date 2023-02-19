@@ -1,0 +1,9 @@
+bf3.at
+bf3.cc
+bf3.cn
+bf3.de
+bf3.ru
+bf3.se
+bf3.su
+bf3.uk
+bf3.uz

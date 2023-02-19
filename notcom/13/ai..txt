@@ -1,0 +1,14 @@
+ai.apartments
+ai.associates
+ai.creditcard
+ai.foundation
+ai.healthcare
+ai.maria.name
+ai.restaurant
+ai.takky.name
+ai.technology
+ai.university
+ai.xn--czrs0t
+ai.xn--czru2d
+ai.xn--fiqs8s
+ai.xn--unup4y

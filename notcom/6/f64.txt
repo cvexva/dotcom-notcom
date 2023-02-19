@@ -1,0 +1,13 @@
+f64.be
+f64.ch
+f64.co
+f64.de
+f64.dk
+f64.fr
+f64.io
+f64.lv
+f64.nl
+f64.nu
+f64.ro
+f64.ru
+f64.se

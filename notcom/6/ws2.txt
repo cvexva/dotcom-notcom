@@ -1,0 +1,10 @@
+ws2.cn
+ws2.de
+ws2.eu
+ws2.in
+ws2.me
+ws2.nl
+ws2.ru
+ws2.se
+ws2.uk
+ws2.us

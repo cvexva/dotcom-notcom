@@ -1,0 +1,8 @@
+4t2.app
+4t2.biz
+4t2.dev
+4t2.net
+4t2.org
+4t2.run
+4t2.xyz
+4t2s.ch

@@ -1,0 +1,8 @@
+pm1.at
+pm1.ch
+pm1.de
+pm1.it
+pm1.nl
+pm1.ru
+pm1.se
+pm1.uk

@@ -1,0 +1,17 @@
+hfo.ae
+hfo.be
+hfo.ch
+hfo.de
+hfo.ec
+hfo.fi
+hfo.fr
+hfo.gr
+hfo.hu
+hfo.it
+hfo.jp
+hfo.no
+hfo.pl
+hfo.ru
+hfo.se
+hfo.sg
+hfo.uk

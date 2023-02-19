@@ -1,0 +1,17 @@
+dg.cash
+dg.chat
+dg.club
+dg.farm
+dg.golf
+dg.immo
+dg.land
+dg.life
+dg.link
+dg.live
+dg.plus
+dg.taxi
+dg.team
+dg.tips
+dg.work
+dg.yoga
+dg.zone

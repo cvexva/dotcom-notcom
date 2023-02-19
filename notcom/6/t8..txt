@@ -1,0 +1,12 @@
+t8.app
+t8.bet
+t8.biz
+t8.fit
+t8.fyi
+t8.ink
+t8.net
+t8.org
+t8.pub
+t8.run
+t8.vip
+t8.xyz

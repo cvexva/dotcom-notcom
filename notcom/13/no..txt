@@ -1,0 +1,6 @@
+no.creditcard
+no.foundation
+no.healthcare
+no.other.name
+no.technology
+no.university

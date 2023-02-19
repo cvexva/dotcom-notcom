@@ -1,0 +1,13 @@
+cyu.app
+cyu.biz
+cyu.dev
+cyu.icu
+cyu.net
+cyu.one
+cyu.org
+cyu.vip
+cyu.xyz
+cyu0.cn
+cyuf.cn
+cyup.ru
+cyut.de

@@ -1,0 +1,3 @@
+c8d.app
+c8d.net
+c8d.org

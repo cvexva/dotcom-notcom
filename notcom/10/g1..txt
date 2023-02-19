@@ -1,0 +1,6 @@
+g1.blog.br
+g1.company
+g1.contact
+g1.country
+g1.gallery
+g1.network

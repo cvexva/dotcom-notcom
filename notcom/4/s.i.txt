@@ -1,0 +1,6 @@
+s.id
+s.ie
+s.im
+s.io
+s.is
+s.it

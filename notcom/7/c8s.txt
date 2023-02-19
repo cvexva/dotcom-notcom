@@ -1,0 +1,4 @@
+c8s.app
+c8s.dev
+c8s.net
+c8s.org

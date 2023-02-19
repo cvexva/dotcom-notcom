@@ -1,0 +1,11 @@
+rs2.ca
+rs2.ch
+rs2.de
+rs2.hu
+rs2.it
+rs2.jp
+rs2.lt
+rs2.lv
+rs2.pl
+rs2.ru
+rs2.uk

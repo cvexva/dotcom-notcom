@@ -1,0 +1,8 @@
+6y.actor
+6y.bingo
+6y.boats
+6y.homes
+6y.legal
+6y.movie
+6y.rodeo
+6y.world

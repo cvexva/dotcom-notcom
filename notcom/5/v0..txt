@@ -1,0 +1,16 @@
+v0.ai
+v0.cc
+v0.de
+v0.dk
+v0.fr
+v0.io
+v0.kz
+v0.lt
+v0.nu
+v0.pl
+v0.re
+v0.ru
+v0.se
+v0.sk
+v0.su
+v0.uk

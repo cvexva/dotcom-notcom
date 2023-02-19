@@ -1,0 +1,5 @@
+f.sb
+f.sc
+f.sh
+f.so
+f.st

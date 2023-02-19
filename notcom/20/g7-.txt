@@ -1,0 +1,2 @@
+g7-reservation.tours
+g7-reservations.taxi

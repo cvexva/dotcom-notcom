@@ -1,0 +1,10 @@
+hv.biz
+hv.dev
+hv.fit
+hv.fyi
+hv.law
+hv.net
+hv.org
+hv.vip
+hv.wtf
+hv.xyz

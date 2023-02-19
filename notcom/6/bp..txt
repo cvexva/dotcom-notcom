@@ -1,0 +1,17 @@
+bp.app
+bp.biz
+bp.cat
+bp.eco
+bp.fit
+bp.fyi
+bp.gov
+bp.inc
+bp.law
+bp.net
+bp.nrw
+bp.org
+bp.run
+bp.tel
+bp.vip
+bp.wtf
+bp.xyz

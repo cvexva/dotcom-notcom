@@ -1,0 +1,2 @@
+fiware-ckan-extensions.readthedocs.io
+fiware-poidataprovider.readthedocs.io

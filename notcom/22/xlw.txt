@@ -1,0 +1,3 @@
+xlweatherandenergy.net
+xlweatherandenergy.org
+xlwings.readthedocs.io

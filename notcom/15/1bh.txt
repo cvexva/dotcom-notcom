@@ -1,0 +1,2 @@
+1bhk.properties
+1bhksuperbar.in

@@ -1,0 +1,12 @@
+px.biz
+px.dev
+px.fit
+px.fyi
+px.ink
+px.law
+px.net
+px.org
+px.run
+px.vip
+px.wtf
+px.xyz

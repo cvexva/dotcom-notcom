@@ -1,0 +1,8 @@
+oc.builders
+oc.business
+oc.delivery
+oc.exchange
+oc.partners
+oc.radom.pl
+oc.training
+oc.ventures

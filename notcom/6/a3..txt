@@ -1,0 +1,13 @@
+a3.app
+a3.biz
+a3.fit
+a3.fyi
+a3.ltd
+a3.net
+a3.org
+a3.pub
+a3.rip
+a3.tel
+a3.vip
+a3.wtf
+a3.xyz

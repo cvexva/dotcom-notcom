@@ -1,0 +1,15 @@
+qma.as
+qma.be
+qma.bg
+qma.ch
+qma.cz
+qma.fr
+qma.in
+qma.it
+qma.jp
+qma.me
+qma.pl
+qma.ru
+qma.se
+qma.uk
+qma.vn

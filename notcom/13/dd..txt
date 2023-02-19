@@ -1,0 +1,7 @@
+dd.consulting
+dd.foundation
+dd.healthcare
+dd.management
+dd.properties
+dd.rzeszow.pl
+dd.technology

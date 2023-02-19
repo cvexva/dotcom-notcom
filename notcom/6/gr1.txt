@@ -1,0 +1,8 @@
+gr1.ch
+gr1.de
+gr1.gr
+gr1.jp
+gr1.me
+gr1.pl
+gr1.ru
+gr1.se

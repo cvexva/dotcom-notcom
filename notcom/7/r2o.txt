@@ -1,0 +1,7 @@
+r2o.app
+r2o.dev
+r2o.net
+r2o.org
+r2o.xyz
+r2oa.ru
+r2ot.sk

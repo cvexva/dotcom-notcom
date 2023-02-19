@@ -1,0 +1,11 @@
+qal.az
+qal.be
+qal.ch
+qal.de
+qal.eu
+qal.it
+qal.ru
+qal.se
+qal.tw
+qal.uk
+qal.us

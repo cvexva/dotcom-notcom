@@ -1,0 +1,12 @@
+r1.agency
+r1.beauty
+r1.com.lv
+r1.com.tr
+r1.com.tw
+r1.com.ua
+r1.design
+r1.moscow
+r1.net.cn
+r1.org.uk
+r1.school
+r1.studio

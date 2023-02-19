@@ -1,0 +1,7 @@
+fc1.co
+fc1.de
+fc1.it
+fc1.jp
+fc1.pl
+fc1.ru
+fc1.se

@@ -1,0 +1,15 @@
+os2.ch
+os2.cz
+os2.de
+os2.dk
+os2.eu
+os2.in
+os2.it
+os2.kr
+os2.nl
+os2.nu
+os2.pl
+os2.pt
+os2.ru
+os2.sk
+os2.uk

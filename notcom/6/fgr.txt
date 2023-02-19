@@ -1,0 +1,17 @@
+fgr.ae
+fgr.am
+fgr.at
+fgr.cc
+fgr.ch
+fgr.de
+fgr.fi
+fgr.it
+fgr.lt
+fgr.lu
+fgr.me
+fgr.nz
+fgr.re
+fgr.ru
+fgr.se
+fgr.sk
+fgr.uk

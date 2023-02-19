@@ -1,0 +1,6 @@
+ko.amsterdam
+ko.community
+ko.education
+ko.financial
+ko.marketing
+ko.vacations

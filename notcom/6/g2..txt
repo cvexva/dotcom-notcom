@@ -1,0 +1,17 @@
+g2.app
+g2.biz
+g2.cfd
+g2.dev
+g2.eco
+g2.fit
+g2.gay
+g2.ink
+g2.law
+g2.ltd
+g2.net
+g2.org
+g2.pub
+g2.rip
+g2.sbs
+g2.tel
+g2.vip

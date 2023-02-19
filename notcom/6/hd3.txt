@@ -1,0 +1,6 @@
+hd3.at
+hd3.ch
+hd3.de
+hd3.pl
+hd3.ru
+hd3.uk

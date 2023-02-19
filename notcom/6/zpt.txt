@@ -1,0 +1,15 @@
+zpt.bg
+zpt.by
+zpt.ch
+zpt.eu
+zpt.fr
+zpt.hu
+zpt.it
+zpt.me
+zpt.pe
+zpt.ru
+zpt.se
+zpt.sk
+zpt.su
+zpt.uk
+zpt.vn

@@ -1,0 +1,13 @@
+doj.at
+doj.be
+doj.ch
+doj.co
+doj.fr
+doj.hk
+doj.io
+doj.me
+doj.pl
+doj.ru
+doj.se
+doj.tm
+doj.us

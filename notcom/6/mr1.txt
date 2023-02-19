@@ -1,0 +1,10 @@
+mr1.at
+mr1.cc
+mr1.ch
+mr1.dk
+mr1.hu
+mr1.ir
+mr1.it
+mr1.ru
+mr1.se
+mr1.us

@@ -1,0 +1,2 @@
+g.help
+g.host

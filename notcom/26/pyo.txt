@@ -1,0 +1,2 @@
+pyon-kichi.megu-kichi.name
+pyotherside.readthedocs.io

@@ -1,0 +1,15 @@
+h-a.at
+h-a.ch
+h-a.de
+h-a.fi
+h-a.fr
+h-a.jp
+h-a.lt
+h-a.nl
+h-a.no
+h-a.nu
+h-a.ru
+h-a.sa
+h-a.se
+h-a.uk
+h-a.uz

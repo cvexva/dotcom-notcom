@@ -1,0 +1,5 @@
+bg8.at
+bg8.cc
+bg8.ch
+bg8.nl
+bg8.ru

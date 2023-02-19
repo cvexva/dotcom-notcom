@@ -1,0 +1,3 @@
+tsv-haubersbronn-leichtathletik.de
+tsv-pfaffengrund-jugendfussball.de
+tsv-wolfschlugen-jugendfussball.de

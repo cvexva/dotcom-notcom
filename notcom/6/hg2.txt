@@ -1,0 +1,5 @@
+hg2.at
+hg2.de
+hg2.it
+hg2.ru
+hg2.uk

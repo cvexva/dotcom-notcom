@@ -1,0 +1,7 @@
+t.cheap
+t.co.il
+t.co.kr
+t.co.nz
+t.co.uk
+t.co.za
+t.cymru

@@ -1,0 +1,17 @@
+tg.aco
+tg.app
+tg.biz
+tg.cpa
+tg.dev
+tg.fit
+tg.fyi
+tg.law
+tg.lol
+tg.mba
+tg.net
+tg.org
+tg.rip
+tg.run
+tg.sbs
+tg.tax
+tg.vip

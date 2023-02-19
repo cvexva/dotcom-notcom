@@ -1,0 +1,4 @@
+t1.delivery
+t1.football
+t1.partners
+t1.software

@@ -1,0 +1,4 @@
+vg1.no
+vg1.pl
+vg1.ru
+vg1.se

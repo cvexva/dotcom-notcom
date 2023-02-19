@@ -1,0 +1,4 @@
+1.fail
+1.farm
+1.fish
+1.fund

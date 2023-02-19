@@ -1,0 +1,17 @@
+utn.at
+utn.ba
+utn.be
+utn.ch
+utn.co
+utn.de
+utn.eu
+utn.fr
+utn.is
+utn.it
+utn.jp
+utn.nl
+utn.nu
+utn.pl
+utn.ru
+utn.se
+utn.uk

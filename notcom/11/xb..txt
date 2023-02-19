@@ -1,0 +1,7 @@
+xb.business
+xb.exchange
+xb.football
+xb.holdings
+xb.partners
+xb.services
+xb.ventures

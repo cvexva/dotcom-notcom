@@ -1,0 +1,3 @@
+ipyleaflet.readthedocs.io
+ipypublish.readthedocs.io
+ipywidgets.readthedocs.io

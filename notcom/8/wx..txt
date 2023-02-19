@@ -1,0 +1,8 @@
+wx.co.uk
+wx.cq.cn
+wx.email
+wx.me.uk
+wx.media
+wx.money
+wx.style
+wx.world

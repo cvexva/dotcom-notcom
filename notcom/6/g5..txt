@@ -1,0 +1,13 @@
+g5.app
+g5.biz
+g5.fit
+g5.fyi
+g5.gov
+g5.ink
+g5.law
+g5.net
+g5.org
+g5.pub
+g5.tel
+g5.vip
+g5.wtf

@@ -1,0 +1,9 @@
+r2.contact
+r2.country
+r2.digital
+r2.finance
+r2.gallery
+r2.lviv.ua
+r2.network
+r2.rentals
+r2.reviews

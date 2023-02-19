@@ -1,0 +1,10 @@
+ls.capital
+ls.contact
+ls.country
+ls.digital
+ls.fashion
+ls.finance
+ls.limited
+ls.surgery
+ls.wedding
+ls.whoswho

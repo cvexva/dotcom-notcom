@@ -1,0 +1,3 @@
+skx-telga-main1.site
+skx-telga-main2.site
+skx-telga-redir.site

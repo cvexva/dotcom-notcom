@@ -1,0 +1,3 @@
+7a.business
+7a.observer
+7a.software

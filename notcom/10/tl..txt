@@ -1,0 +1,11 @@
+tl.capital
+tl.cologne
+tl.contact
+tl.country
+tl.digital
+tl.fashion
+tl.kyiv.ua
+tl.limited
+tl.support
+tl.systems
+tl.whoswho

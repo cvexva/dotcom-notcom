@@ -1,0 +1,7 @@
+9x.capital
+9x.charity
+9x.country
+9x.digital
+9x.fishing
+9x.holiday
+9x.network

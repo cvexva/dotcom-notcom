@@ -1,0 +1,6 @@
+10f.cc
+10f.ch
+10f.de
+10f.it
+10f.pl
+10f.ru

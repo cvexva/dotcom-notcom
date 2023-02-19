@@ -1,0 +1,5 @@
+qt.academy
+qt.country
+qt.fashion
+qt.network
+qt.systems

@@ -1,0 +1,16 @@
+cun.as
+cun.ch
+cun.cz
+cun.de
+cun.es
+cun.fr
+cun.it
+cun.kr
+cun.md
+cun.pl
+cun.ro
+cun.ru
+cun.se
+cun.st
+cun.su
+cun.uk

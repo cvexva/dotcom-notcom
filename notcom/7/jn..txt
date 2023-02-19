@@ -1,0 +1,7 @@
+jn.beer
+jn.chat
+jn.city
+jn.cool
+jn.farm
+jn.work
+jn.yoga

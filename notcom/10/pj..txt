@@ -1,0 +1,11 @@
+pj.academy
+pj.capital
+pj.company
+pj.contact
+pj.country
+pj.digital
+pj.fashion
+pj.flights
+pj.jewelry
+pj.network
+pj.wedding

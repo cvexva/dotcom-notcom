@@ -1,0 +1,7 @@
+mdh-test-domain-for-webde.berlin
+mdhealthinsurancemarketplace.net
+mdhqa-ui-domain-only-live-01.net
+mdhqa-ui-domain-only-live-02.net
+mdhqa-ui-domain-only-live-03.net
+mdhqa-ui-domain-only-live-04.net
+mdhqa-ui-domain-only-live-05.net

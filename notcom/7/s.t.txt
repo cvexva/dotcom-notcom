@@ -1,0 +1,3 @@
+s.today
+s.tools
+s.tours

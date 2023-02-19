@@ -1,0 +1,8 @@
+tb1.by
+tb1.ch
+tb1.de
+tb1.it
+tb1.jp
+tb1.pl
+tb1.ru
+tb1.uk

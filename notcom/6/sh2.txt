@@ -1,0 +1,10 @@
+sh2.ch
+sh2.cn
+sh2.de
+sh2.eu
+sh2.in
+sh2.io
+sh2.kr
+sh2.ru
+sh2.se
+sh2.us

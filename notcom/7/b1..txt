@@ -1,0 +1,14 @@
+b1.bank
+b1.care
+b1.cash
+b1.club
+b1.cool
+b1.fish
+b1.fund
+b1.land
+b1.life
+b1.luxe
+b1.team
+b1.work
+b1.yoga
+b1.zone

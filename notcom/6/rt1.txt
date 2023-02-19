@@ -1,0 +1,12 @@
+rt1.at
+rt1.de
+rt1.dk
+rt1.fr
+rt1.is
+rt1.jp
+rt1.pl
+rt1.ro
+rt1.ru
+rt1.se
+rt1.su
+rt1.tv

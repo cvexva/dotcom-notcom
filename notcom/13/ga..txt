@@ -1,0 +1,3 @@
+ga.healthcare
+ga.industries
+ga.technology

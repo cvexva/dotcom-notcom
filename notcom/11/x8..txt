@@ -1,0 +1,3 @@
+x8.partners
+x8.software
+x8.ventures

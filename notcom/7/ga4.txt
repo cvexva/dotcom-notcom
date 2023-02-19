@@ -1,0 +1,13 @@
+ga4.app
+ga4.biz
+ga4.day
+ga4.dev
+ga4.fun
+ga4.fyi
+ga4.net
+ga4.one
+ga4.org
+ga4.top
+ga4.wtf
+ga4.xyz
+ga40.ru

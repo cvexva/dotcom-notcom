@@ -1,0 +1,9 @@
+fm2.be
+fm2.cc
+fm2.cn
+fm2.eu
+fm2.fr
+fm2.gr
+fm2.it
+fm2.ru
+fm2.se

@@ -1,0 +1,5 @@
+wr.capital
+wr.company
+wr.country
+wr.digital
+wr.fashion

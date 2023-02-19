@@ -1,0 +1,6 @@
+sp.foundation
+sp.heres.name
+sp.industries
+sp.technology
+sp.university
+sp.wroclaw.pl

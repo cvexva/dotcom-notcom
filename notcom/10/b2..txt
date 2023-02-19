@@ -1,0 +1,9 @@
+b2.academy
+b2.capital
+b2.charity
+b2.company
+b2.country
+b2.digital
+b2.finance
+b2.network
+b2.systems

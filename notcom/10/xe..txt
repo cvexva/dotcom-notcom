@@ -1,0 +1,10 @@
+xe.capital
+xe.company
+xe.cooking
+xe.country
+xe.dentist
+xe.digital
+xe.fashion
+xe.info.vn
+xe.network
+xe.wedding

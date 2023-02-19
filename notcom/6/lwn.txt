@@ -1,0 +1,15 @@
+lwn.az
+lwn.ch
+lwn.co
+lwn.de
+lwn.dk
+lwn.eu
+lwn.fr
+lwn.it
+lwn.me
+lwn.no
+lwn.pl
+lwn.ru
+lwn.se
+lwn.su
+lwn.uk

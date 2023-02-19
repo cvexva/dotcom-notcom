@@ -1,0 +1,7 @@
+tr.consulting
+tr.foundation
+tr.gorlice.pl
+tr.management
+tr.properties
+tr.technology
+tr.university

@@ -1,0 +1,16 @@
+eax.cc
+eax.ch
+eax.de
+eax.dk
+eax.fr
+eax.gr
+eax.io
+eax.jp
+eax.me
+eax.pl
+eax.re
+eax.ro
+eax.ru
+eax.se
+eax.su
+eax.uk

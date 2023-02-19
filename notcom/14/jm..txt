@@ -1,0 +1,5 @@
+jm.domain.name
+jm.engineering
+jm.enterprises
+jm.jaworzno.pl
+jm.xn--vuq861b

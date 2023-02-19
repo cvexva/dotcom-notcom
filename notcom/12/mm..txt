@@ -1,0 +1,8 @@
+mm.amsterdam
+mm.community
+mm.directory
+mm.education
+mm.financial
+mm.institute
+mm.marketing
+mm.solutions

@@ -1,0 +1,12 @@
+r-2.at
+r-2.ca
+r-2.ch
+r-2.cl
+r-2.de
+r-2.eu
+r-2.fr
+r-2.nl
+r-2.ru
+r-2.se
+r-2.so
+r-2.uk

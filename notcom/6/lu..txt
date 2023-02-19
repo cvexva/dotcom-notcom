@@ -1,0 +1,15 @@
+lu.aco
+lu.biz
+lu.dog
+lu.fit
+lu.fyi
+lu.ink
+lu.law
+lu.mba
+lu.net
+lu.org
+lu.ren
+lu.run
+lu.tax
+lu.vin
+lu.vip

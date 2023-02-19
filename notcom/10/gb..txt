@@ -1,0 +1,14 @@
+gb.academy
+gb.auction
+gb.auto.pl
+gb.capital
+gb.company
+gb.contact
+gb.cooking
+gb.country
+gb.fashion
+gb.finance
+gb.fitness
+gb.kitchen
+gb.wedding
+gb.whoswho

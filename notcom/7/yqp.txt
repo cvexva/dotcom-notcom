@@ -1,0 +1,10 @@
+yqp.app
+yqp.biz
+yqp.icu
+yqp.net
+yqp.org
+yqp.vip
+yqp.xyz
+yqpc.cn
+yqpd.cn
+yqpl.in

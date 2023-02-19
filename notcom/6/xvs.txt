@@ -1,0 +1,9 @@
+xvs.be
+xvs.ch
+xvs.de
+xvs.it
+xvs.jp
+xvs.pl
+xvs.ro
+xvs.ru
+xvs.uk

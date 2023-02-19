@@ -1,0 +1,15 @@
+km.aco
+km.biz
+km.cab
+km.dev
+km.fit
+km.fyi
+km.ink
+km.law
+km.net
+km.ooo
+km.org
+km.run
+km.tax
+km.vip
+km.wtf

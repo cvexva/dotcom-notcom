@@ -1,0 +1,11 @@
+is.business
+is.clothing
+is.computer
+is.delivery
+is.engineer
+is.exchange
+is.graphics
+is.m-y.name
+is.partners
+is.rovno.ua
+is.services

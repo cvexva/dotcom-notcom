@@ -1,0 +1,6 @@
+d05.de
+d05.fr
+d05.in
+d05.it
+d05.ru
+d05.se

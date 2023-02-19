@@ -1,0 +1,15 @@
+de.attorney
+de.cleaning
+de.clothing
+de.computer
+de.delivery
+de.exchange
+de.holdings
+de.lighting
+de.lundbeck
+de.partners
+de.roros.no
+de.shopping
+de.training
+de.vanguard
+de.ventures

@@ -1,0 +1,9 @@
+oq.app
+oq.biz
+oq.fit
+oq.fyi
+oq.law
+oq.net
+oq.org
+oq.vip
+oq.wtf

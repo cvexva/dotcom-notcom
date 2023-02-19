@@ -1,0 +1,10 @@
+2b.capital
+2b.charity
+2b.country
+2b.digital
+2b.fashion
+2b.fishing
+2b.kiwi.nz
+2b.network
+2b.systems
+2b.wedding

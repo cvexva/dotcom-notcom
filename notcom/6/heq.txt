@@ -1,0 +1,10 @@
+heq.ch
+heq.cn
+heq.de
+heq.it
+heq.jp
+heq.nl
+heq.ru
+heq.se
+heq.uk
+heq.us

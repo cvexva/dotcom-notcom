@@ -1,0 +1,14 @@
+vn.capital
+vn.company
+vn.contact
+vn.cooking
+vn.country
+vn.digital
+vn.express
+vn.fashion
+vn.finance
+vn.reviews
+vn.support
+vn.systems
+vn.wedding
+vn.whoswho

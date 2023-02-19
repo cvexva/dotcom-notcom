@@ -1,0 +1,11 @@
+bpy.be
+bpy.ch
+bpy.eu
+bpy.fr
+bpy.hu
+bpy.it
+bpy.jp
+bpy.me
+bpy.ru
+bpy.se
+bpy.uk

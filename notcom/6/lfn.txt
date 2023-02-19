@@ -1,0 +1,12 @@
+lfn.cc
+lfn.ch
+lfn.fr
+lfn.jp
+lfn.kz
+lfn.ma
+lfn.nl
+lfn.no
+lfn.nu
+lfn.pl
+lfn.ru
+lfn.se

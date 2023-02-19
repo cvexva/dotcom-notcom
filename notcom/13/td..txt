@@ -1,0 +1,7 @@
+td.consulting
+td.creditcard
+td.foundation
+td.management
+td.poltava.ua
+td.technology
+td.university

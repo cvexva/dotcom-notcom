@@ -1,0 +1,14 @@
+wt.beer
+wt.buzz
+wt.cash
+wt.chat
+wt.cool
+wt.fail
+wt.farm
+wt.fish
+wt.link
+wt.live
+wt.plus
+wt.wine
+wt.work
+wt.yoga

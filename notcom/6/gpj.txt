@@ -1,0 +1,13 @@
+gpj.ba
+gpj.ca
+gpj.cc
+gpj.ch
+gpj.cn
+gpj.de
+gpj.fr
+gpj.it
+gpj.no
+gpj.rs
+gpj.ru
+gpj.se
+gpj.uk

@@ -1,0 +1,5 @@
+x8.capital
+x8.country
+x8.digital
+x8.finance
+x8.network

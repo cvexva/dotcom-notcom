@@ -1,0 +1,3 @@
+dgjtest-dnssec-900-006-qaqe.info
+dgjtest-dnssec-900-007-qaqe.info
+dgjtest-dnssec-900-008-qaqe.info

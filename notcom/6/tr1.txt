@@ -1,0 +1,12 @@
+tr1.at
+tr1.ch
+tr1.co
+tr1.de
+tr1.in
+tr1.ir
+tr1.it
+tr1.no
+tr1.ru
+tr1.sk
+tr1.uk
+tr1.us

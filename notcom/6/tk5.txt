@@ -1,0 +1,7 @@
+tk5.cc
+tk5.de
+tk5.jp
+tk5.pl
+tk5.ru
+tk5.uk
+tk5.us

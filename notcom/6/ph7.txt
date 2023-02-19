@@ -1,0 +1,17 @@
+ph7.at
+ph7.ca
+ph7.ch
+ph7.cn
+ph7.cz
+ph7.dk
+ph7.ee
+ph7.fi
+ph7.fr
+ph7.ie
+ph7.in
+ph7.it
+ph7.jp
+ph7.me
+ph7.ru
+ph7.se
+ph7.uk

@@ -1,0 +1,15 @@
+urn.be
+urn.ch
+urn.cx
+urn.de
+urn.ee
+urn.fi
+urn.fr
+urn.is
+urn.nl
+urn.nu
+urn.pl
+urn.ru
+urn.su
+urn.to
+urn.uk

@@ -1,0 +1,10 @@
+c1.cards
+c1.co.kr
+c1.co.nz
+c1.co.uk
+c1.email
+c1.games
+c1.group
+c1.legal
+c1.media
+c1.world

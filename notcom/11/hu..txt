@@ -1,0 +1,4 @@
+hu.hid.name
+hu.observer
+hu.software
+hu.ventures

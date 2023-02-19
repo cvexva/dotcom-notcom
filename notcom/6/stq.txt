@@ -1,0 +1,12 @@
+stq.at
+stq.ch
+stq.de
+stq.in
+stq.it
+stq.no
+stq.nu
+stq.pl
+stq.ru
+stq.se
+stq.tn
+stq.uk

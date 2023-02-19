@@ -1,0 +1,10 @@
+10.capital
+10.company
+10.contact
+10.country
+10.coupons
+10.digital
+10.fashion
+10.markets
+10.network
+10.wedding

@@ -1,0 +1,8 @@
+hl2.ch
+hl2.de
+hl2.es
+hl2.eu
+hl2.nl
+hl2.ru
+hl2.sh
+hl2.su

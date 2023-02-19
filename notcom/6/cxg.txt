@@ -1,0 +1,10 @@
+cxg.cc
+cxg.ch
+cxg.cn
+cxg.de
+cxg.eu
+cxg.fr
+cxg.it
+cxg.ru
+cxg.se
+cxg.uk

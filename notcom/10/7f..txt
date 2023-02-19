@@ -1,0 +1,5 @@
+7f.careers
+7f.country
+7f.fishing
+7f.holiday
+7f.wedding

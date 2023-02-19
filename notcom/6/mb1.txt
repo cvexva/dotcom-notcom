@@ -1,0 +1,12 @@
+mb1.at
+mb1.by
+mb1.ch
+mb1.ec
+mb1.eu
+mb1.hu
+mb1.it
+mb1.lt
+mb1.ru
+mb1.se
+mb1.sk
+mb1.uk

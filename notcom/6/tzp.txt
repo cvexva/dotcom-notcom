@@ -1,0 +1,12 @@
+tzp.bg
+tzp.ch
+tzp.cn
+tzp.co
+tzp.cz
+tzp.de
+tzp.dk
+tzp.it
+tzp.nl
+tzp.ru
+tzp.su
+tzp.uk

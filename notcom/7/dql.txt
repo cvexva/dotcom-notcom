@@ -1,0 +1,5 @@
+dql.app
+dql.net
+dql.org
+dql.vip
+dql.xyz

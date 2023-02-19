@@ -1,0 +1,15 @@
+pe.aco
+pe.app
+pe.biz
+pe.fit
+pe.fyi
+pe.law
+pe.ltd
+pe.mba
+pe.net
+pe.org
+pe.run
+pe.tax
+pe.vip
+pe.wtf
+pe.xyz

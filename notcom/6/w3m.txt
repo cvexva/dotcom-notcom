@@ -1,0 +1,7 @@
+w3m.cc
+w3m.cz
+w3m.fr
+w3m.jp
+w3m.pl
+w3m.ru
+w3m.sk

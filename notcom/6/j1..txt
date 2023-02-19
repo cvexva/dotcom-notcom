@@ -1,0 +1,10 @@
+j1.biz
+j1.fan
+j1.fit
+j1.ink
+j1.net
+j1.org
+j1.pub
+j1.tax
+j1.vip
+j1.wtf

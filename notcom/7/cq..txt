@@ -1,0 +1,15 @@
+cq.camp
+cq.cash
+cq.chat
+cq.city
+cq.fund
+cq.golf
+cq.life
+cq.live
+cq.plus
+cq.shop
+cq.show
+cq.team
+cq.wiki
+cq.work
+cq.yoga

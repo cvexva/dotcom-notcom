@@ -1,0 +1,2 @@
+qtcharitygolftournament.business
+qtcleaningandorganizing.services

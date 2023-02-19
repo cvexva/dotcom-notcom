@@ -1,0 +1,12 @@
+gi.aco
+gi.biz
+gi.fit
+gi.fyi
+gi.law
+gi.lol
+gi.mba
+gi.net
+gi.org
+gi.vin
+gi.vip
+gi.xyz

@@ -1,0 +1,15 @@
+lxc.cc
+lxc.ch
+lxc.cn
+lxc.cz
+lxc.de
+lxc.dk
+lxc.eu
+lxc.in
+lxc.it
+lxc.ma
+lxc.no
+lxc.ru
+lxc.su
+lxc.uk
+lxc.vn

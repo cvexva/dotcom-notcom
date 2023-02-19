@@ -1,0 +1,17 @@
+nxo.app
+nxo.bar
+nxo.biz
+nxo.dev
+nxo.net
+nxo.one
+nxo.org
+nxo.pub
+nxo.vip
+nxo.xin
+nxo.xyz
+nxon.de
+nxoo.cn
+nxos.cl
+nxos.de
+nxos.ru
+nxoz.cn

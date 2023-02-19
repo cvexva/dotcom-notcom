@@ -1,0 +1,9 @@
+gw2.be
+gw2.cn
+gw2.de
+gw2.fr
+gw2.it
+gw2.nl
+gw2.ru
+gw2.se
+gw2.us

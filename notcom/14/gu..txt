@@ -1,0 +1,2 @@
+gu.domain.name
+gu.xn--vuq861b

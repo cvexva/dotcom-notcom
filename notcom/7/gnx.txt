@@ -1,0 +1,8 @@
+gnx.app
+gnx.net
+gnx.one
+gnx.org
+gnx.vip
+gnx.xyz
+gnxc.cn
+gnxs.uk

@@ -1,0 +1,7 @@
+f1x.cc
+f1x.co
+f1x.de
+f1x.eu
+f1x.fr
+f1x.it
+f1x.ru

@@ -1,0 +1,5 @@
+t05.fit
+t05.vip
+t05.xyz
+t054.cn
+t056.cn

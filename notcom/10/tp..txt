@@ -1,0 +1,11 @@
+tp.academy
+tp.bauhaus
+tp.careers
+tp.company
+tp.contact
+tp.country
+tp.digital
+tp.fashion
+tp.finance
+tp.network
+tp.whoswho

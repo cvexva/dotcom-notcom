@@ -1,0 +1,12 @@
+cc2.at
+cc2.cc
+cc2.ch
+cc2.fr
+cc2.in
+cc2.it
+cc2.jp
+cc2.nl
+cc2.nu
+cc2.ru
+cc2.se
+cc2.tv

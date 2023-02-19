@@ -1,0 +1,7 @@
+42.consulting
+42.foundation
+42.healthcare
+42.industries
+42.management
+42.technology
+42.university

@@ -1,0 +1,12 @@
+pd.academy
+pd.capital
+pd.contact
+pd.country
+pd.digital
+pd.fashion
+pd.gallery
+pd.info.ro
+pd.limited
+pd.network
+pd.systems
+pd.wedding

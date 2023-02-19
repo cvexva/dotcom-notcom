@@ -1,0 +1,16 @@
+gyb.be
+gyb.ch
+gyb.cn
+gyb.co
+gyb.dk
+gyb.es
+gyb.fr
+gyb.hu
+gyb.it
+gyb.jp
+gyb.mx
+gyb.ro
+gyb.ru
+gyb.uk
+gyb.us
+gyb.vn

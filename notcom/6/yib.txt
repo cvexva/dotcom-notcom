@@ -1,0 +1,9 @@
+yib.be
+yib.cc
+yib.ch
+yib.eu
+yib.io
+yib.it
+yib.nl
+yib.ru
+yib.se

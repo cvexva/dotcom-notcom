@@ -1,0 +1,9 @@
+o3.app
+o3.biz
+o3.fit
+o3.ink
+o3.net
+o3.org
+o3.tel
+o3.vip
+o3.xyz

@@ -1,0 +1,4 @@
+vm0.dev
+vm0.net
+vm02.uk
+vm03.ru

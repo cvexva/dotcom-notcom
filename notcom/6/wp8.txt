@@ -1,0 +1,5 @@
+wp8.am
+wp8.de
+wp8.hu
+wp8.pl
+wp8.ru

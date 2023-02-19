@@ -1,0 +1,8 @@
+tx0.dev
+tx0.net
+tx0.one
+tx0.org
+tx0.top
+tx0.xyz
+tx00.tv
+tx01.de

@@ -1,0 +1,6 @@
+cz.capital
+cz.contact
+cz.country
+cz.fashion
+cz.info.pl
+cz.whoswho

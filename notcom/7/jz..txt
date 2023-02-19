@@ -1,0 +1,5 @@
+jz.chat
+jz.cool
+jz.help
+jz.life
+jz.yoga

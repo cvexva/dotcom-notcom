@@ -1,0 +1,4 @@
+p02.fit
+p02.net
+p02.org
+p029.sk

@@ -1,0 +1,14 @@
+gn.aco
+gn.app
+gn.biz
+gn.fit
+gn.fyi
+gn.ink
+gn.law
+gn.mba
+gn.net
+gn.nrw
+gn.org
+gn.vip
+gn.wtf
+gn.xyz

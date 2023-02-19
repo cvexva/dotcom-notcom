@@ -1,0 +1,9 @@
+vl.academy
+vl.capital
+vl.contact
+vl.country
+vl.digital
+vl.fashion
+vl.finance
+vl.network
+vl.wedding

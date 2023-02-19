@@ -1,0 +1,12 @@
+mvx.app
+mvx.biz
+mvx.dev
+mvx.net
+mvx.org
+mvx.vip
+mvx.xyz
+mvxe.cn
+mvxq.cn
+mvxu.cn
+mvxx.de
+mvxx.ru

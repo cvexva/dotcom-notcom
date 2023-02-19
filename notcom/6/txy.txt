@@ -1,0 +1,11 @@
+txy.at
+txy.ch
+txy.de
+txy.eu
+txy.fr
+txy.it
+txy.jp
+txy.pl
+txy.ru
+txy.uk
+txy.us

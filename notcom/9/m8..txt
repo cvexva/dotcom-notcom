@@ -1,0 +1,14 @@
+m8.agency
+m8.beauty
+m8.camera
+m8.com.au
+m8.com.br
+m8.com.cn
+m8.com.hk
+m8.com.pl
+m8.com.tw
+m8.design
+m8.makeup
+m8.org.uk
+m8.social
+m8.studio

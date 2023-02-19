@@ -1,0 +1,17 @@
+fke.at
+fke.cc
+fke.ch
+fke.de
+fke.ee
+fke.fr
+fke.in
+fke.is
+fke.it
+fke.lt
+fke.no
+fke.pl
+fke.ru
+fke.sa
+fke.se
+fke.uk
+fke.us

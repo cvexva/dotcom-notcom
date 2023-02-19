@@ -1,0 +1,3 @@
+qg.chat
+qg.live
+qg.yoga

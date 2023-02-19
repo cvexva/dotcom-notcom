@@ -1,0 +1,16 @@
+aq.aco
+aq.app
+aq.biz
+aq.cpa
+aq.dev
+aq.fit
+aq.fun
+aq.fyi
+aq.law
+aq.mba
+aq.net
+aq.org
+aq.run
+aq.uno
+aq.vip
+aq.wtf

@@ -1,0 +1,7 @@
+ub.capital
+ub.contact
+ub.country
+ub.fashion
+ub.finance
+ub.gallery
+ub.network

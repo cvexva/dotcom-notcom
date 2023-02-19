@@ -1,0 +1,14 @@
+fy.app
+fy.biz
+fy.cfd
+fy.fit
+fy.fyi
+fy.ink
+fy.law
+fy.net
+fy.org
+fy.run
+fy.tel
+fy.vip
+fy.wtf
+fy.xyz

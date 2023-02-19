@@ -1,0 +1,15 @@
+qsl.app
+qsl.cat
+qsl.net
+qsl.one
+qsl.onl
+qsl.org
+qsl.vip
+qsl.xyz
+qsla.ca
+qslc.cn
+qsld.nl
+qslk.cn
+qslr.cn
+qsls.ru
+qslv.uk

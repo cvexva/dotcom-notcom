@@ -1,0 +1,8 @@
+v1.chat
+v1.club
+v1.fund
+v1.golf
+v1.life
+v1.live
+v1.wiki
+v1.work

@@ -1,0 +1,14 @@
+mza.at
+mza.be
+mza.ch
+mza.cz
+mza.de
+mza.ge
+mza.ir
+mza.it
+mza.nl
+mza.pl
+mza.ru
+mza.se
+mza.sk
+mza.uk

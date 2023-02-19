@@ -1,0 +1,2 @@
+edx-document.readthedocs.io
+edx-insights.readthedocs.io

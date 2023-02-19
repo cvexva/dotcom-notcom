@@ -1,0 +1,4 @@
+fu.healthcare
+fu.management
+fu.restaurant
+fu.technology

@@ -1,0 +1,8 @@
+p7.fit
+p7.ink
+p7.law
+p7.ltd
+p7.net
+p7.org
+p7.vip
+p7.wtf

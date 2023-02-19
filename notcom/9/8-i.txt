@@ -1,0 +1,7 @@
+8-icu.icu
+8-inc.net
+8-inc.pet
+8-info.de
+8-ion.net
+8-ion.org
+8-ion.xyz

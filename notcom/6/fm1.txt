@@ -1,0 +1,9 @@
+fm1.be
+fm1.ch
+fm1.de
+fm1.fo
+fm1.gr
+fm1.id
+fm1.jp
+fm1.kr
+fm1.ru

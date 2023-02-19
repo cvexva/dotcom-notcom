@@ -1,0 +1,12 @@
+ed1.cc
+ed1.cn
+ed1.co
+ed1.de
+ed1.eu
+ed1.in
+ed1.ir
+ed1.it
+ed1.kr
+ed1.ru
+ed1.se
+ed1.uk

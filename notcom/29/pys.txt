@@ -1,0 +1,2 @@
+pysfml2-cython.readthedocs.io
+pyspellchecker.readthedocs.io

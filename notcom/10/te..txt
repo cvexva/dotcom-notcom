@@ -1,0 +1,12 @@
+te.academy
+te.company
+te.contact
+te.cooking
+te.country
+te.digital
+te.express
+te.fashion
+te.limited
+te.network
+te.systems
+te.wedding

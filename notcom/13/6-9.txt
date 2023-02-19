@@ -1,0 +1,13 @@
+6-9.education
+6-90.software
+6-91.software
+6-92.software
+6-93.business
+6-93.software
+6-94.software
+6-95.football
+6-97.business
+6-97.software
+6-98.business
+6-98.software
+6-99.software

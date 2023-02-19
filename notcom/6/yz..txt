@@ -1,0 +1,14 @@
+yz.app
+yz.biz
+yz.fit
+yz.fyi
+yz.ink
+yz.law
+yz.net
+yz.one
+yz.org
+yz.tel
+yz.top
+yz.vip
+yz.wtf
+yz.xyz

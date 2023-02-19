@@ -1,0 +1,2 @@
+i3pyblocks.readthedocs.io
+i3pystatus.readthedocs.io

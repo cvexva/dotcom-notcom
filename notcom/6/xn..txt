@@ -1,0 +1,11 @@
+xn.app
+xn.biz
+xn.fit
+xn.fyi
+xn.ink
+xn.law
+xn.net
+xn.org
+xn.tel
+xn.vip
+xn.wtf

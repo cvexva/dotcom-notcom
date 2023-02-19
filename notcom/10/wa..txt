@@ -1,0 +1,13 @@
+wa.abogado
+wa.company
+wa.contact
+wa.country
+wa.dentist
+wa.digital
+wa.fashion
+wa.fitness
+wa.holiday
+wa.lviv.ua
+wa.network
+wa.support
+wa.systems

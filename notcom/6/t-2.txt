@@ -1,0 +1,11 @@
+t-2.at
+t-2.ch
+t-2.de
+t-2.eu
+t-2.nl
+t-2.no
+t-2.ru
+t-2.se
+t-2.si
+t-2.sk
+t-2.uk

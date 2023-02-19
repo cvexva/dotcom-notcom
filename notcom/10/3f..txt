@@ -1,0 +1,5 @@
+3f.capital
+3f.country
+3f.digital
+3f.fishing
+3f.wedding

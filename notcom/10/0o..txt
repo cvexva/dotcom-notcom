@@ -1,0 +1,3 @@
+0o.country
+0o.holiday
+0o.monster

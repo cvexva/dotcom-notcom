@@ -1,0 +1,5 @@
+5i.capital
+5i.charity
+5i.country
+5i.domains
+5i.fishing

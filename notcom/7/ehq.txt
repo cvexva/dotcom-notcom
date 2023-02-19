@@ -1,0 +1,10 @@
+ehq.app
+ehq.biz
+ehq.dev
+ehq.net
+ehq.org
+ehq.vip
+ehq.xyz
+ehqs.ch
+ehqs.de
+ehqt.cn

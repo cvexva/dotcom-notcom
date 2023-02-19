@@ -1,0 +1,10 @@
+id1.ch
+id1.cl
+id1.de
+id1.fr
+id1.hu
+id1.it
+id1.ru
+id1.se
+id1.su
+id1.uk

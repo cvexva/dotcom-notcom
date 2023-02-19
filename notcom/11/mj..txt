@@ -1,0 +1,10 @@
+mj.business
+mj.clothing
+mj.delivery
+mj.exchange
+mj.football
+mj.graphics
+mj.services
+mj.smb.name
+mj.supplies
+mj.ventures

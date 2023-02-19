@@ -1,0 +1,13 @@
+eq.academy
+eq.capital
+eq.careers
+eq.company
+eq.country
+eq.digital
+eq.domains
+eq.fashion
+eq.finance
+eq.fitness
+eq.network
+eq.support
+eq.wedding

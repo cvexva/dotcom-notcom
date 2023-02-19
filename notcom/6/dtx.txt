@@ -1,0 +1,17 @@
+dtx.ae
+dtx.al
+dtx.ch
+dtx.cl
+dtx.cn
+dtx.co
+dtx.fr
+dtx.in
+dtx.it
+dtx.li
+dtx.mx
+dtx.nl
+dtx.ro
+dtx.ru
+dtx.se
+dtx.sk
+dtx.vn

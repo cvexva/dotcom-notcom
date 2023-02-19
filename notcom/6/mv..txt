@@ -1,0 +1,16 @@
+mv.aco
+mv.biz
+mv.cpa
+mv.fit
+mv.fyi
+mv.ink
+mv.law
+mv.mba
+mv.net
+mv.org
+mv.run
+mv.sbs
+mv.vet
+mv.vin
+mv.vip
+mv.xyz

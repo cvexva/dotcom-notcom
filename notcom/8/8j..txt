@@ -1,0 +1,11 @@
+8j.actor
+8j.bingo
+8j.boats
+8j.co.uk
+8j.games
+8j.gives
+8j.homes
+8j.legal
+8j.movie
+8j.rodeo
+8j.world

@@ -1,0 +1,12 @@
+fd.app
+fd.biz
+fd.cpa
+fd.fit
+fd.fyi
+fd.gov
+fd.law
+fd.mba
+fd.net
+fd.org
+fd.tax
+fd.wtf

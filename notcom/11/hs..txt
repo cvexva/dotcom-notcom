@@ -1,0 +1,9 @@
+hs.boutique
+hs.business
+hs.delivery
+hs.exchange
+hs.partners
+hs.services
+hs.slask.pl
+hs.training
+hs.ventures

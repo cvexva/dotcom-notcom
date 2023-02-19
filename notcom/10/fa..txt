@@ -1,0 +1,12 @@
+fa.academy
+fa.capital
+fa.careers
+fa.contact
+fa.cooking
+fa.country
+fa.digital
+fa.fashion
+fa.limited
+fa.network
+fa.support
+fa.wedding

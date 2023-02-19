@@ -1,0 +1,14 @@
+gyr.cc
+gyr.ch
+gyr.co
+gyr.cz
+gyr.de
+gyr.es
+gyr.eu
+gyr.mx
+gyr.nl
+gyr.no
+gyr.ru
+gyr.se
+gyr.uk
+gyr.us

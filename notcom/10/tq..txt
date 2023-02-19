@@ -1,0 +1,6 @@
+tq.capital
+tq.country
+tq.digital
+tq.fashion
+tq.network
+tq.systems

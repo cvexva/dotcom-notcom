@@ -1,0 +1,9 @@
+iq4.cc
+iq4.cl
+iq4.cn
+iq4.de
+iq4.dk
+iq4.it
+iq4.pl
+iq4.ru
+iq4.us

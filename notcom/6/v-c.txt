@@ -1,0 +1,12 @@
+v-c.at
+v-c.be
+v-c.ch
+v-c.de
+v-c.eu
+v-c.it
+v-c.jp
+v-c.ru
+v-c.su
+v-c.uk
+v-c.uz
+v-c.vc

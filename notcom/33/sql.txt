@@ -1,0 +1,2 @@
+sqlalchemy-migrate.readthedocs.io
+sqlqlchemy-russian.readthedocs.io

@@ -1,0 +1,7 @@
+nx2.be
+nx2.ch
+nx2.gr
+nx2.jp
+nx2.nl
+nx2.ru
+nx2.se

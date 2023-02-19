@@ -1,0 +1,13 @@
+tfq.app
+tfq.dev
+tfq.net
+tfq.org
+tfq.vip
+tfq.wtf
+tfq.xyz
+tfqd.eu
+tfqm.cn
+tfqm.uz
+tfqr.cn
+tfqv.cn
+tfqy.cn

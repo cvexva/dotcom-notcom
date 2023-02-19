@@ -1,0 +1,10 @@
+cu.aco
+cu.biz
+cu.dev
+cu.fit
+cu.fyi
+cu.law
+cu.mba
+cu.net
+cu.org
+cu.vip

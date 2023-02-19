@@ -1,0 +1,13 @@
+xdg.app
+xdg.net
+xdg.one
+xdg.org
+xdg.pub
+xdg.vip
+xdg.xyz
+xdga.be
+xdgo.cc
+xdgo.cf
+xdgo.io
+xdgo.ir
+xdgt.ru

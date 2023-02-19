@@ -1,0 +1,11 @@
+b3.band
+b3.beer
+b3.bike
+b3.casa
+b3.chat
+b3.club
+b3.cool
+b3.guru
+b3.life
+b3.live
+b3.work

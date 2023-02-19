@@ -1,0 +1,13 @@
+pf.care
+pf.chat
+pf.club
+pf.fish
+pf.guru
+pf.life
+pf.link
+pf.live
+pf.plus
+pf.team
+pf.wine
+pf.work
+pf.yoga

@@ -1,0 +1,12 @@
+gd.capital
+gd.company
+gd.contact
+gd.cooking
+gd.country
+gd.fashion
+gd.finance
+gd.gallery
+gd.holiday
+gd.kiev.ua
+gd.wedding
+gd.whoswho

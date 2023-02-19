@@ -1,0 +1,12 @@
+p2g.app
+p2g.biz
+p2g.fyi
+p2g.net
+p2g.nyc
+p2g.one
+p2g.org
+p2g.top
+p2g.xyz
+p2go.ch
+p2go.pl
+p2go.ru

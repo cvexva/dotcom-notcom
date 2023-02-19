@@ -1,0 +1,15 @@
+jt.coffee
+jt.com.br
+jt.com.cn
+jt.com.my
+jt.com.pe
+jt.com.pl
+jt.design
+jt.energy
+jt.estate
+jt.gen.tr
+jt.jus.br
+jt.org.uk
+jt.photos
+jt.school
+jt.studio

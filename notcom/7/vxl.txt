@@ -1,0 +1,15 @@
+vxl.app
+vxl.cat
+vxl.dev
+vxl.net
+vxl.one
+vxl.org
+vxl.vip
+vxld.cn
+vxlg.fr
+vxli.ru
+vxlk.cn
+vxlk.ru
+vxlv.cn
+vxlx.cn
+vxly.cn

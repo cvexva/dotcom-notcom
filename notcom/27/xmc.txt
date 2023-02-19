@@ -1,0 +1,4 @@
+xmc1302t038x0200abxuma1.top
+xmc4500f144f1024acxqma1.top
+xmc4700f144k2048aaxqma1.top
+xmc4800e196k2048aaxqma1.top

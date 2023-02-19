@@ -1,0 +1,11 @@
+ef.biz
+ef.dev
+ef.dog
+ef.fit
+ef.fyi
+ef.law
+ef.net
+ef.org
+ef.tel
+ef.vip
+ef.wtf

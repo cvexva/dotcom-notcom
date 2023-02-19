@@ -1,0 +1,8 @@
+g-x.app
+g-x.dev
+g-x.net
+g-x.org
+g-x.top
+g-x.vip
+g-x.xyz
+g-xo.ru

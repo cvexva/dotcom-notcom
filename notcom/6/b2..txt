@@ -1,0 +1,16 @@
+b2.app
+b2.biz
+b2.dev
+b2.fit
+b2.fyi
+b2.ink
+b2.law
+b2.ltd
+b2.net
+b2.nrw
+b2.org
+b2.pub
+b2.rip
+b2.tel
+b2.vip
+b2.xyz

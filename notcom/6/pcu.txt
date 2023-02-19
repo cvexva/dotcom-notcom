@@ -1,0 +1,14 @@
+pcu.ch
+pcu.de
+pcu.dk
+pcu.ge
+pcu.gr
+pcu.jp
+pcu.me
+pcu.no
+pcu.pl
+pcu.ps
+pcu.ru
+pcu.se
+pcu.sk
+pcu.uk

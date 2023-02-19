@@ -1,0 +1,4 @@
+t.fashion
+t.finance
+t.fishing
+t.flights

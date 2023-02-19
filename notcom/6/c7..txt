@@ -1,0 +1,11 @@
+c7.app
+c7.biz
+c7.fit
+c7.fyi
+c7.ink
+c7.law
+c7.lol
+c7.net
+c7.org
+c7.pub
+c7.vip

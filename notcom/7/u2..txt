@@ -1,0 +1,10 @@
+u2.chat
+u2.city
+u2.hair
+u2.help
+u2.life
+u2.sale
+u2.skin
+u2.team
+u2.wien
+u2.wiki

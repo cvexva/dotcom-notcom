@@ -1,0 +1,17 @@
+cxn.app
+cxn.cab
+cxn.dev
+cxn.icu
+cxn.net
+cxn.one
+cxn.org
+cxn.pub
+cxn.vip
+cxn.win
+cxne.cn
+cxni.ru
+cxnn.ru
+cxno.cc
+cxno.cn
+cxnx.de
+cxny.de

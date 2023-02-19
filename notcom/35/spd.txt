@@ -1,0 +1,9 @@
+spd-bremerhaven-schiffdorferdamm.de
+spd-feldkirchen-mitterharthausen.de
+spd-fraktion-marzahn-hellersdorf.de
+spd-fraktion-siegen-wittgenstein.de
+spd-fraktion-steglitz-zehlendorf.de
+spd-klein-offenseth-sparrieshoop.de
+spd-kreistagsfraktion-hildesheim.de
+spd-rz-karlsruhe-nordschwarzwald.de
+spd-woltmershausen-rablinghausen.de

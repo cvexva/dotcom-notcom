@@ -1,0 +1,9 @@
+mz.aco
+mz.biz
+mz.dev
+mz.fit
+mz.fyi
+mz.law
+mz.net
+mz.org
+mz.vip

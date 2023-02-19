@@ -1,0 +1,16 @@
+kf.agency
+kf.church
+kf.coffee
+kf.com.cn
+kf.com.pl
+kf.com.tw
+kf.com.ua
+kf.design
+kf.energy
+kf.expert
+kf.gov.ae
+kf.ind.br
+kf.market
+kf.net.pl
+kf.org.ua
+kf.studio

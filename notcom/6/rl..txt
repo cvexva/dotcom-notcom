@@ -1,0 +1,13 @@
+rl.biz
+rl.cam
+rl.fit
+rl.fyi
+rl.gov
+rl.ink
+rl.law
+rl.net
+rl.org
+rl.run
+rl.tel
+rl.vip
+rl.wtf

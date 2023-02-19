@@ -1,0 +1,3 @@
+f.parts
+f.photo
+f.place

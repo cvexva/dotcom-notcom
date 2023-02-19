@@ -1,0 +1,11 @@
+gaq.app
+gaq.icu
+gaq.ink
+gaq.net
+gaq.one
+gaq.vip
+gaq.xyz
+gaqm.cn
+gaqo.cn
+gaqp.ca
+gaqp.de

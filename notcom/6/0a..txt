@@ -1,0 +1,13 @@
+0a.biz
+0a.fit
+0a.fyi
+0a.gov
+0a.ink
+0a.net
+0a.org
+0a.pub
+0a.rip
+0a.tel
+0a.vip
+0a.wtf
+0a.xyz

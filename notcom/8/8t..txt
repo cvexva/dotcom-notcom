@@ -1,0 +1,9 @@
+8t.actor
+8t.bingo
+8t.boats
+8t.co.uk
+8t.games
+8t.legal
+8t.movie
+8t.rodeo
+8t.world

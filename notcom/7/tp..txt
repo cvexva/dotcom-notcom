@@ -1,0 +1,16 @@
+tp.bike
+tp.care
+tp.cash
+tp.chat
+tp.city
+tp.golf
+tp.immo
+tp.land
+tp.life
+tp.link
+tp.news
+tp.team
+tp.wiki
+tp.work
+tp.yoga
+tp.zone

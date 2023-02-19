@@ -1,0 +1,16 @@
+pe.academy
+pe.capital
+pe.company
+pe.contact
+pe.cooking
+pe.country
+pe.digital
+pe.fashion
+pe.finance
+pe.fitness
+pe.limited
+pe.network
+pe.reviews
+pe.systems
+pe.wedding
+pe.whoswho

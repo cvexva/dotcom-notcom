@@ -1,0 +1,7 @@
+wa.business
+wa.delivery
+wa.partners
+wa.pictures
+wa.services
+wa.shopping
+wa.ventures

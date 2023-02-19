@@ -1,0 +1,11 @@
+x-s.by
+x-s.cc
+x-s.ch
+x-s.de
+x-s.fr
+x-s.jp
+x-s.nl
+x-s.ru
+x-s.se
+x-s.uk
+x-s.uz

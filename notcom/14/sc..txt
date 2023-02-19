@@ -1,0 +1,4 @@
+sc.domain.name
+sc.investments
+sc.productions
+sc.xn--vuq861b

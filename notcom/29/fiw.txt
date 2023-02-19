@@ -1,0 +1,3 @@
+fiware-academy.readthedocs.io
+fiware-lorawan.readthedocs.io
+fiware-openmtc.readthedocs.io

@@ -1,0 +1,7 @@
+h2x.app
+h2x.bio
+h2x.biz
+h2x.dev
+h2x.net
+h2x.org
+h2x.xyz

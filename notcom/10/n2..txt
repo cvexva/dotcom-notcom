@@ -1,0 +1,7 @@
+n2.capital
+n2.company
+n2.country
+n2.digital
+n2.finance
+n2.network
+n2.systems

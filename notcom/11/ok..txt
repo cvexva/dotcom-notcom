@@ -1,0 +1,14 @@
+ok.builders
+ok.business
+ok.cleaning
+ok.computer
+ok.delivery
+ok.exchange
+ok.football
+ok.holdings
+ok.partners
+ok.sejny.pl
+ok.services
+ok.shopping
+ok.supplies
+ok.ventures

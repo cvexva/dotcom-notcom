@@ -1,0 +1,4 @@
+r.fashion
+r.finance
+r.fishing
+r.fitness

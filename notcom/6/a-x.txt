@@ -1,0 +1,11 @@
+a-x.at
+a-x.be
+a-x.ch
+a-x.cz
+a-x.de
+a-x.hu
+a-x.it
+a-x.nl
+a-x.pl
+a-x.ru
+a-x.uk

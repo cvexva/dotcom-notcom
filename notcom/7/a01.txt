@@ -1,0 +1,17 @@
+a01.app
+a01.biz
+a01.cat
+a01.fun
+a01.fyi
+a01.llc
+a01.net
+a01.org
+a01.top
+a01.vip
+a01.xyz
+a014.eu
+a015.cn
+a018.ru
+a019.co
+a01d.ru
+a01k.io

@@ -1,0 +1,11 @@
+cm.academy
+cm.capital
+cm.contact
+cm.country
+cm.digital
+cm.fashion
+cm.finance
+cm.gallery
+cm.info.pl
+cm.support
+cm.whoswho

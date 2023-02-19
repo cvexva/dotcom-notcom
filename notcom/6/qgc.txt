@@ -1,0 +1,8 @@
+qgc.az
+qgc.de
+qgc.eu
+qgc.fr
+qgc.in
+qgc.it
+qgc.ru
+qgc.uk

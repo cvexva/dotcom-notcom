@@ -1,0 +1,4 @@
+6c.charity
+6c.country
+6c.fishing
+6c.monster

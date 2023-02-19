@@ -1,0 +1,7 @@
+xn.chat
+xn.city
+xn.live
+xn.plus
+xn.work
+xn.yoga
+xn.zone

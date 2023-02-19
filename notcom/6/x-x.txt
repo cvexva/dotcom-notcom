@@ -1,0 +1,13 @@
+x-x.cc
+x-x.ch
+x-x.de
+x-x.fr
+x-x.ir
+x-x.it
+x-x.pl
+x-x.ru
+x-x.se
+x-x.sk
+x-x.su
+x-x.uk
+x-x.uz

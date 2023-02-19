@@ -1,0 +1,14 @@
+gvu.as
+gvu.ba
+gvu.ch
+gvu.de
+gvu.hu
+gvu.ir
+gvu.lt
+gvu.nl
+gvu.pl
+gvu.ro
+gvu.ru
+gvu.se
+gvu.uk
+gvu.us

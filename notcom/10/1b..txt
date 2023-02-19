@@ -1,0 +1,3 @@
+1b.country
+1b.fishing
+1b.wedding

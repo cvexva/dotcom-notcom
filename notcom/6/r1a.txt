@@ -1,0 +1,5 @@
+r1a.ch
+r1a.de
+r1a.eu
+r1a.ru
+r1a.su

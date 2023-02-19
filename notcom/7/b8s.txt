@@ -1,0 +1,9 @@
+b8s.app
+b8s.biz
+b8s.dev
+b8s.fyi
+b8s.net
+b8s.org
+b8s.run
+b8s.xyz
+b8ss.cn

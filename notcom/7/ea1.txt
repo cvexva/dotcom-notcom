@@ -1,0 +1,9 @@
+ea1.app
+ea1.net
+ea1.one
+ea10.ch
+ea10.eu
+ea12.kr
+ea13.ru
+ea14.cn
+ea16.ru

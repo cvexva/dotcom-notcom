@@ -1,0 +1,6 @@
+py2022wp.shop
+py2bbs.qsl.br
+py2egs.com.br
+py2gea.com.br
+py2nfe.com.br
+py2prm.com.br

@@ -1,0 +1,8 @@
+bql.be
+bql.ch
+bql.de
+bql.fi
+bql.it
+bql.no
+bql.ru
+bql.uk

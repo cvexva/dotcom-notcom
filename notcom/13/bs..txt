@@ -1,0 +1,8 @@
+bs.associates
+bs.cieszyn.pl
+bs.consulting
+bs.foundation
+bs.gniezno.pl
+bs.gorlice.pl
+bs.rzeszow.pl
+bs.skoczow.pl

@@ -1,0 +1,5 @@
+g8c.app
+g8c.biz
+g8c.net
+g8c.org
+g8c.xyz

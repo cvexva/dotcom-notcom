@@ -1,0 +1,3 @@
+wg2.pl
+wg2.ru
+wg2.us

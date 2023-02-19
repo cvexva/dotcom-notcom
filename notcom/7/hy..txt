@@ -1,0 +1,13 @@
+hy.care
+hy.chat
+hy.city
+hy.land
+hy.life
+hy.page
+hy.plus
+hy.show
+hy.tips
+hy.toys
+hy.wiki
+hy.work
+hy.yoga

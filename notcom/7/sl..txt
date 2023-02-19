@@ -1,0 +1,17 @@
+sl.beer
+sl.cash
+sl.cool
+sl.cyou
+sl.fish
+sl.gift
+sl.golf
+sl.immo
+sl.life
+sl.link
+sl.page
+sl.plus
+sl.wiki
+sl.wine
+sl.work
+sl.yoga
+sl.zone

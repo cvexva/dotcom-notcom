@@ -1,0 +1,5 @@
+uw.foundation
+uw.healthcare
+uw.olsztyn.pl
+uw.rzeszow.pl
+uw.university

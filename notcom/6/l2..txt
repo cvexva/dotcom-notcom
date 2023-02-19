@@ -1,0 +1,14 @@
+l2.biz
+l2.fan
+l2.fit
+l2.fyi
+l2.law
+l2.ltd
+l2.net
+l2.org
+l2.pub
+l2.rip
+l2.tel
+l2.vip
+l2.wtf
+l2.xyz

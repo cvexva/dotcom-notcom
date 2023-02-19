@@ -1,0 +1,16 @@
+pa.abogado
+pa.academy
+pa.capital
+pa.company
+pa.contact
+pa.cooking
+pa.country
+pa.digital
+pa.fashion
+pa.finance
+pa.gallery
+pa.network
+pa.rentals
+pa.singles
+pa.support
+pa.whoswho

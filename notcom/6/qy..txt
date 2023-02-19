@@ -1,0 +1,11 @@
+qy.biz
+qy.dev
+qy.fit
+qy.fyi
+qy.law
+qy.mba
+qy.net
+qy.org
+qy.pub
+qy.vip
+qy.wtf

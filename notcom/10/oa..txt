@@ -1,0 +1,13 @@
+oa.academy
+oa.capital
+oa.contact
+oa.country
+oa.fashion
+oa.gallery
+oa.holiday
+oa.limited
+oa.name.tr
+oa.network
+oa.support
+oa.systems
+oa.wedding

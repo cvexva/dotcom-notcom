@@ -1,0 +1,14 @@
+sk.audi
+sk.beer
+sk.chat
+sk.cyou
+sk.golf
+sk.immo
+sk.limo
+sk.link
+sk.plus
+sk.sarl
+sk.team
+sk.wiki
+sk.work
+sk.yoga

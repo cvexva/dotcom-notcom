@@ -1,0 +1,5 @@
+1.fashion
+1.finance
+1.fishing
+1.fitness
+1.flights

@@ -1,0 +1,10 @@
+wx2.ch
+wx2.cn
+wx2.de
+wx2.eu
+wx2.jp
+wx2.nl
+wx2.nu
+wx2.ru
+wx2.se
+wx2.uk

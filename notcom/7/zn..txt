@@ -1,0 +1,7 @@
+zn.chat
+zn.city
+zn.life
+zn.link
+zn.plus
+zn.yoga
+zn.zone

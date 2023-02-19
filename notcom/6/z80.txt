@@ -1,0 +1,16 @@
+z80.be
+z80.ch
+z80.de
+z80.eu
+z80.ir
+z80.jp
+z80.me
+z80.no
+z80.nu
+z80.nz
+z80.pl
+z80.ro
+z80.ru
+z80.se
+z80.uk
+z80.us

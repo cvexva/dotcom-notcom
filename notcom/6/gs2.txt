@@ -1,0 +1,14 @@
+gs2.cc
+gs2.ch
+gs2.de
+gs2.es
+gs2.eu
+gs2.in
+gs2.io
+gs2.it
+gs2.me
+gs2.nl
+gs2.ru
+gs2.tv
+gs2.uk
+gs2.us

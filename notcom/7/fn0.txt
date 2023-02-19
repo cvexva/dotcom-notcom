@@ -1,0 +1,4 @@
+fn0.net
+fn01.cn
+fn06.cn
+fn07.ch

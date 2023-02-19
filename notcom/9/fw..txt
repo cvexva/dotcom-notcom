@@ -1,0 +1,15 @@
+fw.art.br
+fw.camera
+fw.church
+fw.com.au
+fw.com.br
+fw.com.mx
+fw.com.vn
+fw.direct
+fw.ind.br
+fw.org.uk
+fw.photos
+fw.report
+fw.school
+fw.studio
+fw.vision

@@ -1,0 +1,12 @@
+wv.auction
+wv.capital
+wv.contact
+wv.country
+wv.digital
+wv.fashion
+wv.finance
+wv.fitness
+wv.florist
+wv.network
+wv.rentals
+wv.wedding

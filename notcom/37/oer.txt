@@ -1,0 +1,3 @@
+oertlichetelefonauskunft-bayreuth.tel
+oertlichetelefonauskunftnuernberg.tel
+oertlichetelefonauskunftwuerzburg.tel

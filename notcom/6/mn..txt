@@ -1,0 +1,17 @@
+mn.aco
+mn.app
+mn.cpa
+mn.dev
+mn.fit
+mn.fyi
+mn.gop
+mn.gov
+mn.law
+mn.mba
+mn.net
+mn.org
+mn.pub
+mn.run
+mn.sbs
+mn.vip
+mn.wtf

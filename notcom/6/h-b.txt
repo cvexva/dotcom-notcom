@@ -1,0 +1,17 @@
+h-b.by
+h-b.cc
+h-b.ch
+h-b.cz
+h-b.de
+h-b.dk
+h-b.eu
+h-b.fr
+h-b.it
+h-b.jp
+h-b.me
+h-b.ru
+h-b.se
+h-b.si
+h-b.tv
+h-b.uk
+h-b.uz

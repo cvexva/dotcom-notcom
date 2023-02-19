@@ -1,0 +1,13 @@
+sj.abogado
+sj.academy
+sj.company
+sj.contact
+sj.cooking
+sj.country
+sj.coupons
+sj.fashion
+sj.fitness
+sj.gallery
+sj.jewelry
+sj.wedding
+sj.whoswho

@@ -1,0 +1,14 @@
+0u0.app
+0u0.biz
+0u0.dev
+0u0.fun
+0u0.fyi
+0u0.ink
+0u0.moe
+0u0.net
+0u0.org
+0u0.ren
+0u0.run
+0u0.top
+0u0.wtf
+0u0.xyz

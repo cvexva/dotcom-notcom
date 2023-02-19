@@ -1,0 +1,14 @@
+hy.app
+hy.biz
+hy.dev
+hy.eco
+hy.fit
+hy.fyi
+hy.ink
+hy.law
+hy.net
+hy.org
+hy.run
+hy.tax
+hy.vip
+hy.wtf

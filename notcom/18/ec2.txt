@@ -1,0 +1,11 @@
+ec2-instances.info
+ec2-snapshots.asia
+ec2-us-west-1.live
+ec2getsorted.co.uk
+ec2i-assurances.fr
+ec2i-etancheite.fr
+ec2iinstances.info
+ec2instanfces.info
+ec2instanvces.info
+ec2scalableapp.net
+ec2throughput.info

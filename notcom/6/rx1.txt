@@ -1,0 +1,12 @@
+rx1.ch
+rx1.co
+rx1.eu
+rx1.in
+rx1.ir
+rx1.it
+rx1.nl
+rx1.ro
+rx1.ru
+rx1.se
+rx1.uk
+rx1.us

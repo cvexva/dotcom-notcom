@@ -1,0 +1,16 @@
+rd.baby
+rd.buzz
+rd.casa
+rd.chat
+rd.city
+rd.gold
+rd.golf
+rd.help
+rd.land
+rd.life
+rd.show
+rd.team
+rd.wine
+rd.work
+rd.yoga
+rd.zone

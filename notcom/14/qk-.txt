@@ -1,0 +1,2 @@
+qk-coach.click
+qk-model.click

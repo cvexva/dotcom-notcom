@@ -1,0 +1,12 @@
+tc.aco
+tc.app
+tc.biz
+tc.dev
+tc.fit
+tc.law
+tc.net
+tc.org
+tc.sbs
+tc.tax
+tc.vip
+tc.wtf

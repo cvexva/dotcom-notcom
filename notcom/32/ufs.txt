@@ -1,0 +1,2 @@
+ufs-mrweather-app.readthedocs.io
+ufs-srweather-app.readthedocs.io

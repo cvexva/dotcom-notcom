@@ -1,0 +1,16 @@
+h2s.app
+h2s.biz
+h2s.net
+h2s.org
+h2s.ovh
+h2s.srl
+h2s.xyz
+h2s2.de
+h2s2.in
+h2sa.be
+h2sa.ch
+h2se.uk
+h2sl.se
+h2so.ch
+h2st.it
+h2st.pt

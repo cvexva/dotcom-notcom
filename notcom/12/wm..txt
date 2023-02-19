@@ -1,0 +1,6 @@
+wm.amsterdam
+wm.community
+wm.institute
+wm.marketing
+wm.olecko.pl
+wm.solutions

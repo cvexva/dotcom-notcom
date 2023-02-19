@@ -1,0 +1,10 @@
+hp.business
+hp.computer
+hp.delivery
+hp.football
+hp.graphics
+hp.partners
+hp.services
+hp.software
+hp.supplies
+hp.ventures

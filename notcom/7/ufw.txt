@@ -1,0 +1,16 @@
+ufw.app
+ufw.net
+ufw.org
+ufw.pub
+ufw.top
+ufw.vip
+ufw.xyz
+ufwc.ru
+ufwg.cn
+ufwg.eu
+ufwh.cn
+ufwi.fr
+ufwk.cn
+ufwm.ch
+ufwq.cn
+ufwu.cn

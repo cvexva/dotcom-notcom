@@ -1,0 +1,8 @@
+np.clothing
+np.mortgage
+np.partners
+np.pictures
+np.services
+np.training
+np.ventures
+np.woodside

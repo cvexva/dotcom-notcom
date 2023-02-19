@@ -1,0 +1,7 @@
+gm.exchange
+gm.graphics
+gm.partners
+gm.services
+gm.training
+gm.ventures
+gm.zgora.pl

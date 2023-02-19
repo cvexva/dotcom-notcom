@@ -1,0 +1,8 @@
+s2.business
+s2.delivery
+s2.exchange
+s2.graphics
+s2.partners
+s2.security
+s2.software
+s2.ventures

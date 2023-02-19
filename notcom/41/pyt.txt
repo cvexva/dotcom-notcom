@@ -1,0 +1,3 @@
+python-driver-for-arangodb.readthedocs.io
+python-roguelike-framework.readthedocs.io
+pytorch-geometric-temporal.readthedocs.io

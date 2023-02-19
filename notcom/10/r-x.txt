@@ -1,0 +1,3 @@
+r-x-d.info
+r-x-o.tech
+r-xen.live

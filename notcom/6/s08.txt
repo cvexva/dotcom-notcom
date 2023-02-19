@@ -1,0 +1,5 @@
+s08.cc
+s08.ch
+s08.de
+s08.no
+s08.ru

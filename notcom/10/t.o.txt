@@ -1,0 +1,4 @@
+t.oka.name
+t.one.name
+t.ota.name
+t.oti.name

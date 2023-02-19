@@ -1,0 +1,16 @@
+n-b.at
+n-b.be
+n-b.ch
+n-b.co
+n-b.cz
+n-b.de
+n-b.fr
+n-b.in
+n-b.ir
+n-b.it
+n-b.nl
+n-b.ru
+n-b.se
+n-b.si
+n-b.uk
+n-b.us

@@ -1,0 +1,5 @@
+x-7.cn
+x-7.de
+x-7.pt
+x-7.ru
+x-7.uk

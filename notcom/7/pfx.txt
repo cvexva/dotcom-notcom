@@ -1,0 +1,13 @@
+pfx.app
+pfx.dev
+pfx.icu
+pfx.ltd
+pfx.net
+pfx.one
+pfx.org
+pfx.vip
+pfx.xyz
+pfxc.cn
+pfxf.de
+pfxi.by
+pfxo.ca

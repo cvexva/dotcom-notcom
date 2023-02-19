@@ -1,0 +1,15 @@
+wdk.be
+wdk.ch
+wdk.cz
+wdk.de
+wdk.dk
+wdk.eu
+wdk.fr
+wdk.it
+wdk.nl
+wdk.pl
+wdk.pw
+wdk.ru
+wdk.se
+wdk.su
+wdk.uk

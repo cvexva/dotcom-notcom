@@ -1,0 +1,2 @@
+aew-domain-for-prod-testing-plesk.info
+aew-plesk-domain-for-testing-test.info

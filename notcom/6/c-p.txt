@@ -1,0 +1,15 @@
+c-p.ch
+c-p.de
+c-p.fr
+c-p.hu
+c-p.it
+c-p.jp
+c-p.kz
+c-p.me
+c-p.nl
+c-p.nu
+c-p.pl
+c-p.ru
+c-p.sk
+c-p.su
+c-p.uk

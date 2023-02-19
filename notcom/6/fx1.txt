@@ -1,0 +1,9 @@
+fx1.ch
+fx1.de
+fx1.eu
+fx1.io
+fx1.nl
+fx1.no
+fx1.pl
+fx1.ru
+fx1.uk

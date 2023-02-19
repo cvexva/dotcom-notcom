@@ -1,0 +1,11 @@
+yp.baby
+yp.chat
+yp.city
+yp.ieee
+yp.immo
+yp.link
+yp.sexy
+yp.team
+yp.work
+yp.yoga
+yp.zone

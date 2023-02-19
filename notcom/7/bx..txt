@@ -1,0 +1,12 @@
+bx.blue
+bx.chat
+bx.immo
+bx.life
+bx.link
+bx.news
+bx.plus
+bx.shop
+bx.team
+bx.tech
+bx.yoga
+bx.zone

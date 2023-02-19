@@ -1,0 +1,14 @@
+hw.app
+hw.biz
+hw.cab
+hw.cpa
+hw.fit
+hw.fyi
+hw.ink
+hw.law
+hw.net
+hw.org
+hw.run
+hw.tax
+hw.vip
+hw.wtf

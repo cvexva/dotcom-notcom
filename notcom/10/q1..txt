@@ -1,0 +1,4 @@
+q1.capital
+q1.country
+q1.monster
+q1.network

@@ -1,0 +1,16 @@
+nz.aco
+nz.app
+nz.biz
+nz.fit
+nz.fyi
+nz.ink
+nz.law
+nz.mba
+nz.net
+nz.org
+nz.pub
+nz.sex
+nz.tax
+nz.vet
+nz.vin
+nz.vip

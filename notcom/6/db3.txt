@@ -1,0 +1,7 @@
+db3.ch
+db3.eu
+db3.nl
+db3.pl
+db3.ru
+db3.se
+db3.uk

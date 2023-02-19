@@ -1,0 +1,13 @@
+bt.academy
+bt.capital
+bt.company
+bt.contact
+bt.cooking
+bt.country
+bt.digital
+bt.fashion
+bt.finance
+bt.lviv.ua
+bt.network
+bt.systems
+bt.whoswho

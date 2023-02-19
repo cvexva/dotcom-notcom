@@ -1,0 +1,6 @@
+hd-toiturefacade-suisse-argovie.ch
+hd-toiturefacade-suisse-grisons.ch
+hd-toiturefacade-suisse-lucerne.ch
+hd-toiturefacade-suisse-nidwald.ch
+hd-toiturefacade-suisse-schwytz.ch
+hd-toiturefacade-suisse-soleure.ch

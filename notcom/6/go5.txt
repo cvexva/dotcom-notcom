@@ -1,0 +1,10 @@
+go5.at
+go5.cc
+go5.ch
+go5.de
+go5.it
+go5.jp
+go5.kr
+go5.nl
+go5.ru
+go5.tw

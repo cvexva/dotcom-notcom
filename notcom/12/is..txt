@@ -1,0 +1,4 @@
+is.amsterdam
+is.community
+is.education
+is.statebank

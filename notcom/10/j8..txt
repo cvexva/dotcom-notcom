@@ -1,0 +1,3 @@
+j8.capital
+j8.company
+j8.country

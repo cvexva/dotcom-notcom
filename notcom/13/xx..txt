@@ -1,0 +1,3 @@
+xx.foundation
+xx.healthcare
+xx.properties

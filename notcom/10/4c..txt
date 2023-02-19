@@ -1,0 +1,5 @@
+4c.capital
+4c.country
+4c.finance
+4c.fishing
+4c.network

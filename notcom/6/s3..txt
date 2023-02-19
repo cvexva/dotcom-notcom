@@ -1,0 +1,16 @@
+s3.cat
+s3.cfd
+s3.eco
+s3.fit
+s3.fyi
+s3.gay
+s3.ink
+s3.law
+s3.lol
+s3.ltd
+s3.net
+s3.org
+s3.run
+s3.vip
+s3.wtf
+s3.xyz

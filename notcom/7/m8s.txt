@@ -1,0 +1,5 @@
+m8s.app
+m8s.net
+m8s.org
+m8s.run
+m8s.xyz

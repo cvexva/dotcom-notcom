@@ -1,0 +1,2 @@
+efc-adlertraeger-wartenberg.de
+efcorecassandra.readthedocs.io

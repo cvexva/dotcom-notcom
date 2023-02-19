@@ -1,0 +1,5 @@
+8u7collection.shop
+8u7concession.shop
+8u7experiment.shop
+8u7profession.shop
+8u7technology.shop

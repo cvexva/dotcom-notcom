@@ -1,0 +1,11 @@
+ovx.app
+ovx.dev
+ovx.ink
+ovx.net
+ovx.org
+ovx.run
+ovx.vip
+ovxl.cn
+ovxm.cn
+ovxo.cn
+ovxu.cn

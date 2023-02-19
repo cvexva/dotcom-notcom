@@ -1,0 +1,4 @@
+mj.associates
+mj.healthcare
+mj.properties
+mj.university
